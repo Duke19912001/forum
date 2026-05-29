@@ -1,0 +1,151 @@
+=========================================
+STRONA 54 (URL: https://cs.rin.ru/forum/viewtopic.php?f=10&t=61441&hilit=rome+2&start=795)
+=========================================
+
+[Data: Tuesday, 18 Mar 2014, 13:29]
+ShadowDuke wrote:
+Total.War.ROME.II.Update.10.Incl.DLC.REPACK *cracked/xdelta*
+
+If you need other languages, let me know
+
+
+
+Turkish language files please.
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 18 Mar 2014, 17:18]
+I have crashes in battles with this update 10. Tried 2 cracks all the same.
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 18 Mar 2014, 17:30]
+Protean wrote:
+I have crashes in battles with this update 10. Tried 2 cracks all the same.
+
+yes like i previously posted, there seems to be an issue with the CEG emu.. so hopefully Steam006 can fix it. otherwise we are stuck waiting for RLD to release the updates again(if they even release anymore)
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 18 Mar 2014, 18:18]
+And russian language pack, please!
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 19 Mar 2014, 00:57]
+Yeah, i can confirm the crash after you end the round 
+
+languages will add later when the crack's working.
+
+Some1 also told me, that in quick battles, only after a few minutes the game is also crashing.
+
+Question: Do you all get "api-mswin-core-winrt-string- I1-1-0.dll is missing" errors when starting with 1st Crack (LumaEmu)? Machine get it, and i heard from another one. I dont get those file missing errors.
+
+Edit:
+
+
+alvaro1992 wrote:
+EDIT: Caesar in Gaul campaing works fine with no CTD, so it must be related to the update itself.
+
+
+Ghaul has also crash when turns end, and will also crash when you do a battle, auto-resolve for instance.
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 19 Mar 2014, 04:43]
+Salomon61 wrote:
+ShadowDuke wrote:
+Total.War.ROME.II.Update.10.Incl.DLC.REPACK *cracked/xdelta*
+
+If you need other languages, let me know
+
+
+
+Turkish language files please.
+
+
++1
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 19 Mar 2014, 09:41]
+I checked rome2.dll and it has some CEG checks that LumaCEG can't bypass, another game that LumaCEG doesn't work is Xcom enemy unknown.
+
+The "api-mswin-core-winrt-string- I1-1-0.dll is missing" error appears beacuse you are using the "Windows 8.1 Notifications" steamclient.dll from LumaEmu.
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 19 Mar 2014, 09:41]
+
+_________________
+SteamLite viewtopic.php?f=29&t=68783
+GreenLuma 2026 viewtopic.php?f=10&t=103709
+LumaCEG Plugin viewtopic.php?f=29&t=64354
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 19 Mar 2014, 10:52]
+Steam006 wrote:
+I checked rome2.dll and it has some CEG checks that LumaCEG can't bypass, another game that LumaCEG doesn't work with is Xcom enemy unknown.
+
+The "api-mswin-core-winrt-string- I1-1-0.dll is missing" error appears beacuse you are using the "Windows 8.1 Notifications" steamclient.dll from LumaEmu.
+
+thanks for that info Steam006..
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 19 Mar 2014, 18:02]
+Revolt 1.9.0 crack works with the 10 patch.
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 19 Mar 2014, 22:30]
+For those who want to play with mods u can do so by using the update 10 posted and the 1.9 crack.
+Ill report if got any crash, played for 10 turns without problems.
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 20 Mar 2014, 18:43]
+Protean
+alvaro1992
+How to activate dlc with revolt crack?
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 20 Mar 2014, 18:44]
+dll and exe from Update 9 are different and updated with Update10! So it cannot work 100% with Update10!
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 20 Mar 2014, 18:53]
+fearless3 wrote:
+Protean
+alvaro1992
+How to activate dlc with revolt crack?
+
+Im using reloaded crack so I dont know.
+
+
+ShadowDuke wrote:
+dll and exe from Update 9 are different and updated with Update10! So it cannot work 100% with Update10!
+
+It will work just as if u still are in patch 9 but mods will work.
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 20 Mar 2014, 19:12]
+alvaro1992 wrote:
+It will work just as if u still are in patch 9 but mods will work.
+
+
+Yes, but why update to 10 anyway if its still 9.....ok maybe for mods....
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 21 Mar 2014, 20:17]
+fearless3 wrote:
+Protean
+alvaro1992
+How to activate dlc with revolt crack?
+
+hmm, what do you exactly mean? My dlc is already activated. Make sure you're running steam and your rome2.exe is starting with admin rights.

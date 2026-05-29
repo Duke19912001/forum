@@ -1,0 +1,97 @@
+=========================================
+STRONA 82 (URL: https://cs.rin.ru/forum/viewtopic.php?f=10&t=61441&hilit=rome+2&start=1215)
+=========================================
+
+[Data: Wednesday, 23 Jul 2014, 14:53]
+Cheers, worked for me, what a difference a patch makes.
+Time for a new campaign
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 23 Jul 2014, 15:06]
+Yeah, i even gained 20fps on the campaign map now... ^^ before it was ~30fps now i have almost 55fps.
+
+btw. same like in Shogun2, rome2.exe stays in task-man about 500mb after you close the game. So if you want to exit the game, press alt+f4, then the task should be terminmated immediately.
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 23 Jul 2014, 15:07]
+i forgot to ask if anoyne is using an nvidia card an if the last driver decreased performance. For me it did the frames dropped and it started to stutter.
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 23 Jul 2014, 15:08]
+Nope, GTX 660, 340.43. Patch makes the game better.
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 23 Jul 2014, 15:14]
+I still get slight slow-downs during rain and I have the GTX 650 Ti. what about u shadowDuke, have u tried it during rain?
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 23 Jul 2014, 15:16]
+Damn i got a gtx 780 and used to play 15 000 20 000 and over batlles on extreme with minimum fps drop nov it stutters stops freezes the graphics tear... ( when i say minimum i mean minimum for such a large battle on extreme  )
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 23 Jul 2014, 15:17]
+nodi wrote:
+Damn i got a gtx 780 and used to play 15 000 20 000 and over batlles on extreme with minimum fps drop nov it stutters stops freezes the graphics tear... ( when i say minimum i mean minimum for such a large battle on extreme  )
+
+Wanna swap cards? lol
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 23 Jul 2014, 15:29]
+neoiq5719 wrote:
+I still get slight slow-downs during rain and I have the GTX 650 Ti. what about u shadowDuke, have u tried it during rain?
+
+
+Actually it was raining when i tested the custom battle  tho im not using large+ armies, im using medium.
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 23 Jul 2014, 15:41]
+ i got this pc for rome 2 hoping to play with a 480 men per unit mod but right now its not possible.
+
+-- Edit --
+
+Ok i dont know how but now the game chrashes after update 11 hotfix. First i got an error mscv downloaded the file then the game starts but ctds immediatly. I had absolutely no problems until today after installing update 14. Is it somthing in the files i have to delete anyone have similar issues before ?
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 23 Jul 2014, 15:46]
+Patch to latest patch and dont start game with prev. versions, but they should also work. Del your rome2 dir in appdata, etc.
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 23 Jul 2014, 15:47]
+Right now there´s one last issue. It hangs when exiting the game.
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 23 Jul 2014, 15:52]
+Yes, this is a known issue, also in Shogun 2. (stays only in taskman if you are in a game (load save/start new game) and then exit the game. If you exit the game from main menu it not stays in taskman) I reported it to Steam006, hes looking if he can fix it, but cant make any promises. And like i said, exit the game with alt+f4.
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 23 Jul 2014, 15:53]
+ShadowDuke wrote:
+Yes, this is a known issue, also in Shogun 2. (stays only in taskman if you are in a game (load save/start new game) and then exit the game. If you exit the game from main menu it not stays in taskman) I reported it to Steam006, hes looking if he can fix it, but cant make any promises. And like i said, exit the game with alt+f4.
+
+okey dokey. thx
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 23 Jul 2014, 15:56]
+Gonna try it again tnx shadow and steam anyway you guys are awesome. All this trouble almost makes me buy the game almost 
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 23 Jul 2014, 15:57]
+ShadowDuke wrote:
+Yes, this is a known issue, also in Shogun 2. (stays only in taskman if you are in a game (load save/start new game) and then exit the game. If you exit the game from main menu it not stays in taskman) I reported it to Steam006, hes looking if he can fix it, but cant make any promises. And like i said, exit the game with alt+f4.
+
+
+For me, exit to main menu then exit game works rather than str8 to desktop.

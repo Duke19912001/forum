@@ -1,0 +1,297 @@
+=========================================
+STRONA 57 (URL: https://cs.rin.ru/forum/viewtopic.php?f=10&t=61441&hilit=rome+2&start=840)
+=========================================
+
+[Data: Wednesday, 26 Mar 2014, 18:14]
+local_en.pack & music_en.pack are not updated since vanilla! And ofc you need the new ones for Update11. Thats like always local_en_rome2.pack & music_en_rome2.pack
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 26 Mar 2014, 19:35]
+Where can i download steamworks fix (version 1.11.0)??? help please!!!
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 27 Mar 2014, 08:00]
+ShadowDuke wrote:
+nvm, fixed.
+
+
+I applied update 11 on a working update 10 final with no errors reported and added the english language update 11
+I am getting an app crash with rome2.exe... any ideas?
+
+I have two crash windows pop up and I included the details below.
+
+EDIT: I notice that rome2.exe is not closing on exit and I need to kill it via task manager.
+
+EDIT: After the Hannibal DLC is released could someone post a checksum file for a validated TWR2 install?
+
+Thank you all for your time and effort 
+
+
+ Spoiler
+Problem signature:
+Problem Event Name: BEX
+Application Name: Rome2.exe
+Application Version: 1.11.0.0
+Application Timestamp: 5330ba76
+Fault Module Name: StackHash_3105
+Fault Module Version: 0.0.0.0
+Fault Module Timestamp: 00000000
+Exception Offset: 00000000
+Exception Code: c0000005
+Exception Data: 00000008
+OS Version: 6.1.7601.2.1.0.256.1
+Locale ID: 1033
+Additional Information 1: 3105
+Additional Information 2: 31050888176c20b746da5fbdda7fa680
+Additional Information 3: e58b
+Additional Information 4: e58b3d852950e94f9b61c1dae98e0109
+
+
+Problem signature:
+Problem Event Name: APPCRASH
+Application Name: Rome2.exe
+Application Version: 1.11.0.0
+Application Timestamp: 5330ba76
+Fault Module Name: twitchsdk_32_release.dll
+Fault Module Version: 0.0.0.0
+Fault Module Timestamp: 52796934
+Exception Code: c0000005
+Exception Offset: 000381ab
+OS Version: 6.1.7601.2.1.0.256.1
+Locale ID: 1033
+Additional Information 1: 53cc
+Additional Information 2: 53cca3896825b94cc082770e36095b8f
+Additional Information 3: 9d9d
+Additional Information 4: 9d9d540c7c958fcd62647e1f6b8a0bff
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 27 Mar 2014, 09:02]
+Total.War.ROME.II.Update.11.incl.Seasons.and.Wonders.DLC, putlocker link plz.
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 27 Mar 2014, 09:02]
+
+_________________
+The most respectful and useful users: - machine4578 - ShadowDuke - demde - MarloC - punchao - sam2k8
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 27 Mar 2014, 14:24]
+gringosan wrote:
+ShadowDuke wrote:
+nvm, fixed.
+
+
+I applied update 11 on a working update 10 final with no errors reported and added the english language update 11
+I am getting an app crash with rome2.exe... any ideas?
+
+I have two crash windows pop up and I included the details below.
+
+EDIT: I notice that rome2.exe is not closing on exit and I need to kill it via task manager.
+
+EDIT: After the Hannibal DLC is released could someone post a checksum file for a validated TWR2 install?
+
+Thank you all for your time and effort 
+
+
+ Spoiler
+Problem signature:
+Problem Event Name: BEX
+Application Name: Rome2.exe
+Application Version: 1.11.0.0
+Application Timestamp: 5330ba76
+Fault Module Name: StackHash_3105
+Fault Module Version: 0.0.0.0
+Fault Module Timestamp: 00000000
+Exception Offset: 00000000
+Exception Code: c0000005
+Exception Data: 00000008
+OS Version: 6.1.7601.2.1.0.256.1
+Locale ID: 1033
+Additional Information 1: 3105
+Additional Information 2: 31050888176c20b746da5fbdda7fa680
+Additional Information 3: e58b
+Additional Information 4: e58b3d852950e94f9b61c1dae98e0109
+
+
+Problem signature:
+Problem Event Name: APPCRASH
+Application Name: Rome2.exe
+Application Version: 1.11.0.0
+Application Timestamp: 5330ba76
+Fault Module Name: twitchsdk_32_release.dll
+Fault Module Version: 0.0.0.0
+Fault Module Timestamp: 52796934
+Exception Code: c0000005
+Exception Offset: 000381ab
+OS Version: 6.1.7601.2.1.0.256.1
+Locale ID: 1033
+Additional Information 1: 53cc
+Additional Information 2: 53cca3896825b94cc082770e36095b8f
+Additional Information 3: 9d9d
+Additional Information 4: 9d9d540c7c958fcd62647e1f6b8a0bff
+
+
+Hi, use the new Crack (only), please. There was an error in rome2.dll resulting in the 2 crashes you mentioned.
+And when you got no errors while patching, you are fine 
+
+I also upped V2 now, with Ali213 Emu, cos all other emus dont close the game properly, so settings you make are not saved.
+
+@ParadisE
+
+Zippyshare is fine! Why do you ned firedrive links? I will add them soon.
+
+Edit: Ok, firedrive is added!
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 27 Mar 2014, 15:40]
+Update 11 has changed other languages? If so, is it possible to have the Italian update? Thanks!
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 27 Mar 2014, 15:43]
+I will add them in the Update11 posting in a few minutes.
+
+Edit: ITA added. Others will follow.
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 27 Mar 2014, 15:46]
+ShadowDuke wrote:
+Hi, use the new Crack (only), please.
+
+Ahh I must have downloaded before you posted a fixed "crack only" and didn't realize you had revised that upload.
+
+
+ShadowDuke wrote:
+I also upped V2 now, with Ali213 Emu
+
+Great stuff, working for me now... Hannibal ready. Bring on the 2nd Punic War!
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 27 Mar 2014, 16:03]
+ShadowDuke wrote:
+I will add them in the Update11 posting in a few minutes.
+
+Edit: ITA added. Others will follow.
+
+
+
+Thank you!!!
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 27 Mar 2014, 16:35]
+Hannibal dlc is avaible for download pack file?
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 27 Mar 2014, 16:37]
+6pm CET, in 2 hours it will "unlock".
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 27 Mar 2014, 16:40]
+ShadowDuke wrote:
+gringosan wrote:
+ShadowDuke wrote:
+nvm, fixed.
+
+
+I applied update 11 on a working update 10 final with no errors reported and added the english language update 11
+I am getting an app crash with rome2.exe... any ideas?
+
+I have two crash windows pop up and I included the details below.
+
+EDIT: I notice that rome2.exe is not closing on exit and I need to kill it via task manager.
+
+EDIT: After the Hannibal DLC is released could someone post a checksum file for a validated TWR2 install?
+
+Thank you all for your time and effort 
+
+
+ Spoiler
+Problem signature:
+Problem Event Name: BEX
+Application Name: Rome2.exe
+Application Version: 1.11.0.0
+Application Timestamp: 5330ba76
+Fault Module Name: StackHash_3105
+Fault Module Version: 0.0.0.0
+Fault Module Timestamp: 00000000
+Exception Offset: 00000000
+Exception Code: c0000005
+Exception Data: 00000008
+OS Version: 6.1.7601.2.1.0.256.1
+Locale ID: 1033
+Additional Information 1: 3105
+Additional Information 2: 31050888176c20b746da5fbdda7fa680
+Additional Information 3: e58b
+Additional Information 4: e58b3d852950e94f9b61c1dae98e0109
+
+
+Problem signature:
+Problem Event Name: APPCRASH
+Application Name: Rome2.exe
+Application Version: 1.11.0.0
+Application Timestamp: 5330ba76
+Fault Module Name: twitchsdk_32_release.dll
+Fault Module Version: 0.0.0.0
+Fault Module Timestamp: 52796934
+Exception Code: c0000005
+Exception Offset: 000381ab
+OS Version: 6.1.7601.2.1.0.256.1
+Locale ID: 1033
+Additional Information 1: 53cc
+Additional Information 2: 53cca3896825b94cc082770e36095b8f
+Additional Information 3: 9d9d
+Additional Information 4: 9d9d540c7c958fcd62647e1f6b8a0bff
+
+
+Hi, use the new Crack (only), please. There was an error in rome2.dll resulting in the 2 crashes you mentioned.
+And when you got no errors while patching, you are fine 
+
+I also upped V2 now, with Ali213 Emu, cos all other emus dont close the game properly, so settings you make are not saved.
+
+@ParadisE
+
+Zippyshare is fine! Why do you ned firedrive links? I will add them soon.
+
+Edit: Ok, firedrive is added!
+
+
+Zippyshare is good but a Internet Filtering set on my internet. it blocks Zippyshare.
+Edit: Thank u, ShadowDuke.
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 27 Mar 2014, 16:40]
+
+_________________
+The most respectful and useful users: - machine4578 - ShadowDuke - demde - MarloC - punchao - sam2k8
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 27 Mar 2014, 17:08]
+Oh, i see. That sucks, i will keep that in mind in the next updates.
+
+Edit: There is a hotfix for the launcher which came out 15 minutes ago.
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 27 Mar 2014, 17:13]
+DLC released
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 27 Mar 2014, 17:23]
+shman wrote:
+DLC released
+
+someone posted on the forums its 780 MB too..

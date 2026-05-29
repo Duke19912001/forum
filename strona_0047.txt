@@ -1,0 +1,206 @@
+=========================================
+STRONA 47 (URL: https://cs.rin.ru/forum/viewtopic.php?f=10&t=61441&hilit=rome+2&start=690)
+=========================================
+
+[Data: Monday, 27 Jan 2014, 17:33]
+So? Pretty normal!
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 28 Jan 2014, 07:28]
+pls reup Polish lang
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 28 Jan 2014, 07:50]
+Enzo87 wrote:
+pls reup Polish lang
+
+what does that mean ? because the polish links from GF are working for me...
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 28 Jan 2014, 07:50]
+
+_________________
+From Mexico with love ^^
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 28 Jan 2014, 10:27]
+mhcvel wrote:
+Enzo87 wrote:
+pls reup Polish lang
+
+what does that mean ? because the polish links from GF are working for me...
+
+
+Thank you so so much for reup 
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 28 Jan 2014, 15:58]
+Please you can upload the spanish lang files in putlocker please 
+
+-- Edit --
+
+Please upload it i helpyou with dlc por everything pls i need spanish pack thanks
+
+-- Edit --
+
+Please upload it i helpyou with dlc por everything pls i need spanish pack thanks
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 29 Jan 2014, 04:16]
+Total.War.ROME.II.Update.8.1.Incl.DLC-RELOADED
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 29 Jan 2014, 09:13]
+WaffeSS wrote:
+Total.War.ROME.II.Update.8.1.Incl.DLC-RELOADED
+
+Changelog:
+
+ Spoiler
+Total War: ROME II - Patch 8.1 - Build 9066.483605
+
+Technical and Performance Issues
+
+Battle
+•Fix for dark squares which appeared on the battle terrain, whilst using the "Shader Model 3" graphics setting.
+•Improved performance on the medium Rome siege map.
+
+Campaign
+•Resolved an issue that caused the UI to become unresponsive when the Triumph video plays at the end of a campaign.
+
+
+Gameplay Improvements
+
+
+Campaign
+• Improved AI parameter balancing: increased tactical focus and aggression, especially for major factions in both Grand Campaign and Gaul Campaign.
+• Improved campaign AI raiding behaviour. AI factions are now more likely to raid during campaigns.
+
+
+Battle
+
+
+
+• Siege artillery now uses flaming projectiles appropriately (when attacking walls and towers).
+• Fixed an issue in siege battle AI which could lead to the general's unit exposing itself to attack when trying to use its special abilities to support assaulting units on walls.
+• Fixed a range of issues with the AI's interaction with walls in siege battles, enabling the AI to conduct a more effective assault using siege towers and ladders.
+• Improved the tactical co-ordination between different sub-groups of units when assaulting the walls in siege battles. When the AI attempts to enter the settlement via the gates, it is now able to do a better job of first eliminating the threat of boiling oil.
+• Fixed an issue which caused units to march off in a random direction when reforming on a siege tower.
+• Improved the behaviour of units when a unit on the ground is ordered to melee-attack a unit on the walls.
+• Boiling oil no longer causes incendiary damage (so won’t burn battering rams for example).
+• Improved pathfinding when attacking units on walls with units on the ground or vice versa.
+• Improved attacking siege AI’s interaction with walls, and its use of battering rams.
+
+Usability Improvements
+
+Campaign
+•Fixed a bug that made it impossible to exchange units during a multiplayer campaign, unless the "Turn time" option was set to "unlimited".
+•Fixed a progression blocker in the Grand Campaign, which occurred when a "Triumph" video played (celebrating a high ranking Roman General). This prevented the player from continuing the game, by making the games UI become inactive.
+
+
+
+
+NFO:
+
+ Spoiler
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 29 Jan 2014, 09:13]
+
+_________________
+
+. . .. . .
+
+ The current best Free File Hosters!
+
+1. http://mega.co.nz/
+
+
+2. http://openload.co/
+
+
+3. http://uptobox.com/
+
+
+4. http://zippyshare.com/
+
+
+ My PC Details
+- MSI Z87-G45 Gaming Motherboard
+- 16 GB RAM (2x 8192MB) Crucial Ballistix Sport
+- Intel® Core™ i7-4770K @ 4.3GHz
+- MSI Geforce GTX 980 Twin Frozr V Gaming 4G @ 1470MHz
+- Windows 10 Pro x64  (better than Win7, no joke!)
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 29 Jan 2014, 11:58]
+Wait. Did scene just patched updated files rather than spamming 10 gb+ dox updates?
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 29 Jan 2014, 15:25]
+please upload language pack spanish
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 29 Jan 2014, 17:08]
+Patch9beta with also a lot of fixes is already deployed 
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 29 Jan 2014, 17:15]
+ShadowDuke wrote:
+Patch9beta with also a lot of fixes is already deployed 
+
+from what i read on forums patch9beta in case of sieges breaks more than fixes - hopefully it will eb okay with full patch9
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 29 Jan 2014, 17:15]
+
+_________________
+mostly inactive until at least half of july 2025
+
+If any of my uploads are outdated or no longer online , the best way to do is to send me a PM and i will add the title to the next batch
+UPLOADS PAUSED (have all requests in queue for when i am back to being more active)
+
+List of recent games with modern DRMs:(updated 01-Mar-2023) - http://cs.rin.ru/forum/viewtopic.php?f=10&t=68151
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 29 Jan 2014, 17:31]
+Yes, patch9beta came a few days ago and today came a hotfix.
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 30 Jan 2014, 15:24]
+someone upload spanish lang files updates please 
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 30 Jan 2014, 16:45]
+i seems that patch 9 is officially released??.. steam just finished downloading a 600MB+ update(12+GB in actual files)
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 30 Jan 2014, 19:43]
+machine4578 wrote:
+i seems that patch 9 is officially released??.. steam just finished downloading a 600MB+ update(12+GB in actual files)
+
+Yes, already released on steam.
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 30 Jan 2014, 19:43]
+
+_________________
+From Mexico with love ^^

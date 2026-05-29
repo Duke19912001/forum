@@ -1,0 +1,308 @@
+=========================================
+STRONA 39 (URL: https://cs.rin.ru/forum/viewtopic.php?f=10&t=61441&hilit=rome+2&start=570)
+=========================================
+
+[Data: Friday, 18 Oct 2013, 17:47]
+Big update (613.5MB) 
+
+
+ Spoiler
+Patch notes for Total War: ROME II Patch 5 (7765.464566)
+
+Campaign
+
+Improved Campaign AI decision-making speed when considering local forces prior to settlement attack
+Fix to problem the AI interface received stances that were not up to date, when called to accepting a war declaration help request, or deciding whether to invite allies to a war.
+Improved responsiveness of tabs in the Trade and Finance panel in Campaign mode.
+Fixed a crash when loading an auto-save game.
+Various campaign optimisations including: Fog-of-war update (improves frame rate when moving units, improves end turn times in games where the player has many allies) and Improved frame rate when lots of units are on screen.
+Fix for rare crash when loading a Campaign save game.
+Fixed various rare crashes during battles caused by unit card sorting.
+Battle
+
+The video memory footprint of battles has been reduced by up to 250MB.
+Left-click and dragging units during battles is now more responsive.
+Fix for slow down / performance hit when selecting AI siege equipment in the battle setup menu.
+
+Gameplay Improvements
+
+Campaign
+
+Campaign AI now encourages factions to form allegiances more over time based on personality, perceived threat and existing balance of relationships the faction holds.
+A new function has been added to the diplomacy screen, which allows the user to select AI factions, and then mouse over other faction icons on the map to display their relationships.
+The chances of the AI betraying their allies has been increased, since it used to help them too often when a betrayal was a more appropriate action.
+Allies that have made a decision to join a war, have that decision enforced at the Campaign AI to ensure consistency. E.g. To prevent Satrapies from joining a war and betraying their overlord at the same time.
+Improved the AI’s consideration and use of payments in diplomacy
+Garrisoned armed citizenry now reinforcing their army standing just next to the settlement they are Garrisoned in.
+Fixed satrapies not recognising that they no longer have an overlord in some cases when they cease to be a satrapy.
+Fixed a pathfinding data error that allowed paths to cross directly from beach to river on the Campaign map.
+When a settlement is blockaded on the campaign map, a fix has been made to prevent the player from queuing more siege equipment in the construction queue than you are allowed.
+Reduced the chance of AI armies standing close to the players army on the Campaign map in Forced March stance, allowing the player to ambush them.
+Armies can no longer be garrisoned in a settlement and in Forced March stance at the same time, which led to an ambush battle outside of the settlement when it was attacked, and the winner not capturing the settlement.
+When handing over a region in civil war, the armed citizenry in that region are now refreshed immediately, to prevent the player from recapture the settlement with no resistance from within.
+During a multiplayer coop campaign, the client and host could both make decisions when attacked by the AI. However the user interface did not always display the correct choice. This is now fixed.
+Rebels, Greeks and Gauls are now unable to capture the Bovianum settlement from the Samnites during the Prologue Campaign.
+Objectives are now listed in The Invasion of Samnium chapter of the Prologue Campaign.
+Converting an army in a port settlement to the port docks will no longer break it out of muster stance allowing it to recruit while moving .
+Fix for Lode Stone technology not applying correct speed bonus to ships.
+Battle
+
+Improved gates so they don't open so prematurely for routers during battles.
+Fix for Cavalry units not able to perform flaming arrow attacks on buildings.
+Autonomous siege engines now have an ammunition limit during battles.
+Fixed bug where routers appeared to walk in battles.
+Added display of phase timers to Ability buttons in battles.
+A unit tooltip will now display to indicate when units are withdrawing during battles.
+Added a new Persian minor city battle map variation to the game.
+Improved the in-battle AI's interactions with a Greek City battlefield.
+Improved AI interactions with the walls in Hecatompylos (small) battle map.
+Adjusted deployment zones in Greek Port (Antioch) map, to stop the defender from being able to deploy outside of the city.
+Fixed a bug in the Antioch (large) battle map, that made traversable areas of the map untraversable to units.
+Adjusted deployment zones in Carthago city map to stop the defender from being able to deploy outside of the city.
+In Multiplayer, spectators can now see both the attackers and defenders units regardless of whether they're within line of sight (both in the battle itself and on the battle radar.)
+Improvement for the timing in when pike men switch between pikes and swords during combat.
+Re-jigged pike attacks slightly so that they don't end when the enemy run away, but instead, re-intercept.
+Fixed bug in Ambush visibility which made unleashing war dogs invisible while the handler unit is hidden, causing the dogs not to be seen by the enemy.
+Fixed certain capture points that were not assigned to the correct buildings in various siege maps
+Smoothed out the deployment zones across all siege maps.
+Fixed disembarking points in minor Barbarian port battle map, allowing units to disembark from ships correctly.
+A wall piece that is partially underground in the small Barbarian City battle map has now been made to be un-dockable for siege equipment.
+Fixed the collision on some large rocks in the Carthage battle map to prevent units from passing through them.
+
+Balancing Changes
+
+Campaign
+
+Barbarians and Easterners can now also build military ports in minor settlements.
+Increased campaign cap for the limited naval units, so more of them can be recruited.
+Battle
+
+Added new missile block chance for shields, and some new shield types added to enable better balancing.
+Adjustments made to the Carthage chapter 6 difficulty.
+Rebalanced the ranged damage effects for the Numidian Technology Tree.
+
+Usability Improvements
+
+Campaign
+
+Agent success changes now reflects the fact that some actions (for example Assasination) require critical success to eliminate the character. A tooltip has been added to showing the sucees/failure precentage breakdown.
+Fixed a bug in Multiplayer Campaign mode, where the player couldn't move their camera on the campaign map after spectating in another players' battle, if the player had the Overview Map opened before the battle.
+Added faction icons to attitude / factors tooltip in Diplomacy to make it clearer whose relationship is being shown.
+Added message events when a satrapy declares war on its overlord in Campaign modes.
+Fix for Legendary difficulty auto-save occurring before dilemmas are decided in Campaign mode.
+Fixed the cancel vassal diplomatic action which was not working correctly.
+Fix for menus "sticking" when moving the mouse from a submenu button to the Encyclopaedia.
+Fixed a number of formatting issues in the Multiplayer Campaign faction list user interface.
+Durations are now displayed on effects in regions / factions where applicable.
+Added experience and bonus icons to queued unit cards, so they are more consistent with recruitment and recruited units.
+Fixed hull upgrade bonus icon not showing on recruitment cards.
+When ordering an agent to perform an action against the enemy, if the player left clicks and holds on one of the action boxes, and then moves the cursor the action box will no longer disappear.
+In Campaign modes, if the keyboard shortcut to end the turn is replaced by any other key, other than then default [ENTER], the new key will now end turn as expected.
+Passive abilities are now coloured differently on the Unit Info Panel in Campaign modes to make them clearer.
+Fixed duplicate faction icons appearing in Diplomacy, when war declared with satrapies.
+Solved an issue that prevented the settlement looting panel from appearing, when Campaign Overview / Tactical Map was open.
+The Forces tab in Campaign modes is now refreshed / updated faster in response to different actions taking place.
+When returning to the campaign from a battle, besieging army's action points bar no longer doubles in length and extends beyond it's limit.
+When an ally attacks a provincial capital in coop Campaign the other player will no longer be able to add and subtract siege equipment to the construction list during battle deployment.
+Removed spaces between building upgrade icons in the Building Information panel to avoid info panel flickering in Campaign modes.
+Improved the yellow selection highlighting on selected factions in the Campaign Faction Selection screen.
+Added the option to delete key configuration files form the load key configuration dialog in the settings menu.
+The "Battle Realism Mode" checkbox now greys out correctly when Legendary difficulty is selected in Campaign mode.
+Consecrated Ground buildings in Campaign now show which culture they belongs to.
+The "No Equipment Available" message on the pre-battle user interface in Campaign Mode is no longer displayed, if the player is the defender in a siege assault.
+Added functionality to post-battle espionage icon so user can now see details about the conquered settlement.
+Added missing tooltips to character skills on faction screen.
+Fixes to the Campaign user interface to make objectives status text fit correctly within the available space.
+When on the Campaign Map, if an Agent has no more action points and tries to perform an action on an enemy settlement, that action will become queued. If on the next turn the player captures that settlement that, upon ending turn the agent will no longer play the animation for the action on that now owned settlement.
+When building Construction is paused in Campaign modes, a pause icon is now displayed to represent this.
+Additional army names added for Germanic, Nomadic, Greek, Pontic, and Gaulish factions for more variety.
+Fixed issue in the Prologue Campaign where the player couldn't declare war on the Greek States via move options and had to do it via diplomacy.
+There is now a chance for Campaign characters to spawn with a wife in their household.
+In Campaign, when selecting an opponent's settlement, then hovering the mouse over buildings in an owned settlement in the same province, the building information panel is now correctly displayed instead of being hidden.
+Added an arrow icons to the Public Order entry in province dropdown, to indicate when Public Order is going up or down.
+Solved issue that prevented the settlement button from being updated, when the province details panel is shown in the Campaign user interface.
+The Conversion option is no longer displayed when the building is damaged on the Campaign map.
+Fixed irrelevant attrition immunities being shown for ships in campaign on the Unit Info panel.
+Remove misleading tooltips from unit cards in the unit exchange panel if they cannot be exchanged in Campaign modes.
+Female character portrait / heads are shown when a "Subject Gains Notoriety" event occurs in Campaign, and the event involves a female character (e.g. the Vicious Words event).
+Fixed a bug, where some Campaign Event Messages were automatically marked as read.
+Dragging the mouse from a province owned by a certain faction, for instance Rhodes, into a sea region which they do not use, will no longer display their faction icon next to the contested status for the sea region.
+Fixed un-openable event messages which sometimes appeared in Campaign modes.
+Successful bribe attempt now shows correct family name on the message.
+Mission event titles are now consistent between event messages and the event message list panel.
+The correct cursor icon is now displayed when an Army at sea is selected and order to attack a garrisoned army in a port settlement.
+The "opportune failure" part of agent action event messages will now only display for the faction that the agent belongs to.
+After progressing through the Prologue from Chapter 1 to Chapter 3, exiting out of Chapter 3 at the start will no longer cause Chapter 3 to appear locked on the main menu.
+Character Rank Up events now display the Character Type and new rank.
+Fixed the window size of the games Launcher in certain desktop resolutions.
+Fixed bug where placing the mouse over areas of attrition on the campaign map, would make the tooltip look like the area was an enemy.
+Tooltips don't show ambush chance for fleets anymore.
+Fixed tooltip height, when tooltips don't have any text in them.
+Tooltip on Campaign map no longer stops showing ambush chance when placing the mouse over an attrition area.
+Fix for number of available units is not displaying on mercenary recruitment cards.
+Fixed an inconsistency with Silanus' name between Prologue Chapters. Throughout Prologue 2, Silanus was identified as 'Gaius Fulvius Silanus'. However during Prologue 3, he was identified as 'Gaius Silanus'.
+Various minor text fixes in Campaign mode.
+When the player doesn't have enough money to perform an agent action, and orders an agent to perform a certain action on an enemy, the list of options to perform will now be greyed out immediately, instead of only when the cursor is moved over the options.
+Fix for incorrect hyperlink in the faction panel and incorrect tooltip on damaged buildings.
+Battle
+
+Added unit numbers to Unit Cards. These can now be enabled in battle interface options ("Unit Card Man Count" check box).
+Added option to game settings menu to enable/disable aide de camp (Battlefield Advisor), so the player can now disable this panel from ever appearing.
+Naval units are now grouped together depending on their unit type more often in deployment. This prevents them from colliding into each other so much at the start of a battle with large armies and large varieties of ships.
+Fixing for invisible elephants making it appear like elephant riders were floating in the air during battles.
+Fixed issue where dragging out units on the battlefield could get stuck on screen after deselecting the unit.
+Chat toggle button is no longer greyed out in frontend when players set their state to "Ready" in a Multiplayer Battle or Campaign lobby.
+Updated the Carthago radar image to better represent the terrain in the battle.
+In a Multiplayer Lobby, when a team leader with one AI army on their team switches to the other side, the players Steam avatar no longer remains attached to AI army.
+Fixed checkbox for "Battle Realism Mode", so it's no longer greyed out and un-ticked when the player has just quit a Legendary difficulty Campaign.
+Fix for “Unit Size” option being reset to last saved setting when going hosting multiplayer battles.
+Fixed the "Select All" functionality in battle setup screen ([CTRL]+[A] keyboard shortcut)
+Various fixes for the Change Team button being in incorrect state in the battle setup menu.
+The Battle HUD with double line Unit Cards will shrink to single line as units are removed.
+The Spectator slot in a Multiplayer Lobby can be taken out of team 2 now if there is space there, and not on team 1.
+Updated buildings on the radar map during battle for the "Armavir" battle map.
+Improved boarding user interface in battles.
+Added some user interface to remind player to use deployables during deployment, when they still have deployables un-deployed.
+Reduced chance of siege towers moving away and leaving men behind if the user clicks to drop equipment, and orders it to be re-manned as troops are disembarking.
+Added tooltips for ability effect icons on Unit Banners in battle, and made these icons larger.
+Fixed transport ship icons not disappearing from their Unit Cards once the units disembarks
+Fixed a large number of floating objects and clipping issues across a variety of siege maps.
+Fixed floating buildings and battlefield props in an Egyptian Port battlefield.
+Visually improved Greek Port battle map.
+Removed some rocks from a port in the Antioch battle map to prevent ships passing through them when disembarking.
+Changes made to the disembarkation areas in the large Carthago battle map to prevent ships from passing through the naval port buildings.
+Adjusted beach landing / disembarkation areas in the Athenia battle map, to prevent ships going too far onto the land.
+Adjusted beach landing / disembarkation areas in the Greek minor port battle map, to prevent ships going too far onto the land.
+
+Known Issues
+
+Changing the game's Texture Quality option during a campaign or a battle may cause the terrain to appear black. This can be avoided by changing this option with the Game Settings in the main menu, and will usually stop happening after starting the next battle or re-loading your campaign. This will be hotfixed in the near future.
+The Mod Manager is currently only partially localised, so most compatible with English. We aim to localise this fully in the near future.
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 18 Oct 2013, 17:47]
+
+_________________
+From Mexico with love ^^
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 18 Oct 2013, 17:52]
+I have a couple of questions hope someone can answer them.
+
+
+I watched the review of angry joe and he stated there are a lot of bugs,glitches and lack of feature in this game so I am wondering with all these big patches is it worth to try this game? are all bugs, glitches fixed? are there any improvements of the game?
+
+and do we need to download all those big patches? or just the final one?
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 04 Nov 2013, 17:22]
+Avaloan wrote:
+I have a couple of questions hope someone can answer them.
+
+
+I watched the review of angry joe and he stated there are a lot of bugs,glitches and lack of feature in this game so I am wondering with all these big patches is it worth to try this game? are all bugs, glitches fixed? are there any improvements of the game?
+
+and do we need to download all those big patches? or just the final one?
+
+
+1. yes there are some improvements to the game, but still the game is not 100% free of bugs, I think right now with the current patch the game is pretty much playable (you still need a high performance PC to run it well).
+
+2.you dont have to download the previous patches, if you got reloaded version just download their latest patch
+
+EDIT: I forgot to say that its best to add mods to the game, the patches fix most of the bugs but it doesnt fix the non bug problems such as the too fast battle, Radious mod is the best bug feel free to explore more mods
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 04 Nov 2013, 22:06]
+The question is how long we have to wait; ROME II Patch 5/6 Cracked + Updated Languages Pack?
+
+Been a long time since update 5 released, and no news.
+
+Neither languages pack for update 4. This is frustating.
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 04 Nov 2013, 22:06]
+
+_________________
+
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 05 Nov 2013, 10:59]
+It looks like no cracking scene care much about TW I hope update 5 cracked soon
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 14 Nov 2013, 12:25]
+still no sign of update 5
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 14 Nov 2013, 14:26]
+Maybe reloaded wait for patch 7, tomorrow should arrive. (patch 6 out with Blood DLC http://wiki.totalwar.com/w/Total_War_ROME_II:_Patch_6 great and big patch...)
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 14 Nov 2013, 14:49]
+Patch6 is hotfix 5.1b, lol...i think RLD wait until Patch7, yes.
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 15 Nov 2013, 06:31]
+hope they keep updating it
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 22 Nov 2013, 09:55]
+Update 7 out
+http://wiki.totalwar.com/w/Total_War_ROME_II:_Patch_7
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 24 Nov 2013, 20:33]
+I hope reloaded release the update soon
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 26 Nov 2013, 09:43]
+I dont understand why ROME 2 is ignored...
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 27 Nov 2013, 20:22]
+Total War ROME II Update 7 Incl DLC-RELOADED
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 27 Nov 2013, 22:09]
+Yeah!. Finally.
+Can someone upload the updated language packs?. I need the spanish one.
+Thanks in advance. 
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 27 Nov 2013, 22:09]
+
+_________________
+
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 27 Nov 2013, 22:13]
++1 for lang packs
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 27 Nov 2013, 22:13]
+
+_________________
+mostly inactive until at least half of july 2025
+
+If any of my uploads are outdated or no longer online , the best way to do is to send me a PM and i will add the title to the next batch
+UPLOADS PAUSED (have all requests in queue for when i am back to being more active)
+
+List of recent games with modern DRMs:(updated 01-Mar-2023) - http://cs.rin.ru/forum/viewtopic.php?f=10&t=68151

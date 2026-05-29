@@ -1,0 +1,522 @@
+=========================================
+STRONA 61 (URL: https://cs.rin.ru/forum/viewtopic.php?f=10&t=61441&hilit=rome+2&start=900)
+=========================================
+
+[Data: Sunday, 30 Mar 2014, 10:04]
+ShadowDuke wrote:
+@Landau
+
+Problem is not the updates, but your machine. Cos a lot of ppl who owns the game on Steam have the same problem. Just check the Community Hub for instance. Nothing we can do to help you, sorry. Cos the patches are working 100% fine.
+
+
+
+
+
+Sorry, it was a problem with the mod. It works fine.
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 30 Mar 2014, 11:34]
+Anyone have the crack for steamworks of update 11
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 30 Mar 2014, 11:49]
+topotamadre wrote:
+Anyone have the crack for steamworks of update 11
+
+http://yadi.sk/d/8Q5yljhJLTNeb
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 30 Mar 2014, 14:34]
+themightyspartan wrote:
+Ok so I have a legit version of the game which was bought from steam and I only want to pirate the dlc's, reloaded's releases always have a steam_api.txt but steam one doesn't have this therefore I cannot activate the dlc's, all the latest dlc's can be found here: http://www.reloaded-games.org/total-war-rome-ii-hannibal-gates-reloaded and I just want to know how to activate it on the legit version I have all the dlc files already, I also know that some dlc's dint need any files but just require activation whereas other e.g. Caesar in Gaul need both files and activation
+thanks
+
+I have the steam version too without dlc(vanilla version),I had try greenluma before with ceaser in gaul and it was workingmit seems now greenluma not working with the game at the moment.....
+put in your mind you'll not be able to gain achievement or play online if you use crack or greenluma,so my advise play the cracked version if you want the dlc
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 30 Mar 2014, 14:48]
+fearless3 wrote:
+topotamadre wrote:
+Anyone have the crack for steamworks of update 11
+
+http://yadi.sk/d/8Q5yljhJLTNeb
+
+thanks a lot 
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 30 Mar 2014, 15:27]
+croserII wrote:
+themightyspartan wrote:
+Ok so I have a legit version of the game which was bought from steam and I only want to pirate the dlc's, reloaded's releases always have a steam_api.txt but steam one doesn't have this therefore I cannot activate the dlc's, all the latest dlc's can be found here: http://www.reloaded-games.org/total-war-rome-ii-hannibal-gates-reloaded and I just want to know how to activate it on the legit version I have all the dlc files already, I also know that some dlc's dint need any files but just require activation whereas other e.g. Caesar in Gaul need both files and activation
+thanks
+
+I have the steam version too without dlc(vanilla version),I had try greenluma before with ceaser in gaul and it was workingmit seems now greenluma not working with the game at the moment.....
+put in your mind you'll not be able to gain achievement or play online if you use crack or greenluma,so my advise play the cracked version if you want the dlc
+
+
+..its still working...and you can also play Multiplayer (with friend who also's using GL).
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 01 Apr 2014, 21:12]
+PROBLEM: In menu the option to play hannibal,gaul and Twitch doesnt have text on it, its like empty tint, rectangle. And inside Hannibal New Campaign window factions doesnt have names, descriptions and effects. I installed patch11(Seasons and Wonders) --> patch11(Hannibal). The installation of Hannibal was veery fast. It updated only gaul.pack [1/1]. On the hannibal campaign i dont have text at all. What could go wrong?
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 01 Apr 2014, 21:17]
+Protean wrote:
+PROBLEM: In menu the option to play hannibal,gaul and Twitch doesnt have text on it, its like empty tint, rectangle. And inside Hannibal New Campaign window factions doesnt have names, descriptions and effects. I installed patch11(Seasons and Wonders) --> patch11(Hannibal). The installation of Hannibal was veery fast. It updated only gaul.pack [1/1]. On the hannibal campaign i dont have text at all. What could go wrong?
+
+it seems that you missed a patch(or two)!!!
+btw, did you follow the instructions 100%??? did you have any errors during the updating??
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 01 Apr 2014, 21:21]
+Which lang you're playing? Sounds like youre missing <your lang> patch for Update11.
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 01 Apr 2014, 22:18]
+machine4578 wrote:
+Protean wrote:
+PROBLEM: In menu the option to play hannibal,gaul and Twitch doesnt have text on it, its like empty tint, rectangle. And inside Hannibal New Campaign window factions doesnt have names, descriptions and effects. I installed patch11(Seasons and Wonders) --> patch11(Hannibal). The installation of Hannibal was veery fast. It updated only gaul.pack [1/1]. On the hannibal campaign i dont have text at all. What could go wrong?
+
+it seems that you missed a patch(or two)!!!
+btw, did you follow the instructions 100%??? did you have any errors during the updating??
+
+
+I followed instructions and no errors occured. I dont think i missed something coz before patch11(S&W) i installed two patch10(One was 9_to_10 and second just 10, a small one) and of course patch 9 earlier.
+
+-- Edit --
+
+
+ShadowDuke wrote:
+Which lang you're playing? Sounds like youre missing <your lang> patch for Update11.
+
+ohh, i forgot about english pack which should be downloaded as well i suppose. Thanks!
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 02 Apr 2014, 23:38]
+Cant play Hannibal in spanish, without up lang packs for Hannibal DLC.
+It crash. 
+Updated files, please.
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 02 Apr 2014, 23:38]
+
+_________________
+
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 03 Apr 2014, 16:49]
+@bigbluetrongt
+
+The files are fine (lang files didnt update with HATG DLC, soo latest update11 lang files added are fine!), you need initital ones.
+
+Total.War.ROME.II.Update.11.HOTFiX.BUILD.10471_528438 *xdelta* (03.04.2014]
+
+You need Update 11 (+ HATG) installed! (latest RLD with HATG should also work!)
+
+Changelog:
+
+
+ Spoiler
+Code: Select all | Line number On/Off | Expand/Contract
+ 
+v1.11.0.0 - 10471.528438
+ 
+-Invalid technology is no longer specified as an objective target for Carthage in Hannibal at the Gates Campaign.
+-Syracuse research rate faction trait bonus now confers the correct effect.
+-Improved the look of trees in Autumn battles.
+-Improved season effect bundles in main campaign, and fixed a few issues with the effect bundles.
+-When facing attackers with superior missile strength, the defending AI’s decision-making regarding sally-outs from un-walled settlements and encampments has been improved.
+-Enabled civil wars for Arevaci, Lusitani and Syracuse factions in Grand Campaign mode.
+-Loading screens are now visible to viewers while broadcasting with Twitch.TV.
+-Updated base region religions of Iberian regions.
+ 
+
+
+
+Code: Select all | Line number On/Off | Expand/Contract
+ 
+1) Extract all files to your Rome 2 <root> install dir
+2) Start TWR2_UP11_HOTFiX_BUILD_10471_528438.bat
+3) Copy Crack
+4) Play
+
+
+Download: [61mb] (Zippyshare, Firedrive, Mega)
+
+Zippyshare
+Firedrive
+Mega
+
+
+Ps: Since lang updates are really small (1kb) the latest prev. ones should work fine.
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 03 Apr 2014, 16:56]
+thank you for all these update packs 
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 03 Apr 2014, 22:36]
+@ShadowDuke: Thank you very much. All fine now. 
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 03 Apr 2014, 22:36]
+
+_________________
+
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 04 Apr 2014, 17:46]
+Total.War.ROME.II.Hannibal.vor.den.Toren.GERMAN-0x0007
+
+ NFO
+Code: Select all | Line number On/Off | Expand/Contract
+                               ▄
+                               ▀▓▀
+ 
+                                █
+                   ░           ▐█▌
+                   ▒▓         ▄█▀▓▄
+                 ▄▓▓▀▀▀ ▄▄▄▄▓▀▀   ▀▀▓▄▄▄▄
+                 ▀ ▄▄▓▀▀▀▀             ▀▀▀▀▓▄▄
+                ▄▓█▀      ▄▄▄▓▓▓████▄▄▄      ▀█▓▄
+           ░▒▓ ▓▓█▌    ▄▓▓▓██████████████▄    ▐█▓▓  ░
+         ░▒▓▓▌▐████▄▄ ▓▓██▀▄█████████▄▀████ ▄▄████▌▀▒░
+           ▀▒ ▀ ▄▄▄▄▄ ▓▓▓▌ ▀█████████▀ ▐███ ▄▄▄▄▄ ▀ ▓▒░
+             ▄█▓▓████▌▐▓██▄   ▓▓▀▀▀   ▄███▌▐▓███▓▓█▄ ▀
+            ▓▓██▀ ▀██ ▓█▀▀▀▓▓▄▄▄▄▄▄▄█▓▀▀▀██ ▓▓██▀ ▀██
+           ▐▓▓▓██▄██▌▐▓       ▀▀█▀▀  ▄▓▄  █▌▐▓▓██▄▓▓█▌
+           ▓▓▀  ▀▀▀■  ▓▓▄     ▄▀▐▀▄   ▀ ▄██  ■▀▀▀  ▀██
+           ▐▌      ▄ ▄ ▀▓▓▄███▌ ▐ ▐█▓▓▄██▀ ▄ ▄      ▐▌
+    ▄       ▀▓▓▄▄██ ▌ ██▄ ▓▓██▄███▄████ ▄▓▓ ▐ ██▄▄██▀       ▄
+   ▀▓▀  ▄▄▄▄▄ ▓▓▓█  █ ▐█▌▐▓▓▓▀ ▀███████▌▐▓▌ █  █▓▓▓ ▄▄▄▄▄  ▀▓▀
+     ▄█▓▓████▌▐▓▓▓▄███▀▀▀ ▀ ▓▓▄██████ ▀ ▀▀▀▓▓█▄██▓▌▐████▓▓█▄
+    ▓▓██▀ ▀██▄  ▀▀▀ ▄▄ ▓▌ ▓▄  ▀▀ ▀▀   █▀▐▓ ▄▄ ▀▀▀ ▄▄ █▀ ▀██▓▓
+   ▐▓▓▓██▄██▌ ▄██▄▄▄ ▀  ▄  ▄▄██▄ ▄███▄  ▄▄▄  ███▀█▓▌▐██▄██▓▓▓▌
+   ▓▓▀  ▀▀▀■  ▐█▓ ██ ▄▓ ██ █▓ ██ █▓ ██ █▓ ▓▓ █▓  ▓█  ■▀▀▀  ▀▓▓
+   ▐▌      ▄ ▄██▓ ██ ▀▓▄█▀ █▓ ██ █▓ ██ █▓ ██ ▀▀ ▐█▌  ▄      ▐▌
+    ▀▓▓▄▄██ ▌ ██▓ ▓█ █▓ ██ █▓ ██ █▓ ██ █▓ ██  ████▓█▐ ██▄▄▓▓▀
+     ▄▄▀██▌ █ ▐█▓ ██ █▓ ██ █▓ ██ █▓ ██ █▓ ██   ▐█▓█▌▐ ▐██▀▄▄
+     ▐▓▓▓█████▀▀▓███ ▀▓ ▀▀ ▀█▓█▀ ▀▓▓█▀ ▀███▀   █▓▓██████▓▓▓▌
+     ▄  ▀▀▀ ▄   ▀▀ ▄▄▄███▀▀▀▀▀ ▄▓▄ ▀▀▀▀▀███▄▄▄▐▓▓▀ ▄▄ ▀▀▀  ▄
+        ▐█▀ ▄▄█▓▓▀▀▀            ▀            ▀▀▀▓▓█▄▄ ▀▓
+      ▄▄▓▓█▀▀            0x0007 presents            ▀▀█▓▓▄▄
+      ██                                                 ██
+      ▀▀               Total War: ROME II                ▀▀
+      ▀▀       Hannibal vor den Toren "Standalone"       ▀▀
+      ▀▀                                                 ▀▀
+     ▄▓█▄ Developer     : (c) SEGA                      ▄▓█▄
+      ▓█  Language      : German                         ▓█
+      ▓█  Game Type     : Strategy                       ▓█
+      ▀▀  Release Date  : 04/2014                        ▀▀
+      ██  Disc(s)       : 1 DVD                          ▓█
+      ▓▓  Protection    : Steam+CEG                      ▓█
+      ▓█                                                 ▓▓
+      ▓█  Notes:                                         ▓█
+      ▓█  ~~~~~~                                         ▓█
+      ▓█  Diese Version ist eine Standalone Version.     ▓█
+      ▓█  Es enthaelt das vollstaendige Spiel mit        ▓█
+      ▓█  neusten Updates, sowie die offiziellen         ▓█
+      ▓█  Kampagne Addons Caesar in Gallien und Hannibal ▓█
+      ▓█  vor den Toren.                                 ▓█
+      ▓█                                                 ▓█
+      ▓█  Game Notes:                                    ▓█
+      ▓█  ~~~~~~~~~~~                                    ▓█
+   ▓█                                                 ▓█
+      ▓█  Diese Version enthaelt die folgenden DLC's:    ▓█
+      ▓█                                                 ▓█
+      ▓█    - Greek States Culture Pack                  ▓█
+      ▓█    - Nomadic Tribes Culture Pack                ▓█
+      ▓█    - Baktria Faction Pack                       ▓█
+      ▓█    - Seleucid Empire Faction Pack               ▓█
+      ▓█    - Blood & Gore                               ▓█
+      ▓█    - Caesar in Gaul                             ▓█
+      ▓█    - Beasts of War                              ▓█
+      ▓█    - Hannibal at the Gates                      ▓█
+      ▓█                                                 ▓█
+      ▓█                                                 ▓█
+      ▓█  Angesiedelt im westlichen Mittelmeerraum zu    ▓█
+      ▓█  der Zeit des Ausbruchs des 2. Punischen        ▓█
+      ▓█  Krieges, bietet Hannibal vor den Toren eine    ▓█
+      ▓█  neue Kampagnenkarte rund um die brisante       ▓█
+      ▓█  historische Lage, die Rom und Karthago, die    ▓█
+      ▓█  beiden Grossmaechte der Antike, in einen       ▓█
+      ▓█  kompromisslos gefuehrten Krieg trieb.          ▓█
+      ▓█                                                 ▓█
+      ▓█  Als einer der bekanntesten Konflikte der       ▓█
+      ▓█  Geschichte offenbarte der Krieg das taktische  ▓█
+      ▓█  Genie der beiden verfeindeten Generaele Scipio ▓█
+      ▓█  und Hannibal. Koennen Sie ihre einzigartigen   ▓█
+      ▓█  Strategien nachspielen oder sogar noch         ▓█
+      ▓█  uebertreffen? Wie werden Sie den Lauf der      ▓█
+      ▓█  Geschichte beeinflussen?                       ▓█
+      ▓█                                                 ▓█
+      ▓█  Spielen Sie Karthago oder Rom, befehligen Sie  ▓█
+      ▓█  den grossen hellenischen Stadtstaat Syrakus    ▓█
+      ▓█  oder û zum ersten Mal in ROME II û eine der    ▓█
+      ▓█  beiden iberischen Fraktionen, die Arevaci oder ▓█
+      ▓█  die Lusitaner.                                 ▓█
+      ▓█                                                 ▓█
+      ▓█  Hannibal vor den Toren bietet darueber hinaus: ▓█
+      ▓█                                                 ▓█
+      ▓█                                                 ▓█
+      ▓█  Eine neue Kampagnenkarte:                      ▓█
+      ▓█                                                 ▓█
+      ▓█  Eine detailliertere Karte des westlichen       ▓█
+      ▓█  Mittelmeerraums als die bisherige Karte aus    ▓█
+      ▓█  ROME II, auf der die Spieler in insgesamt 19   ▓█
+      ▓█  Provinzen um Ressourcen und Siedlungen         ▓█
+      ▓█  kaempfen koennen. Die damaligen Grossmaechte   ▓█
+      ▓█  Rom und Karthago stehen im Krieg und haben     ▓█
+      ▓█  einige der Schluesselregionen und              ▓█
+      ▓█  Klientelstaaten unter ihrer Kontrolle.         ▓█
+      ▓█  Syrakus, die Arevaci und die Lusitaner         ▓█
+      ▓█  beginnen dagegen mit nur einer einzelnen       ▓█
+      ▓█  Region und stellen dadurch eine vollkommen     ▓█
+      ▓█  andere und deutlich anspruchsvollere           ▓█
+      ▓█  Herausforderung dar als die beiden grossen     ▓█
+      ▓█  Reiche.                                        ▓█
+      ▓█                                                 ▓█
+      ▓█  Technologie mit Schwerpunkt auf Diplomatie:    ▓█
+      ▓█                                                 ▓█
+      ▓█  Rom und Karthago verfuegen ueber neue zivile   ▓█
+      ▓█  Technologiezweige mit Schwerpunkt auf          ▓█
+      ▓█  Diplomatie. Beide Seiten beginnen mit mehreren ▓█
+      ▓█  Verbuendeten und Klientelstaaten und koennen   ▓█
+      ▓█  die Unterstuetzung ihrer Gegner mit            ▓█
+      ▓█  diplomatischen Mitteln untergraben.            ▓█
+      ▓█                                                 ▓█
+      ▓█  12 Runden pro Jahr:                            ▓█
+      ▓█                                                 ▓█
+      ▓█  Hannibal vor den Toren umfasst die Jahre 218   ▓█
+      ▓█  bis 202 v. Chr. und jede Runde entspricht      ▓█
+      ▓█  einem Zeitraum von einem Monat. Die Kampagne   ▓█
+      ▓█  umfasst aller vier Jahreszeiten                ▓█
+      ▓█  einschliesslich entsprechender Effekte im      ▓█
+      ▓█  Spiel.                                         ▓█
+      ▓█                                                 ▓█
+      ▓█  Eine kompakte, aufs Wesentliche reduzierte     ▓█
+      ▓█  Mehrspielerkampagne:                           ▓█
+      ▓█                                                 ▓█
+      ▓█  Fuer Generaele, die sich ein beschleunigtes    ▓█
+      ▓█  Mehrspielererlebnis wuenschen, bietet Hannibal ▓█
+      ▓█  vor den Toren aufgrund des kleineren           ▓█
+      ▓█  geografischen Umfangs kuerzere Koop- oder      ▓█
+      ▓█  kompetitive 2-Spieler-Kampagnen als eine       ▓█
+      ▓█  vollstaendige Kampagne.                        ▓█
+      ▓█                                                 ▓█
+      ▓█  Neue historische Schlachten:                   ▓█
+      ▓█                                                 ▓█
+      ▓█  Hannibal vor den Toren beinhaltet zwei neue    ▓█
+      ▓█  historische Schlachten: die Schlacht von       ▓█
+      ▓█  Cannae (216 v. Chr.) und die Schlacht von Zama ▓█
+      ▓█  (202 v. Chr.). Beide Schlachten waren von      ▓█
+      ▓█  entscheidender Bedeutung fuer den 2. Punischen ▓█
+      ▓█  Krieg. Cannae markiert den Hoehepunkt von      ▓█
+      ▓█  Hannibals Einmarsch in Italien, waehrend in    ▓█
+      ▓█  Zama der Sieg Roms ueber Karthago besiegelt    ▓█
+      ▓█  wurde.                                         ▓█
+      ▓█                                                 ▓█
+      ▓█  Neue spielbare Fraktionen fuer Total WarÖ:     ▓█
+      ▓█  ROME II                                        ▓█
+      ▓█                                                 ▓█
+      ▓█  Neben den beiden maechtigen Fraktionen         ▓█
+      ▓█  Karthago und Rom koennen die Spieler den 2.    ▓█
+      ▓█  Punischen Krieg auch mit drei neuen Fraktionen ▓█
+      ▓█  spielen: den Arevaci, den Lusitanern und       ▓█
+      ▓█  Syrakus. Jede Fraktion verfuegt ueber eigene   ▓█
+      ▓█  Fraktionseigenschaften, Charakteristika,       ▓█
+      ▓█  eigene Einheiten und Startpositionen. Mit      ▓█
+      ▓█  Hannibal vor den Toren sind diese Fraktionen   ▓█
+      ▓█  ebenfalls in der grossen Kampagne von ROME II  ▓█
+      ▓█  spielbar.                                      ▓█
+      ▓█                                                 ▓█
+      ▓█  Die Arevaci                                    ▓█
+      ▓█                                                 ▓█
+      ▓█  Die imperialistische Expansion hat sowohl      ▓█
+      ▓█  Karthago als auch Rom vor die Tuer der Arevaci ▓█
+      ▓█  gebracht, obgleich derzeit nur Hannibal ueber  ▓█
+      ▓█  eine gemeinsame Grenze zu diesem kriegerischen ▓█
+      ▓█  keltiberischen Stamm verfuegt. Zu Beginn der   ▓█
+      ▓█  Kampagne sind die Arevaci neutral, aber sie    ▓█
+      ▓█  muessen eine eindeutige Wahl treffen: sich mit ▓█
+      ▓█  Hannibal verbuenden und dabei riskieren, durch ▓█
+      ▓█  Roms Rache ausgeloescht zu werden, oder gute   ▓█
+      ▓█  Beziehungen zu Rom pflegen und dadurch den     ▓█
+      ▓█  Zorn der Karthager auf sich zu ziehen. Trotz   ▓█
+      ▓█  ihrer ausgezeichneten Kenntnis der Umgebung    ▓█
+      ▓█  und herausragenden Kampfkunst koennen die      ▓█
+      ▓█  Arevaci es unmoeglich mit beiden Maechten      ▓█
+      ▓█  zugleich aufnehmen. Im Augenblick behalten sie ▓█
+      ▓█  ihre Neutralitaet bei, doch das wird sich      ▓█
+      ▓█  aendern. Irgendjemand wird am Ende die         ▓█
+      ▓█  Iberische Halbinsel beherrschen. Werden es die ▓█
+      ▓█  Arevaci sein?                                  ▓█
+      ▓█                                                 ▓█
+      ▓█  Die Lusitaner                                  ▓█
+      ▓█                                                 ▓█
+      ▓█  Die Lusitaner lebten bereits in Iberien lange  ▓█
+      ▓█  bevor Karthago und Rom in die Region           ▓█
+      ▓█  eindrangen. Sie sind wie ihre entfernten       ▓█
+      ▓█  Verwandten, die Sueben, kein einzelner Clan,   ▓█
+      ▓█  sondern ein Zusammenschluss mehrerer kleiner   ▓█
+      ▓█  Staemme, die zusammenhalten, um sich besser    ▓█
+      ▓█  gegen die Eindringlinge zur Wehr setzen zu     ▓█
+      ▓█  koennen. Die Lusitaner sind ebenso wild        ▓█
+      ▓█  entschlossene wie geschickte Kaempfer und als  ▓█
+      ▓█  solche wie geschaffen fuer den                 ▓█
+      ▓█  Partisanenkrieg. Als Hannibals karthagisches   ▓█
+      ▓█  Heer durch die zuvor von Rom kontrollierten    ▓█
+      ▓█  Gebiete marschiert, ergreifen die Lusitaner    ▓█
+      ▓█  die Gelegenheit, um jenseits ihrer bisherigen  ▓█
+      ▓█  Grenzen zu expandieren und Iberien von seinen  ▓█
+      ▓█  Invasoren zurueckzufordern. Wenngleich sie mit ▓█
+      ▓█  Besonnenheit handeln, sich sogar zunaechst mit ▓█
+      ▓█  dem Feind verbuenden muessen, bleibt es doch   ▓█
+      ▓█  das Ziel, ihn aus dem Land zu vertreiben.      ▓█
+      ▓█                                                 ▓█
+      ▓█  Syrakus                                        ▓█
+      ▓█                                                 ▓█
+      ▓█  Der Stadtstaat Syrakus ist in der gesamten     ▓█
+      ▓█  Antike als ein Zentrum der Kultur und          ▓█
+      ▓█  Wissenschaft bekannt. Und wohlhabend noch      ▓█
+      ▓█  dazu. Dabei profitiert Syrakus in grossem      ▓█
+      ▓█  Masse von seiner erstklassigen Lage im         ▓█
+      ▓█  Mittelmeer. Eine Reihe von Tyrannen bestimmt   ▓█
+      ▓█  seine Geschichte, deren oberstes Ziel die      ▓█
+      ▓█  Verteidigung der Unabhaengigkeit der Stadt     ▓█
+      ▓█  gegenueber den Griechen, Karthagern und        ▓█
+      ▓█  Bedrohungen von innen heraus ist. Im Jahre 218 ▓█
+      ▓█  v. Chr. streben sowohl Rom als auch Karthago   ▓█
+      ▓█  danach, Syrakus ein fuer alle Mal unter ihre   ▓█
+      ▓█  Kontrolle zu bringen. Im Angesicht des Krieges ▓█
+      ▓█  zwischen den beiden Grossmaechten steht die    ▓█
+      ▓█  Stadt am Scheideweg û wird Syrakus sein        ▓█
+      ▓█  Schicksal in die eigene Hand nehmen oder wie   ▓█
+      ▓█  so viele besetzte Kolonien in Vergessenheit    ▓█
+      ▓█  geraten?                                       ▓█
+      ▓█                                                 ▓█
+      ▓█  Neue Einheiten                                 ▓█
+      ▓█                                                 ▓█
+      ▓█  Neben den klassischen Einheiten verfuegen die  ▓█
+      ▓█  spielbaren Fraktionen von Hannibal vor den     ▓█
+      ▓█  Toren ueber die folgenden neuen Einheiten.     ▓█
+      ▓█  Wenn Sie Hannibal vor den Toren besitzen, sind ▓█
+      ▓█  diese Einheiten ebenfalls in der grossen       ▓█
+      ▓█  Kampagne von ROME II verfuegbar:               ▓█
+      ▓█                                                 ▓█
+      ▓█  Arevaci                                        ▓█
+      ▓█  ò Bemalte Krieger (Nahkampfinfanterie)         ▓█
+      ▓█  Bemalte Koerper und unangenehme Gerueche rufen ▓█
+      ▓█  Angst bei ihren Gegnern hervor und schon ist   ▓█
+      ▓█  die Schlacht halb gewonnen.                    ▓█
+      ▓█                                                 ▓█
+      ▓█  ò Keltiberische Kavallerie                     ▓█
+      ▓█  (Nahkampfkavallerie)                           ▓█
+      ▓█  Eine vielseitige Kavallerieeinheit, sofern sie ▓█
+      ▓█  von einem faehigen General befehligt wird.     ▓█
+      ▓█                                                 ▓█
+      ▓█  Lusitaner                                      ▓█
+      ▓█  ò Lusitanische Guerillas (Verborgene           ▓█
+      ▓█  Speerinfanterie)                               ▓█
+      ▓█  Diese gut getarnten Partisanenkaempfer sind    ▓█
+      ▓█  wahre Meister ihres Fachs und bewegen sich     ▓█
+      ▓█  ungesehen, um ihre Feinde aus dem Hinterhalt   ▓█
+      ▓█  zu ueberraschen.                               ▓█
+      ▓█                                                 ▓█
+      ▓█  ò Lusitanische Speerkaempfer (Speerinfanterie) ▓█
+      ▓█                                                 ▓█
+      ▓█  Starke Stammesspeerkaempfer, die sich ihren    ▓█
+      ▓█  Ruf auf dem Schlachtfeld redlich verdienen.    ▓█
+      ▓█                                                 ▓█
+      ▓█  Syrakus                                        ▓█
+      ▓█  ò Auserwaehlte Hopliten (Elite-Hopliten, auch  ▓█
+      ▓█  verfuegbar fuer Athen)                         ▓█
+      ▓█  Diese Auswahl der besten Hopliten verteidigt   ▓█
+      ▓█  ihre Stadt voller Stolz gegen jeden            ▓█
+      ▓█  Eindringling.                                  ▓█
+      ▓█                                                 ▓█
+      ▓█  Neue Roemische Auxiliare:                      ▓█
+      ▓█  ò Auxiliar-Scutarii (Iberische                 ▓█
+      ▓█  Nahkampfinfanterie)                            ▓█
+      ▓█  Diese Iberer sind mehr als gute Kaempfer       ▓█
+      ▓█  aufseiten Roms an vorderster Front.            ▓█
+      ▓█                                                 ▓█
+      ▓█  ò Auxiliar-Scutarii-Kavallerie (Iberische      ▓█
+      ▓█  Nahkampfkavallerie)                            ▓█
+      ▓█  Diese schweren Kavalleristen bringen ein wenig ▓█
+      ▓█  iberisches Feuer in die ansonsten eher         ▓█
+      ▓█  konservativen Raenge der roemischen Soldaten.  ▓█
+      ▓█                                                 ▓█
+      ▓█                                                 ▓█
+      ▓█  Neue Iberische Soeldner:                       ▓█
+      ▓█  ò Scutarii-Soeldner (Iberische                 ▓█
+      ▓█  Nahkampfinfanterie)                            ▓█
+      ▓█  Gut bezahlte, grosse Maenner mit Falcatas      ▓█
+      ▓█  koennen erstaunlich viele Streitigkeiten       ▓█
+      ▓█  schlichten.                                    ▓█
+      ▓█                                                 ▓█
+      ▓█  ò Scutarii-Soeldnerkavallerie (Iberische       ▓█
+      ▓█  Nahkampfkavallerie)                            ▓█
+      ▓█  Diese berittenen Soeldner sind eine gute       ▓█
+      ▓█  Streitmacht fuer Nahkampfsituationen.          ▓█
+      ▓█                                                 ▓█
+      ▓█  Neue Italienische Soeldner:                    ▓█
+      ▓█  ò Soeldner der etruskischen Hopliten           ▓█
+      ▓█  (Italienische Hopliten)                        ▓█
+      ▓█  Auf griechische Weise ausgestattet und         ▓█
+      ▓█  ausgebildet, ist mit Roms ehemaligen Herren    ▓█
+      ▓█  immer zu rechnen.                              ▓█
+      ▓█                                                 ▓█
+      ▓█  ò Soeldner der samnitischen Krieger            ▓█
+      ▓█  (Italienische schwere Infanterie)              ▓█
+      ▓█  Unterworfene Voelker koennen nach wie vor      ▓█
+      ▓█  herausragende Krieger hervorbringen.           ▓█
+      ▓█                                                 ▓█
+      ▓█  ò Soeldner der kampanischen Kavallerie         ▓█
+      ▓█  (Italienische schwere Kavallerie)              ▓█
+      ▓█  Adelskavalleristen von den schoensten Ecken    ▓█
+      ▓█  der Halbinsel.
+      ▓█                                                 ▓█
+      ▓█  How to play:                                   ▓█
+      ▓█  ~~~~~~~~~~~~                                   ▓█
+      ▓█  The usual way!                                 ▓█
+      ▓█                                                 ▓█
+      ▓█                                                 ▓█
+      ▓█  Best Regards                                   ▓█
+      ▓█                                                 ▓█
+      ▓▓  Team 0x0007                                    ▓█
+      ▓▓▌                                                ▓█
+     ▄▓▓█                                                ▓█
+      ▀▓██▄▄                                             ▓█
+         ▀▀▓███▄▄▄▄▄                                     ▓█
+              ▀▀▀▀▀███▓██████▄▄▄▄▄▄▄▄▄▄                  ▓█
+                            ▀▀▀▀▀▀▀▀▀▀██▓▓████████████   ▓█
+                             ▄▄▄▄▄█████▀▀▀▀ ▄▄▄█▀▀      ▀▀█▓▄▄
+                       ▄▄█▀███▀▀▀▀        ▄█▀█▀   eXpect    ▀▓▓▄
+                     ▄█▀▄█▓▀             ▐█▌▐▌  more soon!   ▐▓▓▌
+                    ▐█▌▐▓▓▌               ▀█▄█▄             ▄▓▓▀
+                     ▀█▄█▓█▄                ▀▀▀██▄▄ ▄▓▄ ▄▄▓▀▀▀
+                       ▀▀█████▄▄▄▄▄     ▄▀▄ ▄   ▄ ▄  ▀  ▄ ▄ ▓▄▄▄
+                             ▀▀▀▀▀█████ ▓ █ ▓ █ ▓ █ ▓ █ ▓ █ ▀  █
+                              ▄▓▓▄▄     ▓ █ ▄▀▄ ▓ █ ▓ █ ▓ █  ▄▐▌
+                               ▀▀▀ ▄▓▓█▄ ▀  ▀    ▀   ▀   ▀    █
+                                ▄█▄ ▀▀▀
+                                 ▀

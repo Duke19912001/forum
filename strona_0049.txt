@@ -1,0 +1,118 @@
+=========================================
+STRONA 49 (URL: https://cs.rin.ru/forum/viewtopic.php?f=10&t=61441&hilit=rome+2&start=720)
+=========================================
+
+[Data: Wednesday, 05 Feb 2014, 18:22]
+quiksilver wrote:
+i need the registry settings, my russian repack isnt recofnized by reloaded update
+
+are you sure are there an entry for windows reg ? ... did you tried to change the language line on reloaded.ini ?
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 05 Feb 2014, 18:22]
+
+_________________
+From Mexico with love ^^
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 05 Feb 2014, 19:39]
+About time. I hope keep churning these out now. If there's any game that needs to be pirated it's this game. All other games have less updates.
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 06 Feb 2014, 17:29]
+Some1 have the updated gaul.pack applied from Total.War.ROME.II.Update.9.Incl.DLC-RELOADED and can upload it, please?
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 06 Feb 2014, 21:14]
+I am wondering is this game worth to try with all updates.
+some says it has a lot of bugs and glitches and missing contents that had in the previous total war games. I am not sure
+what are them exactly since I only played Rome Total war and Empire total war. so is this game worth to try?
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 06 Feb 2014, 21:19]
+does anyone know what reg settings are used by RLD patch? because i have installed the original RLD release and it says it can't find my game when i try to run the update patcher.
+
+-edit-
+
+nevermind, seems whoever said the RLD patches use reg entries was wrong. i just had to run it from the game folder...
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 06 Feb 2014, 21:23]
+bongsmoke1989 wrote:
+does anyone know what reg settings are used by RLD patch? because i have installed the original RLD release and it says it can't find my game when i try to run the update patcher.
+
+i had no problems installing the RLD updates on the RG Origins release(which does not use the RLD registry entry).. do you have the original RLD crack installed?
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 06 Feb 2014, 21:26]
+Bad213Boy wrote:
+..
+
+
+you have to buy a steam game to crack it that's what I learned but since only few in here buy and they don't have a good programming knowledge it's not possible to crack. most of people who buy the games are not very cooperative with the crackers so it's not largely possible to crack a game. and other thing in US it's really illegal to involve with pirating stuff if you get caught you will be sent to prison outside of US its somewhat fine I think that's why there are a lot of groups are from Asia and Europe.
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 06 Feb 2014, 21:27]
+yeh, it was my bad, just didn't think i'd need to copy the patch to the install folder. kinda crap it doesn't let you choose a folder.
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 07 Feb 2014, 01:47]
+mhcvel wrote:
+quiksilver wrote:
+i need the registry settings, my russian repack isnt recofnized by reloaded update
+
+are you sure are there an entry for windows reg ? ... did you tried to change the language line on reloaded.ini ?
+
+
+it's already in english, i just need the registry entry to install the update, coz reloaded one isnt finding the game installed.
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 07 Feb 2014, 02:03]
+quiksilver wrote:
+it's already in english, i just need the registry entry to install the update, coz reloaded one isnt finding the game installed.
+
+as far as i know there is no reg entry needed!.. i have the RG Origins release and the RLD updaes work fine!
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 07 Feb 2014, 02:05]
+my game is still v1.7 what patch should i use? 8.1? coz i can't find a v8 update and the 8.1 aint working, should i get straight to update 9?
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 07 Feb 2014, 02:11]
+quiksilver wrote:
+my game is still v1.7 what patch should i use? 8.1? coz i can't find a v8 update and the 8.1 aint working, should i get straight to update 9?
+
+you cant find update 8 because RLD released the entire game again(with the new Caesar in Gaul DLC) when update 8 was released.. this is why you cant install the new updates(8.1 and 9)!
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 07 Feb 2014, 02:11]
+damn that was what i was afraid of...now i'm off to download a new repack all over again...
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 07 Feb 2014, 02:28]
+Avaloan wrote:
+I am wondering is this game worth to try with all updates.
+some says it has a lot of bugs and glitches and missing contents that had in the previous total war games. I am not sure
+what are them exactly since I only played Rome Total war and Empire total war. so is this game worth to try?
+
+
+can someone answer this plz? 
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 07 Feb 2014, 02:37]
+i didn't play the previous one much, so i like the campaign on this one. and it's fun.

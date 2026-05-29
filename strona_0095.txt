@@ -1,0 +1,159 @@
+=========================================
+STRONA 95 (URL: https://cs.rin.ru/forum/viewtopic.php?f=10&t=61441&hilit=rome+2&start=1410)
+=========================================
+
+[Data: Tuesday, 05 Aug 2014, 13:10]
+kooltek wrote:
+So i have downloaded the 3dm release with patch 14, the problem is the game crash when i enter a battle or just ending a turn. I have installed and reinstalled directx, microsoft visual c++ redistributable (2005,2008,2010,2012 and 2013). I have tried to disable directx 11 option inside the appdata/roaming folder (by changing the true for false).
+
+Is there something else i am missing? Do anyone have this crashes?
+
+
+Crack problem! Try Crack from my latest archive.
+
+
+fearless3 wrote:
+Steam crack fix for latest patch?
+
+
+You mean rvt?
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 05 Aug 2014, 13:17]
+ziodaddy wrote:
+chernysh wrote:
+ShadowDuke wrote:
+Give me the link to the mod at pm and i will download and upload it for you. Or try http://gaddons.org/workshop
+
+Loads, but does not work with non-steam version 
+Maybe there is some kind of converter?
+
+
+i got the same issue here.. can download the mods via gaddons.org, but the mods seem not workin with mitch MOD MANAGER.
+also got some error msg when i try to open it with pfm.. anyone can help.. ?
+
+
+Read my post on page 93.
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 05 Aug 2014, 13:17]
+
+_________________
+01000111 01101000 01101111 01110011 01110100 00100000 01110111 01101000 01100101 01110010 01100101 00100000 01100001 01110010 01100101 00100000 01111001 01101111 01110101 00111111 00100000 01000100 01100101 01101100 01100101 01110100 01100101 00100000 01110100 01101000 01101001 01110011 00100000 01110000 01101111 01110011 01110100 00101100 00100000 01101001 01100110 00100000 01111001 01101111 01110101 00100000 01100100 01100001 01110010 01100101 00101110
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 05 Aug 2014, 14:10]
+ShadowDuke wrote:
+kooltek wrote:
+So i have downloaded the 3dm release with patch 14, the problem is the game crash when i enter a battle or just ending a turn. I have installed and reinstalled directx, microsoft visual c++ redistributable (2005,2008,2010,2012 and 2013). I have tried to disable directx 11 option inside the appdata/roaming folder (by changing the true for false).
+
+Is there something else i am missing? Do anyone have this crashes?
+
+
+Crack problem! Try Crack from my latest archive.
+
+
+
+Yes! That was the problem, thank you so much ShadowDuke 
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 05 Aug 2014, 17:14]
+Any progress on a fix for the crack so the game will properly exit?
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 05 Aug 2014, 17:19]
+alvaro1992 wrote:
+Any progress on a fix for the crack so the game will properly exit?
+
+the current crack is working fine, no crashes during game or on exit. 
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 05 Aug 2014, 17:23]
+machine4578 wrote:
+alvaro1992 wrote:
+Any progress on a fix for the crack so the game will properly exit?
+
+the current crack is working fine, no crashes during game or on exit. 
+
+When I click on exit the game will stay on a black screen or it will appear to be closed but it still is in my list of running processes in the taks manager
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 05 Aug 2014, 17:36]
+Use lumaEmu_ceg.dll from patch 13 or patch12. Or exit game with alt+f4 and or close just manually taks at end. No big deal tho, but i understand.
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 05 Aug 2014, 18:33]
+ShadowDuke wrote:
+Use lumaEmu_ceg.dll from patch 13 or patch12. Or exit game with alt+f4 and or close just manually taks at end. No big deal tho, but i understand.
+
+Using the latest LumaEmu_CEG.dll from Steam006 also fixed it, thanks ShadowDuke.
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 05 Aug 2014, 18:46]
+The plugin issnt updated and i used his last in latest patch, so how is that even possible? Latest LumaEmu_CEG.dll is from 23.07.14.
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 05 Aug 2014, 18:51]
+ShadowDuke wrote:
+The plugin issnt updated and i used his last in latest patch, so how is that even possible? Latest LumaEmu_CEG.dll is from 23.07.14.
+
+Yours is from 9:24, latest is 19:10, same day.
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 05 Aug 2014, 18:56]
+ShadowDuke wrote:
+The plugin issnt updated and i used his last in latest patch, so how is that even possible? Latest LumaEmu_CEG.dll is from 23.07.14.
+
+i am using the LumaEmu_CEG.dll from 7-23 too and its working just fine.. no crash on exit and the process closes normally when exiting the game.
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 05 Aug 2014, 19:01]
+alvaro1992 wrote:
+ShadowDuke wrote:
+The plugin issnt updated and i used his last in latest patch, so how is that even possible? Latest LumaEmu_CEG.dll is from 23.07.14.
+
+Yours is from 9:24, latest is 19:10, same day.
+
+
+That doesnt matter, file is the same, check it with hex-comparision.
+
+@machine
+
+Hes not the only one, and its also the same for me. If you exit the game from main menu without loading a game its not anymore in taskman, play or load a game, then exit, task dont close.
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 05 Aug 2014, 19:33]
+ShadowDuke wrote:
+@machine
+
+Hes not the only one, and its also the same for me. If you exit the game from main menu without loading a game its not anymore in taskman, play or load a game, then exit, task dont close.
+
+i still have no issue with the newest .dll even when exiting from main menu without loading a game.. i guess you guys with issues should stay with the .dll that was working from update 12/13 as you mentioned(that .dll still works 100% for me too)
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 05 Aug 2014, 19:49]
+Without loading game and exit from main menu is working, thats what i meant ^^ exit the game from a game issnt.
+
+Edit: Ok, i tested once more and now its ending the task, lol...maybe its my new cpu i dunno ^^
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 05 Aug 2014, 21:47]
+Quote:
+You mean rvt?
+
+Yes, revolt, or maybe other crack to play multiplayer.

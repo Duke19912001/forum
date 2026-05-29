@@ -1,0 +1,575 @@
+=========================================
+STRONA 65 (URL: https://cs.rin.ru/forum/viewtopic.php?f=10&t=61441&hilit=rome+2&start=960)
+=========================================
+
+[Data: Monday, 05 May 2014, 08:38]
+alvaro1992 wrote:
+Protean wrote:
+Some workshop mods are outdated. Use http://www.twcenter.net/forums/forumdis ... ar-Rome-II to download em.
+
+There are some mods that are only on the workshop, and compatible with update 12.
+Tried opening those with PFM and got unknown header error so dont know what else to try.
+
+Buy the game. They need Mod manager to unlock.
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 05 May 2014, 12:19]
+Aomari wrote:
+alvaro1992 wrote:
+Protean wrote:
+Some workshop mods are outdated. Use http://www.twcenter.net/forums/forumdis ... ar-Rome-II to download em.
+
+There are some mods that are only on the workshop, and compatible with update 12.
+Tried opening those with PFM and got unknown header error so dont know what else to try.
+
+Buy the game. They need Mod manager to unlock.
+
+Mod manager in launcher works fine on cracked ver.
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 05 May 2014, 13:50]
+Protean wrote:
+Mod manager in launcher works fine on cracked ver.
+
+
+You mean official launcher?
+Cant make it to open, its always failed to initialize steam! are you running steam? error.
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 05 May 2014, 14:12]
+ShadowDuke wrote:
+alvaro1992 wrote:
+Protean wrote:
+Some workshop mods are outdated. Use http://www.twcenter.net/forums/forumdis ... ar-Rome-II to download em.
+
+There are some mods that are only on the workshop, and compatible with update 12.
+Tried opening those with PFM and got unknown header error so dont know what else to try.
+
+
+Maybe cos they got updated to the latest build of beta12. Like written before, it was updated twice.
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 05 May 2014, 14:26]
+alvaro1992 wrote:
+Protean wrote:
+Mod manager in launcher works fine on cracked ver.
+
+
+You mean official launcher?
+Cant make it to open, its always failed to initialize steam! are you running steam? error.
+
+i have posted more than once a working ALI213 emu for the launcher.exe so you can use it to load mods!
+
+here it is again, put this emu in the launcher folder!
+download/file.php?id=16136
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 05 May 2014, 14:39]
+They are not showing even in the official launcher, so I guess its a steam problem.
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 05 May 2014, 15:49]
+alvaro1992 wrote:
+They are not showing even in the official launcher, so I guess its a steam problem.
+
+weird, i am using the official launcher with cracked game and all mods i use show and work without issue..
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 05 May 2014, 16:52]
+hello, i have hanibal at the gates - reloaded, can someone give me a link to be able to play local coop grand campaing?? thank you
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 06 May 2014, 13:23]
+Total.War.ROME.II.Hannibal.at.the.Gates.FRENCH-ReVOLVeR
+
+ NFO
+Code: Select all | Line number On/Off | Expand/Contract
+                                     ___
+ 
+                           _          :::          _
+                   ___     |     . __ ::: __ .     |     ___
+                 _______   |   :.: /| ::: |\ :.:   |   _______
+                  | _ |    |   ` :  | ::: |  : '   |    | _ |
+                  | X |    |     :  | ::: |  :     |    | X |
+       ______   ___ X |    | ___  ______   __      |  ____  ___       ______
+   ____\    \.'" _/_____    /  \'"  __ \.'" / ____ |  /  \'" _/__ ____\    \
+   / |/     /  _____\  \   /  /     /| /   /  \_ \   /  /  _____\ / |/     /
+  /_       /_  | /   \  \ /  /_       /_  /.╖'"/_ \ /  /   | /   /        /_
+   \/\______\__|/_____/__/__/.\________\________\__/__/____|/___/_\/\      \
+---------------------------------------------------------------------\______\--
+             -------- | ----------- | ::: | ----------- | --------
+             nerv | X |    |     :  | ::: |  :     |    | X | ;sac
+                  |___|    |     -  ` ::: '  -     |    |___|
+                    ___   _|          :::          |_   ___
+                      |   /|                       |\   |
+                      '  / |    r e v o l v e r    | \  `
+                        /_.'    p r e s e n t s    `._\
+ 
+ 
+               Total War: ROME II û Hannibal at the Gates (c) Sega
+ 
+          04/2014 :..... RELEASE.DATE .. PROTECTION .......: Steam+CEG
+                1 :.......... DISC(S) .. GAME.TYPE ........: Strategie
+ 
+ 
+  NOTE:
+  ----
+  Cette release est standalone, elle comprend :
+ 
+  - Greek States Culture Pack
+  - Nomadic Tribes Culture Pack
+  - Baktria Faction Pack
+  - Seleucid Empire Faction Pack
+  - Blood & Gore
+  - Caesar in Gaul
+  - Beasts of War
+  - Hannibal at the Gates
+ 
+  ----
+ 
+Total WarÖ: ROME II û Hannibal aux portes
+ 
+Transportant les joueurs α l'ouest de la MΘditerranΘe α l'aube de la deuxiΦme
+  Guerre punique, Hannibal aux portes dispose d'une nouvelle carte de campagne
+  axΘe sur la situation gΘopolitique prΘcaire qui a menΘ deux anciennes
+  superpuissances mondiales α se livrer une guerre sans merci.
+ 
+Ce conflit, l'un des plus cΘlΦbres de l'histoire, illustre parfaitement le gΘnie
+  tactique des deux gΘnΘraux rivaux, Scipion et Hannibal. Pourrez-vous recrΘer
+  leurs remarquables stratΘgies, voire les surpasser ? Comment changerez-vous
+  l'histoire ?
+ 
+Vous entrez en guerre dans le camp de Carthage ou celui de Rome, commandez la
+  noble citΘ-Θtat hellΘnique de Syracuse ou, pour la premiΦre fois dans ROME II,
+  dirigez l'une des deux factions ibΘriques disponibles, les Arvaques ou les
+  Lusitaniens.
+ 
+Hannibal aux portes comprend Θgalement :
+ 
+Nouvelle carte de campagne :
+ 
+DΘcouvrez une reprΘsentation de la MΘditerranΘe occidentale plus dΘtaillΘe que
+  sur la carte d'origine de ROME II, qui vous permet d'Θtendre votre territoire
+  sur 19 provinces regorgeant de ressources et de villages. Les grandes puissances
+  de l'Θpoque, Rome et Carthage, commencent α couteaux tirΘs, mais elles ont sous
+  leur contr⌠le un certain nombre de rΘgions clΘs et d'Θtats infΘodΘs. Syracuse,
+  les Arvaques et les Lusitaniens dΘbutent tous avec une seule rΘgion, offrant des
+  circonstances considΘrablement diffΘrentes et une difficultΘ supplΘmentaire par
+  rapport aux deux empires.
+ 
+Technologie focalisΘe sur la diplomatie :
+ 
+Les arbres des technologies civiles de Rome et de Carthage disposent de
+  nouvelles branches axΘes sur la diplomatie. Les deux camps commencent avec de
+  multiples alliΘs et Θtats infΘodΘs, et peuvent Θgalement Θbranler le soutien
+  dont bΘnΘficient leurs ennemis α l'aide de mΘthodes diplomatiques.
+ 
+12 tours par an :
+ 
+Chaque tour d'Hannibal aux portes, qui se dΘroule sur une pΘriode couvrant les
+  ΘvΘnements de 218 α 202 av. J-C, reprΘsente un mois. La campagne Θvolue
+  Θgalement au fil des saisons, imprimant des effets particuliers sur le jeu.
+ 
+Campagne multijoueur compacte et ciblΘe :
+ 
+Si vous prΘfΘrez les campagnes multijoueur rapides, l'Θchelle gΘographique
+  rΘduite d'Hannibal aux portes permet aux campagnes α deux joueurs coopΘratives
+  ou compΘtitives d'Ωtre plus focalisΘes et plus rapides qu'une campagne
+  complΦte.
+ 
+Nouvelles batailles historiques :
+ 
+Hannibal aux portes propose deux nouvelles batailles historiques : la bataille
+  de Cannes (216 av. J-C) et la bataille de Zama (202 av. J-C). Ces deux combats
+  sont des moments clΘs de la deuxiΦme Guerre punique, Cannes reprΘsentant le
+  point culminant de l'invasion d'Hannibal en Italie et Zama marquant l'achΦvement
+  de la victoire de Rome et de sa domination sur Carthage.
+ 
+Nouvelles factions jouables dans Total WarÖ: ROME II
+ 
+En plus des puissantes villes de Carthage et de Rome, vous pourrez prendre part
+  α la deuxiΦme Guerre punique avec trois nouvelles factions - les Arvaques, les
+  Lusitaniens et Syracuse - qui disposent de leurs propres traits,
+  caractΘristiques, unitΘs uniques et positions de dΘpart dans la campagne. Si
+  vous achetez Hannibal aux portes, vous retrouverez Θgalement ces unitΘs dans la
+  campagne principale de ROME II.
+ 
+Arvaques
+ 
+L'expansion impΘrialiste a amenΘ aussi bien Carthage que Rome aux portes des
+  Arvaques, bien que ce soit Hannibal qui partage actuellement une frontiΦre avec
+  ces tribus celtibΦres guerriΦres. Les Arvaques sont neutres au dΘbut de la
+  campagne, mais ils font face α un dilemme : leur faut-il s'unir avec Hannibal et
+  risquer des reprΘsailles gΘnocidaires de la part des Romains, ou rester en bons
+  termes avec Rome et subir la colΦre des Carthaginois ? MalgrΘ leur connaissance
+  du terrain et leurs aptitudes remarquables en combat, les Arvaques ne peuvent
+  pas affronter ces deux superpuissances α la fois. Pour l'instant, ils conservent
+  leur neutralitΘ, tout en sachant qu'il leur faudra t⌠t ou tard faire un choix.
+  Quelqu'un doit contr⌠ler la pΘninsule ibΘrique... Les Arvaques en sont-ils
+  capables ?
+ 
+Lusitaniens
+ 
+Les Lusitaniens peuplaient l'IbΘrie bien avant que Carthage et Rome ne mettent
+  les pieds dans la rΘgion. Comme les SuΦves, leurs lointains cousins, ils ne
+  forment pas un clan unique, mais plut⌠t une confΘdΘration de petites tribus qui
+  coopΦrent pour renforcer leurs dΘfenses. Ces guerriers farouches et agiles sont
+  parfaitement adaptΘs α la guΘrilla. L'armΘe carthaginoise d'Hannibal traversant
+  des terres contr⌠lΘes autrefois par Rome, les Lusitaniens ont l'occasion
+  d'Θtendre leurs frontiΦres et de reprendre l'IbΘrie aux envahisseurs. Cependant,
+  mΩme s'il leur faut rester prudents α l'Θgard de l'ennemi et peut-Ωtre mΩme
+  fraterniser avec lui au dΘpart, ils devront t⌠t ou tard l'expulser de leurs
+  terres !
+ 
+Syracuse
+ 
+La citΘ-Θtat de Syracuse jouit d'une rΘputation de centre culturel et
+  scientifique dans le monde de l'Θpoque. C'est aussi une ville riche qui
+  bΘnΘficie grandement de son avantageuse position centrale en MΘditerranΘe. Une
+  sΘrie de tyrans domine son histoire, dΘfendant l'autonomie de la ville contre
+  les autres Grecs, les Carthaginois et les menaces internes. En 218 av. J-C, Rome
+  et Carthage aimeraient s'emparer de Syracuse une bonne fois pour toutes. Les
+  deux superpuissances se prΘparant de nouveau α faire la guerre, la citΘ-Θtat se
+  trouve au bord du prΘcipice : Syracuse forgera-t-elle son propre destin ou
+  sombrera-t-elle dans l'obscuritΘ en ne devenant qu'une possession coloniale
+  parmi tant d'autres ?
+ 
+Nouvelles unitΘs
+ 
+En plus des unitΘs ordinaires, les factions jouables d'Hannibal aux portes
+  disposent des nouvelles unitΘs suivantes. Si vous achetez Hannibal aux portes,
+  vous retrouverez Θgalement ces unitΘs dans la campagne principale de ROME II.
+ 
+Arvaques :
+ò Guerriers peints (infanterie de corps α corps)
+Leurs corps peints et leur odeur dΘplaisante sΦment la peur dans les rangs de
+  leurs malheureux ennemis, une tactique qui leur apporte un avantage de taille.
+ 
+ò Cavalerie celtibΦre (cavalerie de corps α corps)
+Cette unitΘ de cavalerie polyvalente peut faire des ravages quand elle est
+  commandΘe par un gΘnΘral de talent.
+ 
+Lusitaniens :
+ò GuΘrillas lusitaniennes (infanterie furtive α lance)
+Se dΘplaτant dans l'ombre pour prendre leurs adversaires par surprise, ces
+  combattants discrets sont les maεtres de leur discipline.
+ 
+ò Lanciers lusitaniens (infanterie α lance)
+Ces lanciers redoutables ont une rΘputation bien mΘritΘe sur le champ de
+  bataille.
+ 
+Syracuse :
+ò Hoplites piquiers (hoplites d'Θlite, Θgalement disponibles aux AthΘniens)
+CrΦme de la crΦme parmi les hoplites, ils dΘfendent fiΦrement leur ville contre
+  les envahisseurs.
+ 
+Nouvelles unitΘs auxiliaires romaines :
+ò Scutarii auxiliaires (infanterie de corps α corps ibΘrique)
+Ces IbΦres sont plus que capables de servir Rome sur le front.
+ 
+ò Cavalerie de scutarii auxiliaires (cavalerie de corps α corps ibΘrique)
+Ces cavaliers lourds ajoutent une touche de passion ibΘrique au conservatisme
+  des rangs romains.
+ 
+Nouvelles unitΘs de mercenaires ibΘriques :
+ò Mercenaires scutarii (infanterie de corps α corps ibΘrique)
+ArmΘs de falcatas, ces hommes robustes et bien payΘs sont capables de rΘgler un
+  nombre impressionnant de disputes.
+ 
+ò Cavalerie mercenaire scutarii mercenaires (cavalerie de corps α corps
+  ibΘrique)
+Ces mercenaires α cheval sont des adversaires redoutables en combat rapprochΘ.
+ 
+Nouvelles unitΘs de mercenaires italiques :
+ò Hoplites mercenaires Θtrusques (hoplites italiques)
+╔quipΘs et entraεnΘs α la maniΦre des Grecs, les anciens maεtres de Rome restent
+  une force qu'il faut se garder de sous-estimer.
+ 
+ò Guerriers mercenaires samnites (infanterie lourde italique)
+Les peuples conquis sont toujours capables de produire des guerriers
+  redoutables.
+ 
+ò Cavalerie mercenaire campanienne (cavalerie lourde italique)
+Ces nobles cavaliers viennent des zones rurales de la pΘninsule.
+ 
+ 
+ 
+ 
+  1. Unrar.
+  2. Graver ou monter l'image iso.
+  3. Intaller le jeu.
+  4. Copier le contenu cracke depuis le repertoire /Crack vers le repertoire
+     d'installation du jeu.
+  5. Penser a bien bloquer l'acces internet au jeu dans votre firewall.
+  6. Jouer !
+  7. Si vous aimez ce jeu, achetez-le !
+ 
+ 
+ 
+ 
+ 
+                           "Wanna dream try ReVOLVeR"
+                             __                 __
+                             |\    since `o4    /|
+       ,_______;,_           |                   |           _,;_______,
+       ------,_== |/_    __  _       _           _   __   _\| ==_,------
+              (_')  \   ._) (__ \ / | | |   \ / (__ ._)   /  (`_)
+                  )__\  ` ` `-   ╖  `-' `-'  ╖  `-  ` \  /__(
+                       _______  _    .---.    _  _______
+             -----------|\-|\|- | -- | X | -- | -|/|-/|-----------
+                        | \| .  `--' |   | `--'  . |/ |
+                        |    |       `   '       |    |
+                        `.   -    p A N p A N    -   .'
+                                    _______
+                                   ------|--
+                                     |___|
+ 
+                                  " pANpAN"
+ 
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 06 May 2014, 15:11]
+machine4578 wrote:
+alvaro1992 wrote:
+They are not showing even in the official launcher, so I guess its a steam problem.
+
+weird, i am using the official launcher with cracked game and all mods i use show and work without issue..
+
+Try this for example.
+http://steamcommunity.com/sharedfiles/filedetails/?id=233589292
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 06 May 2014, 15:19]
+alvaro1992 wrote:
+Try this for example.
+http://steamcommunity.com/sharedfiles/filedetails/?id=233589292
+
+lol, you cant subscribe to mods on steamworkshop and expect them to download using the cracked version.. you MUST own the game!..
+BUT if you want to use the official launcher, download the mod from an alternative site(not from steamworkshop) and activate it in the launcher to use!
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 06 May 2014, 15:55]
+machine4578 wrote:
+alvaro1992 wrote:
+Try this for example.
+http://steamcommunity.com/sharedfiles/filedetails/?id=233589292
+
+lol, you cant subscribe to mods on steamworkshop and expect them to download using the cracked version.. you MUST own the game!..
+BUT if you want to use the official launcher, download the mod from an alternative site(not from steamworkshop) and activate it in the launcher to use!
+
+
+They were working fine until they stopped doing so, some mods work fine, others do not.
+You can download them with a cracked steam, there is even a thread about it.
+Besides there is this:
+http://gaddons.org/workshop
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 08 May 2014, 17:35]
+looks like the 4th beta 12 update went live as the official update 12!
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 08 May 2014, 19:25]
+Total.War.ROME.II.Update.12.beta_to_final *xdelta* Version: v1.12.0.0-10877.535502 (08.05.2014)
+
+You need Update 12 beta installed!
+
+Changelog:
+
+
+ Spoiler
+Code: Select all | Line number On/Off | Expand/Contract
+ 
+v1.12.0.0 - 10877.535502
+ 
+Technical and performance improvements:
+ 
+Global
+ 
+Fix for squares appearing on certain areas of battle and campaign terrain when using NVIDIA SLI configs.
+ 
+Battle
+ 
+Fix for UI-related crash in battle
+Fixed replay de-sync for siege battles initiated from the frontend (e.g. custom or multiplayer, not campaign battles).
+Fixed a multiplayer battle spectator crash, which occurred when a defending AI general was killed.
+ 
+Campaign
+ 
+Reduced lag during AI turns in Multiplayer Campaign mode.
+Modding
+ 
+Script restricted units can no longer be gained via technology upgrades. Removing a script restriction on a unit when the player has already researched a technology which would have allowed that unit to be upgraded will now allow the upgrade at the point the restriction is lifted.
+Battle AI improvements:
+ 
+Fixed several battle AI issues in naval settlement assaults which caused disembarked units to go idle and not join the battle.
+Fix for a Battle AI bug where units could not find a path to a wall-breach, if a gate was captured before entering city.
+Various battle-map improvements to help the Battle AI use siege equipment more effectively.
+Fixed bug which caused the battle AI not to recognise breaches in some wall corner pieces.
+Improved Battle AI phalanx unit behaviour (ensuring pike units use their phalanx abilities when bracing).
+Battle AI no longer issues orders to units when they should be skirmishing.
+Improved the battle AI’s spatial reasoning in naval settlement assaults. This applies to reinforcing or disembarked naval forces, when selecting positions from which to assault the settlement.
+Code fix to ensure that the battle AI doesn't try use its artillery to attack buildings that are outside of the main settlement.
+ 
+ 
+Campaign AI improvements
+ 
+Campaign AI is now less likely to maintain long blockades without assaulting.
+Campaign AI is now less likely to move armies into proximity with superior enemy forces.
+ 
+ 
+General battle improvements
+ 
+Improvements to certain units in unit groups who would fail to pathfind effectively when ordered to attack units in different areas (in very specific/rare cases on the battlefield).
+Various siege tower climbing fixes.
+Flaming and whilsting projectiles have been removed from elephant units.
+Fix for a bug where cavalry archers occasionally did not fire, despite being in range and showing the firing icon on their unit card.
+Cosmetic improvements to The Oracle of Amun Re.
+Shield types for Germanic Spear Levy and Spear Brothers have been corrected.
+The correct factions now have access to mountable artillery in Custom Battles.
+Improvements to siege vehicles to ensure men on the tower getting knocked into the air does not cause wall-docking to fail.
+Unit parts (armour, tunics etc) updated to offer greater unit variety.
+Various improvements to men climbing siege towers and ladders. Soldiers now climb towers more effectively without milling at the bottom.
+Siege engines will no longer get stuck on trees on the battlefield.
+Player-controlled ambushing armies can now use deployables in ambush battles.
+Naval units no longer attempt to reinforce ambush battles.
+Fixed a bug which prevented armies of only one unit from being able to hide on the battlefield.
+Fixed an area in the large Persian port where ships were not disembarking correctly.
+Increased the number of unobstructed walls in the medium and large Rome siege battle-maps.
+Fixed several cases where multiplayer battles could take place on very steep hills or mountains.
+Several battle map improvements to beach landings, improved terrain heights and collision with some battlefield props.
+Added new helmet variations and new Germanic tunics to Campaign Generals.
+Added new Eastern Horse and Hellenic Heavy Horse variants.
+Trees and units no longer clip through the ground near the Statue of Zeus at Olympia wonder on the battlefield.
+Altered ship-sorting priority when disembarking, in order to reduce shuffling around.
+An alternative bear pelt has been applied to Germanic Berserkers who don't wear helmets under their pelts, so the top of the hairline is no longer visible.
+Improved reforming (including Pike units) on the battlefield, to reduce units crossing over each other as they reform.
+ 
+General Campaign improvements
+ 
+The cost to hire a new general is now higher if you already have sufficient generals to lead your maximum army and navy caps.
+Fixed an exploit which allowed you to transfer units from an army that couldn't move into another army, and therefore move them further.
+Newly formed armies now start with no action points and are unable to switch to the forced march stance until the following turn.
+Roman armies no longer feature Etruscan names.
+Greek ‘Classical Heritage’ faction trait now works correctly.
+Buildings at the beginning of Caesar in Gaul, Hannibal at the Gates and Grand Campaign have been corrected.
+Beasts of War DLC: Sobek Cultist units can now be recruited in regions containing minor settlements.
+The Ares Spear experience bonus is now being applied correctly to minor temples.
+A number of battle maps no longer feature snow during Spring, Summer and Autumn.
+Fixed an issue where an ambushing army would move at the start of the turn. Please note: Sometimes an ambushing army will move when it is discovered or you discover an agent or army that is standing on top of it. This is expected behaviour.
+When a general’s unit is the only unit in a reinforcing army, and the general dies but the unit does not, The general will now die on the campaign map.
+Raiding will no longer cause negative happiness.
+Technology requirements for military ports have been altered. Tier II military ports either have no tech requirements, or the same requirements as other tier II ports.
+Corrected local traditions for Iberian regions in Grand Campaign to be Iberian instead of Celtic.
+Reduced the Siege Holdout Time Effect conferred by siege tower technologies.
+Political promotion positions for Syracuse, Arevaci and Lusitani factions have been corrected.
+Forming a confederation no longer causes rebel armies in regions owned by the confederating factions to be absorbed into the confederation.
+Fixed some terrain issues on the Hannibal at the Gates map.
+New Germanic trousers and tunics added.
+ 
+ 
+Usability Improvements
+ 
+Battle
+ 
+Fixed a rare bug where fire sound-effects would play after a battle had finished, and could be heard over the victory menu.
+ 
+Campaign
+ 
+Reduce Slaves effect now displays the correct icon.
+Retreat button is no longer enabled on the pre-battle siege screen when forces are unable to retreat.
+Some typographical fixes in Incidents and Dilemmas.
+Tweaks to Egyptian and Carthaginian siege technology to more closely match the unlock order of normal Greek technologies.
+Fixed a situation where all new Carthaginian general or agent recruits had the surname "Gisco".
+Fix for some instances where a skull would appear on a unit card despite that unit not being dead on the post battle screen.
+Various improvements to battle-unit banner icons.
+Arevaci, Lusitani and Syracuse civil-war factions minimap and unit card colours have been corrected.
+Roman siege buildings are now unlocked by technologies in the correct order in Grand Campaign.
+ 
+General
+ 
+The exclamation mark symbol on the Twitch.TV button will now appear only when the player has not accepted the Twitch.TV End User Licence Agreement (EULA). It will no longer show when the EULA has been accepted but the player is not signed into their Twitch.TV account.
+Added a warning when loading replays from an older game version, to inform the player that results may be inconsistent when viewed in the version they are now playing.
+If the Twitch End User Licence Agreement (EULA) has previously been declined, it will no longer be displayed every time the game is launched. If the Twitch button is pressed when the EULA has previously been declined, the EULA will then be shown. If the Twitch button is pressed and the player is not signed in to their Twitch account, they will be taken to the options menu to sign in.
+Twitch streams will now be paused when the Steam overlay is active.
+The Twitch button will no longer display during Historical Battle frontend intros.
+ 
+ 
+Balancing Changes
+ 
+Campaign
+ 
+Reduced starting money of all minor factions in the Grand Campaign.
+Unit-balancing changes based on community feedback. Axe Warriors and Naked Warriors have also been added to the Boii unit roster.
+Reduced all technology-conferred ammo bonuses from 50% to 25%.
+Reduced General’s logistics-conferred ammo bonuses from 25% and 50% to 10% and 25%.
+Hidden income bonus for African and Arabian factions removed.
+Reduced the amount of money that the Etruscan league start the campaign with.
+Added two extra Hastati units to Rome at the start of their campaign.
+The Ibossim region now belongs to Carthage at the start of the campaign.
+Unit-balancing changes. Axe Warriors and Naked Warriors have also been added to the Boii unit roster.
+Battle
+ 
+Reduced the Carthage faction-trait ‘Mercenary Upkeep Cost Reduction’ to prevent over-stacking of the effect.
+Painted Ones and ambusher units have been given faster movement speed and more hit points.
+Fierce Swords morale has been changed to 60.
+Lusitani Spears and Lusitani Guerillas units’ building-branches have been swapped, and Lusitani Guerillas are now available from level 2.
+Axe Warriors cost has been increased to 470.
+Sword Followers cost has been increased to 760.
+Bactrian Noble Horse melee attack and charge bonus have been reduced by 2.
+Noble Blood cavalry morale has been increased by 5.
+Veteran Spears hit points have reduced by 5.
+ 
+Assembly Kit
+ 
+Fixed an Assembly Kit bug which removed Campaign victory conditions from Campaign mods.
+ 
+
+
+
+Code: Select all | Line number On/Off | Expand/Contract
+ 
+1) Extract all files to your Rome 2 <root> install dir
+2) Start TWR2_UP12final.bat
+3) Copy Crack
+4) Play
+
+
+Download: [27mb] (Zippyshare, Firedrive, Mega)
+
+Zippyshare
+Firedrive
+Mega
+
+Notes: German Update. ENG lang files below.
+
+
+ENG-Lang Files for Update12 (final): (thanks to machine4578)
+
+http://www35.zippyshare.com/v/71418479/file.html
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 08 May 2014, 19:39]
+Thx @ShadowDuke for non-stop updating this game and thx to machine4578 for updated language.
+
+Have a nice gaming life 
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 08 May 2014, 19:39]
+
+_________________
+List of some Computer games CLICK ME

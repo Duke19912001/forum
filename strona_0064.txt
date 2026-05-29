@@ -1,0 +1,138 @@
+=========================================
+STRONA 64 (URL: https://cs.rin.ru/forum/viewtopic.php?f=10&t=61441&hilit=rome+2&start=945)
+=========================================
+
+[Data: Thursday, 24 Apr 2014, 10:20]
+Good it worked out for you now. So you must have UAC disabled to be able to patch with xdelta?
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 24 Apr 2014, 11:53]
+ShadowDuke wrote:
+Good it worked out for you now. So you must have UAC disabled to be able to patch with xdelta?
+
+
+Yeah it seems so. When it was enabled I would get access denied before the patches and at the end before you close. When it worked I noticed it removed the 4 files from the folder which it never did before.
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 25 Apr 2014, 17:42]
+Shadow, do you know how to convert Lan coop saves from the steamworks crack to your one? When i change crack MP saves dont show up, only SP ones.
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 27 Apr 2014, 07:16]
+ShadowDuke wrote:
+I decided to bring Update 12 bring now after all, cos a lot of changes were made and most of the popular mods switched already to Update12 beta.
+
+Total.War.ROME.II.Update.12.beta *xdelta* Version: v1.12.0.0-10624.531958 (17.04.2014)
+
+Could you please post the hotfix one and two for Update 12 BETA ?
+CA mess up the Blood&Gore DLC with patch 12 BETA, those two hotfixs are to fix them.
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 27 Apr 2014, 07:55]
+@Protean
+
+Sry, no idea.
+
+@Aomari
+
+Too much work for such a small Update, there were 2 patches already on Up12beta. I will bring a beta_to_final patch once the Update12 is final and not beta anymore. Shouldnt be long. So until then you have to get a long without blood. 
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 27 Apr 2014, 08:08]
+ShadowDuke wrote:
+@Aomari
+
+Too much work for such a small Update, there were 2 patches already on Up12beta. I will bring a beta_to_final patch once the Update12 is final and not beta anymore. Shouldnt be long. So until then you have to get a long without blood. 
+
+Thank you so much, ShadowDuke.
+  
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 28 Apr 2014, 16:29]
+@ShadowDuke is it possible to play lan with the version you posted of patch 12 beta ? Because in the previous patch (11) I managed to connect no problem to the server my friend hosted but then when we were resuming the save file wouldn't load. Not sure how to fix it, so yeah I was wondering if it is fixed. Also thank you for doing this and providing the beta patch !
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 28 Apr 2014, 19:47]
+R3in wrote:
+@ShadowDuke is it possible to play lan with the version you posted of patch 12 beta ? Because in the previous patch (11) I managed to connect no problem to the server my friend hosted but then when we were resuming the save file wouldn't load. Not sure how to fix it, so yeah I was wondering if it is fixed. Also thank you for doing this and providing the beta patch !
+
+It is possible because i played on it on lan.
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 28 Apr 2014, 20:27]
+Protean wrote:
+R3in wrote:
+@ShadowDuke is it possible to play lan with the version you posted of patch 12 beta ? Because in the previous patch (11) I managed to connect no problem to the server my friend hosted but then when we were resuming the save file wouldn't load. Not sure how to fix it, so yeah I was wondering if it is fixed. Also thank you for doing this and providing the beta patch !
+
+It is possible because i played on it on lan.
+
+Really? On which version do you play on? And do you use any side cracks like "Lan fix" or "Multiplayer Patch"?
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 29 Apr 2014, 13:32]
+R3in wrote:
+Protean wrote:
+R3in wrote:
+@ShadowDuke is it possible to play lan with the version you posted of patch 12 beta ? Because in the previous patch (11) I managed to connect no problem to the server my friend hosted but then when we were resuming the save file wouldn't load. Not sure how to fix it, so yeah I was wondering if it is fixed. Also thank you for doing this and providing the beta patch !
+
+It is possible because i played on it on lan.
+
+Really? On which version do you play on? And do you use any side cracks like "Lan fix" or "Multiplayer Patch"?
+
+I played on beta 12 patch few rounds on lan(New mp campaign). We used only newest crack from Shadow from his update folder.
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 03 May 2014, 13:13]
+Someone has been able to make workshop's mods to run with modmanager?
+Some patches ago they were working fine, but now they wont show up in modmanager, and the game wont start if any mod from workshop is present in the data folder.
+Non workshop mods work fine.
+Weird.
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 04 May 2014, 12:22]
+Some workshop mods are outdated. Use http://www.twcenter.net/forums/forumdis ... ar-Rome-II to download em.
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 04 May 2014, 12:47]
+Protean wrote:
+Some workshop mods are outdated. Use http://www.twcenter.net/forums/forumdis ... ar-Rome-II to download em.
+
+There are some mods that are only on the workshop, and compatible with update 12.
+Tried opening those with PFM and got unknown header error so dont know what else to try.
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 04 May 2014, 14:05]
+Hello all, i had a hanniball at the gates repack that a friend downloaded and we tried to play multiplayer campaign (co-op) we can host , join , play and save, but we cant resume host. it allways appear like 1 of us choose "House of cornelia" and then that game dont resume, we tried to chose house of cornelia, the game was able to resume but then the end turn button didnt worked ;(
+
+Could someone help me to play coop Lan (localy using a cable) without errors?
+
+I am now instaling this version: Total.War.ROME.II.Hannibal.at.the.Gates-RELOADED
+but i think it will be the same, can someone tell me what to do in order to play coop campaing in lan with this version?
+
+thank you all
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 04 May 2014, 14:38]
+alvaro1992 wrote:
+Protean wrote:
+Some workshop mods are outdated. Use http://www.twcenter.net/forums/forumdis ... ar-Rome-II to download em.
+
+There are some mods that are only on the workshop, and compatible with update 12.
+Tried opening those with PFM and got unknown header error so dont know what else to try.
+
+
+Maybe cos they got updated to the latest build of beta12. Like written before, it was updated twice.

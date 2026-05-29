@@ -1,0 +1,212 @@
+=========================================
+STRONA 17 (URL: https://cs.rin.ru/forum/viewtopic.php?f=10&t=61441&hilit=rome+2&start=240)
+=========================================
+
+[Data: Thursday, 05 Sep 2013, 13:23]
+can someone show me how to change custom resolution ? like 800x600, because im now on low spec pc, so using higher resolution make my game performance go down so bad.. 
+
+thanks..
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 05 Sep 2013, 13:28]
+shahril wrote:
+can someone show me how to change custom resolution ? like 800x600, because im now on low spec pc, so using higher resolution make my game performance go down so bad.. 
+
+thanks..
+
+
+use this
+http://skyrim.nexusmods.com/mods/15123
+
+it automatically reduces the resolution of the game. it's developed for skyrim but it might work for this too unless the game uses directx 10 or 11.
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 05 Sep 2013, 13:33]
+shahril wrote:
+can someone show me how to change custom resolution ? like 800x600, because im now on low spec pc, so using higher resolution make my game performance go down so bad.. 
+
+thanks..
+
+Tell us if this software work with Rome II
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 05 Sep 2013, 13:39]
+Avaloan wrote:
+shahril wrote:
+can someone show me how to change custom resolution ? like 800x600, because im now on low spec pc, so using higher resolution make my game performance go down so bad.. 
+
+thanks..
+
+
+use this
+http://skyrim.nexusmods.com/mods/15123
+
+it automatically reduces the resolution of the game. it's developed for skyrim but it might work for this too unless the game uses directx 10 or 11.
+
+
+i have try it, and this error come up at the screen :-
+
+
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 05 Sep 2013, 13:47]
+You guys have any opinions on this g@me so far?  It's not really my kind of genre, but i wonder whether i should try it out or not.
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 05 Sep 2013, 15:00]
+shahril wrote:
+Avaloan wrote:
+shahril wrote:
+can someone show me how to change custom resolution ? like 800x600, because im now on low spec pc, so using higher resolution make my game performance go down so bad.. 
+
+thanks..
+
+
+use this
+http://skyrim.nexusmods.com/mods/15123
+
+it automatically reduces the resolution of the game. it's developed for skyrim but it might work for this too unless the game uses directx 10 or 11.
+
+
+i have try it, and this error come up at the screen :-
+
+
+
+
+Use this file. (it was reversed engineered a bit)
+and please also let me know the result.
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 05 Sep 2013, 15:13]
+Please guys, how to setup a multiplayer game? Cause I only can host in Local, and in quick match I can invite but nothing happens...Please...
+
+Ok, it's ppid problem...
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 05 Sep 2013, 15:41]
+I forgot to mention don't use HiAlgoBoost when you have a low FPS caused by the weak CPU. only use when your GPU is weak because what it does reduces the resolution when the camera is moving. the resolution is determined by the number of pixels of the screen rendered by the GPU in a given time so when the GPU is weak and when the resolution is increased the performance is reduced.
+so it might not very useful for people who got low FPS caused by the CPU.
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 05 Sep 2013, 18:08]
+Quote regarding patch tomorrow:
+
+ Spoiler
+Hi all,This is the beta of the patch due to go live tomorrow. If you’d like to test it to see if it solves some problems for you please follow the installation procedure:
+
+In your steam game library, right click Total War: Rome II.
+Then choose Properties and select the BETAS tab.
+Finally select “patch1beta” from drop down list.
+
+Please do be aware that this may not work or solve your specific issue and you take part in any beta tests at your own risk. If you do not wish to assume that risk please wait for the official live update tomorrow.
+
+We are continually working to improve ROME II for all players; the next update after this one will be next week.
+
+Patch notes for Total War: ROME II Patch 1 (due for release on 06/09/2013):
+• Higher average frame rates with out-of-the-box settings (more conservative settings)
+• Fix for DirectX 10.0 Lighting issue reported - environment map wasn't being created leading to black reflections.
+• Fixed a sunken Samothrace temple complex world wonder on the Campaign map.
+• Fixed defender being able to create encampments when involved in a combined battle.
+• Added some localisation fixes to audio packs in French, Russian, Italian, German and Spanish.
+• Fixed lock up in Multiplayer Campaign battles when a desynchronisation occurs. Players are now notified of the desynchronisation, and the battle ends.
+• Fixed Multiplayer Campaign battle "overrun" prompt, which was not being shown to a player if they were a reinforcement and the other player was spectating.• Fixed corrupt loading screen when changing to fullscreen / windowed mode after a battle, and then going into another battle.
+• Fix for Multiplayer Campaign host being unable to move the camera in campaign, after reloading a save game on some rare occasions.
+• Safe guards added to prevent a very rare crash in coastal assault battles.
+• Fix for game lock up during end turn sequence / Celtic AI faction turn in single player campaign.
+• Improved AI use of walls on Athens large settlement battle map.<-- only Athens?
+• Improvements to Auto-resolve balancing in Single Player and Multiplayer Campaign modes.
+• Aligned ship unit upkeep costs with land units - made mercenary ships more expensive and non-mercenary ships cheaper.
+• Fixed slow turning rates for transport ships.
+• Improved civil war balancing in relation to campaign difficulty.
+• Fixed vehicle ground pipes, to prevent Siege Towers becoming immovable when they are left empty during the Deployment Phase of a Siege Battle, then units were moved into the Siege Tower when the battle has started.
+• Fixed bug when ramming sideways into moving ship, which caused the ramming ship stick to target and strafe along with it in battles.
+• Reduced the chance of Naval units sometimes clipping through the ground or harbours / ports during Port Assault battles when attempting to disembark.
+• Fixed issue where armies would be stuck in Muster stance and could not exit that stance in Campaign modes.
+• Fixed case where spies could get stuck on top of fleets in Campaign modes.
+• Fixed rare post battle lockup in Campaign modes.
+• Improved unit pathfinding in Barbarian village battle maps (fixed no go zones).
+• Fix for Multiplayer Campaign lock up when the player was reinforcing an AI ally who was victorious in battle, causing the player to become stuck with no victory / continue / exit battle user interface functionality.
+• Fix for cultural influence bonus from the Shrine of Neptune building
+• Fix for “Zone of Controls” of hidden armies being visible to both players in head to head Multiplayer Campaign mode on mouse-over.
+• Assorted minor fixes to city battle maps.
+• Fix for "Rome Wasn't Built in a Day" achievement failing to unlock when its requirements were met in some situations.
+
+
+
+Those who have the game legit can test the upcoming patch right now apparently
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 05 Sep 2013, 18:29]
+Quote:
+Higher average frame rates
+
+meh 
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 05 Sep 2013, 18:29]
+
+_________________
+
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 05 Sep 2013, 18:34]
+Marti20 wrote:
+Quote:
+Higher average frame rates
+
+meh 
+
+we will see
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 05 Sep 2013, 18:38]
+Great patch... no any REAL(people says it this beta patch change.. nothing about optymalization) fix for this shitty optymalization. Thanks god that I didn't buy this alpha(early beta) 'thing'... 55 euro for that?!
+
+p.s metacritic game score = 4.6/10 and falls.. I wonder why ..  
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 05 Sep 2013, 18:54]
+ofc that patch wont change anything at performance. ALso nothing in notes about it! Nvidia also needs to rel a new driver! Some1 please upload those fles? What are they? patch.pack etc? Please!?
+
+But the game itself is very good!
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 05 Sep 2013, 19:33]
+legoras wrote:
+Great patch... no any REAL(people says it this beta patch change.. nothing about optymalization) fix for this shitty optymalization. Thanks god that I didn't buy this alpha(early beta) 'thing'... 55 euro for that?!
+
+p.s metacritic game score = 4.6/10 and falls.. I wonder why ..  
+
+that's not true metacritic score is 86 not 46 .. i don't know what you are trying to accomplish with that false input !!!
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 05 Sep 2013, 19:45]
+numerno wrote:
+legoras wrote:
+Great patch... no any REAL(people says it this beta patch change.. nothing about optymalization) fix for this shitty optymalization. Thanks god that I didn't buy this alpha(early beta) 'thing'... 55 euro for that?!
+
+p.s metacritic game score = 4.6/10 and falls.. I wonder why ..  
+
+that's not true metacritic score is 86 not 46 .. i don't know what you are trying to accomplish with that false input !!!
+
+
+
+
+-- Edit --
+
+I actually don't believe in rating the reviews are the opinions of individual people. I remember I saw hitman absolution was given 6.5 but still it deserves at least 8.

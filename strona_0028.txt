@@ -1,0 +1,210 @@
+=========================================
+STRONA 28 (URL: https://cs.rin.ru/forum/viewtopic.php?f=10&t=61441&hilit=rome+2&start=405)
+=========================================
+
+[Data: Tuesday, 10 Sep 2013, 19:28]
+Patch 1.5beta is out (which comes Friday). 22mb.
+
+
+Quote:
+Hi Everyone,
+
+We have taken the decision to move back Patch 2 slightly to increase the amount of fixes included in it. We will have more news on it later this week.
+
+Before then, Patch 1.5 will release which contains one important fix.
+
+Patch 1.5 will enter public BETA testing today. It will not automatically update your game at this time, you can download it should you wish to participate in the BETA test by following the instructions below:
+
+Patch 1.5 Contains one fix:
+- Should improve Campaign Map frame rate in the majority of cases for those people with high-end graphics cards combined with mid-range CPUs. Those people who have noted high frame rates in battle but single-figure frame rates during Campaign Map play should see a notable increase in performance.
+
+
+If you’d like to use it rather than wait for the official hotfix:
+
+In your steam game library, right click Total War: Rome II. Then choose Properties and select the BETAS tab. Finally select “patch1.5” from the drop down list.
+
+Please do be aware that this may not work or solve your specific issue and you take part in any beta tests at your own risk. If you do not wish to assume that risk please wait for the official live update.
+
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 11 Sep 2013, 16:45]
+Just to clear things out.
+
+Are there anyway that you can play right now Co-Op with a friend on Tunngle without getting the Load/Save error where if you load the game, you start as House of Cornelia and then you play as the same country?
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 11 Sep 2013, 17:15]
+ShadowDuke wrote:
+Patch 1.5beta is out (which comes Friday). 22mb.
+
+I don't have any beta enabled and I got an update as you said 23.7mb (10.8GB)
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 11 Sep 2013, 17:15]
+
+_________________
+From Mexico with love ^^
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 11 Sep 2013, 18:12]
+Patch 1.5 beta just got out of beta and officially released on steam.
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 11 Sep 2013, 18:17]
+excor wrote:
+Patch 1.5 beta just got out of beta and officially released on steam.
+
+is this new patch update .exe and .dll?
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 11 Sep 2013, 18:19]
+oronzo91 wrote:
+excor wrote:
+Patch 1.5 beta just got out of beta and officially released on steam.
+
+is this new patch update .exe and .dll?
+
+Yes
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 11 Sep 2013, 18:19]
+
+_________________
+From Mexico with love ^^
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 11 Sep 2013, 19:00]
+mhcvel wrote:
+oronzo91 wrote:
+excor wrote:
+Patch 1.5 beta just got out of beta and officially released on steam.
+
+is this new patch update .exe and .dll?
+
+Yes
+
+Ok, Now wait for reloaded
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 11 Sep 2013, 22:09]
+REV076 wrote:
+Apparently PC users were just beta testers for console release; Rome 2 is coming to consoles in next-gen.
+
+
+Quote please, because they only announced they were thinking about bringing out FUTURE TW games for next gen consoles, IF the consoles were as succesful as promised.
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 12 Sep 2013, 08:02]
+Anyone have problems with update 1? because since I updated the game I cant play siege battles, and my frame rate dropped almost to 10, another problem is that I see many textures as black including siege weapons and traps, since I reinstalled the game I dont experience those issues, is that update suppose to help or making things worse
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 12 Sep 2013, 14:55]
+ok i found this patch, it's from 3DM, published 9/9/2013
+and it says patch 2.0
+i don't know about it, any confirmation ??
+
+http://pan.baidu.com/share/link?uk=3090 ... 1104128770
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 12 Sep 2013, 14:55]
+
+_________________
+SPECS : Ryzen 7 3800X | RTX 3070 8G | 16Gb DDR4 | 1TB SSD
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 12 Sep 2013, 14:59]
+m2net wrote:
+ok i found this patch, it's from 3DM, published 9/9/2013
+and it says patch 2.0
+i don't know about it, any confirmation ??
+
+http://pan.baidu.com/share/link?uk=3090 ... 1104128770
+
+
+that is a chinese localization patch..
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 12 Sep 2013, 15:03]
+machine4578 wrote:
+m2net wrote:
+ok i found this patch, it's from 3DM, published 9/9/2013
+and it says patch 2.0
+i don't know about it, any confirmation ??
+
+http://pan.baidu.com/share/link?uk=3090 ... 1104128770
+
+
+that is a chinese localization patch..
+
+
+so ?
+i was downloading updates for WARGAME : Airland Battle; ( since reloaded stopped patching ) from 3DM, and yes they were CHS, but worked in english great !
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 12 Sep 2013, 15:03]
+
+_________________
+SPECS : Ryzen 7 3800X | RTX 3070 8G | 16Gb DDR4 | 1TB SSD
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 12 Sep 2013, 15:07]
+m2net wrote:
+machine4578 wrote:
+m2net wrote:
+ok i found this patch, it's from 3DM, published 9/9/2013
+and it says patch 2.0
+i don't know about it, any confirmation ??
+
+http://pan.baidu.com/share/link?uk=3090 ... 1104128770
+
+
+that is a chinese localization patch..
+
+
+so ?
+i was downloading updates for WARGAME : Airland Battle; ( since reloaded stopped patching ) from 3DM, and yes they were CHS, but worked in english great !
+
+
+do what you want, but that is a Chinese localization patch!! it is NOT an update!
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 12 Sep 2013, 15:13]
+that is a chinese localization patch..[/quote]
+
+so ?
+i was downloading updates for WARGAME : Airland Battle; ( since reloaded stopped patching ) from 3DM, and yes they were CHS, but worked in english great ![/quote]
+
+do what you want, but that is a Chinese localization patch!! it is NOT an update![/quote]
+
+
+ah ok thanks )
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 12 Sep 2013, 15:13]
+
+_________________
+SPECS : Ryzen 7 3800X | RTX 3070 8G | 16Gb DDR4 | 1TB SSD
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 12 Sep 2013, 19:32]
+ok, since patch 2.0 from 3dm is chinese localization, patch 1.1 what is it? nobody aswered me to previous post...I applied 3dm patch 1,1 on 3dm total war rome 2 and couldn't change language in english, even with those language pack update 1
+by the way, 3dm released even patch 3, don't know what it represent

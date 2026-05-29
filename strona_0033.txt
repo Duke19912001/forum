@@ -1,0 +1,189 @@
+=========================================
+STRONA 33 (URL: https://cs.rin.ru/forum/viewtopic.php?f=10&t=61441&hilit=rome+2&start=480)
+=========================================
+
+[Data: Sunday, 22 Sep 2013, 12:45]
+machine4578 wrote:
+prudislav wrote:
+update 1 always rolls back on models_rome2.pack for me 
+
+
+here is the updated models_rome2.pack file from update 2 for you that checks out 100%
+2.5GB compressed to 700MB 
+http://www.putlocker.com/file/FF254490A98A049F
+
+and here is a sfv to check all your files
+
+
+
+i have checked my files with that sfv after the update 2 and i have 7 "bad files"
+Rome2.dll
+steam_api.dll
+data\models2_rome2.pack
+data\models_rome2.pack
+data\movies_rome2.pack
+data\sound_rome2.pack
+data\terrain2_rome2.pack
+suggestions?
+update 1 was installed and game worked fine..
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 22 Sep 2013, 13:09]
+Anemol wrote:
+i have checked my files with that sfv after the update 2 and i have 7 "bad files"
+Rome2.dll
+steam_api.dll
+data\models2_rome2.pack
+data\models_rome2.pack
+data\movies_rome2.pack
+data\sound_rome2.pack
+data\terrain2_rome2.pack
+suggestions?
+update 1 was installed and game worked fine..
+
+
+the Rome2.dll and steam_api.dll won't match because they are from the legit game, but the 5 other files from the data folder obviously did not update.. i suggest reinstalling the game and updating again, and make sure you have plenty of space on your C drive (10+GB) because of the backups created during updating..
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 22 Sep 2013, 13:21]
+hi
+I can not update
+please Rome 2 regedit
+
+does not work
+
+Code: Select all | Line number On/Off | Expand/Contract
+[HKEY_CURRENT_USER\Software\The Creative Assembly]
+ 
+[HKEY_CURRENT_USER\Software\The Creative Assembly\Rome2]
+"guid"="130df053-626f-42e1-84a8-673c2c480ac1"
+"settings_changed"=dword:00000001
+ 
+[HKEY_CURRENT_USER\Software\The Creative Assembly\Rome2\Battles]
+"Capua"=dword:00000002
+ 
+[HKEY_CURRENT_USER\Software\The Creative Assembly\Rome2\Preferences]
+ 
+[HKEY_CURRENT_USER\Software\The Creative Assembly\Rome2\Preferences\Battle Setup]
+ 
+[HKEY_CURRENT_USER\Software\The Creative Assembly\Rome2\Preferences\Campaigns]
+"main_rome"=dword:00000001
+ 
+[HKEY_CURRENT_USER\Software\The Creative Assembly\Rome2\Preferences\LastKeySet]
+ 
+[HKEY_CURRENT_USER\Software\The Creative Assembly\Rome2\Preferences\LoadingScreenQuotes]
+"last_quote_was_advice"=dword:00000000
+"quote_index"=dword:00000015
+"advice_Battle_index"=dword:00000007
+"advice_Campaign_index"=dword:0000000d
+ 
+[HKEY_CURRENT_USER\Software\The Creative Assembly\Rome2\Preferences\Tutorials]
+"1"=dword:00000001
+"Capua"=dword:00000001
+@=dword:00000001
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 22 Sep 2013, 13:34]
+@berkxy
+you dont need registry entries!
+put the RLD updater in your game directory and run it!
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 22 Sep 2013, 13:45]
+ahhh tanks
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 22 Sep 2013, 15:03]
+hi all, sorry to bother but can someone please upload for me movies_rome2.pack only?
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 22 Sep 2013, 15:46]
+iamalive wrote:
+hi all, sorry to bother but can someone please upload for me movies_rome2.pack only?
+
+
+i am assuming you want the movies_rome2.pack from update 2, so here you are
+http://www.putlocker.com/file/CC12837ACF1F18DA
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 22 Sep 2013, 16:23]
+machine4578 wrote:
+iamalive wrote:
+hi all, sorry to bother but can someone please upload for me movies_rome2.pack only?
+
+
+i am assuming you want the movies_rome2.pack from update 2, so here you are
+http://www.putlocker.com/file/CC12837ACF1F18DA
+
+
+wow thanks, actually i need the original version. to play i need to update anyway. really appreciate it.
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 22 Sep 2013, 20:21]
+Mp is not working with update 2 so if you want to continue your mp campaings dont update / wait for better crack .
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 22 Sep 2013, 22:13]
+Do we need an updated spanish.pack, like in update 1?
+
+If yes, can you post it?
+
+TNKS.
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 22 Sep 2013, 23:51]
+Guys you have to install the update after you put the crack!
+and put the patch file in the game folder before running it,that's to make it detect your game files.
+
+
+
+
+Also guys,any luck with another steamworks patch or a lan fix,cuz with this update if I try to host the game stops working and the fault is in the steamapi.dll
+
+
+Thanks 
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 23 Sep 2013, 07:58]
+Anyone have update 2 Turkish language files ? 
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 25 Sep 2013, 16:51]
+Hey guys,
+
+Anybody knows whether you have to reapply the crack after installing Update 1 or 2? Anybody also noticed the faulty Reloaded background image in the Update 2 Setup?
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 25 Sep 2013, 17:24]
+....it sure is hard to read the nfo, right?
+
+
+Code: Select all | Line number On/Off | Expand/Contract
+Â 
+1. Unrar
+Â  2. Use the patcher to patch the install dir of Total.War.ROME.II-RELOADED
+Â  Â  Â with crack added. Copy the patch into game install dir and run it.
+Â  Â  Â You will need ~10gb free space to do this, which you can reclaim by
+Â  Â  Â deleting the Backup dir.
+Â  3. Play the game.
+Â 
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 25 Sep 2013, 18:10]
+ShadowDuke wrote:
+....it sure is hard to read the nfo, right?
+It's just a question to make sure, you don't have to answer it if the question is not to your liking, right?

@@ -1,0 +1,374 @@
+=========================================
+STRONA 1 (URL: https://cs.rin.ru/forum/viewtopic.php?f=10&t=61441&hilit=rome+2&start=0)
+=========================================
+
+[Data: Monday, 09 Jul 2012, 18:56]
+Additional information will be added soon.
+
+
+
+
+Total War: ROME II - Emperor Edition
+
+
+ Steam information
+Details
+Store Page: http://store.steampowered.com/app/214950
+Genre(s): Strategy
+Developer: Creative Assembly
+Publisher: SEGA
+Release Date: 2 Sep, 2013
+Language(s): English*, German*, French*, Italian, Spanish, Russian, Polish, Czech, Turkish
+*languages with full audio support
+Operating system(s):  
+
+Features
+
+ Single-player
+ Multi-player
+ Steam Trading Cards
+ Steam Cloud
+
+About The Game
+About Total War: ROME II - Emperor Edition:
+
+Emperor Edition is the definitive edition of ROME II, featuring an improved politics system, overhauled building chains, rebalanced battles and improved visuals in both campaign and battle.
+
+In addition, Emperor Edition includes all content and feature updates made available for ROME II since its launch in September 2013. These include Twitch.TV integration, touchscreen controls, new playable factions and units, and Mac compatibility.
+The Imperator Augustus Campaign Pack and all Emperor Edition content and features are free, via automatic update, to all existing ROME II owners.
+
+If you’re new to Total War: ROME II click the Total War Academy link to learn more: https://academy.totalwar.com/rome2/
+
+About the Imperator Augustus Campaign Pack
+
+The Imperator Augustus Campaign Pack is a new playable campaign for ROME II, which rivals the original ROME II Grand Campaign in both scope and scale. This campaign comes as part of Total War™: ROME II – Emperor Edition and is available as a free, automatic update to existing owners of Total War™: ROME II.
+The Imperator Augustus Campaign Pack is set in 42 BC during the chaotic aftermath of Caesar’s grisly murder. The republic remains whole, but its soul is divided as three great men, the members of the Second Triumvirate, hold the future of Rome in the palms of their hands.
+
+Octavian, Caesar’s adoptive son and the heir to his legacy.
+
+Marc Antony, Caesar’s loyal friend and most trusted lieutenant.
+
+Lepidus, Pontifex Maximus of Rome and the man who secured Caesar’s dictatorship.
+
+With the territories of The Republic divided between them and the military might of Rome at their beck-and-call, the members of The Second Triumvirate are each in a position to make a bid for leadership, and rule Rome as its first – and only – emperor.
+
+However, external forces are on the move, looking to exploit the instability of Rome and expand their own territories. Will you fight as a defender of Rome and defeat the other members of the Triumvirate? Or lead another faction on a campaign of conquest and expansion, and take advantage of the chaos as the Roman civil war rages?
+
+Playable Factions
+
+Players may embark on a new Campaign as one of the following playable factions:
+Marc Antony
+Lepidus
+Octavian
+Pompey
+Iceni
+Marcomanni
+Dacia
+Egypt
+Parthia
+Armenia (also now playable in the ROME II Grand Campaign).
+
+How far will you go for Rome?
+
+The award-winning Total War series returns to Rome, setting a brand new quality benchmark for Strategy gaming. Become the world’s first superpower and command the Ancient world’s most incredible war machine. Dominate your enemies by military, economic and political means. Your ascension will bring both admiration and jealousy, even from your closest allies.
+
+Will you suffer betrayal or will you be the first to turn on old friends? Will you fight to save the Republic, or plot to rule alone as Emperor?
+
+✢ Plan your conquest of the known world in a massive sandbox turn-based campaign mode (supporting additional 2-player cooperative & competitive modes). Conspiracies, politics, intrigue, revolts, loyalty, honour, ambition, betrayal. Your decisions will write your own story.
+
+✢ Build vast armies and take to the battlefield in real-time combat mode. Put your tactical skills to the test as you directly control tens of thousands of men clashing in epic land and sea battles.
+
+✢ Play for the glory of Rome as one of three families or take command of a huge variety of rival civilisations – each offers a notably different form of gameplay experience with hundreds of unique units from siege engines and heavy cavalry to steel-plated legionaries and barbarian berserkers.
+
+✢ See exotic ancient cities and colossal armies rendered in incredible detail, as jaw-dropping battles unfold. Detailed camera perspectives allow you to see your men shout in victory or scream in pain on the frontline, while a new tactical cam allows a god’s eye view of the carnage to better inform your strategic decisions.
+
+✢ Extremely scalable experience, with gameplay and graphics performance optimised to match low and high-end hardware alike.
+
+System Requirements
+Minimum
+
+OS: XP/ Vista / Windows 7 / Windows 8
+
+Processor:2 GHz Intel Dual Core processor / 2.6 GHz Intel Single Core processor
+
+Memory:2GB RAM
+
+Graphics:512 MB DirectX 9.0c compatible card (shader model 3, vertex texture fetch support).
+
+DirectX®:9.0c
+
+Hard Drive:35 GB HD space
+
+Additional:Screen Resolution - 1024x768
+
+Recommended:
+
+OS:Windows 7 / Windows 8
+
+Processor:2nd Generation Intel Core i5 processor (or greater)
+
+Memory:4GB RAM
+
+Graphics:1024 MB DirectX 11 compatible graphics card.
+
+DirectX®:11
+
+Hard Drive:35 GB HD space
+
+Additional:Screen Resolution - 1920x1080
+
+
+
+ Videos
+
+
+
+
+
+
+
+
+More official Videos
+
+
+Installation order
+
+Scene:
+Total.War.Rome.II.Rise.of.the.Republic-CODEX
+Total.War.Rome.II.Rise.of.the.Republic.Update.v2.4.0.19581-CODEX
+Total.War.Rome.II.Rise.of.the.Republic.Update.v2.4.0.19683-CODEX
+Total.War.Rome.II.Rise.of.the.Republic.Update.v2.4.0.19728-CODEX
+
+
+DLC pack / loose DLC files:
+viewtopic.php?p=2147379#p2147379
+viewtopic.php?p=1946848#p1946848
+viewtopic.php?p=1947522#p1947522
+
+
+Language packs / loose language files:
+https://privatebin.rinuploads.org/?0bc0 ... kUJOIxc1g= [May link to unsafe filehosters]
+viewtopic.php?p=1913561#p1913561
+
+
+Latest Steamworks fix for v2.4.0.19728:
+CreamAPI based: viewtopic.php?p=1809919#p1809919
+0xdeadc0de: viewtopic.php?p=1809610#p1809610
+
+Latest CreamAPI files (thanks to deadmau5 for CreamAPI) for v2.4.0.19728:
+https://openload.co/f/-0hKPVId634/Total ... reamAPI.7z
+
+
+How to use mods:
+If you want to use mods, simply use the: TWR2 Mod-Manager or if you prefer to do it manually look here: http://www.twcenter.net/forums/showthread.php?623840-Using-the-quot-User-Script-txt-quot-File or here: https://cs.rin.ru/forum/viewtopic.php?f=10&t=61441&p=1253873#p1253873
+
+
+For Modders: The Assembly Kit (Patch 16.1)
+viewtopic.php?p=1000150#p1000150]
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 09 Jul 2012, 18:56]
+
+_________________
+Always wanted to get rid of the files that were not listed in the sfv/md5 hash file? Check the QuickSFV plugin I created for this: viewtopic.php?f=10&t=108605 or this: viewtopic.php?p=1273745#p1273745
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 30 Jul 2012, 16:57]
+
+They released some new screenshots and concept arts. it seems interesting.
+http://www.totalwar.com/en_us/media
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 18 Aug 2013, 19:33]
+[ img ]
+
+
+http://store.steampowered.com/app/214950/
+
+Release Info.
+
+Code: Select all | Line number On/Off | Expand/Contract
+Title: Total War™: ROME II
+Genre: Strategia
+Developer: Creative Assembly
+Publisher: Sega   
+Release Date: 3 Set 2013
+ 
+
+
+Description:
+
+Code: Select all | Line number On/Off | Expand/Contract
+The award-winning Total War series returns to Rome, setting a brand new quality benchmark for Strategy gaming. Become the world’s first superpower and command the Ancient world’s most incredible war machine. Dominate your enemies by military, economic and political means. Your ascension will bring both admiration and jealousy, even from your closest allies.
+
+
+System Requirements
+
+Code: Select all | Line number On/Off | Expand/Contract
+Minimum:
+OS: XP/ Vista / Windows 7 / Windows 8
+Processor:2 GHz Intel Dual Core processor / 2.6 GHz Intel Single Core processor
+Memory:2GB RAM
+Graphics:512 MB DirectX 9.0c compatible card (shader model 3, vertex texture fetch support).
+DirectX®:9.0c
+Hard Drive:35 GB HD space
+Additional:Screen Resolution - 1024x768
+ 
+Recommended:
+OS:Windows 7 / Windows 8
+Processor:2nd Generation Intel Core i5 processor (or greater)
+Memory:4GB RAM
+Graphics:1024 MB DirectX 11 compatible graphics card.
+DirectX®:11
+Hard Drive:35 GB HD space
+Additional:Screen Resolution - 1920x1080
+
+
+Until the release of game, at least we can discuss about the game.
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 18 Aug 2013, 19:35]
+We have thread already 
+
+viewtopic.php?f=10&t=61441
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 18 Aug 2013, 19:35]
+
+_________________
+
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 18 Aug 2013, 19:39]
+Why this games are so heavy  (talking about Total War series), because of maps  ?
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 18 Aug 2013, 19:39]
+
+_________________
+From Mexico with love ^^
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 18 Aug 2013, 19:45]
+I am AWESOME wrote:
+We have thread already 
+
+viewtopic.php?f=10&t=61441
+
+0_0
+search button tell me No posts were found
+
+-- Edit --
+
+
+mhcvel wrote:
+Why this games are so heavy  (talking about Total War series), because of maps  ?
+
+The battle maps are Big
+The Strategic map is Big
+The number of Units is Big
+The number of HD texture are Big
+--------------------------------
+GB of game are Big
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 22 Aug 2013, 12:31]
+Hello all. I had a question and maybe someone can help me out. I preordered Rome 2 Total War on steam so I have a legit copy for when it comes out.
+I wanted to ask if there is anywhere on this forum where someone will upload the game when it is ready for preload? I ask this since internet provider complications do not allow me to dowload more that 10 gb on my home pc. I can download at a different computer but not from steam or torrents, only sites like putlocker and hugefiles and as such I am looking for somewhere to download the game for steam and then move it to my pc to activate. (of course when it comes out in 2 weeks)
+
+Thank you.
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 25 Aug 2013, 22:37]
+has anyone bought the game? Awesome maybe?
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 26 Aug 2013, 00:11]
+oronzo91 wrote:
+has anyone bought the game? Awesome maybe?
+
+Here.
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 26 Aug 2013, 00:11]
+
+_________________
+From Mexico with love ^^
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 26 Aug 2013, 12:42]
+Many people have bought it already but it is not yet released. It will come out on the 3rd of september.
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 26 Aug 2013, 13:02]
+Yes, i know but i can't find info about pre-load. The game is about 20gb
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 26 Aug 2013, 13:07]
+From here muve.pl ppl who buyed pre-order retail/digital version already have they copy 
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 26 Aug 2013, 13:07]
+
+_________________
+
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 26 Aug 2013, 14:06]
+HDD space required is 35GB.
+
+I guess ROME II will have easily 20-25GB+ of pre-load.
+
+8 more days to go. 
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 26 Aug 2013, 14:06]
+
+_________________
+
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 26 Aug 2013, 14:40]
+I am AWESOME wrote:
+HDD space required is 35GB.
+
+I guess ROME II will have easily 20-25GB+ of pre-load.
+
+8 more days to go. 
+
+the requirements are the same of TW: Shogun 2 and it's only 20GB
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 26 Aug 2013, 15:09]
+oronzo91 wrote:
+I am AWESOME wrote:
+HDD space required is 35GB.
+
+I guess ROME II will have easily 20-25GB+ of pre-load.
+
+8 more days to go. 
+
+the requirements are the same of TW: Shogun 2 and it's only 20GB
+
+
+Actually it has been confirmed that installed it will be over 30 GB. And the requirements both in space and PC requirements are greater than those of Shogun...Of course this in case you want the game to look better

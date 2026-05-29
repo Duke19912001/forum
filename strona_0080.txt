@@ -1,0 +1,300 @@
+=========================================
+STRONA 80 (URL: https://cs.rin.ru/forum/viewtopic.php?f=10&t=61441&hilit=rome+2&start=1185)
+=========================================
+
+[Data: Wednesday, 09 Jul 2014, 07:20]
+Sounds like your using a wrong Crack, cos wrong Crack or bad Crack is causing the game to crash at custom battle/campaign batte/end turn, etc.
+
+You sure you took the last Crack from 13.1? All Files...binkw32.dll as well...
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 10 Jul 2014, 18:21]
+ShadowDuke wrote:
+Sounds like your using a wrong Crack, cos wrong Crack or bad Crack is causing the game to crash at custom battle/campaign batte/end turn, etc.
+
+You sure you took the last Crack from 13.1? All Files...binkw32.dll as well...
+
+
+Yep, all of them. I'll reinstall everything and let you know if worked. Thanks the reply
+
+----- EDIT ----
+
+I got it disabling UAC. It was the same problem of Hekhemut on page 70. Sorry for not looking it before!
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 10 Jul 2014, 21:25]
+Only yesterday I found out about this site. I like how I can find updates for every game with ease. I downloaded updates for Divinity and they work. But I have problem with Rome. I had reloded patch 11 game. And I downloaded every update in other it was shown in the first page. I used crack from Update.13_1.Hotfix.and.Festivals. But I got CTD after initial screen. I don't have an idea what could be a problem. I have Win XP so it is not UAC. Can anyone help me or if nothing give me links for full game (no torent)?
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 10 Jul 2014, 21:37]
+Im afraid theres only public torrent for latest all-in-one Version :/ or do you have any premium och accounts? Then i could give you links for ul.to and share-online i guess.
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 10 Jul 2014, 21:48]
+ShadowDuke wrote:
+Im afraid theres only public torrent for latest all-in-one Version :/ or do you have any premium och accounts? Then i could give you links for ul.to and share-online i guess.
+
+Sadly no. I had few months for Mega. But thank you.
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 16 Jul 2014, 22:57]
+Used search, couldn't find much. Could anyone please tell me if there's any way to play the latest patch (13.1) via Local Area, using the cracked version? Thanks a lot!
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 18 Jul 2014, 18:05]
+Hi Shadowduke, do you have a list of changed files from the first patch thru to the last patch.
+Not sure if thats clear
+ie
+all the files that were changed in patch 1, patch 2, 3,4,5 and so on?
+Would it be possible to incorporate all .pack files that have been updated into one mod file then install the game and crack, then the mod, rather than install the game then go thru all the patches which is a ballache and takes forever.
+Im one of them folks that reinstalls my os quite often and would like to attempt a mod just to update the files to the latest patch.
+
+Hope that makes sense.
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 22 Jul 2014, 11:32]
+I'm old Rome 1 player and i wanted to test Rome 2 before buying. Is there a list step-by-step what do i need to install to have full game with all updates and DLCs?
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 22 Jul 2014, 11:49]
+lordskylare wrote:
+I'm old Rome 1 player and i wanted to test Rome 2 before buying. Is there a list step-by-step what do i need to install to have full game with all updates and DLCs?
+
+Dude why dont u get off your ass and start reading AT LEAST the OP?
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 22 Jul 2014, 11:55]
+neoiq5719 wrote:
+lordskylare wrote:
+I'm old Rome 1 player and i wanted to test Rome 2 before buying. Is there a list step-by-step what do i need to install to have full game with all updates and DLCs?
+
+Dude why dont u get off your ass and start reading AT LEAST the OP?
+
+Yeah i saw updates 10,11,12 and 13 but i need previous updates.
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 23 Jul 2014, 01:45]
+RLD-Update 9, sigh! It also says in OP at Beta10_patch link, you need Update9! And Update 9 came from RLD, so take this!
+
+-- Edit --
+
+Patch #14 beta is out.
+http://wiki.totalwar.com/w/Total_War_ROME_II:_Patch_14
+
+-- Edit --
+
+Total.War.ROME.II.Update.14.beta (incl. Crackfix and Gamefix! - (Beta=Final, nothing changed)) *xdelta* Version: v1.14.0-12540.560829 (22/25.07.2014) (from beta to final - 31.07.2014)
+
+You need Update 13.1 Hotfix and Festivals Update installed!
+
+Changelog:
+
+
+ Spoiler
+Code: Select all | Line number On/Off | Expand/Contract
+ 
+v1.14.0-12540.560829
+ 
+Technical and performance improvements:
+ 
+Battle
+ 
+Unit ‘stuttering’ in battle has been improved.
+Improved reflections in rivers on the battlefield.
+Ship reflections now appear correctly in battles.
+Fixed a crash in large scale multiplayer battles containing over 14,000 combined soldiers in total.
+Fix for a crash which occurred when selecting reinforcements on the minimap during battle replays.
+ 
+Campaign
+ 
+Reduced the game's memory usage in Campaign modes, and when saving Campaign games.
+Fixed a rare crash which happened when placing the mouse over a building in the construction queue.
+Rare Campaign crash fixed, which triggered shortly after battle results were displayed.
+Fixed a crash which occurred after an un-walled port assault in Hannibal at the Gates campaign.
+Fixed a very rare texture crash when moving the camera around the campaign map.
+A rare crash which occurred after declining to fight a battle as a reinforcing army while the camera was still moving on the Campaign map has been fixed.
+ 
+ 
+Battle AI improvements:
+ 
+Significant improvements to attacking siege AI’s use of siege engines, allowing them to better co-ordinate assaults through breaches and gates while also reusing previously docked siege vehicles.
+Improved AI's ability to re-start siege assault tactics after responding to units sallying out of a settlement in a siege battle.
+Fixed an issue in the attacking siege AI which could cause individual units or small groups of units to split off from the main force and attempt to burn the city gates elsewhere.
+Improved the Battle AI's usage of artillery to breach walls in siege battles.
+Made a range of improvements to battle AI pathfinding in settlement battles.
+Fixed an issue in a specific Egyptian city map variant which caused the AI to ignore siege equipment and always opt to burn down the gates.
+Fixed a bug in the deployment system which could cause the attacking siege AI to deploy far away from the city, sometimes facing the wrong direction.
+Fixed a bug which sometimes prevented the attacking siege AI from recognising existing wall breaches from previous battles in the same campaign turn.
+Introduced evasive manoeuvres in defending siege AI for units defending walls which are under enemy bombardment and are likely to collapse.
+Fixed an issue in the attacking siege AI where AI units would sometimes be assigned incorrectly to siege vehicles, or multiple AI units would be assigned to the same siege vehicle.
+Improvements made to the Battle AI's evaluation of task priority in settlement battles, enabling it to better direct attacks against higher concentrations of enemy units, as well as co-ordinate more effectively with reinforcements.
+Fixed a bug in siege battles when the player was defending, which caused ally AI armies to become idle in certain situations.
+Improved AI's wall targeting in siege battles, to prevent it from attempting to dock two siege towers on the same wall segment, for example.
+Enabled the Battle AI to better co-ordinate attacks in settlements through multiple breaches, gates or streets simultaneously.
+Fixed a rare crash bug which occurred when an AI general's bodyguard unit is completely killed while the rest of the army is entering the breaches in a siege battle.
+Introduced better co-ordinated attacks from multiple directions in minor settlements as well as some fortified settlements.
+When a unit under Battle AI control is changing formation, due to being attacked on multiple fronts, it will now take more consideration of its facing, to avoid presenting the enemies its back or flanks.
+Fixed issues where AI's naval reinforcement units became unresponsive after splitting up into multiple groups upon disembarking.
+Battle AI will now use melee units in addition to missile units to defend settlement walls when useful.
+Fixed issues with battle AI's sally out behaviours in settlement battles.
+When defending a settlement against bombardment from naval artillery, battle AI is better able to attempt to avoid casualties.
+Improved AI deployment logic for several settlement maps.
+Occasionally units given move orders on the battlefield would remain stationary for a while before moving. This has now been reduced.
+Fixed an issue which sometimes allowed the attacking siege AI to command their siege towers into settlements.
+Fixed issues in the attacking siege AI in naval siege battles, which caused some disembarked units to go idle.
+Battle AI is now more likely to pick up siege equipment, when it's been dropped by other units being killed.
+Fixed a bug where the Battle AI was incorrectly determining whether it had sent a unit to pick up a piece of siege equipment.
+Fixed a battle AI issue in which it would move to capture courtyards with victory points but fail to actually take the capture points due to its placement of units within the courtyard.
+Battle AI made more aggressive when attacking unfortified settlements to avoid losing due to timeout.
+ 
+Campaign AI improvements
+ 
+Campaign AI is now more likely to defend settlements instead of running away. This should lead to bigger and more frequent battles.
+Improved Campaign AI siege behaviour - Campaign AI now tends to maintain sieges longer and construct more siege equipment against major settlements when besieging.
+Improved Campaign AI building repair behaviour.
+ 
+ 
+General battle improvements
+ 
+Units on the battlefield now blend / fade out when they get very close to the camera, to avoid clipping / seeing into the unit models.
+Improved siege vehicle docking, to reduce the chance of ladders rotating back and forth indefinitely, when attempting to dock against a walls in siege battles.
+Battle replays now save and replay the weather as it was in the battle being recorded.
+Fix for capture points sometimes being connected to the wrong buildings in some battles with multiple capture points.
+Improved the combat behaviour of flanking enemies while attacking in formation, so the units are more concerned with attacking the flank of the enemy unit, rather than drifting to the front of the enemy, and potentially nullifying the flanking attack.
+Units can now fire at animal handlers once they've released the dogs.
+When the player selects multiple siege vehicles and attempts to dock them on a wall, only one will be given the order. The player must now manually order siege vehicles to dock on a settlement wall.
+Battering rams will no longer cause collision when they are destroyed.
+Units now more effectively pick up battering rams that have been dropped while they were attacking gates.
+Improved how units move through wall breaches:
+Individual men will not attempt to walk through solid fort walls as their unit passes through a breach.
+Fixed cases where units ordered into settlements via a breach would not move.
+Siege vehicles are less likely to get stuck on small buildings and rocks outside of a settlement, becoming inactive.
+Reduced units from climbing siege ladders in single file, up one side of the ladder.
+Fix for units ignoring docked siege towers in favour of ladders and captured gates where the siege tower offered a more appropriate route.
+Attackers can no longer see defenders in multiplayer land/naval battles during the deployment phase.
+Fixed a bug where units in defensive stance were not reacting correctly when attacked in melee and therefore not performing as well as expected.
+Increased cost of Indian Armoured Elephants.
+Cavalry will no longer be able to push through enemy units without experiencing losses.
+Balkan General units will now have the expected melee attack value in battle.
+Units will no longer continue to target and attack an enemy unit if they lose visibility of it.
+Improved pathfinding for large attacking AI armies in unfortified settlement battles, so the army does not become idle when attempting to reform.
+Adjustments to morale mechanics to limit certain defender exploits.
+Units will now look further for targets when on walls, to increase melee engagement.
+Capture points have been removed from custom coastal battles.
+Stopped AI controlled units getting stuck and spinning in one spot after disembarking in the medium Alexandria battle map.
+Fixed a Greek minor port map, to prevent ships from going through the shore when disembarking.
+ 
+General Campaign improvements
+ 
+Fixed a bug that made Vigiles units disappear from garrisons in Campaign modes.
+Fixed an issue with undestroyed transported armies were being destroyed on the campaign, if their transporting army was destroyed in battle.
+Faction’s fame levels can go up and down, but you could never return to fame level 0. This has been fixed.
+Fixed an issue where in some situations, after sacking a settlement, the game would re-issue an order to sack the settlement again.
+Grand Campaign map snow now appears correctly on settlements in the North East of the map.
+Added some missing localised audio to the start of the fly camera fly over at the beginning of the Hannibal at the Gates Campaign, when playing as the Arevaci faction.
+Campaign AI will no longer pick galleries siege equipment.
+The Duty Calls event in the prologue campaign will now trigger correctly, preventing a progression blocker.
+Thracian Warriors added to Odrysian Kingdom garrisons.
+Upgrading certain buildings will no longer remove units from available recruits pool.
+Objectives requiring specific buildings will now trigger correctly after the building is constructed.
+Edicts will no longer remain active in provinces that are shared with a client state if the faction stops being your client.
+Resynchronisation has been sped up in Multiplayer Campaign mode.
+A congratulatory message in the Grand Campaign, which incorrectly triggered when winning a battle by ambushing and AI, instead of successfully defending against an ambush has been fixed.
+Swapped the bonuses for the "Votive Offering" and "Feast" barbarian festival campaign events.
+ 
+ 
+Usability Improvements
+ 
+Battle
+ 
+Siege vehicles will now correctly line up with bastions when docking.
+When a player commands a group of units to enter an enemy settlement with multiple ladders docked, the units are less likely to all focus on climbing the same ladder.
+Units will no longer clip through / walk under the terrain near a gate in a Barbarian City map variation.
+Fix for un-reachable bastions in Barbarian city maps.
+Fixed a gap under a gate in the Carthage (large) battle map.
+A map where ships would sail across the land while attempting to disembark has been fixed.
+Improved deployment zones and collision placement in several battle map variations.
+Fixed a floating river in Eildon battle map.
+Improved collision around battlefield town tiles, to make units navigate around them more effectively.
+Tooltips will now show up when placing the mouse over barbarian ports on the battlefield.
+ 
+Campaign
+ 
+A progression blocker has been fixed in Multiplayer Campaign mode, when pressing "end turn" at the exact same time as the turn timer reaches 0:00.
+"Ally under attack" interface in Campaign modes is now clearer when both attacker and defender are the players allies.
+UI fix for when an AI unit attacks the players faction, the retreated during a Campaign end turn sequence, which caused the auto resolve window to pop up and close immediately.
+When the campaign tactical map is opened at the same time as pressing the end turn button, the campaign camera will no longer get locked in place / be un-movable when the turn ends.
+Solved an issue that caused false desyncs after a resync had been performed in multiplayer.
+Fixed an overlapping tooltip text when hovering over an enemy agent on the Campaign map.
+ 
+ 
+General
+ 
+A New system has been put in place to handle when a player disconnects from a multiplayer game. Instead of causing a draw, this judges which player is in a better position upon connection loss. Draws are now much rarer and more representative of the battle conditions.
+Sound settings changes in the options menu, now take effect when saved, without the player having to re-open the sound options menu.
+Fixed Quick Battle disconnections which occurred when entering the lobby.
+Fixed a crash caused by Steam not running.
+ 
+
+
+
+Code: Select all | Line number On/Off | Expand/Contract
+ 
+1) Extract all files to your Rome 2 <root> install dir
+2) Start TWR2_UP14_beta.bat
+3) Copy Crack
+4) Download the fix and start TWR2_UP14_beta_fixed.bat
+5) Play
+
+
+Download: [47mb] (Zippyshare, Firedrive)
+
+Zippyshare
+Firedrive
+
+Download the fix! [227mb] (Firedrive) (25.07.2014)
+
+Firedrive
+
+Notes: German Update. ENG lang files below.
+
+
+ENG-Lang Files for Update14_beta : [188mb]
+
+http://www61.zippyshare.com/v/44770674/file.html (1st seems down - mirror: http://www65.zippyshare.com/v/11671431/file.html)
+or
+https://www.firedrive.com/file/6CFA53FFD45BD067
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 23 Jul 2014, 02:06]
+Thank you ShadowDuke!
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 23 Jul 2014, 03:03]
+Thanks for the constant updating.
+quick question
+Datarome2.pack pre patch 14 was 925mb after it is just over 400mb, is that an error or just a lot of junk been cleaned out?
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 23 Jul 2014, 03:16]
+i dunno, but the originally file downloaded is also 399mb. No idea if patch 13_1 data_rome2.pack was almost 1gb (i already updated my separate update folder to latest patch, i do this for testing, if the xdelta patch is working fine)- would be weird tho.
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 23 Jul 2014, 03:31]
+All patched without error, difference of 6000 files in DR2.pack Pre and post 14 22201 files pre patch and 16086 post patch, xpatch goes way over my head 
+Just seemed like a big jump.
+No worries.

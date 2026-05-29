@@ -1,0 +1,166 @@
+=========================================
+STRONA 94 (URL: https://cs.rin.ru/forum/viewtopic.php?f=10&t=61441&hilit=rome+2&start=1395)
+=========================================
+
+[Data: Monday, 04 Aug 2014, 03:35]
+@alryan011
+viewtopic.php?f=10&t=61441&start=1185
+last 3 posts.
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 04 Aug 2014, 03:55]
+oh, missed that one. thanks! so it's no biggy. 
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 04 Aug 2014, 05:25]
+chernysh wrote:
+ShadowDuke wrote:
+Give me the link to the mod at pm and i will download and upload it for you. Or try http://gaddons.org/workshop
+
+Loads, but does not work with non-steam version 
+Maybe there is some kind of converter?
+
+
+i got the same issue here.. can download the mods via gaddons.org, but the mods seem not workin with mitch MOD MANAGER.
+also got some error msg when i try to open it with pfm.. anyone can help.. ?
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 04 Aug 2014, 06:48]
+@ ziodaddy
+You've read all the answer to this post? Come back to this page and read it again 
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 04 Aug 2014, 07:18]
+chernysh wrote:
+@ ziodaddy
+You've read all the answer to this post? Come back to this page and read it again 
+
+
+lol.. miss tht one.. thx mate 
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 04 Aug 2014, 14:33]
+ShadowDuke wrote:
+arni23456 wrote:
+@all
+
+
+ Spoiler
+
+
+there is something wrong with my update, what happen??
+
+
+Theres nothing wrong, its only 1 file, its a cosmetic error i forgot to change 15 to 1!
+
+
+
+
+OH OK, thx, bro.....
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 04 Aug 2014, 17:43]
+Hello i am new to the forum i want to ask a question
+I have downloaded and installed total war rome II + Hatg (RLD)
+then Total.War.ROME.II.Update.11.HOTFiX.BUILD.10471_528438
+and then when i am trying to install "Total.War.ROME.II.Update.12.beta *xdelta*" the installer stops working at tiles4_rome2.pack. i have left it for for over an hour and was still extracting. is that normal or is something wrong?. I have tried every solution i could find in the forums (disable uac antivirus etc) i have tried several times and every time the same thing happened. i tried to ignore it (close the extractor, tiles4_rome2.pack was 14/15 pack, then manually install the 15th pack(tiles_rome2.pack i think) by deleting all the other files from patch file in rome 2 folder that the extractor created except tiles_rome2.pack so it extracted only that) the next patches ran well except the checksum error in tiles4_rome2.pack. i can run the game but i dont know if everything is ok.
+Any solutions???
+thank you and sorry for the big text
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 04 Aug 2014, 22:55]
+Hello guys! I downloaded the R.G. Games version of this game. (INC. All DLCs.) My version is 1.13.0, build 11398.543179.
+
+So the problem is; I need TR(Turkish) language files. I've found them but they are old and DLcs are not translated.(I see blanks on menu etc.)
+
+Can anyone please upload them to me? Thanks a lot.
+
+EDIT: Seems like the patch 14 language updates solved my problem. Sorry for unneccessary post.
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 04 Aug 2014, 23:11]
+@ onurrap Look closely at the first page. 
+
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 04 Aug 2014, 23:16]
+So i have downloaded the 3dm release with patch 14, the problem is the game crash when i enter a battle or just ending a turn. I have installed and reinstalled directx, microsoft visual c++ redistributable (2005,2008,2010,2012 and 2013). I have tried to disable directx 11 option inside the appdata/roaming folder (by changing the true for false).
+
+Is there something else i am missing? Do anyone have this crashes?
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 04 Aug 2014, 23:23]
+chernysh wrote:
+@ onurrap Look closely at the first page. 
+
+
+
+considered I don't use the last update, I thought it could cause problems. Then I take some backup files and tried them. Seems like they are working so far. Thanks anyway.
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 05 Aug 2014, 06:59]
+Sanji wrote:
+Hello i am new to the forum i want to ask a question
+I have downloaded and installed total war rome II + Hatg (RLD)
+then Total.War.ROME.II.Update.11.HOTFiX.BUILD.10471_528438
+and then when i am trying to install "Total.War.ROME.II.Update.12.beta *xdelta*" the installer stops working at tiles4_rome2.pack. i have left it for for over an hour and was still extracting. is that normal or is something wrong?. I have tried every solution i could find in the forums (disable uac antivirus etc) i have tried several times and every time the same thing happened. i tried to ignore it (close the extractor, tiles4_rome2.pack was 14/15 pack, then manually install the 15th pack(tiles_rome2.pack i think) by deleting all the other files from patch file in rome 2 folder that the extractor created except tiles_rome2.pack so it extracted only that) the next patches ran well except the checksum error in tiles4_rome2.pack. i can run the game but i dont know if everything is ok.
+Any solutions???
+thank you and sorry for the big text
+
+DO u have installed in your system the microsoft visual 2012 redistributable? check if not install it and run the patch again
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 05 Aug 2014, 10:05]
+Steam crack fix for latest patch?
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 05 Aug 2014, 11:32]
+kooltek wrote:
+So i have downloaded the 3dm release with patch 14, the problem is the game crash when i enter a battle or just ending a turn. I have installed and reinstalled directx, microsoft visual c++ redistributable (2005,2008,2010,2012 and 2013). I have tried to disable directx 11 option inside the appdata/roaming folder (by changing the true for false).
+
+Is there something else i am missing? Do anyone have this crashes?
+
+
+
+The details you give for your problem are vague. But I will take a shot at helping out.
+
+Do you know that SD's xdelta patch 14 has two parts, and you need both to patch the game correctly?
+
+Total.War.ROME.II.Update.14_beta.rar
+Total.War.ROME.II.Update.14_beta_Fixed.rar
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 05 Aug 2014, 12:24]
+gringosan wrote:
+kooltek wrote:
+So i have downloaded the 3dm release with patch 14, the problem is the game crash when i enter a battle or just ending a turn. I have installed and reinstalled directx, microsoft visual c++ redistributable (2005,2008,2010,2012 and 2013). I have tried to disable directx 11 option inside the appdata/roaming folder (by changing the true for false).
+
+Is there something else i am missing? Do anyone have this crashes?
+
+
+
+The details you give for your problem are vague. But I will take a shot at helping out.
+
+Do you know that SD's xdelta patch 14 has two parts, and you need both to patch the game correctly?
+
+Total.War.ROME.II.Update.14_beta.rar
+Total.War.ROME.II.Update.14_beta_Fixed.rar
+
+
+I have downloaded from here: http://bt.3dmgame.com/show.php?hash=5e1 ... e57b05e897
+
+So i supposed i haven't to patch anything else, because it has already update 14. Anyways i will try to patch it with the files you said.

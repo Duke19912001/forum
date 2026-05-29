@@ -1,0 +1,255 @@
+=========================================
+STRONA 69 (URL: https://cs.rin.ru/forum/viewtopic.php?f=10&t=61441&hilit=rome+2&start=1020)
+=========================================
+
+[Data: Tuesday, 27 May 2014, 23:07]
+Does anyone know where to download the update 13?
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 27 May 2014, 23:14]
+neoiq5719 wrote:
+Does anyone know where to download the update 13?
+
+Wait for ShadowDuke he is uploading Update #13 
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 27 May 2014, 23:14]
+
+_________________
+
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 27 May 2014, 23:44]
+neoiq5719 wrote:
+Does anyone know where to download the update 13?
+
+
+It was already up when you posted 
+
+Edit: Both links are up now.
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 28 May 2014, 00:08]
+got it thx
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 28 May 2014, 00:28]
+thanks so much ShadowDuke,if we were left to rld we will be always waiting for a new dlc.As new dlc is annonunced they will remember game 
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 28 May 2014, 00:58]
+Is there any chance to have Italian language update files for update 13? Thanks!
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 28 May 2014, 02:36]
+Hello
+
+Thanks for your efforts on the latest update 13. I patched my install without issue. Cheers
+
+I have a question about the game version that is displayed on the top right of the in game menu.
+
+Previously I used patch 12 and noticed my game version was correct however there was an asterisk following the version number. The game seemed to work fine so no issue. Then I decided to download a current update 12 repack and compared files... I found several large pack files that had different CRC's (I dont recall if file sizes were different). Using the repack files I noticed that the in game version number was now without the asterisk.
+
+So my question is why do I have file miss matches after using the xdelta patches for a given update? In my novice opinion I would assume that you guys are patching all the changes... So whats up with that 
+
+As I mentioned the game seems to work fine. I play single player custom battles or the historical battles for the most part and I am new the CA total war games.
+
+Thanks again for the patches and support.
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 28 May 2014, 04:35]
+Dont load crappy repacks, as they often contains the wrong files! I also saw an UP12 Repack, saying its the final Up12 patch, but it still was beta, hence many ppl had missmatch errors... My provided files are 1:1 same as original. I think machine can also confirm this.
+
+As for the 2 missmatch errors in each of my updates, thats due (each) 2 language files.
+
+Version-info comes with rome2.dll. If you used an other one, then the Version-nr is different. Despite which updated pack files you have. Meaning, even the old RLD-Crack can work with latest Release, but showing an older Version-Nr, tho game should not really work but start.
+
+If the Update 13 is working fine for you in every way i wouldnt spend much more time to wonder. Unless you need to know more.
+
+Cheers.
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 28 May 2014, 06:26]
+@ShadowDuke
+You are the man!!!  Thx for the update.
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 28 May 2014, 06:26]
+
+_________________
+List of some Computer games CLICK ME
+
+  
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 28 May 2014, 09:13]
+works fine thx
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 28 May 2014, 14:38]
+@ShadowDuke
+i just want to say thank you so much for your effort
+i've only tried patch 12 and it works fine and i'm d/l-ing patch 13 now
+
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 28 May 2014, 15:45]
+looks like a hotfix was just released.. 
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 28 May 2014, 16:58]
+gamer1291 wrote:
+Hello everyone i am new here.
+
+First I would like to thank the uploaders here for their hard work providing new updates + cracks thank you.
+
+I am having crash issue with update 12 beta and 12 final updates installed.
+
+When i launch the game the splash screen comes and then crashes with error
+
+Faulting application name: Rome2.exe, version: 1.12.0.0, time stamp: 0x53623e7b
+Faulting module name: Rome2.dll, version: 1.12.0.0, time stamp: 0x53623e55
+Exception code: 0xc0000005
+Fault offset: 0x0112937d
+Faulting process id: 0x17c0
+Faulting application start time: 0x01cf78a25fd35688
+Faulting application path: E:\Program Files\Total War ROME II\Rome2.exe
+Faulting module path: E:\Program Files\Total War ROME II\Rome2.dll
+Report Id: a7e2116a-e495-11e3-8334-97b975a5a9ea
+Faulting package full name:
+Faulting package-relative application ID:
+
+
+My install order is
+
+1)Total War ROME II Caesar in Gaul-RELOADED(1.8.0 Version)
+2)Update 8.1 Reloaded
+3)Update 9 Reloaded
+4)Update 10 beta
+5)Update 10 beta-final
+6)Update 11
+7)Update 11 eng lang
+8-Update 11 hotfix
+9)Gaul-hannibal dlc
+10)Update 12 beta(2 mismatch error due to german language)
+11)Update 12 beta-final(same as above)
+
+The game works upto update 11 with hotfix with no launch crash.
+
+But after i apply update 12 beta and beta-final both make my game crash at launch therefore not playable
+
+The error says something like this
+The Instruction at 0x referenced memory at 0x The memory could not be read
+
+And the faulting module is Rome2.dll (This only happens with update12 beta and final)
+
+With update 11 hotfix the game runs fine.
+
+Any idea what is wrong?.
+
+Thank You.
+
+
+can someone please help me with my issue i badly want to play this game but not able to.
+
+I dont want to download whole game again coz my net is limited so please help me with the issue.
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 28 May 2014, 17:44]
+gamer1291 wrote:
+
+
+My install order is
+
+1)Total War ROME II Caesar in Gaul-RELOADED(1.8.0 Version)
+2)Update 8.1 Reloaded
+3)Update 9 Reloaded
+4)Update 10 beta
+5)Update 10 beta-final
+6)Update 11
+7)Update 11 eng lang
+8-Update 11 hotfix
+9)Gaul-hannibal dlc
+10)Update 12 beta(2 mismatch error due to german language)
+11)Update 12 beta-final(same as above)
+
+The game works upto update 11 with hotfix with no launch crash.
+
+
+
+Hi,
+
+I have got this
+
+1. Total.War.ROME.II.Caesar.in.Gaul-RELOADED
+2. Total.War.ROME.II.Update.9.Incl.DLC-RELOADED
+3. a. Total.War.ROME.II.Update.to.10.beta.Patch
+3. b. Total.War.ROME.II.Update.10.beta.to.10.final.Patch
+4. a. Total.War.ROME.II.Update.11.incl.Seasons.and.Wonders.DLC cracked-xdelta
+4. b. ENG Language Up 11
+4. c. Update 11 HotFix
+5. Total.War.ROME.II.Gaul.Update.and.Hannibal.DLC xdelta
+6. Total.War.ROME.II.Update.11.HOTFiX.BUILD.10471_528438 xdelta
+7. a. Total.War.ROME.II.Update.12.beta
+7. b. Total.War.ROME.II.Update.12.beta_to_final
+7. c. ENG Language Up 12
+8. a. Total.War.ROME.II.Update.13.Getae.and.Pydna xdelta
+8. b. ENG Language Up 13
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 28 May 2014, 23:54]
+Total.War.ROME.II.Update.13.hotfix.plus.Pirates.and.Raiders.DLC *xdelta* Version: v1.13.0.0-11359.0 (28.05.2014)
+
+You need Update 13 installed!
+
+Changelog:
+
+
+ Spoiler
+Code: Select all | Line number On/Off | Expand/Contract
+ 
+v1.13.0.0-11359.0
+ 
+Updated the localisation for Ardiaei, Getae, Odrysian Kingdom and Tylis, faction traits in French, Italian, German,
+Spanish, Czech, Russian, Polish and Turkish.
+ 
+Added the 3 factions from Pirates & Raiders DLC (Ardiaei of Illyria, Tylis and the Odrysian Kingdom)
+ 
+
+
+
+Code: Select all | Line number On/Off | Expand/Contract
+ 
+1) Extract all files to your Rome 2 <root> install dir
+2) Start TWR2_UP13_hotfix_plus_Pirates_and_Raiders_DLC.bat
+3) Copy Crack
+4) Play
+
+
+Download: [20mb] (Zippyshare, Firedrive)
+
+Zippyshare
+Firedrive
+
+Notes: German Update. ENG lang files below.
+
+
+ENG-Lang Files for Update13_hotfix_pirates_DLC : (thanks to machine4578)
+
+http://www65.zippyshare.com/v/65721083/file.html

@@ -1,0 +1,179 @@
+=========================================
+STRONA 75 (URL: https://cs.rin.ru/forum/viewtopic.php?f=10&t=61441&hilit=rome+2&start=1110)
+=========================================
+
+[Data: Wednesday, 18 Jun 2014, 14:43]
+during installation it gives me a checksum mismatch error but installation continues. any idea why this happens?
+
+-- Edit --
+
+
+joshhh wrote:
+ShadowDuke wrote:
+Np, i make a mirror now for ENG on Firedrive.
+
+Edit: Done.
+
+
+Hi Shadowduke.. You know i really appreciate for uploading the updated patches of rome 2 total war... because of that we can play rome 2 up to date and also we can updated mod in twcenter..
+
+sorry for being such a noob but what is assembly kit beta for??? do we need to include this in our download or we can just leave it??
+thanks and have a nice day!!
+
+That´s for modding the game
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 18 Jun 2014, 14:55]
+Assembly Kit was requested, so i uploaded it. ^^ (its for ppl who want to make mods and such, so you dont need it)
+
+@neoiq5719
+
+No idea, maybe you have the Update13 hotfix Version some1 posted a few weeks ago. You should only apply my updates to the prev. Version i also mention to apply on and dont use any other patches from other people. If you use other peoples patches thats your problem then if its not working as suppose to. 
+
+And even if it continued now for you, checksum error=wrong files. Thats also where your crash comes from. Wrong files.
+
+@joshhh
+
+Like i wrote in pm. Please pm or post the steamworkshop urls from the mods, cos some mods have similar entries and some are also outdated and wont work with the current Version.
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 18 Jun 2014, 15:07]
+ShadowDuke wrote:
+Assembly Kit was requested, so i uploaded it. ^^ (its for ppl who want to make mods and such, so you dont need it)
+
+@neoiq5719
+
+No idea, maybe you have the Update13 hotfix Version some1 posted a few weeks ago. You should only apply my updates to the prev. Version i also mention to apply on and dont use any other patches from other people. If you use other peoples patches thats your problem then if its not working as suppose to. 
+
+And even if it continued now for you, checksum error=wrong files. Thats also where your crash comes from. Wrong files.
+
+@joshhh
+
+Like i wrote in pm. Please pm or post the steamworkshop urls from the mods, cos some mods have similar entries and some are also outdated and wont work with the current Version.
+
+I have never appied patches from someone else just the one u posted before but I dont know why isnt it working.
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 18 Jun 2014, 15:20]
+Disabled UAC, AV, etc?? Checked the last pages? Some people had problems with checksum errors and it was either UAC or AV.
+
+And if you didnt have the Version, why did you reply like you downloaded and used it? viewtopic.php?p=919682#p919682
+I dont understand... it sounds like you do have that Version i meant!?
+Also here: viewtopic.php?p=919063#p919063
+
+That really sounds like you have that Version! So ofc it cannot work and why did you say you're not using this Version??
+
+And again, this Version is not on Pirates.and.Raiders.DLC thats one hotfix after Update13, which i didnt bring! So hopefully you get it now why it issnt working for you when you use my patches on different Versions!
+
+So for all people that use that Version; its your own fault when you cannot wait for my patches. I cant and wont make a patch for this Version to current one. You can ask him. But he only releases "full" games and not patch.only releases, so good luck with that.
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 18 Jun 2014, 15:24]
+ShadowDuke wrote:
+Disabled UAC, AV, etc?? Checked the last pages? Some people had problems with checksum errors and it was either UAC or AV.
+
+And if you didnt have the Version, why did you reply like you downloaded and used it? viewtopic.php?p=919682#p919682
+I dont understand... it sounds like you do have that Version i meant!?
+Also here: viewtopic.php?p=919063#p919063
+
+That really sounds like you have that Version! So ofc it cannot work and why did you say you're not using this Version??
+
+And again, this Version is not on Pirates.and.Raiders.DLC thats one hotfix after Update13, which i didnt bring! So hopefully you get it now why it issnt working for you when you use my patches on different Versions!
+
+So for all people that use that Version; its your own fault when you cannot wait for my patches. I cant and wont make a patch for this Version to current one. You can ask him. But he only releases "full" games and not patch.only releases, so good luck with that.
+
+Well I said thanks in the previous page because everything from u has worked so I assumed this was the same but I´m sure its not your fault, just have to get around this and figure out what´s going on and if u say it works then it works.BTW the patch 13 was from PAnkyA, could this be the prob?
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 18 Jun 2014, 15:26]
+Ok, tho it looks like you have his Version when i read your prev. postings. Also said you wanted to upload his Version on TPB and such things.. 
+
+I already said that his Version/Patch/Files whatsoever are one hotfix Version later than my last Patch (Pirates.and.Raiders.DLC).
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 18 Jun 2014, 15:29]
+ShadowDuke wrote:
+Ok, tho it looks like you have his Version when i read your prev. postings. Also said you wanted to upload his Version on TPB and such things.. 
+
+I already said that his Version/Patch/Files whatsoever are one hotfix Version later than my last Patch (Pirates.and.Raiders.DLC).
+
+So is there a way around this?
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 18 Jun 2014, 15:32]
+Quote:
+So for all people that use that Version; its your own fault when you cannot wait for my patches. I cant and wont make a patch for this Version to current one. You can ask him. But he only releases "full" games and not patch.only releases, so good luck with that.
+
+
+
+So you have this Version or not?
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 18 Jun 2014, 15:34]
+ShadowDuke wrote:
+Quote:
+So for all people that use that Version; its your own fault when you cannot wait for my patches. I cant and wont make a patch for this Version to current one. You can ask him. But he only releases "full" games and not patch.only releases, so good luck with that.
+
+
+
+So you have this Version or not?
+
+I think I do
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 18 Jun 2014, 15:43]
+Then you're fu##ed  Theres no way to update from this files. Only if he still have them and make a xdelta patch, no other way.
+
+If you read carefully you should notice that before. 
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 18 Jun 2014, 16:28]
+@ShadowDuke
+
+Thanks for lang files. I have vanilla ones in italian, do you need them?
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 18 Jun 2014, 16:50]
+No, i only asked so people know they need them and i only will provide the 2 (updated) *_rome2.pack files.
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 18 Jun 2014, 16:58]
+ShadowDuke wrote:
+No, i only asked so people know they need them and i only will provide the 2 (updated) *_rome2.pack files.
+
+
+Thank you very much for your effort 
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 18 Jun 2014, 17:12]
+Thank u alot ShadowDuke
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 18 Jun 2014, 17:12]
+
+_________________
+The most respectful and useful users: - machine4578 - ShadowDuke - demde - MarloC - punchao - sam2k8
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 18 Jun 2014, 19:03]
+ShadowDuke wrote:
+Assembly Kit was requested, so i uploaded it. ^^ (its for ppl who want to make mods and such, so you dont need it)
+
+
+
+Thanks!!!!!!!

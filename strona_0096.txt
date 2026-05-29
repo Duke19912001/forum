@@ -1,0 +1,160 @@
+=========================================
+STRONA 96 (URL: https://cs.rin.ru/forum/viewtopic.php?f=10&t=61441&hilit=rome+2&start=1425)
+=========================================
+
+[Data: Wednesday, 06 Aug 2014, 10:07]
+I have followed the way to update. but when I was updating 14 beta fixed. It's only update 1 files and after that it say that the update finished. And I continue updating but when I run the game. Its error and "the ordinal 354 couldnot be located bla bla bla". How it can be?
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 06 Aug 2014, 14:04]
+I am wondering is it even worth to play this game now with all these patches and DLCs? I played rome total war (the first one)
+how is this good compared with the first one? and how is this bad compared with the first one?
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 06 Aug 2014, 16:39]
+i need very latest crack files that not crashing please anyone can upload for me ?
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 06 Aug 2014, 18:09]
+Hi,
+
+Can you point me a .pack that is patch 14 compatible and use all faction playable mod ? I want to play with patch 14 and to choose from all factions when in Grand Campaign....
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 06 Aug 2014, 18:13]
+Avalone wrote:
+I am wondering is it even worth to play this game now with all these patches and DLCs? I played rome total war (the first one)
+how is this good compared with the first one? and how is this bad compared with the first one?
+
+
+As far as i remember you asked this already weeks ago and i also give you an explanation.
+
+@yuzutu
+
+rtfm viewtopic.php?p=936631#p936631
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 07 Aug 2014, 02:25]
+Hey guys!
+
+I want to play rome 2 again but I can't find a patch 14 game so can someone give me a download link to a working full patch 14 rome 2?
+I tried downloading a patch 13 game 2 weeks ago but all it did was crash...
+ty! 
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 07 Aug 2014, 08:14]
+Please can someone post any working mod for update 14? in launcher every mod show with yellow triangle (i think there should be image)
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 07 Aug 2014, 09:59]
+kerttwes wrote:
+Total War: Rome 2 (SEGA) (RUS/ENG) [Steam-Rip] - DWORD
+
+v 1.14.0.0 build 12540.560829 (from 3.08.2014)
+
+Included DLC:
+
+Hannibal at the Gates
+Baktria Faction
+Beasts of War
+Blood & Gore
+Caesar in Gaul
+Greek States Culture Pack
+Nomadic Tribes Culture Pack
+Pirates & Raiders
+
+Torrent release by DWORD (free registration on tracker is needed for downloading): http://rustorka.com/forum/viewtopic.php?t=169806
+
+
+How change Russian language in English?
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 07 Aug 2014, 11:50]
+rancilio wrote:
+kerttwes wrote:
+Total War: Rome 2 (SEGA) (RUS/ENG) [Steam-Rip] - DWORD
+
+v 1.14.0.0 build 12540.560829 (from 3.08.2014)
+
+Included DLC:
+
+Hannibal at the Gates
+Baktria Faction
+Beasts of War
+Blood & Gore
+Caesar in Gaul
+Greek States Culture Pack
+Nomadic Tribes Culture Pack
+Pirates & Raiders
+
+Torrent release by DWORD (free registration on tracker is needed for downloading): http://rustorka.com/forum/viewtopic.php?t=169806
+
+
+How change Russian language in English?
+
+When you run the setup.exe - the pop up window should appear allowing you to select 2 languages from the drop down list - "Русский" (Russian) and "English". So, just select the English language and continue with installation. It should install English version after this. If you still see Russian language in game, also try opening the SKIDROW.ini file in your install directory and ensure that the line "Language=english" is present there. If you see "Language=russian" in this file - change it to "Language=english".
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 07 Aug 2014, 21:09]
+...Skidrow.ini or some ini issnt responsible for language, its still language.txt in \data\ !!!!
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 08 Aug 2014, 01:55]
+I downloaded what Kerttwes said but i cant change the language to english... in data/language it says EN... what do I do? I changed language in the skidrow.ini but nothing happened... and when I instal I dont get an option to change the language? help!
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 08 Aug 2014, 03:10]
+You have those files in \data\?
+
+local_en.pack
+local_en_rome2.pack
+music_en.pack
+music_en_rome2.pack
+
+And like i said....changing language in ANY ini, skidrow.ini (ali213.ini, 3dmgame.ini) etc. is not working!
+
+And if you look at the comments on that torrent site, ppl are saying eng is not working for them.. ¿ (for this crappy repack). So either you download no repacks again or download a proper one (did i say i hate such repacks?^^) or you download latest Scene (RLD) Release and patch your way up!
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 08 Aug 2014, 08:49]
+ShadowDuke wrote:
+And if you look at the comments on that torrent site, ppl are saying eng is not working for them.. ¿ (for this crappy repack). So either you download no repacks again or download a proper one (did i say i hate such repacks?^^) or you download latest Scene (RLD) Release and patch your way up!
+
+
+Where have you seen such comments for http://rustorka.com/forum/viewtopic.php?t=169806 release? Can you please quote a comment saying that "eng is not working"? There are no such comments.
+
+When I launch the setup.exe from that release, I instantly get the following pop up window:
+
+
+
+Here you can choose the language. My OS is Win7 x64. I don't know why someone is not getting that window, but it's present there. Try installing release on another PC/notebook and then moving the game files to primary PC for gaming.
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 08 Aug 2014, 13:44]
+Mmm... I've reinstalled the game 3 times now, and no such window appears giving me the option to change the language. I have the same OS as you, and still, no change. I'm going to have to follow shadowduke's option...
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 08 Aug 2014, 15:59]
+Once extracted
+Delete those Folders and your game will be in english
+local_RU.pack
+local_RU_rome2.pack
+music_RU.pack
+music_RU_rome2.pack
+
+open
+language.txt and check it is EN

@@ -1,0 +1,335 @@
+=========================================
+STRONA 35 (URL: https://cs.rin.ru/forum/viewtopic.php?f=10&t=61441&hilit=rome+2&start=510)
+=========================================
+
+[Data: Saturday, 28 Sep 2013, 19:40]
+Another Beta3 Update.
+
+
+Quote:
+If testing over the weekend reveals no further issues, Patch 3 will go live early next week.
+
+Meanwhile, Patch 4 is completing internal testing and will arrive into beta soon afterwards.
+
+The list of fixes brought with by the latest hotfix for patch 3 BETA:
+
+• Players and AI were unable to siege a city with a port, with a land army while the port was blockaded by a navy in an earlier Patch 3 BETA build. This is now fixed.
+• Fix for a crash while loading into ambush battles from the Campaign map, where the player had AI reinforcements (reinforcements are no longer allowed in ambush battles). This crash was introduced in an earlier Patch 3 BETA build, and is now fixed.
+• Fix for a pathfinding crash in battles, which was introduced in an earlier Patch 3 BETA build.
+
+Thank you for your understanding.
+
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 01 Oct 2013, 14:55]
+Patch 3 is Live now.
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 01 Oct 2013, 19:24]
+80.2 MB downloaded from Steam, bigger than 10GB 
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 01 Oct 2013, 19:24]
+
+_________________
+From Mexico with love ^^
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 02 Oct 2013, 12:07]
+an other week to be cracked 
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 02 Oct 2013, 12:07]
+
+_________________
+SPECS : Ryzen 7 3800X | RTX 3070 8G | 16Gb DDR4 | 1TB SSD
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 03 Oct 2013, 20:29]
+Total.War.ROME.II.Update.3-RELOADED
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 03 Oct 2013, 20:51]
+I hope that for patch 3, will be not need updated language pack (patch 3 include changes for language)
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 03 Oct 2013, 21:17]
+kingspace wrote:
+Total.War.ROME.II.Update.3-RELOADED
+
+
+What's New:
+
+ Spoiler
+Here are the patch notes for Total War: ROME II- Patch 3:
+
+Technical and Performance Issues
+
+Significant improvements to multiplayer campaign speed, which is now limited by the slowest players machine.
+Frame Rate improvements on Campaign map on low spec Core2 Duo cpu’s in windowed mode.
+Fix for lock-ups reported on loading into battle in DirectX9.
+Frame Rate improvements on Campaign map across all configurations when setting Effects Quality to Low or High.
+Fix for minor stutters & terrain rendering glitches on some gpu’s when rendering the terrain.
+Fixed a bug in the Graphics Benchmark frame rate display that reported the wrong per-frame time.
+LAN multiplayer modes are now accessible when Steam is in Offline mode.
+Fix for graphics crash caused by changing the games screen resolution shortly after loading a new Campaign.
+Fix for a crash when performing an agent action on a wounded/assassinated unit in Campaign modes.
+Further campaign map optimisations.
+Optimised fire and smoke effects on the campaign map (improving the frames per second on all graphics setting, especially during the late gameplay where all faction territories are revealed)
+Fix in Multiplayer Campaign, after Player 1 offers diplomacy to Player 2, Player 2 made a counter offer, then cancelled the offer, which caused the game to lock up for Player 1.
+Fix to prevent the games user interface from flickering when SLI is enabled.
+Improved culling on the campaign map to prevent props (e.g. the pyramids) from disappearing when the camera was set to certain angles.
+Improved the desktop icon for Total War: ROME II to support multiple resolutions.
+
+
+Gameplay Improvements
+
+When the player is attacked whilst in a minor settlement (not provincial capital), a new "Sally Forth" button is available on the pre-battle panel to fight the attackers in an open field battle.
+All armies that are forced to retreat, and then are attacked, no longer have a *Baggage Train battle. It is a normal open field battle with any campaign generated penalties applied as before.
+When an army in forced march is attacked on the Campaign Map, an ambush battle is now triggered, rather than a baggage train Victory Point battle .
+Combined battles where there is no navy in the defending alliance do not have *Victory Points/Baggage Trains.
+Combined battles where the defender has a navy will retain their Victory Point.
+Victory Points have had their capture time increased by 3x their previous length.
+Attacking AI is now more likely to prioritise taking Victory Points in Siege Battles / City Assault Battles.
+AI controlled Agents are now more likely to act upon the player's settlements instead of standing around outside of them.
+Fixed issue in battle AI which prevented siege assault groups from responding to nearby threats.
+Fixed timing issue in battle AI which could cause the attacking AI in port sieges to stop updating.
+Substantially reduced free hits from enemies in battles, when moving a unit through enemy units (without attacking them), so units can disengage with less penalty.
+Smaller and depleted AI controlled forces are now less likely to survive auto-resolved battles in Campaign modes.
+Cavalry can no longer capture Victory Points in battles while mounted. They can still neutralise the Victory Points if they were previously in enemy control, and capture Victory Points when dismounted.
+The size / radius of capture points has been increased in Coastal battles.
+Fix for some instances of passive AI during River Crossing battles, when the AI is defending.
+Fixed issue which prevented reinforcement artillery ships deploying.
+Fixed issue in Siege Battles where the AI attempted to use breaches and gates which they could not reach.
+In Battles, the number of ranks now factor into bracing mass bonus for collision system, i.e. thin lines will make you lose your bracing bonus against cavalry charges from the front
+Fixed chasing down of routers at the end of battles, so they engage in combat more often and can be killed more easily.
+Satrapies can no longer sign peace treaties with the enemies of their overlord (but still able to automatically make peace if their overlord signs a peace treaty with the enemy) in Campaign modes.
+Snow ground type now replaces grass in snow attrition areas of the battle map.
+Units in Testudo formation will now respond to an order to attack city gates in a City Assault battles.
+Men throwing torches to ignite gates in battles, now have less chance of failing to throw their torches and hit the gate, if ordered more than once to ignite the same gate.
+AI houses can no longer secure promotions without first meeting the required age and rank in Campaign modes.
+Removed old concealed by distance logic, that was incompatible with the newer visibility system. For example, units that are visible at range could look like they were hidden on their user interface, when they could be seen.
+Pikemen can move out of melee when pike phalanx is active in battles. For example, If only one of the pikeman is attacked, the entire unit will no longer start to be unresponsive to orders.
+Improved responsiveness of Siege Equipment when dropped and picked back up multiple times.
+In Campaign modes, the number of siege equipment entries is now capped to be the length of the siege - 1
+Further improvements to AI collision detection with Deployables in battle.
+Units that charge while in formation (e.g. block formation) stop sooner on contact with the enemy, to reduce "blobbing" where units converge into a disorganised brawl.
+Fixed bug with missile units on ships not firing on enemies reliably during battles.
+Fixed bug with ship artillery not firing on buildings reliably in battles.
+Fix for ships surviving on the campaign map after sinking on the battle map.
+Fix missile ships getting stuck when targeting land units just outside of their range.
+Reduced the chance of AI (enemy) reinforcements and the players reinforcements joining a battle from the same location and therefore engaging in combat instantly in battles from Campaign modes.
+
+
+Balancing Changes
+
+Hit points for all units have been increased in combat.
+Melee defence has been reduced for most melee cavalry units and for some elite infantry units.
+Reduced melee weapon damage in battles, and increased melee defence from shields.
+Various trait effects are now working as intended.
+Improved pike weapon damage balancing in battles.
+Fatigue for running and being in combat has been increased in battles.
+Further tweaks and rebalancing has been made to unit morale in battles.
+Elite infantry morale has been reduced slightly during battles.
+Experience level thresholds have been increased for units.
+Special ability cool down times have been re-balanced in battles.
+Building costs have been updated to reflect the changes in building effects in Campaign modes.
+Morale bonuses from training and religious building chains have been reduced in Campaign modes. Instead, these buildings now give more varied bonuses to the units.
+Cost of experience bonuses for Custom and Multiplayer battles have been reduced.
+Squalor and food consumption have been rebalanced (reduction for higher-level buildings) in Campaign modes.
+The Headhunt ability has been re-balanced in battles.
+The charge bonus for Celtic, Briton and Germanic units have been reduced.
+The masses of horses and men on the battlefield have been made more reasonable.
+Reduced the mass of camel units in battle.
+
+
+Usability Improvements
+
+The Balance Of Power bar on the Diplomacy screen now shows the correct ratio, rather than just 50/50.
+Improved the desynchronisation detection in Multiplayer Campaign mode, and players are now given a popup message when a desynchronisation has occurred, with the options to resynchronise the game to continue, or quit the game.
+When the host leaves the team lobby in Quick Battle multiplayer mode, a new host is found.
+Improved multiplayer compatibility between players who own the Greek States DLC and those who don't.
+In Multiplayer Ambush Battles, if Player 1 clicks the "Start Battle" button, and the Player 2 waits for the timer to run out for the battle to start, Player 2 will no longer be locked into Cinematic Mode with limited user interface controls.
+All battles now end 5 seconds after the victory is decided (This used to be 10 seconds).
+In Multiplayer Land Battles, when deployment is over, enemy armies will no longer be visible, when they are supposed to be hidden, for a couple of seconds before fading out.
+In Multiplayer battles, a player who has conceded defeat will now turn into a spectator. They can then exit the battle if they want to.
+Fix for battle music getting paused while in slow battle speed.
+When on the campaign map, if an agent is placed close to the edge of an enemy settlement as it expands (builds a building in a construction slot) the agent is now teleported out of the way of the expansion, so they do not become stuck within the settlement. If the agent was already stuck in an expanded settlement before this update, they will remain stuck, and have to be disbanded. This update will prevent this situation from happening in the future.
+Slightly improve combat responsiveness and animations for formation attacks in battles.
+Fixed bug with ship artillery not firing at all after using first-person mode in battles.
+The Attacking Testudo can no longer be activated in melee during battles.
+Battering rams moves out the way correctly after battering a gate down in battles.
+The Tortoise battering ram animation has been tweaked slightly so it collides with walls better, at the point of impact when a wall is destroyed.
+Multiple waypoints displayed for units in siege equipment, as previously only 1 was displayed.
+Selecting Dismount on mounted units continuously during deployment in battles will move the units towards their last ordered position less after dismounting.
+During battles, if a cavalry unit is ordered to move to a location, and then ordered to dismount, the men will now dismount but not continue to move to the previously ordered location.
+The number of arrows is now correctly depleted when units fire whilst moving during battles.
+Correct bonuses are now being applied to units from Workshop buildings.
+Fixed bug with pike phalanx not getting back into pike stance after running.
+Charge bonuses are now correctly applied to units recruited in certain provinces.
+Projectile impact effects hitting units and buildings are now positioned more accurately.
+Improved fire effects for buildings, siege vehicles and deployables during battles.
+Improved some visual effects for during battles. Better burnt version of buildings with burning embers, and running water down roofs and vertical surfaces in rain.
+Damaged visual effects have been improved on the campaign.
+Fixed Briton Chariot unit attributes.
+Fix for Scythian horse unit variation.
+The achievements "Noble Master", "Spymaster" and "Champion of the Gods" now unlock sooner after their requirements have been met.
+Fix for the Campaign map terrain disappearing when repeatedly toggling between the Campaign Map and Campaign Tactical Map.
+Province level bonuses (such as edicts with food bonuses) are now taken into account in the food level displayed in a province overview in Campaign modes.
+Settlement labels on the campaign map are now positioned more accurately and no longer get offset from the settlements.
+In the Province panel in Campaign modes, provinces can now be sorted by their level of food production.
+Several Eastern buildings now correctly consume food (instead of either not consuming anything or giving contradicting public order effects) in Campaign modes.
+The Qanat building (in the Eastern agricultural chain) now produces a small amount of food in campaign mode.
+The warning message that informs the player that they are not researching any technology when they press the "End Turn" button in Single Player Campaigns is now also displayed in Multiplayer Campaigns.
+The players armies in Ambush stance will no longer move by themselves in Campaign modes, which happened on rare occasions.
+Fix for user interface bug showing the wrong tax level on the Province Details panel when the "Tax province" button was ticked in Campaign modes.
+Culture conversion coming from some characters now correctly shows up as "character" in the culture tooltip, no longer as "building".
+In Campaign modes, the culture that Consecrated Grounds belong to is now displayed in their title, to make it clearer why they need to be converted.
+The "Reduces slave population decline" icon in the information panel when placing the mouse over the "Slave Trader" in the Commons buildings section in Campaign modes is now displayed as green instead of red (as it's a positive affect).
+The first building in the equipment chain (E.g. Workshop for Hellenic, Quartermaster for Eastern etc.) can no longer be bypassed by converting from another faction's equipment chain without researching.
+Technologies are now required to create the Level 4 Jewelsmith building, to prevent an exploit.
+Improved ship melee/ramming target selection in battles.
+Fixed boarding mode button state issues when attempting to board a ship in battle.
+In battles, men who have already boarded an enemy ship no longer jump into the sea once their ship has started to sink or back onto their sinking ship. (Men who remain on the sinking ship still jump into the water.)
+Improved Advisor lip sync in various pieces of advice in Campaign modes.
+Clicking the "Square" special ability as a unit is attempting to man a siege tower will no longer stick the siege tower to that unit in battles.
+When an agent is selected in Campaign mode, and the player right clicks on a settlement to sabotage the enemy, the menu will no longer act erratically.
+When the player had a subject to deal with in the politics screen and the subject had an infamy effect, this effect once seen persisted in being shown for all other characters even if the subject is dismissed. This has been fixed.
+Fix for some misaligned text on a tooltip displayed when a settlement with a port is blockaded by an enemy, and the player selects the enemy and places the mouse over the settlement.
+Improved small glitches with Campaign selection markers and Forced March visual effects sometimes being displayed in the wrong positions when units move.
+Fixed some inconsistent ability names for General Skill Types.
+In Campaign mode, Roman "Basilica of X" temples have now been renamed to "Precinct of X".
+Tooltip regarding the "Armoured Siege Units" technology bonus effects on pre-siege vehicles (all variants of Galleries, Siege Towers, Ladders and Battering Rams) is now clearer.
+Fixed the tooltip when placing the mouse over the Columns I, II and III for War Exercises, Warrior Code, Tribal Economy and Druidic Council technology trees in the Technology Panel in Campaign modes.
+Two pieces of advice from the Battlefield Advisor relating to flanking were mixed up in Italian and Spanish. These have now been corrected.
+Fixed a couple of instances where what the Battlefield Advisors was saying did not match the text displayed in Spanish.
+Some steep terrain in a Greek Minor Port battle map has been levelled out, to stop ships from going under the beach when they disembark.
+Improvements to the wall connectivity in a Greek Port battle map.
+Boiling oil poured from gate houses in battles will look better where it intersects with the ground.
+Improved impact animations when pig carcasses hit the ground when fired as poison rounds form artillery in battles.
+While crossing rivers in battles, units footsteps now default to mud sounds instead of water sounds.
+Fix for a small hole in the terrain in a Greek Minor Port battle map.
+When the player is defending in a siege battle from Campaign mode, and the enemy partially capture a Victory Point on the battle map, then the player re-gains control of the Victory Point, the Battlefield Advisor will no longer say "Our enemy have lost a victory point".
+Fix for the Battlefield Advisor sometimes referring to the players own reinforcements as "Enemy Reinforcements" during battles.
+Added some localisation text and audio fixes for French, Italian, German, Spanish, Czech, Russian, Polish and Turkish.
+Added Stonehenge back to the custom battle map at these coordinates 0.137, 0238 (Iska).
+Fixed typo on 'Conscription' edict in English.
+Improved culling of certain rocks on the battlefield.
+Added French, Italian, German and Spanish localisation to the word "Settlement" in the Agent Action Panel in Campaign modes.
+Various text and grammar fixes for the Campaign user interface.
+
+
+Special note:
+
+ Spoiler
+~~~~~~~~~~~~~
+With this update we patch existing files as the updated files take up over
+10GB. For this reason, it's very important that you use it on:
+- Our untouched release (Total.War.ROME.II-RELOADED) with crack added to
+install dir.
+or:
+- Our previous release (Total.War.ROME.II-RELOADED) with our update 1 or 2
+release (Total.War.ROME.II.Update.1/2-RELOADED) applied.
+
+
+Please don't post links to scene releases.
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 03 Oct 2013, 21:17]
+
+_________________
+From Mexico with love ^^
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 03 Oct 2013, 21:28]
+could anyone upload updated langs?
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 03 Oct 2013, 21:28]
+
+_________________
+mostly inactive until at least half of july 2025
+
+If any of my uploads are outdated or no longer online , the best way to do is to send me a PM and i will add the title to the next batch
+UPLOADS PAUSED (have all requests in queue for when i am back to being more active)
+
+List of recent games with modern DRMs:(updated 01-Mar-2023) - http://cs.rin.ru/forum/viewtopic.php?f=10&t=68151
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 04 Oct 2013, 11:00]
+Could anyone upload patched (with 3rd patch) "startpos.esf" file in "Total War Rome II\data\campaigns\main_rome". It's just 4MB. I edited and screwed it up without making a back up. Thanks in advance.
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 04 Oct 2013, 12:07]
+excor wrote:
+Could anyone upload patched (with 3rd patch) "startpos.esf" file in "Total War Rome II\data\campaigns\main_rome". It's just 4MB. I edited and screwed it up without making a back up. Thanks in advance.
+
+here you go
+
+http://www.putlocker.com/file/C088A661E33110C0
+
+and BTW it stayed the same after the previous patches so no change to it was made .
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 04 Oct 2013, 13:15]
+Please polish updated files.
+Thank you.
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 04 Oct 2013, 13:41]
+numerno wrote:
+excor wrote:
+Could anyone upload patched (with 3rd patch) "startpos.esf" file in "Total War Rome II\data\campaigns\main_rome". It's just 4MB. I edited and screwed it up without making a back up. Thanks in advance.
+
+here you go
+
+http://www.putlocker.com/file/C088A661E33110C0
+
+and BTW it stayed the same after the previous patches so no change to it was made .
+
+
+Thanks a lot.
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 04 Oct 2013, 13:44]
+excor wrote:
+numerno wrote:
+excor wrote:
+Could anyone upload patched (with 3rd patch) "startpos.esf" file in "Total War Rome II\data\campaigns\main_rome". It's just 4MB. I edited and screwed it up without making a back up. Thanks in advance.
+
+here you go
+
+http://www.putlocker.com/file/C088A661E33110C0
+
+and BTW it stayed the same after the previous patches so no change to it was made .
+
+
+Thanks a lot.
+
+you're welcome .
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 04 Oct 2013, 15:05]
+Turkish language (updated 3) files please 
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 04 Oct 2013, 19:35]
+My game got messed up after update, unable to even start it :\ Can someone upload sfv for update 3? Also, my rome2.exe is only 218 kb, not sure if that is correct?

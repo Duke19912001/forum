@@ -1,0 +1,288 @@
+=========================================
+STRONA 53 (URL: https://cs.rin.ru/forum/viewtopic.php?f=10&t=61441&hilit=rome+2&start=780)
+=========================================
+
+[Data: Friday, 14 Mar 2014, 18:45]
+Btw. Crack is working now for Patch#10. We try to give you the updated files asap. Patch#10 should go public today.
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 14 Mar 2014, 18:51]
+Man, don't be a foolish, this "crack" will only work on your own system.
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 14 Mar 2014, 18:53]
+Nope it wont, cos its also working for machine4578 (viewtopic.php?p=897335#p897335)....so stop assuming things you didnt test...i also updated the "Crack" Archive with Steam006's newest LumaEmu_CEG.dll.
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 14 Mar 2014, 18:55]
+ali213 wrote:
+Man, don't be a foolish, this "crack" will only work on your own system.
+
+have you tried it?? because with the new .dll posted by Steam006, its working!
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 14 Mar 2014, 19:13]
+machine4578 wrote:
+ali213 wrote:
+Man, don't be a foolish, this "crack" will only work on your own system.
+
+have you tried it?? because with the new .dll posted by Steam006, its working!
+
+Oops, let's give it a try, didn't notice for the first time 
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 16 Mar 2014, 17:03]
+So, any progress on patch 10 files?
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 18 Mar 2014, 08:15]
+Total.War.ROME.II.Update.10.Incl.DLC.REPACK *cracked/xdelta*
+
+*special thanks to machine4578* for helping with some stuff - (you need Update 9.0 installed)
+
+Changelog Update 10: http://bit.ly/1nzPuxE
+
+NFO:
+
+
+
+ Spoiler
+Code: Select all | Line number On/Off | Expand/Contract
+ 
+Total.War.ROME.II.Update.10.Incl.DLC.EPACK + Beta_to_final *xdelta*
+ 
+ßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßß
+ 
+ 
+G A M E N O T E S
+ 
+ 
+With this update we patch existing files as the updated files take up over 12GB.
+For this reason, its very important that you use it on your Rome 2 <root> dir
+with Update 9 applied, we recommend using Total.War.ROME.II.Update.9.Incl.DLC-RELOADED
+ 
+This Release includes the following DLC:
+- Greek States Culture Pack
+- Nomadic Tribes Culture Pack
+- Baktria Faction Pack
+- Seleucid Empire Faction Pack
+- Blood & Gore
+- Epirus and Elephants Update
+(- Caesar in Gaul *included in RLDs Update 9 Release)
+ 
+See changelog.txt for a complete Changelist.
+ 
+How far will you go for Rome?
+The award-winning Total War series returns to Rome, setting a brand new
+quality benchmark for Strategy gaming. Become the world's first superpower
+and command the Ancient world's most incredible war machine. Dominate your
+enemies by military, economic and political means. Your ascension will bring
+both admiration and jealousy, even from your closest allies.
+Will you suffer betrayal or will you be the first to turn on old friends?
+Will you fight to save the Republic, or plot to rule alone as Emperor?
+ 
+Key Features
+* Plan your conquest of the known world in a massive sandbox turn-based
+campaign mode (supporting additional 2-player cooperative & competitive
+modes). Conspiracies, politics, intrigue, revolts, loyalty, honour,
+ambition, betrayal. Your decisions will write your own story.
+* Build vast armies and take to the battlefield in real-time combat mode.
+Put your tactical skills to the test as you directly control tens of
+thousands of men clashing in epic land and sea battles.
+* Play for the glory of Rome as one of three families or take command of a
+huge variety of rival civilisations - each offers a notably different form
+of gameplay experience with hundreds of unique units from siege engines
+and heavy cavalry to steel-plated legionaries and barbarian berserkers.
+* See exotic ancient cities and colossal armies rendered in incredible
+detail, as jaw-dropping battles unfold. Detailed camera perspectives allow
+you to see your men shout in victory or scream in pain on the frontline,
+while a new tactical cam allows a god's eye view of the carnage to better
+inform your strategic decisions.
+* Extremely scalable experience, with gameplay and graphics performance
+optimised to match low and high-end hardware alike.
+ 
+ßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßß
+ 
+ 
+i N S T A L L  N O T E S
+ 
+ 
+1) Extract all files to your Rome 2 <root> install dir
+2) Start TWR2_Update_9_to_10.bat and follow the instrctions
+3) Now go get a coffee, this will take some time.
+4) Copy content from /Crack/ * dir into your Rome 2 <root> dir and overwrite
+5) Start with Rome2.exe
+ 
+*  If the Crack issnt working, install http://bit.ly/1daruK1 or try the
+   "alternative" Crack supplied. Then start with GameLauncher.exe
+ 
+If you want to use mods, just download the Total War: Rome 2 - MOD MANAGER
+http://bit.ly/1edRrtw
+ 
+ßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßß
+ 
+ 
+R E P A C K  N O T E S
+ 
+ 
+Models were updated with Elephants and some extras. We totally forgot that there
+was another Update after RLD one's and Update 10. Infos to recents patch 9.1.
+http://bit.ly/1eMQN35
+ 
+ 
+You need at least ~24gb of free disk space to be able to apply this patch.
+Including only english language updated files. For german get
+Total.War.ROME.II.Update.10.German.Language.Patch
+ 
+ßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßß
+ 
+ 
+
+
+Download: [166mb]
+
+http://www52.zippyshare.com/v/46647519/file.html
+http://www.firedrive.com/file/3015097CB6E7C7A3
+http://BillionUploads.com/ia0f42vh4utg
+
+Total.War.Rome II.Update10.Crack.Only
+
+Download:
+http://www28.zippyshare.com/v/898764/file.html (or http://www.firedrive.com/file/31B120AB749AF1C3)
+(Main Crack based on 3DMEMU, alt. Crack based on LumaEmu, take your pick)
+
+Total.War.ROME.II.Update.10.beta.to.final.Patch
+
+Download:
+http://www41.zippyshare.com/v/6877773/file.html
+
+German Language Patch for Update 10: (If you need other languages, let me know)
+
+Download: [1,16gb] (Passwort: twr2_up10_de)
+
+http://ncrypt.in/folder-rERxrtLC
+
+Total.War.ROME.II.Update.10.German.Language.Patch.Update.1
+
+Updated german language files for Update 10 (final), from Update 10 beta.
+
+Extract all files to your rome 2 <root> dir. Execute batch file and follow instructions.
+Done
+
+http://www73.zippyshare.com/v/12209516/file.html
+
+English Language Patch for Update 10:
+
+http://www73.zippyshare.com/v/2311268/file.html
+
+Italian Language Patch for Update 10:
+
+http://www23.zippyshare.com/v/84780131/file.html
+
+Spanish Language Patch for Update 10:
+
+http://www40.zippyshare.com/v/83918189/file.html
+
+Turkish Language Patch for Update 10:
+
+http://www55.zippyshare.com/v/2711042/file.html
+
+Polish Language Patch for Update 10:
+
+http://www16.zippyshare.com/v/19026924/file.html
+
+Russian Language Patch for Update 10:
+
+http://www24.zippyshare.com/v/53524874/file.html
+
+Czech Language Patch for Update 10:
+
+http://www66.zippyshare.com/v/79122127/file.html
+
+Francais Language Patch for Update 10:
+
+http://www55.zippyshare.com/v/53112925/file.html
+http://www42.zippyshare.com/v/78646672/file.html
+
+Note for all Language Patches (except german)! Copy to your rome 2\data\ dir and overwrite. Need initial language files (which are not updated since vanilla Release! local_*.pack & music_*.pack)
+
+Recommended mod - info
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 18 Mar 2014, 10:50]
+ShadowDuke wrote:
+Total.War.ROME.II.Update.10.Incl.DLC.REPACK *cracked/xdelta*
+
+If you need other languages, let me know
+
+
+
+Could you post Italian language files?
+
+Thank you!
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 18 Mar 2014, 11:59]
+pls polish files for up10
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 18 Mar 2014, 12:24]
+Not working for me.
+No mods, started new campaign, press next turn button and CTD.
+
+EDIT: Caesar in Gaul campaing works fine with no CTD, so it must be related to the update itself.
+
+EDIT 2: It seems that the CTD happens on carthages turn no matter what faction you are playing with.
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 18 Mar 2014, 12:32]
+alvaro1992 wrote:
+EDIT 2: It seems that the CTD happens on carthages turn no matter what faction you are playing with.
+
+does this crash happen if you use the ALI213 or LumaEmu?? also posting the LumaEmu_CEG.log may be useful!
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 18 Mar 2014, 12:46]
+machine4578 wrote:
+alvaro1992 wrote:
+EDIT 2: It seems that the CTD happens on carthages turn no matter what faction you are playing with.
+
+does this crash happen if you use the ALI213 or LumaEmu?? also posting the LumaEmu_CEG.log may be useful!
+
+
+Both tested, no luck.
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 18 Mar 2014, 12:49]
+machine4578 wrote:
+does this crash happen if you use the ALI213 or LumaEmu?? also posting the LumaEmu_CEG.log may be useful!
+
+It happen whith both cracks.
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 18 Mar 2014, 13:00]
+Spanish Language Patch, please
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 18 Mar 2014, 13:08]
+fearless3 wrote:
+machine4578 wrote:
+does this crash happen if you use the ALI213 or LumaEmu?? also posting the LumaEmu_CEG.log may be useful!
+
+It happen whith both cracks.
+
+i sent Steam006 the logs.. there seems to be a possible issue with the CEG emu..

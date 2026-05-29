@@ -1,0 +1,169 @@
+=========================================
+STRONA 63 (URL: https://cs.rin.ru/forum/viewtopic.php?f=10&t=61441&hilit=rome+2&start=930)
+=========================================
+
+[Data: Monday, 21 Apr 2014, 11:09]
+On what lang you playing the game???? I assume ENG! So, you have HATG-RLD Rel, right?? So you dont need any ENG lang files at all! (cos the files i provied here are the same as HATG-RLD!) viewtopic.php?p=900433#p900433 There dont need to be German Files for this, cos they are updating with the Patch i provided! Thats why i posted all other langs separately!
+They are for Update 11! And as i said, Update 12 lang files will come when Update 12 is final!
+
+What it is you dont understand now? You ask what lang files you need and ask if you need all files posted there? viewtopic.php?p=900433#p900433 That doesnt make sense, right.
+
+You dont need any (new) lang files if you have HATG-RLD and playing in ENG! The patch wants to update the 2 german files for lang which you dont have if you are not playing on german, hence the 2 missmatch errors.
+
+If you did all fine and its still not working, the problem is elsewhere! For the Crack you also need vcredist installed (msvcr120.dll).
+
+
+Quote:
+And the game doesn't work after if I hit "N".
+With no error msg at all? Only Ca and Sega logo, blackscreen and thats it??
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 21 Apr 2014, 13:50]
+Could someone post a sfv of the game files with beta update 12 applied ?
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 21 Apr 2014, 16:14]
+ShadowDuke wrote:
+On what lang you playing the game???? I assume ENG! So, you have HATG-RLD Rel, right?? So you dont need any ENG lang files at all! (cos the files i provied here are the same as HATG-RLD!) viewtopic.php?p=900433#p900433 There dont need to be German Files for this, cos they are updating with the Patch i provided! Thats why i posted all other langs separately!
+They are for Update 11! And as i said, Update 12 lang files will come when Update 12 is final!
+
+What it is you dont understand now? You ask what lang files you need and ask if you need all files posted there? viewtopic.php?p=900433#p900433 That doesnt make sense, right.
+
+You dont need any (new) lang files if you have HATG-RLD and playing in ENG! The patch wants to update the 2 german files for lang which you dont have if you are not playing on german, hence the 2 missmatch errors.
+
+If you did all fine and its still not working, the problem is elsewhere! For the Crack you also need vcredist installed (msvcr120.dll).
+
+
+Quote:
+And the game doesn't work after if I hit "N".
+With no error msg at all? Only Ca and Sega logo, blackscreen and thats it??
+
+
+Yeah I am on HATG-RLD Rel. I play in ENG too, which I copied the files over from that lang pack I just wondered if I needed the others due to the errors I get on update 12.
+
+So even if I get the 2 mismatch errors on update12 it doesn't matter? And yeah after I install update 12 I can load the game up to the point of the CA and sega logos then the main menu should popup but it just gets black screen and freezes.
+
+I have got vcredist as I can confirm with just update 11 added my game does work.
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 21 Apr 2014, 17:29]
+Quote:
+I have got vcredist as I can confirm with just update 11 added my game does work.
+
+
+
+You mean Update11 hotfix, right? Cos like i said, HATG is already Patched to Update #11.
+
+Yes it doesnt matter, look at the 2 files and you see (local_ge_rome2.pack, music_ge_rome2.pack).
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 21 Apr 2014, 23:47]
+ShadowDuke wrote:
+Quote:
+I have got vcredist as I can confirm with just update 11 added my game does work.
+
+
+
+You mean Update11 hotfix, right? Cos like i said, HATG is already Patched to Update #11.
+
+Yes it doesnt matter, look at the 2 files and you see (local_ge_rome2.pack, music_ge_rome2.pack).
+
+
+Yes I mean the hotfix.
+
+I get the error after data_rome2.pack 1/15 (local_ge_rome2.pack comes after the message, I don't know which one the message is related to) and after tiles3_rome2.pack 13/15.
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 22 Apr 2014, 13:08]
+Anyone have Revolt Steamworks crack for patch 12? Or can tell me how to change rvtfix from patch 11 to 12 please. Thx
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 22 Apr 2014, 14:24]
+Try to use my rome2.dll with it.
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 22 Apr 2014, 16:18]
+Supernal wrote:
+
+Yes I mean the hotfix.
+
+I get the error after data_rome2.pack 1/15 (local_ge_rome2.pack comes after the message, I don't know which one the message is related to) and after tiles3_rome2.pack 13/15.
+
+It seems that you havent installed everything properly because i had the same errors like you when i tried to install patch 12 without patch 11 hotfix. Minute ago i installed 11 hotfix and then 12 and no errors at all. GL searching
+
+-- Edit --
+
+
+ShadowDuke wrote:
+Try to use my rome2.dll with it.
+
+The game starts with it fine, thanks man :j But on the menu in the right upper corner there is info about ver. and it says 1.11. Maybe only this info is old but game files updated?
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 22 Apr 2014, 16:35]
+I dont know exactly what files come with Revolt Steamworks Crack. Is it also overwriting the rome2.exe and it is different than the original one? Try to use the original one from my archive maybe. Or use all files of my Crack and play Multiplayer with Greenluma (non-Steam beta).
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 22 Apr 2014, 17:09]
+ShadowDuke wrote:
+I dont know exactly what files come with Revolt Steamworks Crack. Is it also overwriting the rome2.exe and it is different than the original one? Try to use the original one from my archive maybe. Or use all files of my Crack and play Multiplayer with Greenluma (non-Steam beta).
+
+Rvtfix has rome2.exe but i dont know if it is changed, size = 508KB . I cant change to greenluma now because saves wont work there ;/ Original rome2.exe from update archive fixes the ver. info problem  Thank you.
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 22 Apr 2014, 18:52]
+Protean wrote:
+Supernal wrote:
+
+Yes I mean the hotfix.
+
+I get the error after data_rome2.pack 1/15 (local_ge_rome2.pack comes after the message, I don't know which one the message is related to) and after tiles3_rome2.pack 13/15.
+
+It seems that you havent installed everything properly because i had the same errors like you when i tried to install patch 12 without patch 11 hotfix. Minute ago i installed 11 hotfix and then 12 and no errors at all. GL searching
+
+
+
+I have literally just done a fresh install, ran update 11 hotfix, all went fine. And the exact same errors again on the update 12. The only thing that maybe needs a mention is in the cmd prompt I get an access denied message pop up before the patches start applying, but after this they begin applying and I have checked the folder, the files are changing in size so I don't know. That is the only thing that sticks out for me.
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 22 Apr 2014, 20:19]
+Access denied is problem with mcafee and kaspersky and such, disable it completely. Some1 had this problem before 2 pages back or so (with mcafee) and elsewhere some1 with kaspersky. 2 files access denied errors, different files. Why? Dunno.
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 22 Apr 2014, 23:32]
+ShadowDuke wrote:
+Access denied is problem with mcafee and kaspersky and such, disable it completely. Some1 had this problem before 2 pages back or so (with mcafee) and elsewhere some1 with kaspersky. 2 files access denied errors, different files. Why? Dunno.
+
+
+I only have Avast and Comodo which I just tried again with both disabled I still get the access denied. But the patches seem to apply fine after it.
+
+EDIT
+I made the 3 files other than that .bat file run as admin which made a deltax pop up in cmd for every 1/15 patch, but when I ran update 12 like this I got no checksum errors as before. Game still crashed after the loading screens though -_-.
+
+Have tried adding permissions to all the folders etc no luck. Don't know what else to try, it just doesn't work. Is there another way these files can be updated?
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 23 Apr 2014, 15:24]
+My bro had a problem with Access denied too. Disabling UAC + reboot windows solved the problem. Running .bat with admin rights may cause the problem too. Try with and without those and make sure UAC is disabled in the control panel.
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 24 Apr 2014, 10:12]
+Protean wrote:
+My bro had a problem with Access denied too. Disabling UAC + reboot windows solved the problem. Running .bat with admin rights may cause the problem too. Try with and without those and make sure UAC is disabled in the control panel.
+
+
+Yep that fixed it . I had UAC disabled but I didn't reboot and that made the difference. Thanks.

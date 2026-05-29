@@ -1,0 +1,276 @@
+=========================================
+STRONA 84 (URL: https://cs.rin.ru/forum/viewtopic.php?f=10&t=61441&hilit=rome+2&start=1245)
+=========================================
+
+[Data: Thursday, 24 Jul 2014, 14:01]
+gringosan wrote:
+I updated my working 13.1 install with the xdelta patch 14 without issue but the game is broken for me now.
+
+I'm not sure if its beta patch or xdellta issue but i thought I would make a post as it seems others are not affected.
+
+I see in my C:\Users\XXXXXX\AppData\Roaming\The Creative Assembly\ "modified.log" some interesting notes as below
+
+Code: Select all | Line number On/Off | Expand/Contract
+data_rome2.pack size mismatch
+text/credits.xml size mismatch
+terrain2_rome2.pack size mismatch
+tiles_rome2.pack size mismatch
+tiles4_rome2.pack size mismatch
+local_en_rome2.pack size mismatch
+models2_rome2.pack size mismatch
+
+
+All of the .pack files were modified by the xdelta patch (except for local_en_rome2.pack and credits.xml)
+
+The game will launch and I did a custom battle just fine... but the Historic battle of Carthage will crash during loading. I loaded Teutoburg, Alesia, and Pydna without trouble.
+
+So with very limited testing I am having some issues with patch 14 beta.
+
+Cheers
+
+PS. The exe hang on exit seems intermittent for me, I would say it hangs 1 or 2 times out of 10 exits from the main menu.
+
+
+Same problem here, also crashing on some custom battles.
+
+Code: Select all | Line number On/Off | Expand/Contract
+data_rome2.pack size mismatch
+text/credits.xml size mismatch
+local_ge.pack missing
+text/default_keys.xml size mismatch
+models_rome2.pack size mismatch
+terrain2_rome2.pack size mismatch
+text/dx11.txt missing
+tiles3_rome2.pack size mismatch
+text/disclaimers.html size mismatch
+campaigns/main_rome/startpos.esf size mismatch
+sound_rome2.pack size mismatch
+tiles_rome2.pack size mismatch
+local_ge_rome2.pack missing
+tiles4_rome2.pack size mismatch
+music_ge.pack missing
+models2_rome2.pack size mismatch
+music_ge_rome2.pack missing
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 24 Jul 2014, 14:25]
+alvaro1992 wrote:
+gringosan wrote:
+I updated my working 13.1 install with the xdelta patch 14 without issue but the game is broken for me now.
+
+I'm not sure if its beta patch or xdellta issue but i thought I would make a post as it seems others are not affected.
+
+I see in my C:\Users\XXXXXX\AppData\Roaming\The Creative Assembly\ "modified.log" some interesting notes as below
+
+Code: Select all | Line number On/Off | Expand/Contract
+data_rome2.pack size mismatch
+text/credits.xml size mismatch
+terrain2_rome2.pack size mismatch
+tiles_rome2.pack size mismatch
+tiles4_rome2.pack size mismatch
+local_en_rome2.pack size mismatch
+models2_rome2.pack size mismatch
+
+
+All of the .pack files were modified by the xdelta patch (except for local_en_rome2.pack and credits.xml)
+
+The game will launch and I did a custom battle just fine... but the Historic battle of Carthage will crash during loading. I loaded Teutoburg, Alesia, and Pydna without trouble.
+
+So with very limited testing I am having some issues with patch 14 beta.
+
+Cheers
+
+PS. The exe hang on exit seems intermittent for me, I would say it hangs 1 or 2 times out of 10 exits from the main menu.
+
+
+Same problem here, also crashing on some custom battles.
+
+Code: Select all | Line number On/Off | Expand/Contract
+data_rome2.pack size mismatch
+text/credits.xml size mismatch
+local_ge.pack missing
+text/default_keys.xml size mismatch
+models_rome2.pack size mismatch
+terrain2_rome2.pack size mismatch
+text/dx11.txt missing
+tiles3_rome2.pack size mismatch
+text/disclaimers.html size mismatch
+campaigns/main_rome/startpos.esf size mismatch
+sound_rome2.pack size mismatch
+tiles_rome2.pack size mismatch
+local_ge_rome2.pack missing
+tiles4_rome2.pack size mismatch
+music_ge.pack missing
+models2_rome2.pack size mismatch
+music_ge_rome2.pack missing
+
+
+Same scenario on my end too...thing is for me crashes occur when AI sallies out..the battlemap doesnt load. Xdelta didn't throw up any error.
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 24 Jul 2014, 14:37]
+Still, you didnt update right and/or have done something wrong and therefore have errors, theres absolutely no other explanation!
+
+campaigns/main_rome/startpos.esf size mismatch ??
+
+This file wasnt even updated with latest patch! You did something wrong even way before! So check this before!!! What Release do you use anyway to update, etc!? I bet you use some crappy repack, so dont wonder...
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 24 Jul 2014, 14:37]
+ShadowDuke wrote:
+
+Since you already saw in the log "missmatch" the xdelta patch wasnt really working, was it!? Cos i dont have those entries in my log file! So its not possible that you didnt have any missmatch errors during patching..
+
+
+
+
+Ok well that seems fair but no errors were reported by the patching script... I am trying to sort it out.
+
+
+ Xdelta Console Output
+******************************************************************
+* TW: ROME II Update 14 *beta* - build: 12540.560829 (22.07.14) *
+
+******************************************************************
+
+Extracting patch files...
+Applying Patch to data_rome2.pack... [ 1 / 15 ]
+Applying Patch to local_ge_rome2.pack... [ 2 / 15 ]
+Applying Patch to models2_rome2.pack... [ 3 / 15 ]
+Applying Patch to models_rome2.pack... [ 4 / 15 ]
+Applying Patch to movies_rome2.pack... [ 5 / 15 ]
+Applying Patch to music_ge_rome2.pack... [ 6 / 15 ]
+Applying Patch to music_rome2.pack... [ 7 / 15 ]
+Applying Patch to nomadic.pack... [ 8 / 15 ]
+Applying Patch to sound_rome2.pack... [ 9 / 15 ]
+Applying Patch to terrain2_rome2.pack... [ 10 / 15 ]
+Applying Patch to terrain_rome2.pack... [ 11 / 15 ]
+Applying Patch to tiles2_rome2.pack... [ 12 / 15 ]
+Applying Patch to tiles3_rome2.pack... [ 13 / 15 ]
+Applying Patch to tiles4_rome2.pack... [ 14 / 15 ]
+Applying Patch to tiles_rome2.pack... [ 15 / 15 ]
+
+DONE
+
+**************** Did any ERRORS occur? *************************
+* *
+* Selecting "Y" Restores your old files and ends the updating. *
+* Selecting "N" Will Continue the updating. *
+* *
+****************************************************************
+(Y/N):N
+
+
+
+Updating will Continue,
+extracting the rest of the update.
+
+Update was installed successfully
+
+Press any key to continue . . .
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 24 Jul 2014, 14:41]
+Yeah, you get no errors and i dont fucking know why, you should get 100% an error on the german files cos you dont have them, therefore it cant patch them and have to be an error! And if you look at your log, you should also get missmatch errors at the other files, but you didnt, dunno why.....never seen this before, why you dont get errors there! Just looks like it issnt doing anything at all aka. its not patching...
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 24 Jul 2014, 14:43]
+Im using only your updates, its was working fine with 13.1, it just happenend when I applied update 14 beta.
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 24 Jul 2014, 14:45]
+Ok, but still the error is on your side as other ppl already successful patched :/
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 24 Jul 2014, 14:47]
+It looks like he ran the patch from the data folder not from the rome 2 folder
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 24 Jul 2014, 14:49]
+Same here. Up until 13.1 all updates worked fine, campaign, custom battles, historical battles, never a crash. But with 14 beta every time i play as rome or fight a battle against rome the game crashes. Custom battles are ok though 
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 24 Jul 2014, 14:54]
+What means "paly as rome=crash"!? When turn ending? After the loading of campaign with rome has finished!? I tested all those things, so did others and its working fine.
+
+When did you download the patch!? Before i added the "crackfix"?
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 24 Jul 2014, 14:59]
+ShadowDuke wrote:
+What means "paly as rome=crash"!? When turn ending? After the loading of campaign with rome has finished!? I tested all those things, so did others and its working fine.
+
+When did you download the patch!? Before i added the "crackfix"?
+
+
+Well I re installed everything after you updated the patch. The crash happens only when a battle where the rome faction is involved. I was playing as Carthage for many turns and no crash. Then rome showed up and starting crashing. So i started a new campaign as rome and when i initiated a battle crash all the time. Like I said before reapplying patch 14 I tried 13.1 and worked fine.
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 24 Jul 2014, 15:02]
+These are the contents of my datanew folder, 8 files from 15, so definitely something weird is happening.
+
+ Spoiler
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 24 Jul 2014, 15:02]
+Tested again. Rome campaign, 1st turn, ending, no crash, battle 2nd turn, no crash.
+
+Syrakus campaign, 2nd turn battle against rome, no crash...
+
+So no idea...working fine here and for others (confirmed).
+
+You said you played Carthage for many turns, that means you load a savegame, right? The new patch can make problems with old savegames, cos so many things were changed, etc.
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 24 Jul 2014, 15:04]
+IT would help people if u told us :
+1) what Rome 2 version u have ( meaning where u got it from)
+2) How exactly did u patch it
+
+-- Edit --
+
+
+alvaro1992 wrote:
+These are the contents of my datanew folder, 8 files from 15, so definitely something weird is happening.
+
+ Spoiler
+
+Dude that disappears when u punch in "n" for patching the game
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 24 Jul 2014, 15:06]
+I used reloaded hannibal at the gates version, patched it till 13.1, working with no problems, patched update 14 as I did with the others.
+
+-- Edit --
+
+
+neoiq5719 wrote:
+IT would help people if u told us :
+1) what Rome 2 version u have ( meaning where u got it from)
+2) How exactly did u patch it
+
+-- Edit --
+
+
+alvaro1992 wrote:
+These are the contents of my datanew folder, 8 files from 15, so definitely something weird is happening.
+
+ Spoiler
+
+Dude that disappears when u punch in "n" for patch the game
+
+Yes, but there should be 15 files in that folder, and it only generated 8, so some files are skipped idk why.

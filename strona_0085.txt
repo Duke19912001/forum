@@ -1,0 +1,148 @@
+=========================================
+STRONA 85 (URL: https://cs.rin.ru/forum/viewtopic.php?f=10&t=61441&hilit=rome+2&start=1260)
+=========================================
+
+[Data: Thursday, 24 Jul 2014, 15:09]
+Did u get any mismatch error in the process?
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 24 Jul 2014, 15:12]
+I use RELOADED version with patch 11, and installed all updates from here. I put all the patches in the ROME II folder and the updates went without errors, so I really don't know what went wrong. BTW The campaign as Carthage is a new one after re-installing. I played for over an hour with several battles and no crash, until i decided to attack rome and that's when the crashes started.
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 24 Jul 2014, 15:16]
+neoiq5719 wrote:
+Did u get any mismatch error in the process?
+
+I think I saw something in the xdelta console but couldnt read it as it disappeared almost instantly.
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 24 Jul 2014, 15:20]
+PEOPLE WATCH OUT: many of u say that your version is reloaded 13.1 because U GOT FROM THE RELOADED PAGE BUT is NOT reloaded since it´s 3DM. Probably u would have to go to number 9 which is really reloaded
+
+-- Edit --
+
+
+alvaro1992 wrote:
+neoiq5719 wrote:
+Did u get any mismatch error in the process?
+
+I think I saw something in the xdelta console but couldnt read it as it disappeared almost instantly.
+
+if u knew which one gave u the mismatch I could upload it for u provided is one or two but 6 or 8 is just too big.
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 24 Jul 2014, 15:28]
+Ive had the same logged mismatch errors since i first played, game always plays fine but i only play as brits and never play custom battles, havnt had a crash that wasnt down to missing a patch out (yet) or using the wrong crack/fix,that i know of. Updates always update fine never an error unless i use the wrong patch order.
+
+Reloaded ceaser in gaul!
+
+Always updatesfine, seems to work fine, heres my log.
+
+ Spoiler
+data_rome2.pack size mismatch
+text/credits.xml size mismatch
+local_ge.pack missing
+models_rome2.pack size mismatch
+terrain2_rome2.pack size mismatch
+text/dx11.txt missing
+tiles3_rome2.pack size mismatch
+campaigns/main_rome/startpos.esf size mismatch
+sound_rome2.pack size mismatch
+tiles_rome2.pack size mismatch
+local_ge_rome2.pack missing
+tiles4_rome2.pack size mismatch
+music_ge.pack missing
+models2_rome2.pack size mismatch
+music_ge_rome2.pack missing
+local_en.pack unknown file
+local_en_rome2.pack unknown file
+mod.p ack unknown file
+music_en.pack unknown file
+music_en_rome2.pack unknown file
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 24 Jul 2014, 15:32]
+Unknown file!? English language files? Wtf...
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 24 Jul 2014, 16:14]
+ShadowDuke wrote:
+Yeah, you get no errors and i dont fucking know why, you should get 100% an error on the german files cos you dont have them, therefore it cant patch them and have to be an error! And if you look at your log, you should also get missmatch errors at the other files, but you didnt, dunno why.....never seen this before, why you dont get errors there! Just looks like it issnt doing anything at all aka. its not patching...
+
+
+
+I cant be sure but the xdelta patch is doing something, I get 13/15 files patched... I assume I have the correct input files (except for the 2 german language files) otherwise I don't think I would get 13 output files. (one guy was sayin he had 8/15 so I think he had wrong input files that went unreported during patching)
+
+I posted an SFV for my 13 xdelta output files for patch 14 beta if the files match then the patching was as intended and any ingame issues are CA's.
+
+Should you include the /data/manifest.txt in your patches? I think this is the source of the file mismatches that are reported in the log file.
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 24 Jul 2014, 16:20]
+Yeah, i checked them with mine and they're all ok except tiles4_rome2.pack! As i said yesterday, its crashing for me with original after ending turn but not with Crack...
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 24 Jul 2014, 16:20]
+I used the reloaded HATG incl seasons and wonders release , and it never had any german files in the data folder...but Xdelta still somehow patches it mysteriously...and I have seen the patch effects during play.
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 24 Jul 2014, 16:24]
+It cant patch files when there arent those files already! So xdelta skips the 2 german files! And it does not effect gameplay, it cant! It just does not patch the files and you add the 2 eng files and everything is ok!
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 24 Jul 2014, 16:35]
+ShadowDuke wrote:
+Yeah, i checked them with mine and they're all ok except tiles4_rome2.pack! As i said yesterday, its crashing for me with original after ending turn but not with Crack...
+
+
+Cheers, thanks for your time.
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 24 Jul 2014, 16:39]
+I reinstalled and repatched and the issue about 8/15 files was corrected.
+Shadowduke can u test Rome custom battle to see if the issues im suffering about it crashing are CA's fault or my version of hannibal at the gates is the problem?
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 24 Jul 2014, 16:45]
+I already tested this viewtopic.php?p=933651#p933651 and custom battle with Rome yesterday, its still working. ^^
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 24 Jul 2014, 17:04]
+ShadowDuke wrote:
+I already tested this viewtopic.php?p=933651#p933651 and custom battle with Rome yesterday, its still working. ^^
+
+The problem must be on my end then, cause I have some missing fortified cities in custom battles, on of them being the city rome.
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 25 Jul 2014, 07:17]
+alvaro1992 wrote:
+ShadowDuke wrote:
+I already tested this viewtopic.php?p=933651#p933651 and custom battle with Rome yesterday, its still working. ^^
+
+The problem must be on my end then, cause I have some missing fortified cities in custom battles, on of them being the city rome.
+
+
+Thought i would give it a try rather than waiting to see if the campaign crashes when i get to Rome.
+Same here, crashes on the prologue loading attack on the settlement, also custom Rome crashes.
+Ahh well was a free beta test, from the month ive had it im glad i didnt pay for it 
+
+-- Edit --
+
+Downloaded HATG reloaded.
+Fresh install first run had 1 modified.log error, installed p11 hotfix then got all the previous log errors.
+Then went through the patches trying a custom battle at Roma with each patch all worked fine till patch 14, the mini/preview map for Roma wont load neither Alexandria A and ctd`s when trying to run the battle.

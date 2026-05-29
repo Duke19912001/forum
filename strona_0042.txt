@@ -1,0 +1,122 @@
+=========================================
+STRONA 42 (URL: https://cs.rin.ru/forum/viewtopic.php?f=10&t=61441&hilit=rome+2&start=615)
+=========================================
+
+[Data: Tuesday, 03 Dec 2013, 11:31]
+punchao wrote:
+Igec35 .rar is corrupted
+reupload please 
+
+startpos.esf 4631Kb
+it´s this?
+
+
+Oh...Don't know why...Try this one.
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 03 Dec 2013, 11:31]
+
+_________________
+01000111 01101000 01101111 01110011 01110100 00100000 01110111 01101000 01100101 01110010 01100101 00100000 01100001 01110010 01100101 00100000 01111001 01101111 01110101 00111111 00100000 01000100 01100101 01101100 01100101 01110100 01100101 00100000 01110100 01101000 01101001 01110011 00100000 01110000 01101111 01110011 01110100 00101100 00100000 01101001 01100110 00100000 01111001 01101111 01110101 00100000 01100100 01100001 01110010 01100101 00101110
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 03 Dec 2013, 11:33]
+thanks 
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 03 Dec 2013, 11:33]
+
+_________________
+
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 04 Dec 2013, 13:19]
+Pls up LANGUAGE PACKS for update7
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 06 Dec 2013, 10:59]
+just to let you know guys my problem has been fixed. I deleted everything in the creative assembly folder in app data and i was able to run ROME 2 without any crash thank you guys
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 06 Dec 2013, 17:56]
+Igec35 wrote:
+punchao wrote:
+Igec35 .rar is corrupted
+reupload please 
+
+startpos.esf 4631Kb
+it´s this?
+
+
+Oh...Don't know why...Try this one.
+
+I overwrite this file with one located on
+SteamLibrary\SteamApps\common\Total War Rome II\data\campaigns\main_rome
+How do I know if dlc be unlocked?
+thanks
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 14 Dec 2013, 19:52]
+Pls upload polish files for update7.
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 15 Dec 2013, 07:55]
+Cant play custom battles with patch 7. Help
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 17 Dec 2013, 04:35]
+Will some1 provies us with the files from Caesar in Gaul when its out?
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 17 Dec 2013, 17:08]
+a new update and DLC is out today.. Total War: ROME II - Caesar in Gaul DLC which is a standalone campaign..
+if anyome owns the new DLC, can you upload the DLC only please(i think only one file may be needed, but i am not 100% sure.)
+Total War Rome II\data\campaigns\main_gaul\startpos.esf
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 17 Dec 2013, 23:26]
+yep, this file we need + maybe a *.pack file for gaul, cos when starting with GL, you have already the new startscreen but missing text for the new campaign (and then whole text is missing in description), the old ones campaign text in menu is also missing + the new 3 galatic tribes. (text missing - didnt start any campaign in old campaign mode with the new ones).
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 18 Dec 2013, 00:18]
+This is startpos file, caesar campain startet now but not begining, may be need other .pack files
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 18 Dec 2013, 01:05]
+kazarang wrote:
+This is startpos file, caesar campain startet now but not begining, may be need other .pack files
+
+thanks for the file.. yes it shows the correct info when selecting the campaign and starts the loadig.. but when it gets to half loaded, it just stops..
+so iguess another file is definately needed.. hopefully whoever you got the startpos.esf file from can share the other file needed..
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 18 Dec 2013, 21:10]
+Thanks. Game is loading now, but stuck at 50% loading bar ofc. We need a .pack file for Gaul. No one owns this DLC yet? But text and descrptions still missing.
+
+Edit: bump!!!
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 19 Dec 2013, 01:09]
+Cant play custom battles with patch 7. Help
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 19 Dec 2013, 20:03]
+Total.War.ROME.II.Caesar.in.Gaul-RELOADED
+
+Relase is Standalone, so i might take the gaul files and place it into my original TW2 and start with GL then. Hope this works.

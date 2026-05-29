@@ -1,0 +1,110 @@
+=========================================
+STRONA 81 (URL: https://cs.rin.ru/forum/viewtopic.php?f=10&t=61441&hilit=rome+2&start=1200)
+=========================================
+
+[Data: Wednesday, 23 Jul 2014, 03:39]
+As for the crack, maybe we need an updated lumaemu_ceg.dll plugin. Need to wait what Steam006 have to say. 
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 23 Jul 2014, 04:53]
+I was clutching at straws 
+Just pack clean up!
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 23 Jul 2014, 09:42]
+Custom battles are screwed-up with this patch. I chose human as a defender in a fortified city battle and it crashes all the time which it didnt happen with the previous patch. I think all custom battles dont work.
+Confirmed, it loads but crashes when end turn button is pressed.
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 23 Jul 2014, 11:31]
+Game crashes on startup . I deleted all mods and the mod manager (which wasnt working after patch 14). Help
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 23 Jul 2014, 13:49]
+....wait for Steam006 answer! He gave me something to test, which im doing now, will keep you posted.
+
+Here is the crackfix, thanks to Steam006!
+
+I updated the Patch Archive already, so if you download the update the fix is already included.
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 23 Jul 2014, 13:49]
+ShadowDuke wrote:
+....wait for Steam006 answer! He gave me something to test, which im doing now, will keep you posted.
+
+cool
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 23 Jul 2014, 14:19]
+Thank you very much. You guys are the best. Still chrashes for me dammit
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 23 Jul 2014, 14:21]
+Hmm, but its working. ^^ machine4578 also confirmed it. Maybe you need to start with admin-rights, tho i dont need to..but read about others that have to...
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 23 Jul 2014, 14:21]
+yes stil chrashes gonna try and install all the updates again ( i have a patch 9 version of rome 2 just in case).
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 23 Jul 2014, 14:30]
+I went 5 turns into the campaign and seems to work BUT the custom battles are still f___ed.
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 23 Jul 2014, 14:43]
+i tried custom/historical battle and its not crashing for me.
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 23 Jul 2014, 14:47]
+nodi, neoiq5719
+Post the LumaCEG log file.
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 23 Jul 2014, 14:47]
+
+_________________
+SteamLite viewtopic.php?f=29&t=68783
+GreenLuma 2026 viewtopic.php?f=10&t=103709
+LumaCEG Plugin viewtopic.php?f=29&t=64354
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 23 Jul 2014, 14:49]
+ShadowDuke wrote:
+i tried custom/historical battle and its not crashing for me.
+
+I got to work by deleting the AppData/Roaming/The C...A.../Rome 2 folder. I´ll keep on testing .
+thx
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 23 Jul 2014, 14:49]
+which patch do i start with if i have hannibal dlc installed ( sorry i forgot)
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 23 Jul 2014, 14:53]
+CHECK OP!!! Read -> viewtopic.php?p=902283#p902283 this comes on HATG install!
+
+
+neoiq5719 wrote:
+ShadowDuke wrote:
+i tried custom/historical battle and its not crashing for me.
+
+I got to work by deleting the AppData/Roaming/The C...A.../Rome 2 folder. I´ll keep on testing .
+thx
+
+
+yes, afaik you have to delete the \battle_preferences\ dir from \AppData\Roaming\The Creative Assembly\Rome2, also read that somewhere. But as you know i even have problems with the original game. TWR2 is only working atm with crack, lol..

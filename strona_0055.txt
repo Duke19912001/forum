@@ -1,0 +1,180 @@
+=========================================
+STRONA 55 (URL: https://cs.rin.ru/forum/viewtopic.php?f=10&t=61441&hilit=rome+2&start=810)
+=========================================
+
+[Data: Saturday, 22 Mar 2014, 20:54]
+Updated the German langauge files for Patch 10 final (from beta), 250kb xdelta.
+viewtopic.php?p=898026#p898026
+
+Since Path 10 is now final, expect a "proper" RLD Crack soon.
+
+Im also gonna start uploading now other languages for Patch 10 (final).
+
+Im also gonna do a xdelta for Patch 10 beta (to Patch 10 final), so you only need to add the RLD Crack when it comes out. 
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 22 Mar 2014, 20:54]
+Well there is Hannibal campaign coming on Thursday - so they might wait for that one
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 22 Mar 2014, 20:54]
+
+_________________
+mostly inactive until at least half of july 2025
+
+If any of my uploads are outdated or no longer online , the best way to do is to send me a PM and i will add the title to the next batch
+UPLOADS PAUSED (have all requests in queue for when i am back to being more active)
+
+List of recent games with modern DRMs:(updated 01-Mar-2023) - http://cs.rin.ru/forum/viewtopic.php?f=10&t=68151
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 22 Mar 2014, 21:03]
+yes i think so.
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 22 Mar 2014, 21:14]
+Have anyone tried this game with the new LumaEmu_CEG.dll?
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 22 Mar 2014, 21:14]
+
+_________________
+SteamLite viewtopic.php?f=29&t=68783
+GreenLuma 2026 viewtopic.php?f=10&t=103709
+LumaCEG Plugin viewtopic.php?f=29&t=64354
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 22 Mar 2014, 22:04]
+Im gonna try in a few, upading lang files for now 
+
+ITA, ESP, TUR, POL, RUS, CZE, FRA & ENG (+DE) Lang Files added. Now you have all.
+
+viewtopic.php?p=898026#p898026
+
+@Steam006
+
+Its working now with your new dll, nice work man! 
+
+Crack Only Update 10 final. (+ alt crack)
+http://www28.zippyshare.com/v/898764/file.html
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 22 Mar 2014, 23:41]
+ShadowDuke wrote:
+Crack Only Update 10 final.
+http://www8.zippyshare.com/v/63192935/file.html
+
+Rome2.exe still running in the background when you exit from the game.
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 23 Mar 2014, 00:02]
+fearless3 wrote:
+ShadowDuke wrote:
+Crack Only Update 10 final.
+http://www8.zippyshare.com/v/63192935/file.html
+
+Rome2.exe still running in the background when you exit from the game.
+
+its working fine for me.. but i am using an ALI213 emu.
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 23 Mar 2014, 00:22]
+fearless3 wrote:
+ShadowDuke wrote:
+Crack Only Update 10 final.
+http://www8.zippyshare.com/v/63192935/file.html
+
+Rome2.exe still running in the background when you exit from the game.
+
+
+Thats due LumaEmu.
+
+Its also the same with GrennLuma and using original Rome 2. Always need to close it afterwards in taksman.
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 23 Mar 2014, 00:49]
+here is the Up 10 crack i am using with the ALI213 emu(i imported the LumEmu_CEG.dll in the binkw32.dll so you can start the game with Rome2.exe for mods)
+http://www66.zippyshare.com/v/85011277/file.html
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 23 Mar 2014, 05:28]
+nvm.. 
+
+@machine
+
+Its working now and creating the log. But it only gets created when you load a game, not when the game is starting like with LumaEmu for instance. ^^
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 23 Mar 2014, 13:56]
+Hello, kind gentlemen!
+
+I have an issue - I install a fresh RLD path 9+ all DLC's release, install the given here patch 10, apply the crack, but when I try to run the game I get an MSVCR120.dll missing... I sure hope I haven't missed an answer to this question here.. I did look. Thanks for your help!
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 23 Mar 2014, 14:03]
+vezu wrote:
+Hello, kind gentlemen!
+
+I have an issue - I install a fresh RLD path 9+ all DLC's release, install the given here patch 10, apply the crack, but when I try to run the game I get an MSVCR120.dll missing... I sure hope I haven't missed an answer to this question here.. I did look. Thanks for your help!
+
+install vcredist 2013, i think it's needed for LumaCEG to function correctly.
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 23 Mar 2014, 14:05]
+vezu wrote:
+Hello, kind gentlemen!
+
+I have an issue - I install a fresh RLD path 9+ all DLC's release, install the given here patch 10, apply the crack, but when I try to run the game I get an MSVCR120.dll missing... I sure hope I haven't missed an answer to this question here.. I did look. Thanks for your help!
+
+bongsmoke1989 is correct, you need to install this x86 and x64 C++2013 redist for LumaEmu_CEG
+http://www.microsoft.com/en-us/download ... x?id=40784
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 23 Mar 2014, 14:45]
+bongsmoke1989 wrote:
+vezu wrote:
+Hello, kind gentlemen!
+
+I have an issue - I install a fresh RLD path 9+ all DLC's release, install the given here patch 10, apply the crack, but when I try to run the game I get an MSVCR120.dll missing... I sure hope I haven't missed an answer to this question here.. I did look. Thanks for your help!
+
+install vcredist 2013, i think it's needed for LumaCEG to function correctly.
+
+
+WOW  You, fine sir, are correct, and so quick to answer!
+
+Indeed all of you here are golden, I've spent the better part of the last 2 days trying to figure how to run them mods propperly, to find out I missed a ".1" after a certain version number... on the sidenote - I am a little retarded it seems.......
+Anyway, I am running DeI fine now, thank you all!
+
+PS:
+Reloaded will probably be waiting for Hannibal indeed, but do note that modders will take time to update their stuff too, so it might take in excess of 2 weeks to get our mods running with RLD's stuff...
+
+-- Edit --
+
+Me again.
+
+So the game and mods are running, but there seems to be a problem - some of the screens and text is missing / scrambled. On the Victory conditions screen in the canpaign starting screen for instance, the text is nowhere to be found - just a blank window. The problem does not originate from the mod, it is there with no mods as well, and this problem was not existant with any of my previous versions.
+Hope you can answer soon!
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 23 Mar 2014, 14:50]
+prudislav wrote:
+Well there is Hannibal campaign coming on Thursday - so they might wait for that one
+
+
+thanks for info, i really hope so.

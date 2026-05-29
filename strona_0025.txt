@@ -1,0 +1,141 @@
+=========================================
+STRONA 25 (URL: https://cs.rin.ru/forum/viewtopic.php?f=10&t=61441&hilit=rome+2&start=360)
+=========================================
+
+[Data: Saturday, 07 Sep 2013, 21:25]
+excor wrote:
+oronzo91 wrote:
+I am AWESOME wrote:
+Hmm, no idea what it is.
+
+My Steam updated the game, so. 
+
+i think that Reloaded include that because i dont have red sky
+
+
+I doubt it. I have red sky.
+
+so wait next friday for Update2 and hotfix from reloaded
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 07 Sep 2013, 22:53]
+no it's not update 2, it's just a fix for update 1 ( for the red sky )
+Update 2 will be out 9 September !
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 07 Sep 2013, 22:53]
+
+_________________
+SPECS : Ryzen 7 3800X | RTX 3070 8G | 16Gb DDR4 | 1TB SSD
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 07 Sep 2013, 23:09]
+when i try to install the update 1....it auto search for my game install location??....any idea how to manual select it?
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 07 Sep 2013, 23:12]
+commanderz wrote:
+when i try to install the update 1....it auto search for my game install location??....any idea how to manual select it?
+
+
+you must put the patcher in the game directory and have the org RLD crack installed
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 07 Sep 2013, 23:54]
+Hey guys,
+
+I have one final question, what does Reloaded mean with the "10GB you can reclaim by deleting the Backup dir" commentary? Does this patch create a dir which isn't automatically removed after setup? Thanks in advance for any help given.
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 08 Sep 2013, 01:08]
+Ty
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 08 Sep 2013, 01:14]
+@Quarentina
+
+the RLD update has already been posted two pages back.. and please put the .nfo in a SPOILER!
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 08 Sep 2013, 01:54]
+machine4578 wrote:
+@Quarentina
+
+the RLD update has already been posted two pages back.. and please put the .nfo in a SPOILER!
+
+
+I'm sorry  I wanted to help ..
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 08 Sep 2013, 03:10]
+Okay i don't seem to be able to change the graphics settings, any help?
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 08 Sep 2013, 03:53]
+German language:
+
+
+Code: Select all | Line number On/Off | Expand/Contract
+http://www.putlocker.com/file/46C511ADEC2DA88C
+http://www.putlocker.com/file/5328E8A37190220A
+http://www.putlocker.com/file/AF588FC960352E6E
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 08 Sep 2013, 03:53]
+
+_________________
+From Mexico with love ^^
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 08 Sep 2013, 05:37]
+thank you very much mhcvel. 
+
+Edit:
+
+Always getting "VAC auth. error" and other friend seeing "host left the game". Its totally random. Can even happen in the lobby allready. Or any time on campaign map or in battle 
+
+We managed to get only 2 turns...some1 is fighting a battle..messages during that...
+
+So we need proper online fixes, we tried all cracks which are out there. Even smartsteamemu and lumaemu and ofc Greenluma and w/o it.
+
+And others say so, with v1.0 (RLD, etc.) that wouldnt happen, but now with v.1.1 it happens.. 
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 08 Sep 2013, 07:22]
+Please provide updated polish language files.
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 08 Sep 2013, 08:16]
+m2net wrote:
+no it's not update 2, it's just a fix for update 1 ( for the red sky )
+Update 2 will be out 9 September !
+
+
+Update 2 will be out 13 sept.
+Update 2 BETA will be out 9 sept.
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 08 Sep 2013, 10:55]
+I've got exactly the same issue than Shadowduke. If anyone find a fix or something, tell us, because i think there is many of us who have the same issue 
+
+Hf
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 08 Sep 2013, 11:58]
+Can anyone re-upload italian language files please?

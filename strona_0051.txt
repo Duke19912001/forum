@@ -1,0 +1,137 @@
+=========================================
+STRONA 51 (URL: https://cs.rin.ru/forum/viewtopic.php?f=10&t=61441&hilit=rome+2&start=750)
+=========================================
+
+[Data: Sunday, 16 Feb 2014, 02:04]
+Most of them which are listed in the steam workshop you can get here http://www.twcenter.net/forums/forumdis ... ar-Rome-II
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 17 Feb 2014, 13:30]
+but how to activate mods in game? is it necessary to edit something in preferences.script like in Shogun2?
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 17 Feb 2014, 13:40]
+I see. Prev. it was only needed to have the pack files in \data\. What if you start with Launcher.exe and try to activate them while they're already in the data dir? I cant test with cracked cos i have it original. But it read somewhere else that people using cracked Version just have the mod in \data\ dir.
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 17 Feb 2014, 13:45]
+launcher does not work for me. when I start launcher, it pop-up error "Failed to initialise steam. Are you running Steam?". and I do not have cracked steam, so maybe should I edit something in preferences.script?
+heh, Rome2 is my first non-original TW game, earlier I did not have any problems with mods. but I try everything to run it.
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 17 Feb 2014, 13:52]
+Use this, should work ^^
+
+http://www.twcenter.net/forums/showthre ... d-23-12-13
+
+Ofc im using steam, i have the game original  im using GreenLuma to be able to play with ghaul DLC, Greek State DLC and Blood-DLC, cos i didnt buy them.
+preferences.script is only ingame-settings, nothing to do there. 
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 17 Feb 2014, 14:06]
+pablopavlo wrote:
+launcher does not work for me. when I start launcher, it pop-up error "Failed to initialise steam. Are you running Steam?". and I do not have cracked steam, so maybe should I edit something in preferences.script?
+heh, Rome2 is my first non-original TW game, earlier I did not have any problems with mods. but I try everything to run it.
+
+if you want to use the original launcher.exe, you need to use a steamemu.. here is an ALI213 emu that should help
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 17 Feb 2014, 17:04]
+guys i must download the steam mods im already know total war center mods. am i can with cracked game download steam mods ? pls tell me this  (i know my english terrible )
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 17 Feb 2014, 17:20]
+Your questions are already answered...
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 17 Feb 2014, 22:05]
+Now Available on Steam - Total War: ROME II - Beasts of War
+
+http://store.steampowered.com/app/267630/
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 17 Feb 2014, 22:05]
+
+_________________
+
+. . .. . .
+
+ The current best Free File Hosters!
+
+1. http://mega.co.nz/
+
+
+2. http://openload.co/
+
+
+3. http://uptobox.com/
+
+
+4. http://zippyshare.com/
+
+
+ My PC Details
+- MSI Z87-G45 Gaming Motherboard
+- 16 GB RAM (2x 8192MB) Crucial Ballistix Sport
+- Intel® Core™ i7-4770K @ 4.3GHz
+- MSI Geforce GTX 980 Twin Frozr V Gaming 4G @ 1470MHz
+- Windows 10 Pro x64  (better than Win7, no joke!)
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 19 Feb 2014, 03:25]
+hattisit_ wrote:
+Now Available on Steam - Total War: ROME II - Beasts of War
+
+http://store.steampowered.com/app/267630/
+
+
+ 
+
+
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 19 Feb 2014, 06:28]
+Custom tags that anyone can apply? That's just bound to be abused. 
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 19 Feb 2014, 06:28]
+
+_________________
+
+RIP vigylant.
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 25 Feb 2014, 21:39]
+i hope latest patch gets cracked soon, so i(we) can update our mod/s 
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 25 Feb 2014, 21:52]
+1.9.0 (beta #9) is the latest. Theres no new beta patch. 1.9.1 is the Epirus and Elephants update -> http://forums.totalwar.com/showthread.p ... nts-Update along with another update for the latest crappy extra unit dlc recently came out, with still 1.9.1 but maybe a little different build.
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 25 Feb 2014, 23:59]
+ShadowDuke wrote:
+1.9.0 (beta #9) is the latest. Theres no new beta patch. 1.9.1 is the Epirus and Elephants update -> http://forums.totalwar.com/showthread.p ... nts-Update along with another update for the latest crappy extra unit dlc recentl came out, with still 1.9.1 but maybe a little different build.
+
+
+well, that one isn't out yet (cracked) as far as i can see and mods are requiring it. So i'm stuck with whatever the mods were at 1.9.0, hence why i hope it gets cracked any time soon 
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 02 Mar 2014, 23:28]
+Hi, I have a problem. I'm playing local co-op and everytime I use the "re-host" option the faction for both players are changed to Rome factions. I searched google for the problem and on the creative forums a user was complaining about the same thing. He was using an online steam account and his girlfriend was using the same account but offline so they could play together, and described my problem. Later an admin replied "Steam is seeing both computers as using the same Steam id" but I'm not using steam just the crack and different user ids set in the steam_api.ini does anyone know how to fix it?

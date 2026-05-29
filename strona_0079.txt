@@ -1,0 +1,199 @@
+=========================================
+STRONA 79 (URL: https://cs.rin.ru/forum/viewtopic.php?f=10&t=61441&hilit=rome+2&start=1170)
+=========================================
+
+[Data: Monday, 30 Jun 2014, 05:11]
+coplan wrote:
+raptor-sniper wrote:
+how can i start the mod launcher without steam ? To play with some mods.
+
+
+at page 51 machine4578 posted an emu for launcher,i'm using it with toon's aio mod,no problems.Also as written you can use the one from twcenter
+
+-- Edit --
+
+
+juanjexsan1992 wrote:
+hello friends, anyone has the mod immortals (300) or spartan epic experience?
+
+
+maybe this can be work for you,as i dont have steam installed i didn't try it.
+
+http://gaddons.org/workshop
+
+thank you very much, but all the downloaded mods do not work. Do you know any tricks for that?
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 30 Jun 2014, 06:31]
+juanjexsan1992 wrote:
+coplan wrote:
+raptor-sniper wrote:
+how can i start the mod launcher without steam ? To play with some mods.
+
+
+at page 51 machine4578 posted an emu for launcher,i'm using it with toon's aio mod,no problems.Also as written you can use the one from twcenter
+
+-- Edit --
+
+
+juanjexsan1992 wrote:
+hello friends, anyone has the mod immortals (300) or spartan epic experience?
+
+
+maybe this can be work for you,as i dont have steam installed i didn't try it.
+
+http://gaddons.org/workshop
+
+thank you very much, but all the downloaded mods do not work. Do you know any tricks for that?
+
+
+i copied below from RezMar's post at crusader king's II topic at page 10.As i didn't tried this method but i hope it will work for you.
+
+
+Ok this is instruction for workshop mods. This i know work for Crusader Kings II, Europa Universalis IV and Warlock II. I know it works for other game, but you could try it alone.
+
+This instruction is the same for CK II and EU IV:
+
+01. Download addon Tampermonkey (if you use Chrome) or Greasemonkey (if you use FireFox).
+02. Install this script for your addon above Gaddons Download Button: http://userscripts.org:8080/scripts/show/131355
+03. Go to workshop page of mods
+04. Now you will have DOWNLOAD GREEN BUTTON, click it.
+05. Now it will redirect it to new page
+06. You will see in the center of page line Start Download, click it
+07. Wait a little and then you will start downloading
+08. Some files will already be packed in .zip format, but someone will not have format
+09. You just change format adding it at the .zip at the and of name of file
+10. Now you can extract mod.
+11. When you extract mod it will give error because he can't extract one file from zip (descriptor.mod). Don't worry that file is not needed.
+12. Put all files from extracted mod in one folder and name it. For example Awesome_Mod.
+13. One more thing you need to do. Now you must create .mod file. Its really easy. Just open Notpad:
+
+You need to write just two lines or three deepens on you
+name="WRITE SOMETHING HERE" -> The name on mod how will present in launcher
+path="WRITE SOMETHING HERE" -> The name of folder where is mod
+user_dir="WRITE SOMETHING HERE" -> The name of folder where is your Save File for this mod (this line doesn't need, and folder will be outside mod folder)
+Here is the example:
+
+name="Awesome MOD"
+path="mod/Awesome_Mod"
+user_dir="Awesome_Mod_SAVES"
+
+14. Now when you write all what you need just save it with .mod extension.
+15. Put this file (.mod and folder) in \<USER>\Documents\Paradox Interactive\Crusader Kings II\mod\
+16. And that's it...
+
+It is a little bit hard in the beginning but you will get used to.
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 30 Jun 2014, 09:17]
+nvm what i write...
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 30 Jun 2014, 09:17]
+
+_________________
+List of some Computer games CLICK ME
+
+  
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 30 Jun 2014, 12:20]
+juanjexsan1992 wrote:
+coplan wrote:
+raptor-sniper wrote:
+how can i start the mod launcher without steam ? To play with some mods.
+
+
+at page 51 machine4578 posted an emu for launcher,i'm using it with toon's aio mod,no problems.Also as written you can use the one from twcenter
+
+-- Edit --
+
+
+juanjexsan1992 wrote:
+hello friends, anyone has the mod immortals (300) or spartan epic experience?
+
+
+maybe this can be work for you,as i dont have steam installed i didn't try it.
+
+http://gaddons.org/workshop
+
+thank you very much, but all the downloaded mods do not work. Do you know any tricks for that?
+
+
+Just add .zip or .rar. Extract to \data\ - enable in mod-manager or user.script.txt
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 03 Jul 2014, 14:11]
+spanish files update pls
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 03 Jul 2014, 19:45]
+I read much of the forum and i assure you that the uac and my av is off, so i didn't got my access denied error. I started using the HATG RLD release in tpb. then I applied the update 11 hf and there are no errors (and i checked the build in game) like access denied, mismatched checksum etc). Now i initiated patching using 12 bets update, but the patching program stuck to "Applying patch to tiles4_rome2.pack...[14/15]" I have a hunch that the patching works from .xdptch files then it is converted to .pack_NEW files then when you press N, it will be on the data folder, creating changes. I've been patching this 12 beta update for a day and still stuck at "Applying patch to tiles4_rome2.pack...[14/15]" What do you think is the problem? Thanks
+
+-- Edit --
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 04 Jul 2014, 22:02]
+thanks for the tips, but when I download a mod from steam with garrysmod, sometimes the file is of type. PACK and Modmanager not recognized. I do not know that I can do!!!
+
+And another thing, the gore since the patch 10 is very "soft" anyone know of a mod that increases the frequency of violent deaths?
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 04 Jul 2014, 22:29]
+Yes, there are certain mods for better blood textures and such. Search in the workshop and let me know in pm what mod (url) you want.
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 05 Jul 2014, 10:25]
+http://www.twcenter.net/forums/showthre ... tch-9-1%29
+blood is here but if I recall that might have a FPS hit if u have a midrange graphic card
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 06 Jul 2014, 06:23]
+just use the DEI mod
+its very well rounded
+gfx and gameplay wise:)
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 08 Jul 2014, 22:46]
+deleted
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 09 Jul 2014, 02:39]
+@ShadowDuke: I didn't follow this Topic and don't understand some parts of it. Do i need to downl0ad BOTH the German downl0ad and the English Language Files? What are the English Language Files for, so i don't have German language in game? I currently have the Hannibal DLC installed from Reloaded. Thanks in advance for any help given.
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 09 Jul 2014, 02:47]
+My Updates are with German language so im uploading everytime english language separately. So if you want to play on eng you need just the latest english lang files for update 13_1.
+
+Just use the order in the OP to bring your game up2date.
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 09 Jul 2014, 02:52]
+ShadowDuke wrote:
+My Updates are with German language so im uploading everytime english language separately. So if you want to play on eng you need just the latest english lang files for update 13_1.
+
+Just use the order in the OP to bring your game up2date.
+Thank you very much, I appreciate the work you're doing for us! 
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 09 Jul 2014, 05:55]
+Hi,
+
+My game is crashing everytime when loading a battle, be it a campaign or custom one. Anyone know what could be the problem? I updated it correctly without errors from the reloaded HATG to shadowduke's 13.1
+
+Thank you very much

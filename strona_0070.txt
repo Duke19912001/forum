@@ -1,0 +1,199 @@
+=========================================
+STRONA 70 (URL: https://cs.rin.ru/forum/viewtopic.php?f=10&t=61441&hilit=rome+2&start=1035)
+=========================================
+
+[Data: Thursday, 29 May 2014, 00:49]
+I have a serious problem but first I wanna give some details:
+
+1. Total War ROME II Hannibal at the Gates-RELOADED ---> freshly Installed (even CA directory deleted in user folder)
+2. twr2-up11-hotfix-build.10471.528438 ---> Extracted without any error (I even tried with/without HATG RELOADED crack before update this one)
+3. Total.War.ROME.II.Update.12.beta ---> Extracted without any error
+4. Total.War.ROME.II.Update.12.beta_to_final ---> Extracted without any error
+5. Total.War.ROME.II.Update.13.Getae.and.Pydna ---> Extracted without any error and cracked.
+6. ENG-language for update 13 applied.
+
+The Problem: my game runs fine, custom battle is fine, but in campaign when I click "next turn" the game CTD.
+I have this problem since update 11 hotfix came out, update 12 beta didn't solve my problem and so on till this update.
+I have all redists, Direct X is up to date, my VGA driver is up to date. also I have no msvcr120.dll problem. the only pain is the CTD after I hit the "next turn" in campaign.
+
+any ideas guys?
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 29 May 2014, 01:13]
+next turn crash is old was happening with older cracks. New ones doesnt have that anymore. So dunno where your problem is. Check your rome2.dll. Use the newest Crack etc. maybe somethings blocking, dunno. But the problem is defintely on your side. You also copied binkw32.dll file? Thats where the file injection is!
+
+Edit:
+twr2-up11-hotfix-build.10471.528438 is newer than HATG, so dont use RLD's crack you wont have the newest Version then. Doesnt matter anyway, cos we're already at up13 and theres always a new crack for each update you have to use.
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 29 May 2014, 01:13]
+ShadowDuke wrote:
+next turn crash is old was happening with older cracks. New ones doesnt have that anymore. So dunno where your problem is. Check your rome2.dll. Use the newest Crack etc. maybe somethings blocking, dunno. But the problem is defintely on your side. You also copied binkw32.dll file? Thats where the file injection is!
+
+Thanks for reply, yeah I 'm sure it's from my side, I checked every replies and no one had this problem. I C/P all files in crack folder that include binkw32.dll. I even downloaded binkw32.dll from internet to make sure the binkw32.dll in crack folder is not out dated, but nothing fixed the problem. my crack from RELOADED is showing 1.11.0.0 and the game is fine in that version.
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 29 May 2014, 01:18]
+Excuse me? Do you use a binkw32.dll file from internet or the cracked one? The issue here is not if its outdated etc. its like i mentioned before, the dll injection is in the binkw32.dll file from Crack. If you use any other one, there issnt any injection therefore it cannot work.
+
+As for know, i cant help you anymore and dont know where your problem is. Disabled UAC? Crappy AV software? And so on...something have to block some file cos the CTD after turns end is due one file it not recognized, for whatever reason..
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 29 May 2014, 02:07]
+ShadowDuke wrote:
+twr2-up11-hotfix-build.10471.528438 is newer than HATG, so dont use RLD's crack you wont have the newest Version then. Doesnt matter anyway, cos we're already at up13 and theres always a new crack for each update you have to use.
+
+
+I meant I used HATG crack before applying update 11 hotfix. my last try was to make sure RELOADED crack won't cause any problem so I also didn't use crack too.
+
+
+ShadowDuke wrote:
+Excuse me? Du you use a binkw32.dll file from internet or the cracked one? The issue here is not if its outdated etc. its like i mentioned before, the dll injection is in the binkw32.dll file from Crack. If you use any other one, there issnt any injection therefore it cannot work.
+
+
+I just tried once the binkw32.dll from other source after I got the CTD, after I freshly installed HATG I just used binkw32.dll from update 13 crack folder.
+
+-- Edit --
+
+
+ShadowDuke wrote:
+Excuse me? Do you use a binkw32.dll file from internet or the cracked one? The issue here is not if its outdated etc. its like i mentioned before, the dll injection is in the binkw32.dll file from Crack. If you use any other one, there issnt any injection therefore it cannot work.
+
+As for know, i cant help you anymore and dont know where your problem is. Disabled UAC? Crappy AV software? And so on...something have to block some file cos the CTD after turns end is due one file it not recognized, for whatever reason..
+
+
+I see... btw thanks bud for the updates, I will try again or check the forum to catch some info.
+
+-- Edit --
+
+@ShadowDuke
+
+The problem was the stupid UAC on win 8.1 (I even changed it value to 0 at regedit.exe). the game runs fine and the CTD fixed. many thanks bro.
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 29 May 2014, 05:08]
+Hi,
+
+I have got this
+
+1. Total.War.ROME.II.Caesar.in.Gaul-RELOADED
+2. Total.War.ROME.II.Update.9.Incl.DLC-RELOADED
+3. a. Total.War.ROME.II.Update.to.10.beta.Patch
+3. b. Total.War.ROME.II.Update.10.beta.to.10.final.Patch
+4. a. Total.War.ROME.II.Update.11.incl.Seasons.and.Wonders.DLC cracked-xdelta
+4. b. ENG Language Up 11
+4. c. Update 11 HotFix
+5. Total.War.ROME.II.Gaul.Update.and.Hannibal.DLC xdelta
+6. Total.War.ROME.II.Update.11.HOTFiX.BUILD.10471_528438 xdelta
+7. a. Total.War.ROME.II.Update.12.beta
+7. b. Total.War.ROME.II.Update.12.beta_to_final
+7. c. ENG Language Up 12
+8. a. Total.War.ROME.II.Update.13.Getae.and.Pydna xdelta
+8. b. ENG Language Up 13[/quote]
+
+OMG you saved my life i somehow stupid enough to miss this update 6. Total.War.ROME.II.Update.11.HOTFiX.BUILD.10471_528438 xdelta Thanks a lot 
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 29 May 2014, 05:22]
+Hmm, if you told us before that you had missmatch errors after this update, but you didnt. You had to have missmatch errors and therefore an indication that at this step, theres something wrong/missing. Would have saved you a lot.
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 29 May 2014, 21:08]
+I tried fighting a battle. Auto resolve works fine, as well as everything else. Any help would be great thanks
+
+I used Total.War.ROME.II.Hannibal.at.the.Gates-RELOADED then updated it with updates on this.
+
+Problem Event Name: APPCRASH
+Application Name: Rome2.exe
+Application Version: 1.13.0.0
+Application Timestamp: 53848a71
+Fault Module Name: Rome2.dll
+Fault Module Version: 1.13.0.0
+Fault Module Timestamp: 53848a43
+Exception Code: c0000005
+Exception Offset: 00c8e93e
+OS Version: 6.1.7601.2.1.0.768.3
+Locale ID: 1033
+Additional Information 1: 0a9e
+Additional Information 2: 0a9e372d3b4ad19135b953a78882e789
+Additional Information 3: 0a9e
+Additional Information 4: 0a9e372d3b4ad19135b953a78882e789
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 30 May 2014, 00:02]
+Please, someone have mercy on us and upload the updated language packs. 
+
+Anyone so kind? Many are waiting.
+
+Thank you very much.
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 30 May 2014, 00:02]
+
+_________________
+
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 30 May 2014, 02:27]
+For those of you getting:
+
+Problem Event Name: APPCRASH
+Application Name: Rome2.exe
+Application Version: 1.13.0.0
+Application Timestamp: 53848a71
+Fault Module Name: Rome2.dll
+Fault Module Version: 1.13.0.0
+Fault Module Timestamp: 53848a43
+Exception Code: c0000005
+Exception Offset: 00c8e93e
+
+After installing the latest patches and hotfixes with the reloaded version I had the issue where it would crash to desktop if I tried to launch a custom battle, and this fixed it for me. Hope this helps you too.
+
+Go to your appdata\roaming\the creative assembly\Rome2\battle_preferences and delete the .sp.battle_preferences file.
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 30 May 2014, 12:18]
+and... another update just released!! 
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 30 May 2014, 12:35]
+Quote:
+We've updated ROME II, the current build is 11398.543170 .
+When loading an older save game (from before the Pirates & Raiders update), regions held by some Barbarian factions will no longer have multiple provincial capital buildings, or building slots that are unusable. These factions will now convert to their new culture.
+More missions and political dilemmas will now trigger in all campaign modes for Barbarian factions.
+Re-added the in-game purchasing options to the Host Multiplayer Campaign and Historical Battles menus.
+
+
+
+I wont release that. Cos there are more bugs in the Pirates DLCs new Factions which i guess will be also fixed with a tiny patch in the next days, sigh..
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 30 May 2014, 13:08]
+Pls, check crack for new update - http://rghost.ru/56011193
+I just made a new rome2.dll, rest files are taken from previous crack by ShadowDuke (thx so much).
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 30 May 2014, 13:16]
+You mean rome2.dll from 11398.543170? Now no one have the new files 
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 30 May 2014, 13:26]
+ShadowDuke wrote:
+You mean rome2.dll from 11398.543170? Now no one have the new files 
+
+I have, directly from steam. I'll upload a steam-rip later.

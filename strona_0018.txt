@@ -1,0 +1,167 @@
+=========================================
+STRONA 18 (URL: https://cs.rin.ru/forum/viewtopic.php?f=10&t=61441&hilit=rome+2&start=255)
+=========================================
+
+[Data: Thursday, 05 Sep 2013, 19:56]
+Avaloan wrote:
+numerno wrote:
+legoras wrote:
+Great patch... no any REAL(people says it this beta patch change.. nothing about optymalization) fix for this shitty optymalization. Thanks god that I didn't buy this alpha(early beta) 'thing'... 55 euro for that?!
+
+p.s metacritic game score = 4.6/10 and falls.. I wonder why ..  
+
+that's not true metacritic score is 86 not 46 .. i don't know what you are trying to accomplish with that false input !!!
+
+
+
+
+-- Edit --
+
+I actually don't believe in rating the reviews are the opinions of individual people. I remember I saw hitman absolution was given 6.5 but still it deserves at least 8.
+
+well the rating of users is mostly bullshit in Meta .. you'll find some people giving a crappy game a 10 just because they're fan boys while in most cases the whiney b***es give a great game 0's and 1's .. so i don't give their opinion much thought anyways !
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 05 Sep 2013, 20:10]
+numerno wrote:
+well the rating of users is mostly bullshit in Meta .. you'll find some people giving a crappy game a 10 just because they're fan boys while in most cases the whiney b***es give a great game 0's and 1's .. so i don't give their opinion much thought anyways !
+
+
+yeah it's true somewhat but there are legit reviews too you can't stereotype every review like you think.
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 05 Sep 2013, 20:20]
+From Beta Patch:
+Before patch 
+After patch 
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 05 Sep 2013, 20:37]
+This benchmark is bs, it doesnt say smth about performance at all. i have bfore patch 55fps and ingame i dont have any time 55fps. THis whole benchmark is different than the campaign map or any battle in game where you see the whole battlemap with all its buildings, units etc.
+
+And please some1 upload the patch!?
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 05 Sep 2013, 20:45]
+they can't say any excuse since this is a PC exclusive game. 
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 05 Sep 2013, 20:49]
+ShadowDuke wrote:
+This benchmark is bs, it doesnt say smth about performance at all. i have bfore patch 55fps and ingame i dont have any time 55fps. THis whole benchmark is different than the campaign map or any battle in game where you see the whole battlemap with all its buildings, units etc.
+
+And please some1 upload the patch!?
+
+wait tomorrow
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 05 Sep 2013, 21:02]
+Its the same patch tomorrow, maybe even if, small bugfixes (more). But as far as i can tell from others who have played with the patch there's no difference in performance at all. And likei said, that benchmark is vacuous.
+
+At least when you dont want to upload it, tell us how big it is and still patch.pack files and/or what filesa re updated, thanks.
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 05 Sep 2013, 21:04]
+ShadowDuke wrote:
+Its the same patch tomorrow, maybe even if, small bugfixes (more). But as far as i can tell from others who have played with the patch there's no difference in performance at all. And likei said, that benchmark is vacuous.
+
+At least when you dont want to upload it, tell us how big it is and still patch.pak files and/or what filesa re updated, thanks.
+
+i read that patch is 21 mb
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 05 Sep 2013, 22:43]
+I have a problem with putlocker's packs  part 7 has been removed! D:
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 06 Sep 2013, 01:23]
+ya, on compaign map my vram usage (shown in afterburner) is ~40% max. and when ai turns its a slide show, only a few fps, lol. But that was always the problem when ai is moving.
+
+So i tried some things..
+
+I gained a huge fps boost in campaign map and battles, really...wow...
+
+Changed gfx_direct_resource_access false; # gfx_direct_resource_access <bool>, Enable Direct Resource Access # to true &
+gfx_video_memory -2147483648; # gfx_video_memory <int>, Override available video memory (bytes) # (if you have more than 2gb gpu ram than you maybe need to adjust that number, im also still experimenting*)
+
+*gave me 150mb more gpu mem used in comparison to value 0 and also 3fps. changing to other values makes no different (make the game think you have 3gb gpu ram e.g.)
+
+C:\Users\###\AppData\Roaming\The Creative Assembly\Rome2\scripts\preferences.script.txt
+
+
+Heres my whole config in case someone needs to know and compare. (make it read only!)
+(im using FXAA through driver, thats why i disabled MLAA, i think its a good choice and i really dont want to play without AA).
+
+http://pastebin.com/Hd9UnbuB
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 06 Sep 2013, 02:02]
+patch1beta
+
+Steam Update Size: 26.9MB
+
+Full Size: 10.6GB
+
+
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 06 Sep 2013, 06:41]
+xdelta to rescue
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 06 Sep 2013, 06:41]
+
+_________________
+mostly inactive until at least half of july 2025
+
+If any of my uploads are outdated or no longer online , the best way to do is to send me a PM and i will add the title to the next batch
+UPLOADS PAUSED (have all requests in queue for when i am back to being more active)
+
+List of recent games with modern DRMs:(updated 01-Mar-2023) - http://cs.rin.ru/forum/viewtopic.php?f=10&t=68151
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 06 Sep 2013, 06:55]
+Avaloan wrote:
+Use this file. (it was reversed engineered a bit)
+and please also let me know the result.
+
+
+hi Avalaon, i have paste the new HiAlgo patch into the Total War Rome II folder, and game successfully load without any popup error again. But how can I change my resolution there ? At the readme, its said that some popup (maybe popup about HiAlgo loaded successful) should appear at the beginning of the game, but no popup appear there. In the readme again it said that me should press F10 to active HiAlgo, but i also can't change my resolution there. Any help you can give me ? Thanks !
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 06 Sep 2013, 07:20]
+@kevinyang
+Share so i can make xdelta?
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 06 Sep 2013, 07:20]
+
+_________________
+
+Visit FTS Home
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 06 Sep 2013, 07:30]
+demde wrote:
+@kevinyang
+Share so i can make xdelta?
+
+
+It is a beta patch.
+The offical update 1 patch is coming soon in a few hours.

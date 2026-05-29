@@ -1,0 +1,325 @@
+=========================================
+STRONA 31 (URL: https://cs.rin.ru/forum/viewtopic.php?f=10&t=61441&hilit=rome+2&start=450)
+=========================================
+
+[Data: Wednesday, 18 Sep 2013, 17:20]
+so...any news if the update will come out for us lowly plebs ? 
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 18 Sep 2013, 18:39]
+Why they just dont use xdelta to patch  got rollback on last file using rld patcher on rld version
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 18 Sep 2013, 18:39]
+
+_________________
+mostly inactive until at least half of july 2025
+
+If any of my uploads are outdated or no longer online , the best way to do is to send me a PM and i will add the title to the next batch
+UPLOADS PAUSED (have all requests in queue for when i am back to being more active)
+
+List of recent games with modern DRMs:(updated 01-Mar-2023) - http://cs.rin.ru/forum/viewtopic.php?f=10&t=68151
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 18 Sep 2013, 19:58]
+badw0lf wrote:
+so...any news if the update will come out for us lowly plebs ? 
+
+
+Pleases stop asking, no one knows when Reloaded decide to Crack the current Patch... When they release it you will know!
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 19 Sep 2013, 17:08]
+ShadowDuke wrote:
+Pleases stop asking, no one knows when Reloaded decide to Crack the current Patch... When they release it you will know!
+This game certainly needs the update (and more), I've noticed better optimizations.
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 19 Sep 2013, 18:08]
+Whatever. wrote:
+ShadowDuke wrote:
+Pleases stop asking, no one knows when Reloaded decide to Crack the current Patch... When they release it you will know!
+This game certainly needs the update (and more), I've noticed better optimizations.
+
+
+update 2 is the most wanted and important one.. but.. they don't care about us 
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 19 Sep 2013, 18:08]
+
+_________________
+SPECS : Ryzen 7 3800X | RTX 3070 8G | 16Gb DDR4 | 1TB SSD
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 20 Sep 2013, 15:00]
+Next big update - http://wiki.totalwar.com/w/Total_War_ROME_II:_Patch_3
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 20 Sep 2013, 19:39]
+I think we should have got the patch cracked by now. Any ideas on what could be the reason it takes this long? Maybe the way they release patches makes it hard to release a cracked version. Or scene groups are just lazy and don't bother on patches like these... Even Patch 3 beta is out now and no words on patch 2 crack. Since i won't give any money to broken game i am slowly losing hope on playing it.
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 20 Sep 2013, 19:52]
+Betapatch3 also dont give a fps boost  only gameplay changes, again. But its getting there. AI is much better now, since patch2 already. Playing on legendary and multiplayer head-2-head campaign with a friend.
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 20 Sep 2013, 20:40]
+excor wrote:
+I think we should have got the patch cracked by now. Any ideas on what could be the reason it takes this long? Maybe the way they release patches makes it hard to release a cracked version. Or scene groups are just lazy and don't bother on patches like these... Even Patch 3 beta is out now and no words on patch 2 crack. Since i won't give any money to broken game i am slowly losing hope on playing it.
+
+
+they just don't give a **** about the game, and about us 
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 20 Sep 2013, 20:40]
+
+_________________
+SPECS : Ryzen 7 3800X | RTX 3070 8G | 16Gb DDR4 | 1TB SSD
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 20 Sep 2013, 22:12]
+maybe they don't bother with unfinished game/ balance patches as happened with wargame ab (where only 3dm released weekly or more often actualizations following official updates)...but for such a game, in the end, they should release a cracked update when developers finish improvements implementation
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 20 Sep 2013, 22:27]
+lualua wrote:
+maybe they don't bother with unfinished game/ balance patches as happened with wargame ab (where only 3dm released weekly or more often actualizations following official updates)...but for such a game, in the end, they should release a cracked update when developers finish improvements implementation
+
+
+the developers of Rome 2 said that they will update the game nearly every week, so groups can't wait for a final patch or a big one.. they have just to crack it every week, or to make a good crack, that we only need to copy it every time
+
+BUT, what i think, unlike Wargame AB, 3DM doesn't like Rome 2, they are not fun of it, so they are not interested in cracking it.. Reloaded released PES 2014, and it's update1, 3DM too, but no sings of Rome..
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 20 Sep 2013, 22:27]
+
+_________________
+SPECS : Ryzen 7 3800X | RTX 3070 8G | 16Gb DDR4 | 1TB SSD
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 21 Sep 2013, 20:44]
+Total War Rome II Update 2 -RELOADED
+
+Changelist
+
+ Spoiler
+Special note:
+~~~~~~~~~~~~~
+With this update we patch existing files as the updated files take up over
+10GB. For this reason, it's very important that you use it on
+- our untouched release (Total.War.ROME.II-RELOADED) with crack added to
+install dir.
+- our previous release (Total.War.ROME.II-RELOADED) with our update 1 release
+(Total.War.ROME.II.Update.1-RELOADED) with crack added to install dir.
+
+Changelist included in the pack as always. Enjoy!
+
+===========================
+
+Here are the patch notes for Total War: ROME II- Patch 2 (as of 17/09/2013):
+
+Warning: Your current Save Games will work with Patch 2, but Save Games created or overwritten in Patch 2 will be incompatible with previous versions of Total War: ROME II.
+
+
+Technical and Performance Issues
+
+Campaign performance optimisations.
+Campaign AI round time improvements (greatest effect during early game).
+A new "Limited" option has been added to the "Show AI Player Moves" settings in Single Player an Multiplayer Campaign modes, this enables the player to see all movement of enemy factions, all movement within the players regions, and all movement within sea that the player has ports in during the AI turns.
+Improved AI recruitment decisions in Campaign modes. Further improvements planned for subsequent patches.
+Pathfinding optimisation on the Campaign Map.
+Fix for "Level of Detail" distances scaling incorrectly when the "Field of View" is changed which reduces the chance of the "Intelligent Zoom" [N] key, causing "zombie like” low quality textures on unit faces in battles.
+A new warning message has been added to loading screen to inform the player when graphics memory is running low, and the game is downgrading the players graphics settings. This can be overriden, allowing the game to use system memory for graphics (VRAM) by ticking the "Unlimited video memory" option in the graphics menu.
+Increased the frame rate and reduced frame stuttering in battles on certain GPUs.
+Improved compatibility for graphics cards with multiple GPUs.
+Added earlier Multiplayer Campaign resyncronisation detection, upon loading save games which allows resyncronisation in more cases.
+More conservative out-of-the-box graphics settings and resolution for DirectX 10 and 11 on Mobile GPUs
+Improved the processing speed of the default deployment placement, reducing battle loading times on some battle maps.
+Fixed battle crash bug caused by the default deployment placement.
+Crash fix for when the player placed the mouse over a garrison force of a region in Campaign mode.
+Fix for crash loading save games that were created on the "settlement captured" screen in Campaign modes.
+Fix for a crash when holding the [SHIFT] and [CTRL] keys down, and selecting a unit card, when no unit cards where previously selected in Campaign and Battle modes.
+Fix for crash caused by forming a Confederation in Campaign modes.
+Some desyncronisations have been fixed in multiplayer city / port assault battles.
+Crash fix for when multiple AI reinforcements arrive in a single player siege battle in Campaign mode.
+Fix for crash when selecting Custom Battle mode after fighting several different Multiplayer battles.
+Fix for a crash in 4v4 custom or multiplayer battles caused by the battle AI.
+Fix for crash when cancelling a game request for a password protected game whilst in a Multiplayer battle lobby.
+Fix some crashes in multiplayer campaign mode, when one player quit the game, it would cause the other player to crash.
+Fixed a Multiplayer crash which happened when a client joined a lobby and was being allocated to the wrong slot.
+Fix for a very rare crash when launching a new campaign.
+Fixed rare battlefield loading lockup.
+Fix for a rare crash caused by animal handlers in battles.
+Fix for crash that happens when AI unit triggers raise banner special ability when no human units are selected in battles.
+
+
+Gameplay Improvements
+
+Reduced infantry run speed, charge speed and acceleration in battles.
+The low level casualty moral penalties have been significantly reduced in battles.
+Improved balancing for Food and Squalor in Campaign Mode.
+Campaign AI is more likely to make a stand when defending its final settlement, but may still seek out another home, if they fear losing the final battle.
+Encampments battles are no longer incorrectly merged with Coastal battles, which lead to forts floating in the air when a friendly navy reinforced an army in the Fortification stance.
+Improved ship movement speeds in battles.
+Shock cavalry run speed and charge speed have been increased in battles.
+Increased flanking morale penalties.
+Added icons to indicate activity in the Technology and Faction screens during a campaign.
+Fix for the boarding/ramming button which showed the incorrect state in certain circumstances in battles.
+Fix for a bug that sometimes made it impossible to exchange units between a transported land force and another land force on the Campaign map.
+Fix for armies on the sea getting stuck in patrol stance in Campaign modes.
+Fixed splitting an embedded army from a navy which sometimes caused the player to get stuck in the Prologue Campaign.
+Some missions in single player and multiplayer Campaign have been fixed and now execute correctly.
+When a settlement is captured via a siege battle, with a friendly naval fleet blockading its port, the ownership of the port is now changed correctly to the friendly navy fleet on capture.
+Fix for AI taking inappropriate sized siege equipment into battle when the user changed the settlement wall height, via the map selection settings, in Custom Battle mode.
+Fix for defending armies under AI control grouping together at the edge of their deployment zone, during Ambush battles when the player choses to wait before attacking them.
+Improved AI and scripting in the Raphia Historical Battle.
+Fixed a bug preventing the player from progressing in The Invasion of Samnium prologue chapter, if they had spent all of their funds before being instructed to recruit a General (and therefore having no funds to do so).
+The Attribute increases for an agent accompanying an army now activate its associated effects on the general of that army in Campaign modes.
+Improved AI collision detection with Deployables in battle.
+In Multiplayer Campaign mode, one player can no longer cancel recruitment during the other players turn.
+The order of events leading up to the Battle of Bovianum in the prologue have been re-scripted. The player now gets multiple turns to construct siege equipment.
+Fixed issues with not enough time being given for certain advisor lines to play in different languages in the prologue.
+Fix for units floating in the air while climbing siege towers in battle, when the tower is placed on a slope.
+Attacking siege ladders will no longer clip through the gate house in the siege on Bovianum battle during The Invasion of Samnium chapter in Prologue Campaign.
+The victory screen in Multiplayer Campaign mode now shows the correct title for both players.
+The Basilica of Vulcan religious building now applies the correct bonus to recruitment cost reduction in Campaign Mode.
+Added level indicators to the Sanctuary of Austro & Sanctuary of Fraujaz shrines in Campaign mode and the Encyclopaedia.
+Fix for settlement expansion trapping / blocking units movement on the campaign map in very rare cases.
+Improved the terrain in a small Barbarian city battle map.
+Minor bug fixes for Roman and Barbarian siege battle maps.
+During battles, players are no longer able to un-pause the game while in the options menus.
+
+
+Usability improvements
+
+In Campaign mode, exempting a province from tax will no longer incorrectly adjust the food number in the province info panel left side of the screen.
+Improved multiplayer lobby discovery, reducing the chance of finding *multiplayer lobbies with the wrong battle type.
+Removed the red tint from the sky in battles.
+Fix for "Rome Wasn't Built in a Day" achievement failing to unlock when its requirements were met in some situations.
+The "Quaestor" achievement should now unlock correctly, when completing the Prologue campaign
+Fixed the inability to select the previous faction, when an army is automatically loaded due to a battle type change during battle setup.
+Improved the clarity of stats displayed for Slaves Economic Effect when placing the mouse over "Slaves" in the Province Details panel on the Campaign map.
+Fix for rare cases of broken save games in Campaign mode.
+Fix for Campaign mode bug, where a hostile agent and the players' ship became stuck in the same position, with neither one able to move.
+Fix for very rare agent pathfinding issue, which caused the game progression to become impossible in Campaign modes.
+Removed the ability to loading the wrong type of units into a battle from a saved army pre-set in Custom Battle mode.
+In Multiplayer battle setup, unit restrictions related to "Battle type" are no longer desynchronised between the host and client, so only the correct units can be chosen.
+Defending armies in an Ambush Battle can no longer load an army containing *Fixed Artillery and other Siege Equipment.
+Fixed the tooltip displayed when placing the mouse over the garrison in enemy settlements, while the settlement is under siege.
+The Public Order "Change per turn" stat is now displayed as the sum of all of its "Contributing Factors" on the Province Info panel in Campaign mode.
+Right-clicking on the Aggressive, Balanced and Protective stance buttons when Autoresolving a battle in campaign mode will now take the player to the Encyclopedia, where these stances are explained in more detail.
+More detailed descriptions added to the tooltips for the "Occupy, Loot and Raze" buttons after successfully capturing a settlement on the Campaign map.
+Improved icons for Province Effects in Campaign mode.
+Fixed an error with uploading stats when a multiplayer battle was ended prematurely.
+The "Force March" movement effect on the campaign map (looks like a whirlwind) are now correctly removed from the screen when the AI move their army.
+Correction to the Assault Hexeres unit card in the Parthia faction during battles, which had no colour mask and appeared black.
+The buttons to change pages in the Leaderboards menu have been fixed, so more players can be seen on the Leaderboards.
+The Provinces list in Campaign mode can now be scrolled with the mouse wheel.
+Units in a recruitment queue, in a province with its capital under siege, now have an "infinity sign" icon to indicate that the "turns to recruit" is infinite while the siege is maintained in Campaign mode.
+In the "Controls" menu under the "Settings" option in the main menu, when the player modifies the keyboard controls, and saves them, the new name for these controls is now replaces the "Classic Total War" name.
+Added a tooltip to say "Left-click to remove unit from recruitment queue" for units that are queued for hire in Campaign mode.
+Added a tooltip to make ruined buildings more obvious in Campaign mode.
+Added tooltips to "Weather" and "Time of Day" settings in the Custom Battle menu.
+Fixes and corrections for text in the encyclopaedia have been made.
+Minor text and grammar corrections in Campaign Modes.
+Fix for some German text not fitting into the available text space in the campaign mode user interface.
+Improved text formatting in the Objectives panel in Campaign mode.
+Added some localisation text fixes for French, Italian, German, Spanish, Czech, Russian, Polish and Turkish.
+Fixed some missing text on the Diplomacy screen in Campaign modes.
+Added white outline to Armoured Legionaries unit cards in battle.
+
+
+
+
+Here are the patch notes for Total War: ROME II- Patch 1 (06.09.13):
+
+Higher average frame rates with out-of-the-box settings (more conservative settings)
+Fix for DirectX 10.0 Lighting issue reported - environment map wasn't being created leading to black reflections.
+Fixed a sunken Samothrace temple complex world wonder on the Campaign map.
+Fixed defender being able to create encampments when involved in a combined battle.
+Added some localisation fixes to audio packs in French, Russian, Italian, German and Spanish.
+Fixed lock up in Multiplayer Campaign battles when a desynchronisation occurs. Players are now notified of the desynchronisation, and the battle ends.
+Fixed Multiplayer Campaign battle "overrun" prompt, which was not being shown to a player if they were a reinforcement and the other player was spectating.
+Fixed corrupt loading screen when changing to fullscreen / windowed mode after a battle, and then going into another battle.
+Fix for Multiplayer Campaign host being unable to move the camera in campaign, after reloading a save game on some rare occasions.
+Safe guards added to prevent a very rare crash in coastal assault battles.
+Fix for game lock up during end turn sequence / Celtic AI faction turn in single player campaign.
+Improved AI use of walls on Athens large settlement battle map.
+Improvements to Auto-resolve balancing in Single Player and Multiplayer Campaign modes.
+Aligned ship unit upkeep costs with land units - made mercenary ships more expensive and non-mercenary ships cheaper.
+Fixed slow turning rates for transport ships.
+Improved civil war balancing in relation to campaign difficulty.
+Fixed vehicle ground pipes, to prevent Siege Towers becoming immovable when they are left empty during the Deployment Phase of a Siege Battle, then units were moved into the Siege Tower when the battle has started.
+Fixed bug when ramming sideways into moving ship, which caused the ramming ship stick to target and strafe along with it in battles.
+Reduced the chance of Naval units sometimes clipping through the ground or harbours / ports during Port Assault battles when attempting to disembark.
+Fixed issue where armies would be stuck in Muster stance and could not exit that stance in Campaign modes.
+Fixed case where spies could get stuck on top of fleets in Campaign modes.
+Fixed rare post battle lockup in Campaign modes.
+Improved unit pathfinding in Barbarian village battle maps (fixed no go zones).
+Fix for Multiplayer Campaign lock up when the player was reinforcing an AI ally who was victorious in battle, causing the player to become stuck with no victory / continue / exit battle user interface functionality.
+Fix for cultural influence bonus from the Shrine of Neptune building
+Fix for “Zone of Controls” of hidden armies being visible to both players in head to head Multiplayer Campaign mode on mouse-over.
+Assorted minor fixes to city battle maps.
+Fix for "Rome Wasn't Built in a Day" achievement failing to unlock when its requirements were met in some situations.
+
+
+
+Code: Select all | Line number On/Off | Expand/Contract
+ 
+http://www53.zippyshare.com/v/23895772/file.html
+ 
+http://hugefiles.net/ttniuo6ygcaj
+ 
+http://www.putlocker.com/file/C9EE636978DAE48A 
+ 
+http://www.gamefront.com/files/23715238/r2up2.rar
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 21 Sep 2013, 20:44]
+
+_________________
+From Mexico with love ^^
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 21 Sep 2013, 20:51]
+Lol Reloaded did Xdelta. 
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 21 Sep 2013, 20:51]
+
+_________________
+Last edited by Gh0stNet on Thursday, 14 Aug 1947, 00:00, edited 999999999 time in total.
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 21 Sep 2013, 20:57]
+Gh0stNet wrote:
+Lol Reloaded did Xdelta. 
+
+and so?
+Do you prefer the sleeping dogs update by skidrow 10 gb?
+
+Thanks Reloaded for support!!!!
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 21 Sep 2013, 20:59]
+This needs Update 1 to be installed or I can install over the original RLD rls?

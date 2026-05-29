@@ -1,0 +1,406 @@
+=========================================
+STRONA 68 (URL: https://cs.rin.ru/forum/viewtopic.php?f=10&t=61441&hilit=rome+2&start=1005)
+=========================================
+
+[Data: Sunday, 18 May 2014, 23:19]
+ShadowDuke wrote:
+They are fine. You did the right "install" order etc. files are the same. Update.exe only contains uptated "main files" from patch. I also cant upload atm.
+
+
+
+ahh, it sunday afternoon (I have work to do, tomorrow i'll be dead), anyway thanks for your support 
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 22 May 2014, 14:34]
+New Rally Point video from CA with some strange code:
+https://www.youtube.com/watch?v=sY2EpTq ... e=youtu.be
+
+6C8II-28A9I-TI4LI
+6C9LY-BIKIR-WIX8R
+
+For Rome II owners only.
+
+Can anyone found out what is that ?
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 22 May 2014, 15:16]
+The new battle and faction will be free with next game update and no extra costs if you own Rome2, thats what they said!? And the DLc they announced should also be free? 3 new factions...which are already playable with DEI mod for example or even "all playable factions" mod.
+
+As for the codes, both are claimed...
+
+
+http://steamdb.info/sub/36875/
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 23 May 2014, 07:42]
+SOLVED:
+
+Used Total_War_ROME_II_Hannibal_at_the_Gates-RELOADED
+
+Installed it. RTWHATG vanilla works great.
+
+I’ve downloaded the Patches
+11 hotfix, viewtopic.php?p=902283#p902283
+12 Beta viewtopic.php?p=905173#p905173
+12 beta to final viewtopic.php?f=10&t=61441&start=960
+
+I am able to install the patch but get an error when I try to run the game.
+
+Error
+The program can’t start because MSVCR120.dll I smissing from yout computer. Try reinstalling the program to fix the problem.
+
+I’ve downloaded MSVCR120.dll (941KB) and copied it to the Windows/System32 DIR and the SysWOW64 DIR but still get the error.
+
+Can anyone help? I would like to enjoy the game with the patches.
+
+-- Edit --
+
+I've also tried the following from the CMD prompt:
+regsvr32 MSVCR120.dll
+
+I receive the following error:
+The module "MSVCR120.dll' was lodaded but the entry-ponit was not found. Make sure that the "MSVCR120.dll is a valid DLL or OCX file and try again.
+
+Solution:
+Tried site with working dll = http://www.dll-files.com/dllindex/dll-f ... l?msvcr120
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 23 May 2014, 08:38]
+
+http://store.steampowered.com/app/273381/
+
+Quote:
+Become the scourge of the ancient world with the Total War™: ROME II - Pirates & Raiders Culture Pack. Introducing a new playable culture consisting of three new raiding-focused factions, Pirates & Raiders brings new buildings, technologies, religion, faction traits, battlefield and naval units to Total War: ROME II.
+
+Players can now plunder the campaign map as the Ardiaei of Illyria, and the Thracian tribes of Tylis and the Odrysian Kingdom. With their own rosters of military and naval units, distinct traits and play styles, these Balkan factions offer a new and unique way to experience the Grand Campaign in ROME II.
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 23 May 2014, 08:38]
+
+_________________
+mostly inactive until at least half of july 2025
+
+If any of my uploads are outdated or no longer online , the best way to do is to send me a PM and i will add the title to the next batch
+UPLOADS PAUSED (have all requests in queue for when i am back to being more active)
+
+List of recent games with modern DRMs:(updated 01-Mar-2023) - http://cs.rin.ru/forum/viewtopic.php?f=10&t=68151
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 23 May 2014, 17:00]
+omg, fucktards want money for that? lol...all 3 factionsa re already playable with mod and DEI mod, + their units, etc.
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 23 May 2014, 17:25]
+macjimm wrote:
+SOLVED:
+
+
+ Spoiler
+Used Total_War_ROME_II_Hannibal_at_the_Gates-RELOADED
+
+Installed it. RTWHATG vanilla works great.
+
+I’ve downloaded the Patches
+11 hotfix, viewtopic.php?p=902283#p902283
+12 Beta viewtopic.php?p=905173#p905173
+12 beta to final viewtopic.php?f=10&t=61441&start=960
+
+I am able to install the patch but get an error when I try to run the game.
+
+Error
+The program can’t start because MSVCR120.dll I smissing from yout computer. Try reinstalling the program to fix the problem.
+
+I’ve downloaded MSVCR120.dll (941KB) and copied it to the Windows/System32 DIR and the SysWOW64 DIR but still get the error.
+
+Can anyone help? I would like to enjoy the game with the patches.
+
+-- Edit --
+
+I've also tried the following from the CMD prompt:
+regsvr32 MSVCR120.dll
+
+I receive the following error:
+The module "MSVCR120.dll' was lodaded but the entry-ponit was not found. Make sure that the "MSVCR120.dll is a valid DLL or OCX file and try again.
+
+Solution:
+Tried site with working dll = http://www.dll-files.com/dllindex/dll-f ... l?msvcr120
+
+lol, all you had to do was install the newest x86 AND x64 Microsoft Visual C++ 2013 Redist as previously mentioned(more than once in this topic)
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 25 May 2014, 16:34]
+machine4578 wrote:
+macjimm wrote:
+SOLVED:
+
+
+ Spoiler
+Used Total_War_ROME_II_Hannibal_at_the_Gates-RELOADED
+
+Installed it. RTWHATG vanilla works great.
+
+I’ve downloaded the Patches
+11 hotfix, viewtopic.php?p=902283#p902283
+12 Beta viewtopic.php?p=905173#p905173
+12 beta to final viewtopic.php?f=10&t=61441&start=960
+
+I am able to install the patch but get an error when I try to run the game.
+
+Error
+The program can’t start because MSVCR120.dll I smissing from yout computer. Try reinstalling the program to fix the problem.
+
+I’ve downloaded MSVCR120.dll (941KB) and copied it to the Windows/System32 DIR and the SysWOW64 DIR but still get the error.
+
+Can anyone help? I would like to enjoy the game with the patches.
+
+-- Edit --
+
+I've also tried the following from the CMD prompt:
+regsvr32 MSVCR120.dll
+
+I receive the following error:
+The module "MSVCR120.dll' was lodaded but the entry-ponit was not found. Make sure that the "MSVCR120.dll is a valid DLL or OCX file and try again.
+
+Solution:
+Tried site with working dll = http://www.dll-files.com/dllindex/dll-f ... l?msvcr120
+
+lol, all you had to do was install the newest x86 AND x64 Microsoft Visual C++ 2013 Redist as previously mentioned(more than once in this topic)
+
+
+Doh. Do you have a link? - or a page #? for the C++ 2013?
+
+EDIT: I actually downloaded vcredist_64 and installed and it didn't help.
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 25 May 2014, 17:12]
+Install both, 32bit and 64bit. http://www.microsoft.com/en-US/download ... x?id=40784
+Never download and replace single DLL files, that's just not needed and not recommended and gives sooner or later more problems than needed.
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 25 May 2014, 17:12]
+
+_________________
+⇛ The eyes, Chico. They never lie. ⇚
+
+In case you need a re-upload or something of anything i posted, shoot me a PM and i'll get back to ya'll.
+
+Password will always be: cs.rin.ru, if not stated otherwise...
+
+Please refrain from contacting me about stuff i simply posted and not uploaded, usually that stuff is old and possibly no longer in my possession. Thanks!
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 25 May 2014, 17:58]
+so i did Hannibal at the Gates-RELOADED then hot fix then 12 then 12final and i have models missing for the faces like on advisors, generals, spies, all i can see are eyes and mouth how do i fix this. also in the Cesar in gaul campaign as playing as gual all the research on the politic side only takes one turn, is this a feature or a bug
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 26 May 2014, 06:33]
+Hello everyone i am new here.
+
+First I would like to thank the uploaders here for their hard work providing new updates + cracks thank you.
+
+I am having crash issue with update 12 beta and 12 final updates installed.
+
+When i launch the game the splash screen comes and then crashes with error
+
+Faulting application name: Rome2.exe, version: 1.12.0.0, time stamp: 0x53623e7b
+Faulting module name: Rome2.dll, version: 1.12.0.0, time stamp: 0x53623e55
+Exception code: 0xc0000005
+Fault offset: 0x0112937d
+Faulting process id: 0x17c0
+Faulting application start time: 0x01cf78a25fd35688
+Faulting application path: E:\Program Files\Total War ROME II\Rome2.exe
+Faulting module path: E:\Program Files\Total War ROME II\Rome2.dll
+Report Id: a7e2116a-e495-11e3-8334-97b975a5a9ea
+Faulting package full name:
+Faulting package-relative application ID:
+
+
+My install order is
+
+1)Total War ROME II Caesar in Gaul-RELOADED(1.8.0 Version)
+2)Update 8.1 Reloaded
+3)Update 9 Reloaded
+4)Update 10 beta
+5)Update 10 beta-final
+6)Update 11
+7)Update 11 eng lang
+8-Update 11 hotfix
+9)Gaul-hannibal dlc
+10)Update 12 beta(2 mismatch error due to german language)
+11)Update 12 beta-final(same as above)
+
+The game works upto update 11 with hotfix with no launch crash.
+
+But after i apply update 12 beta and beta-final both make my game crash at launch therefore not playable
+
+The error says something like this
+The Instruction at 0x referenced memory at 0x The memory could not be read
+
+And the faulting module is Rome2.dll (This only happens with update12 beta and final)
+
+With update 11 hotfix the game runs fine.
+
+Any idea what is wrong?.
+
+Thank You.
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 27 May 2014, 21:48]
+Total.War.ROME.II.Update.13.Getae.and.Pydna *xdelta* Version: v1.13.0.0-11271.541757 (27.05.2014)
+
+You need Update 12 final installed!
+
+Changelog:
+
+
+ Spoiler
+Code: Select all | Line number On/Off | Expand/Contract
+ 
+v1.13.0.0-11271.541757
+ 
+New Historical Battle – Battle of Pydna
+ 
+Marking the release of the 1st Total War novel in paperback, which also includes a sequence featuring this pivotal battle, players can now test their generalship in the highly challenging Battle of Pydna historical scenario.
+ 
+An important stride forward on the road to Rome becoming the dominant regional power; Macedon received a blow it couldn’t recover from, but how will your battle fair? This scenario has been designed as a demanding test for experienced Total War players.
+ 
+More information on ‘Destroy Carthage’ by Times Bestselling author David Gibbons can be found here: http://www.totalwarbooks.com. Read the first chapter now at http://www.totalwar.com.
+ 
+New Playable Faction – Getae
+ 
+The Getae are not a single tribe, but a loose confederation settled around the Lower Danube. They differ from other local tribes through their worship of Gebeleizis, who manifests himself through lightning and thunder, and Zalmoxis, who represents immortality. The Getae strongly believe there are no other gods than their own, yet see themselves as constantly at odds with the heavens, even firing arrows at Gebeleizis during heavy storms.
+ 
+Perhaps reflecting this natural fury, the Getae have the best skirmishers of all the barbarian factions; favouring lightning-fast hit-and-run strikes at the enemy combined with heavy-hitting falx-armed shock infantry.
+ 
+New Units – Getae
+ 
+Heavy Skirmishers
+ 
+These elite missile infantry are a deadly combination of well-armed and armoured, especially when compared to other faction’s troops in a similar role. Suited to ambushing and softening the enemy before a charge from supporting units, Getae’s skirmishers are unparalleled within their culture.
+ 
+Heavy Archers
+ 
+Elite bowmen are a staple of many Getae expeditionary forces, who consider a cloudy sky to be a poor omen for battle. Unless of course it is they who are raining Gebeleizis’ fury on the enemy’s head in the form of thick clouds of heavy shafts and weighted arrowheads.
+ 
+Noble Swords
+ 
+Forming the hammer of any powerful Getae army, these armoured infantry will stoically push forward into the enemy line against the most incredible odds. While it is the purpose of other units to harass, break and shock, it is these elite swordsmen who have the grim, determined work of slaughtering the foe.
+ 
+DLC Preparation – Pirates and Raiders Culture Pack
+ 
+This update contains content that will prepare the game for purchasers of the forthcoming DLC, the Pirates & Raiders Culture Pack. This includes updates to game data and assets, eg. so that non-owners can see DLC units in MP battles.
+ 
+The Pirates & Raiders Culture Pack is out soon, please see here for more details.
+ 
+New Achievements
+ 
+For owners of Nomadic Tribes DLC:
+ 
+We Can’t Axe for More
+Put On Your Red Light
+My Kingdom for a Horse
+Free with Caesar in Gaul update:
+ 
+Baktria to the Future
+For owners of Caesar in Gaul DLC:
+ 
+Struck a Nervii
+That’s my Boii
+Anatolia Not to Come
+For owners of Hannibal at the Gates DLC:
+ 
+Celtiberia Victorious
+Fast & Lusitani
+Tyrannus
+Free with Getae and Pydna Update:
+ 
+Getae In!
+Phalanx But No Thanks
+For owners of Pirates & Raiders DLC:
+ 
+Hoist the Colours!
+Thrace for Impact
+Megas Basileus
+Comontorios Eternal
+Usability improvements
+ 
+Added missing subtitles for Hannibal at the Gates intro in German, Spanish and Russian.
+General battle improvements
+ 
+Increased the length of the falx weapon handle, so units hold it correctly in two hands.
+General Campaign improvements
+ 
+Political promotions in Campaign modes are now dependant on all of their prerequisites (e.g. age or experience level of the general), rather than just whether or not they can be afforded.
+Campaign AI improvements
+ 
+Fix for Campaign AI sometimes overestimating strength of transport ships.
+ 
+
+
+
+Code: Select all | Line number On/Off | Expand/Contract
+ 
+1) Extract all files to your Rome 2 <root> install dir
+2) Start TWR2_UP13_Getae_and_Pydna.bat
+3) Copy Crack
+4) Play
+
+
+Download: [93mb] (Zippyshare, Firedrive)
+
+Zippyshare
+Firedrive
+
+Notes: German Update. ENG lang files below. Pirates DLC is coming later.
+
+
+ENG-Lang Files for Update13 : (thanks to machine4578)
+
+http://www11.zippyshare.com/v/35678888/file.html
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 27 May 2014, 22:01]
+Thank u alot respect man. ShadowDuke
+That was a temporary minor problem?
+It means u cannot upload it again on FileDrive? 
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 27 May 2014, 22:01]
+
+_________________
+The most respectful and useful users: - machine4578 - ShadowDuke - demde - MarloC - punchao - sam2k8
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 27 May 2014, 22:10]
+I need to upload again on Zippyshare, it aborted at 99%  and then i will mirror to firedrive. I only have 25kb/sec upload speed atm  So, please bear with me.
+
+I know you have problems with Zippyshare, but you need to wait a little longer then, sry.
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 27 May 2014, 22:13]
+Thank you, "ShadowDuke".
+We can alway count on you!
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 27 May 2014, 22:13]
+
+_________________
+The owls are not what they seem.

@@ -1,0 +1,362 @@
+=========================================
+STRONA 8 (URL: https://cs.rin.ru/forum/viewtopic.php?f=10&t=61441&hilit=rome+2&start=105)
+=========================================
+
+[Data: Tuesday, 03 Sep 2013, 09:17]
+hattisit_ wrote:
+Total War Rome II LANGUAGE PACK
+
+GERMAN
+http://www.putlocker.com/file/D072086D971E7AB3
+http://www.putlocker.com/file/AD4AC5A2C3CF8880
+
+ITALIAN
+uploading
+
+SPANISH
+uploading
+
+FRENCH
+uploading
+
+RUSSIAN
+uploading
+
+are you sure that you don't need data.pack for a full-conversion??
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 03 Sep 2013, 09:17]
+Thanks for the german files! 
+
+Maybe some1 needs legit Files, Steam006 maybe?  http://www28.zippyshare.com/v/27133179/file.html
+
+pid report btw: @ali213 how you found SF string in pid? I have a slightly newer Version.
+
+
+
+
+ Spoiler
+Quote:
+Scanning -> D:\D o w n l o a d s\3DMGAME-Total.War.Rome.II.Incl.The.Greek.States.Culture.Pack-3DM\Rome2.dll
+File Type : 32-Bit Dll (Subsystem : Win GUI / 2), Size : 27734168 (01A73098h) Byte(s)
+-> File Appears to be Digitally Signed @ Offset 01A72200h, size : 0E98h / 03736 byte(s)
+[File Heuristics] -> Flag : 00000100000001001101000000000100 (0x0404D004)
+[Debug Info]
+Characteristics : 0x0 | TimeDateStamp : 0x52221E1F | MajorVer : 0 / MinorVer : 0 -> (0.0)
+Type : 2 -> CodeView | Size : 0x64 (100)
+AddressOfRawData : 0x189C798 | PointerToRawData : 0x189B998
+CvSig : 0x53445352 | SigGuid 5A4C6F66-580F-4CF9-137B398234EF1025
+Age : 0x1E | Pdb : t:\branches\rome2\day1\rome2\binaries\Symbols\Empire.zIntelUnityRelease.pdb
+
+[!] Steam api usage detected
+[i] additional feature: Valve CEG - Custom Executable Generation
+[!] Possible CD/DVD-Key or Serial Check -> Serial Number
+[CompilerDetect] -> Visual C++ 10.0 (Visual Studio 2010)
+- Scan Took : 1.375 Second(s) [000000659h tick(s)]
+
+Scanning -> D:\D o w n l o a d s\3DMGAME-Total.War.Rome.II.Incl.The.Greek.States.Culture.Pack-3DM\Rome2.exe
+File Type : 32-Bit Exe (Subsystem : Win GUI / 2), Size : 222768 (036630h) Byte(s)
+-> File Appears to be Digitally Signed @ Offset 035000h, size : 01630h / 05680 byte(s)
+[File Heuristics] -> Flag : 00000100000001001101000000000100 (0x0404D004)
+[Debug Info]
+Characteristics : 0x0 | TimeDateStamp : 0x52221E47 | MajorVer : 0 / MinorVer : 0 -> (0.0)
+Type : 2 -> CodeView | Size : 0x67 (103)
+AddressOfRawData : 0x78A8 | PointerToRawData : 0x62A8
+CvSig : 0x53445352 | SigGuid EE0BD633-5EA8-463B-B6A3DCB88D5AF06E
+Age : 0x14 | Pdb : t:\branches\rome2\day1\rome2\binaries\Symbols\TW_Launch.zIntelUnityRelease.pdb
+
+[CompilerDetect] -> Visual C++ 10.0 (Visual Studio 2010)
+[!] File appears to have no protection or is using an unknown protection
+- Scan Took : 0.62 Second(s) [00000003Eh tick(s)]
+
+Scanning -> D:\D o w n l o a d s\3DMGAME-Total.War.Rome.II.Incl.The.Greek.States.Culture.Pack-3DM\steam_api.dll
+File Type : 32-Bit Dll (Subsystem : Win GUI / 2), Size : 104872 (0199A8h) Byte(s)
+-> File Appears to be Digitally Signed @ Offset 017C00h, size : 01DA8h / 07592 byte(s)
+[File Heuristics] -> Flag : 00000100000001001001000000000100 (0x04049004)
+[Debug Info]
+Characteristics : 0x0 | TimeDateStamp : 0x512BBEFF | MajorVer : 0 / MinorVer : 0 -> (0.0)
+Type : 2 -> CodeView | Size : 0x67 (103)
+AddressOfRawData : 0x13A38 | PointerToRawData : 0x12E38
+CvSig : 0x53445352 | SigGuid 398DF15F-7403-4B77-039029BF9682FDD4
+Age : 0x1 | Pdb : e:\buildslave\steam_rel_client_win32\build\src\steam_api\Release\steam_api.pdb
+
+[!] Steam Client API Module v01.68.08.89 detected !
+[CompilerDetect] -> Visual C++ 10.0 (Visual Studio 2010)
+- Scan Took : 0.62 Second(s) [00000003Eh tick(s)]
+
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 03 Sep 2013, 09:17]
+Thanks, hattisit_ 
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 03 Sep 2013, 09:17]
+
+_________________
+
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 03 Sep 2013, 09:23]
+hattisit_ wrote:
+Total War Rome II LANGUAGE PACKS
+
+GERMAN
+http://www.putlocker.com/file/D072086D971E7AB3
+http://www.putlocker.com/file/AD4AC5A2C3CF8880
+
+ITALIAN
+http://www.putlocker.com/file/8ED30F1954A34259
+uploading
+
+SPANISH
+http://www.putlocker.com/file/9F464A1EC3F246F9
+http://www.putlocker.com/file/2CB7801991A7531D
+
+FRENCH
+http://www.putlocker.com/file/9EA749685800B920
+http://www.putlocker.com/file/D0DDA6006BCFE0CB
+
+RUSSIAN
+http://www.putlocker.com/file/EE043C3C32A8CB1E
+http://www.putlocker.com/file/B0AEF571BD8DAD9D
+
+ahahah now i know where you take this files 
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 03 Sep 2013, 09:29]
+ShadowDuke wrote:
+Thanks for the german files! 
+
+Maybe some1 needs legit Files, Steam006 maybe?  http://www28.zippyshare.com/v/27133179/file.html
+
+pid report btw: @ali213 how you found SF string in pid? I have a slightly newer Version.
+
+
+
+
+ Spoiler
+Quote:
+Scanning -> D:\D o w n l o a d s\3DMGAME-Total.War.Rome.II.Incl.The.Greek.States.Culture.Pack-3DM\Rome2.dll
+File Type : 32-Bit Dll (Subsystem : Win GUI / 2), Size : 27734168 (01A73098h) Byte(s)
+-> File Appears to be Digitally Signed @ Offset 01A72200h, size : 0E98h / 03736 byte(s)
+[File Heuristics] -> Flag : 00000100000001001101000000000100 (0x0404D004)
+[Debug Info]
+Characteristics : 0x0 | TimeDateStamp : 0x52221E1F | MajorVer : 0 / MinorVer : 0 -> (0.0)
+Type : 2 -> CodeView | Size : 0x64 (100)
+AddressOfRawData : 0x189C798 | PointerToRawData : 0x189B998
+CvSig : 0x53445352 | SigGuid 5A4C6F66-580F-4CF9-137B398234EF1025
+Age : 0x1E | Pdb : t:\branches\rome2\day1\rome2\binaries\Symbols\Empire.zIntelUnityRelease.pdb
+
+[!] Steam api usage detected
+[i] additional feature: Valve CEG - Custom Executable Generation
+[!] Possible CD/DVD-Key or Serial Check -> Serial Number
+[CompilerDetect] -> Visual C++ 10.0 (Visual Studio 2010)
+- Scan Took : 1.375 Second(s) [000000659h tick(s)]
+
+Scanning -> D:\D o w n l o a d s\3DMGAME-Total.War.Rome.II.Incl.The.Greek.States.Culture.Pack-3DM\Rome2.exe
+File Type : 32-Bit Exe (Subsystem : Win GUI / 2), Size : 222768 (036630h) Byte(s)
+-> File Appears to be Digitally Signed @ Offset 035000h, size : 01630h / 05680 byte(s)
+[File Heuristics] -> Flag : 00000100000001001101000000000100 (0x0404D004)
+[Debug Info]
+Characteristics : 0x0 | TimeDateStamp : 0x52221E47 | MajorVer : 0 / MinorVer : 0 -> (0.0)
+Type : 2 -> CodeView | Size : 0x67 (103)
+AddressOfRawData : 0x78A8 | PointerToRawData : 0x62A8
+CvSig : 0x53445352 | SigGuid EE0BD633-5EA8-463B-B6A3DCB88D5AF06E
+Age : 0x14 | Pdb : t:\branches\rome2\day1\rome2\binaries\Symbols\TW_Launch.zIntelUnityRelease.pdb
+
+[CompilerDetect] -> Visual C++ 10.0 (Visual Studio 2010)
+[!] File appears to have no protection or is using an unknown protection
+- Scan Took : 0.62 Second(s) [00000003Eh tick(s)]
+
+Scanning -> D:\D o w n l o a d s\3DMGAME-Total.War.Rome.II.Incl.The.Greek.States.Culture.Pack-3DM\steam_api.dll
+File Type : 32-Bit Dll (Subsystem : Win GUI / 2), Size : 104872 (0199A8h) Byte(s)
+-> File Appears to be Digitally Signed @ Offset 017C00h, size : 01DA8h / 07592 byte(s)
+[File Heuristics] -> Flag : 00000100000001001001000000000100 (0x04049004)
+[Debug Info]
+Characteristics : 0x0 | TimeDateStamp : 0x512BBEFF | MajorVer : 0 / MinorVer : 0 -> (0.0)
+Type : 2 -> CodeView | Size : 0x67 (103)
+AddressOfRawData : 0x13A38 | PointerToRawData : 0x12E38
+CvSig : 0x53445352 | SigGuid 398DF15F-7403-4B77-039029BF9682FDD4
+Age : 0x1 | Pdb : e:\buildslave\steam_rel_client_win32\build\src\steam_api\Release\steam_api.pdb
+
+[!] Steam Client API Module v01.68.08.89 detected !
+[CompilerDetect] -> Visual C++ 10.0 (Visual Studio 2010)
+- Scan Took : 0.62 Second(s) [00000003Eh tick(s)]
+
+
+
+ProtectionId → pcnsl.exe
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 03 Sep 2013, 09:35]
+kevinyang225 wrote:
+3DMGAME-Total.War.Rome.II.Incl.The.Greek.States.Culture.Pack-3DM
+
+
+
+Code: Select all | Line number On/Off | Expand/Contract
+http://pan.baidu.com/share/link?shareid ... 3090215182
+
+
+or
+
+
+Code: Select all | Line number On/Off | Expand/Contract
+http://bt.3dmgame.com/down.php?date=137 ... 945350d870
+
+
+
+Size:9.84GB
+
+unrar full size:18.5GB
+
+1000MB/11 Parts
+
+
+i have all files except part10.rar it always wants only to download with 1 thread and after a few mb its gonna abort - repeating the whole time 
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 03 Sep 2013, 09:44]
+Okay, packed it again. 
+
+Total War: ROME II
+Size: 8.85GB
+Language: English
+
+Download:
+
+Uploaded.to:
+
+
+ Spoiler
+https://safelinking.net/p/1981c51127
+
+
+Putlocker:
+
+
+ Spoiler
+https://safelinking.net/p/be893f22cd
+
+
+Password:
+
+
+ Spoiler
+awesome
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 03 Sep 2013, 09:44]
+
+_________________
+
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 03 Sep 2013, 09:44]
+hattisit_ wrote:
+Total War Rome II LANGUAGE PACKS
+
+GERMAN
+http://www.putlocker.com/file/D072086D971E7AB3
+http://www.putlocker.com/file/AD4AC5A2C3CF8880
+
+ITALIAN
+http://www.putlocker.com/file/8ED30F1954A34259
+http://www.putlocker.com/file/8D4808664F7D2AD5
+
+SPANISH
+http://www.putlocker.com/file/9F464A1EC3F246F9
+http://www.putlocker.com/file/2CB7801991A7531D
+
+FRENCH
+http://www.putlocker.com/file/9EA749685800B920
+http://www.putlocker.com/file/D0DDA6006BCFE0CB
+
+RUSSIAN
+http://www.putlocker.com/file/EE043C3C32A8CB1E
+http://www.putlocker.com/file/B0AEF571BD8DAD9D
+
+CZECH
+http://www.putlocker.com/file/6151B5DADCC4ABDA
+http://www.putlocker.com/file/0A733A1FF4599593
+
+POLISH
+http://www.putlocker.com/file/78EB4C9A7A92DB92
+http://www.putlocker.com/file/E8C9821F6EE74956
+
+TURKISH
+http://www.putlocker.com/file/7072A9999C962080
+http://www.putlocker.com/file/4B05529A22FFE6BB
+
+
+thanks for czech language 
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 03 Sep 2013, 09:52]
+Thx Awesome
+like i sad game packs nicely 
+And thx guys for language pack
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 03 Sep 2013, 09:52]
+
+_________________
+
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 03 Sep 2013, 09:53]
+I am AWESOME, what is the diffrence between the 18 gb pack and the 8 one?
+Are both packs include all dlc's?
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 03 Sep 2013, 09:55]
+Seederwe wrote:
+I am AWESOME, what is the diffrence between the 18 gb pack and the 8 one?
+Are both packs include all dlc's?
+
+
+
+I am AWESOME wrote:
+Okay, packed it again. 
+
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 03 Sep 2013, 09:58]
+Does someone test the "SKIDROW" crack?
+I know, there is no skidrow official site and etc,
+I guess they are using 3DM or ALI213 crack...
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 03 Sep 2013, 09:59]
+There is no Crack!
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 03 Sep 2013, 10:03]
+KaOs will surely make it at least 6 GB. 
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 03 Sep 2013, 10:12]
+60,214 playing, woah! 
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 03 Sep 2013, 10:12]
+
+_________________

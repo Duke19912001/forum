@@ -1,0 +1,265 @@
+=========================================
+STRONA 67 (URL: https://cs.rin.ru/forum/viewtopic.php?f=10&t=61441&hilit=rome+2&start=990)
+=========================================
+
+[Data: Thursday, 15 May 2014, 05:06]
+And why dont answer my other question?
+
+
+Quote:
+Rome2.dll from?
+
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 15 May 2014, 08:46]
+ShadowDuke, from here - viewtopic.php?p=909961#p909961
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 16 May 2014, 12:23]
+Please guys anyone can provide me latest Turkish language files ? (All files not update ..)
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 16 May 2014, 21:11]
+Hi, I'm stupid.
+
+Now if anyone can help...
+
+I'm using this release from the bay:
+Code: Select all | Line number On/Off | Expand/Contract
+Total.War.ROME.II.Hannibal.at.the.Gates-RELOADED
+
+
+I've downloaded from this thread the following updates (thanks ShadowDuke):
+
+
+Code: Select all | Line number On/Off | Expand/Contract
+Total.War.ROME.II.Update.11.HOTFiX.BUILD.10471_528438 *xdelta* (03.04.2014]
+ 
+Total.War.ROME.II.Update.12.beta *xdelta* Version: v1.12.0.0-10624.531958 (17.04.2014)
+ 
+Total.War.ROME.II.Update.12.beta_to_final *xdelta* Version: v1.12.0.0-10877.535502 (08.05.2014)
+
+
+I'm assuming everything is correct so far (?).
+
+First update gives me "access is denied" at the beginning but the process is completed without errors and I can start the game just fine.
+
+Second update gives me "access is denied" but also two errors. "xdelta3: source file too short: XD3_INVALID_INPUT" and "xdelta3: target window checksum mismatch: XD3_INVALID_INPUT"
+
+The game crashes if I proceed with the update. Thoughts? 
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 17 May 2014, 01:34]
+Read the last pages about "access is denied" - a few ppl had this and all had the same issue, AV/UAC and other "blocking" Software...just read, please....
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 17 May 2014, 01:42]
+paps79 wrote:
+Hi, I'm stupid.
+
+Now if anyone can help...
+
+I'm using this release from the bay:
+Code: Select all | Line number On/Off | Expand/Contract
+Total.War.ROME.II.Hannibal.at.the.Gates-RELOADED
+
+
+I've downloaded from this thread the following updates (thanks ShadowDuke):
+
+
+Code: Select all | Line number On/Off | Expand/Contract
+Total.War.ROME.II.Update.11.HOTFiX.BUILD.10471_528438 *xdelta* (03.04.2014]
+ 
+Total.War.ROME.II.Update.12.beta *xdelta* Version: v1.12.0.0-10624.531958 (17.04.2014)
+ 
+Total.War.ROME.II.Update.12.beta_to_final *xdelta* Version: v1.12.0.0-10877.535502 (08.05.2014)
+
+
+I'm assuming everything is correct so far (?).
+
+First update gives me "access is denied" at the beginning but the process is completed without errors and I can start the game just fine.
+
+Second update gives me "access is denied" but also two errors. "xdelta3: source file too short: XD3_INVALID_INPUT" and "xdelta3: target window checksum mismatch: XD3_INVALID_INPUT"
+
+The game crashes if I proceed with the update. Thoughts? 
+
+
+
+Found the problem. It was UAC not being turned off entirely.
+
+In windows 8 you need to modify the registry to turn it off completely (control panel is not enough). Guide here:
+
+http://www.eightforums.com/system-security/2434-disable-uac-completely.html
+
+Remember to restore the registry value after you are done, otherwise, Metro apps are broken. Hope this helps anyone with similar issues.
+
+-- Edit --
+
+
+ShadowDuke wrote:
+Read the last pages about "access is denied" - a few ppl had this and all had the same issue, AV/UAC and other "blocking" Software...just read, please....
+
+
+Yeah, thanks. I've already read those posts but as you see it was the pesky Windows 8 fault.
+
+Appreciate your work, thanks again.
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 18 May 2014, 21:05]
+After RLD-Hann + 11hot + 12beta + 12final --> no errors, the works boots and enter to campaign maps
+
+However any time I want to start a battle it hangs, with this:
+
+
+Code: Select all | Line number On/Off | Expand/Contract
+ Problem signature:
+  Problem Event Name:   APPCRASH
+  Application Name: Rome2.exe
+  Application Version:  1.12.0.0
+  Application Timestamp:    53623e7b
+  Fault Module Name:    twitchsdk_32_release.dll
+  Fault Module Version: 0.0.0.0
+  Fault Module Timestamp:   52796934
+  Exception Code:   c0000005
+  Exception Offset: 000381ab
+  OS Version:   6.1.7601.2.1.0.256.1
+  Locale ID:    1033
+  Additional Information 1: e0bd
+  Additional Information 2: e0bdbf536625cc3e91df99df1fcb1edf
+  Additional Information 3: ae66
+  Additional Information 4: ae663dcc8cb15b252022161f866de94a
+ 
+
+
+It seems that I accepted the twitchtv terms... but how to revert it or do I have to reinstall all over again?
+
+
+UPDATE:
+
+Reinstalling doesn't work, ....
+
+
+So:
+RLD-Hann --> works
+RLD-Hann + 11hot --> no battles (error with twitchsdk_32), rest works (also mods)
+RLD-Hann + 11hot + 12beta --> no battles (error with twitchsdk_32), rest works (also mods)
+RLD-Hann + 11hot + 12beta + 12final --> no battles (error with twitchsdk_32), rest works (also mods)
+
+
+Anyone having this issue? Does anybody manage to play 12 final? Did you accept EULA of twicht?
+
+Need help over here!!!
+
+UPDATE 2:
+
+RLD-Hann --> works with and without the crack content....
+
+UPDATE 3:
+
+RLD-Hann + 11hot --> will work if applied RLD crack (however it will show previous version)
+
+RLD-Hann + 11hot +12whatever --> won't work with battle no matter with combination of cracks I use...
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 18 May 2014, 21:09]
+@jvmnck
+i have tested the crack ShadowDuke shared and its working fine.. 
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 18 May 2014, 21:15]
+I once had a crash in twitchsdk_32_release.dll, too. No idea anymore what caused it, i think it was due LumaCEG and "Crack". Check if anything is blokcing something from Crack, be sure you copied everything, bink file, too, etc.
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 18 May 2014, 21:30]
+machine4578 wrote:
+@jvmnck
+i have tested the crack ShadowDuke shared and its working fine.. 
+
+So..., but I can't engage battles (not even the benchmark) it crash...
+
+I don't know what to do...
+
+did you accept the EULA of twitch?
+did you use the RLD-Hann or another version as start point?
+may be checkin g md5sum for files?
+another way to give more detail (debugging) of my issue?
+
+@shadow
+
+I don't think I have something blocking, (no users, only one, me adm, no antivirus, yeah it is very risky system...)
+
+
+Some pics:
+
+https://www.dropbox.com/s/8te50pbk6dz6ncc/img1.png
+https://www.dropbox.com/s/5w73e3x9ehwmk00/img2.png
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 18 May 2014, 21:42]
+Like i said...bink32 file, can you tell me why you have an other one than the one from the Crack?? Since the import from lumaceg is in that file it cant work therefore its crashing for you everywhere when starting battle, next round and so on!
+
+Edit: My mistake.....¿ The bink file you used is from beta crack and not from final crack package....and you lumaceg file is also outdated....final one is from 10.05.14. So it looks like you have a mixed between beta-Crack files and final-crack files...why is that..
+
+So, LumaEmu_CEG.dll from beta-crack and bink32.dll also the one from beta, but bink file doesnt change from beta->final so nvm that. Still the question why you use the LumaEmu_CEG.dll from beta Crack and not from the final one!
+
+(i have also no AV, no problem with that ^^).
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 18 May 2014, 21:48]
+ShadowDuke wrote:
+Like i said...bink32 file, can you tell me why you have an other one than the one from the Crack?? Since the import from lumaceg is in that file it cant work therefore its crashing for you everywhere when starting battle, next round and so on!
+
+Edit: My mistake.....¿ The bink file you used is from beta crack and not from final crack package....and you lumaceg file is also outdated....final one is from 10.05.14. So it looks like you have a mixed between beta-Crack files and final-crack files...why is that..
+
+So, LumaEmu_CEG.dll from beta-crack and bink32.dll also the one from beta, but bink file doesnt change from beta->final so nvm that. Still the question why you use the LumaEmu_CEG.dll from beta Crack and not from the final one!
+
+(i have also no AV, no problem with that ^^).
+
+
+this is what I got from final:
+
+https://www.dropbox.com/s/whu294wsncpy5yg/img3.png
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 18 May 2014, 21:52]
+Yeah ok, i just updated the file initially, for me already. So it should work fine. Dunno what else to help you, since its working allright for everyone (who dont have problems with UAC, AV, etc!).
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 18 May 2014, 23:06]
+ShadowDuke wrote:
+Yeah ok, i just updated the file initially, for me already. So it should work fine. Dunno what else to help you, since its working allright for everyone (who dont have problems with UAC, AV, etc!).
+
+
+
+updated the luma dll (108Kb from 10/5)
+
+
+Still crashing...
+
+Dunno, remember that every single crack provided by you give me the same result (for 11hot, 12 beta and 12 final) --> so it is my fault, since RLD works, but yours not...
+
+It may be some dependency like a microsoft sh.. or something like that, since I didn't have vcredist 2013...
+
+here are the installed ones: https://www.dropbox.com/s/90t0r8tn4aimgfx/img4.png
+
+
+
+May be there a last thing you could do (if you have time), upload all loose files from Rome 2 Dir they are less than 100mb, just to verify integrity...
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 18 May 2014, 23:10]
+They are fine. You did the right "install" order etc. files are the same. Update.exe only contains updated "main files" from patch. I also cant upload atm.

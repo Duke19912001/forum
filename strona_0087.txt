@@ -1,0 +1,245 @@
+=========================================
+STRONA 87 (URL: https://cs.rin.ru/forum/viewtopic.php?f=10&t=61441&hilit=rome+2&start=1290)
+=========================================
+
+[Data: Friday, 25 Jul 2014, 18:05]
+I think there went something wrong when making the patch for tiles4_rome2.pack. I look if i can do a fix for that, as the original tiles4_rome2.pack is 1,6gb.
+
+But i think i fixed it. Uploading it now, sfv is ok, so it will work. ^^
+
+Edit:
+
+heres the fix for everyone already downloaded the Patch14_beta. Just execute TWR2_UP14_beta_fixed.bat in your main rome2 dir and your tiles4_rome2.pack should be 1.624.657 KB (1,54 GB). You can also check with the sfv, should be all ok now.
+
+Download the fix! [227mb]
+
+Firedrive
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 25 Jul 2014, 18:09]
+ShadowDuke wrote:
+
+
+gringosan wrote:
+Should you include the /data/manifest.txt in your patches? I think this is the source of the file mismatches that are reported in the log file.
+
+
+Heres the file, tho i doubt that will change anything. ^^ Cos i didnt add the file in any prev. patches and the patching was always succesful for the people. 
+
+
+
+
+When I load the game now with your manifest.txt my modified.log file reports no error except for tiles4_rome2.pack (and some other language stuff)
+
+EDIT Ahh I see from your recent post that your on the case!
+
+[I dont get it. I patched several times and the end results were the same. I see alvaro1992 gets the same crc result as me on tiles4_rome2.pack. And this file was patched ok and originally from xdelta update 13.1 How could it be only me  ]
+
+Is there some command line options I can try with the xdelta.exe to patch tiles4_rome2.pack correctly?
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 25 Jul 2014, 18:14]
+No, the patch did something wrong with the tiles4_rome2.pack, there were over 200mb missing, dunno why that happened. Above gamefix fixes the problem now. Please report back (sfv), thanks.
+
+Im very sorry for this, should have seen this sooner as i always test the stuff twice at least! 
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 25 Jul 2014, 18:50]
+Yup went from 1 gb to 1.54. My patching was fine before so how does this change?
+
+Edit:ahhh u know what, I did the update of the Rome2 total realism mod u passed me and it was acting up and didnt know why but now is working so that´s one thing.
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 25 Jul 2014, 18:55]
+ShadowDuke wrote:
+No, the patch did something wrong with the tiles4_rome2.pack, there were over 200mb missing, dunno why that happened. Above gamefix fixes the problem now. Please report back (sfv), thanks.
+
+Im very sorry for this, should have seen this sooner as i always test the stuff twice at least! 
+
+
+Np ShadowDuke we are all human, your doing a great job with the updates and I thank you for it.
+Attached sfv of my data folder, the problem with the custom battles is gone, everything working as intended now.
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 25 Jul 2014, 19:04]
+ShadowDuke wrote:
+No, the patch did something wrong with the tiles4_rome2.pack, there were over 200mb missing, dunno why that happened. Above gamefix fixes the problem now. Please report back (sfv), thanks.
+
+Im very sorry for this, should have seen this sooner as i always test the stuff twice at least! 
+
+
+
+Thanks for the fix... In the limited testing I have done my problems are solved.
+
+Now lets give this AI a few turns and see whats new.
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 25 Jul 2014, 19:41]
+Yayy! No more crashing  Every thing working fine now. Thank you so much ShadowDuke!
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 26 Jul 2014, 01:07]
+Hey guys, I'm new here!
+
+I tried to download the update 14 fix Shadowduke but I can't seem to download more than about 100 mb of the rar file before it stops downloading (like it's done). When I open the archive file it says its corrupt. Does anybody else experience the same problem or is it just something with the server hosting the fix at this time?
+
+And while I'm at it, I have another question. I have a problem when I play Rome 2 (all DLCs installed patch 13.1 festivals hotfix) where the game freezes at random times at the campaign map, and only there (leads to a lot of quicksaving all the time in anticipation of the next freeze which may or may not come for sometimes hours and sometimes minutes, getting really irritating). Does anybody have any clues of what can be the problem or have experienced the same problem as me? Checked the official forums and the few threads about the same problem are never answered by the developers. And I haven't found any useful replies over at TWCenter either. I have the latest drivers for all my stuff so that shouldn't be the problem. The problem appears both in vanilla and when using mods.
+
+I run an i3-4130 @ 3.40 GHz with a AMD Radeon HD 7870 2 GB GHz version card, 4 GB RAM and an Kingston SSD Drive. More than enough to have a very fluent gameplay on Very High.
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 26 Jul 2014, 02:14]
+ApeX86 wrote:
+
+And while I'm at it, I have another question. I have a problem when I play Rome 2 (all DLCs installed patch 13.1 festivals hotfix) where the game freezes at random times at the campaign map
+
+I run an i3-4130 @ 3.40 GHz with a AMD Radeon HD 7870 2 GB GHz version card, 4 GB RAM and an Kingston SSD Drive. More than enough to have a very fluent gameplay on Very High.
+
+
+
+Yeah similar experience happened to me as well when I first started to play the campaigns. I noticed that sometimes the game just takes a long time to calculate the AI factions move during the turn.
+
+However I also noticed that sometimes this ended in a lockup... I turned off "Use Unlimited Memory" in the advanced graphics settings and I haven't had a lockup since.
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 26 Jul 2014, 07:44]
+Hi @shadowduk , I'm a new member here though I've been using xdelta patches for months .
+
+My game is Hannibal at the gates reloaded and I had no problem to update up to update 14 beta ( my game worked fine with xdelta update 13.1 ) But when I tried to update it to 14 beta ( 47 MB ) an error occurred on my windows 7 , which came from not finding MSVCR100.dll but when I downloaded the file from internet and copied in both system 32 and Rome 2 folders another error occurred when I started to update like usual :
+
+
+the application or dll is not a valid windows image please check this against your installation
+
+I downloaded at least 7 MSVCR110.dll from different sites but none worked and the error above occurred for 15 straight times ( as xdelta patches have 15 sessions ) , thought the problem was the windows , so I installed Windows XP but the same thing happened there which took around 4 hours but ended in nothing .
+
+Sorry for the long story .
+
+Any help , suggestion ?
+
+( I need to add that , my windows 7 was service pack 1 , ultimate + it has no access to the internet for updates etc ) .
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 26 Jul 2014, 09:28]
+gringosan wrote:
+
+Yeah similar experience happened to me as well when I first started to play the campaigns. I noticed that sometimes the game just takes a long time to calculate the AI factions move during the turn.
+
+However I also noticed that sometimes this ended in a lockup... I turned off "Use Unlimited Memory" in the advanced graphics settings and I haven't had a lockup since.
+
+
+
+
+Thanks for the tip man! But the only time I get the lockup is during my own turn while I'm browsing and looking around on the campaign map myself, never during the AI's turn. I've tried both ticking and unticking the "Use unlimited memory" option before and the same problem appears in both cases I'm afraid :/ Seems to be one of those problems that are hard to pinpoint.
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 26 Jul 2014, 10:44]
+Alpha22 wrote:
+Hi @shadowduk , I'm a new member here though I've been using xdelta patches for months .
+
+My game is Hannibal at the gates reloaded and I had no problem to update up to update 14 beta ( my game worked fine with xdelta update 13.1 ) But when I tried to update it to 14 beta ( 47 MB ) an error occurred on my windows 7 , which came from not finding MSVCR100.dll but when I downloaded the file from internet and copied in both system 32 and Rome 2 folders another error occurred when I started to update like usual :
+
+
+the application or dll is not a valid windows image please check this against your installation
+
+I downloaded at least 7 MSVCR110.dll from different sites but none worked and the error above occurred for 15 straight times ( as xdelta patches have 15 sessions ) , thought the problem was the windows , so I installed Windows XP but the same thing happened there which took around 4 hours but ended in nothing .
+
+Sorry for the long story .
+
+Any help , suggestion ?
+
+( I need to add that , my windows 7 was service pack 1 , ultimate + it has no access to the internet for updates etc ) .
+
+
+Sounds like you need to install the Microsoft Visual C++ Redistributables. I am no expert but you may need to find x64 bit versions of Microsoft Visual C++ Redistributables if you are on Windows x64.
+
+Take care when you "download at least 7 MSVCR110.dll from different sites" as you put yourself at risk of infection. If you look you will find this error is very common and has an easy solution.
+
+-- Edit --
+
+
+ApeX86 wrote:
+Thanks for the tip man! But the only time I get the lockup is during my own turn while I'm browsing and looking around on the campaign map myself,.
+
+
+
+Ahh yeah I didn't understand your issue.
+
+I must say that (maybe I am lucky) this game is very very stable in my experience.
+
+Maybe look at your directx drivers, make sure you have all the packages you need that the game depends on (Microsoft Visual C++), and make sure you have the latest drivers for your video card.
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 26 Jul 2014, 11:00]
+gringosan wrote:
+Maybe look at your directx drivers, make sure you have all the packages you need that the game depends on (Microsoft Visual C++), and make sure you have the latest drivers for your video card.
+
+
+Tried that too, I have all the C++ distributable packages and the newest drivers for my GFX.
+Well guess I will be on the lookout for any future solutions from people of CA on the official forums (very doubtable though). But thanks anyways man! 
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 26 Jul 2014, 12:29]
+Shadowduke patch fix worked a treat, thanks, much appreciation.
+
+Apex86
+Remove all mods.
+Try using a lower shader model to start, big frame hit for small graphical improvement.
+Go to your advanced graphics settings, turn off all the effects, set trees grass shadows water and sky to low, set a lower shader model, start with 3, use catalyst control or ati tray tools to set AA and AF turn them off in game always set mine with ati tray tools much better performance than when i let any game control it, just use triple buffering in game graphics menu.
+
+Should now run smooth as silk, if so, start turning the graphics back up, incremental, a bit at a time and check to see.
+Process of elimination, you should be able to work through it slowly and find where you are getting the biggest hit graphically, although you should get pretty good performance with that system.
+
+Grab the latest Ati beta`s made a small positive difference for me.
+
+I use an old gpu ati5670 and the effects make the biggest difference to me
+
+Check your background tasks, use a site like blackvipers to turn off unused services.
+
+Just a few thoughts, hope this helps.
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 26 Jul 2014, 15:51]
+gringosan wrote:
+Alpha22 wrote:
+Hi @shadowduk , I'm a new member here though I've been using xdelta patches for months .
+
+My game is Hannibal at the gates reloaded and I had no problem to update up to update 14 beta ( my game worked fine with xdelta update 13.1 ) But when I tried to update it to 14 beta ( 47 MB ) an error occurred on my windows 7 , which came from not finding MSVCR100.dll but when I downloaded the file from internet and copied in both system 32 and Rome 2 folders another error occurred when I started to update like usual :
+
+
+the application or dll is not a valid windows image please check this against your installation
+
+I downloaded at least 7 MSVCR110.dll from different sites but none worked and the error above occurred for 15 straight times ( as xdelta patches have 15 sessions ) , thought the problem was the windows , so I installed Windows XP but the same thing happened there which took around 4 hours but ended in nothing .
+
+Sorry for the long story .
+
+Any help , suggestion ?
+
+( I need to add that , my windows 7 was service pack 1 , ultimate + it has no access to the internet for updates etc ) .
+
+
+Sounds like you need to install the Microsoft Visual C++ Redistributables. I am no expert but you may need to find x64 bit versions of Microsoft Visual C++ Redistributables if you are on Windows x64.
+
+Take care when you "download at least 7 MSVCR110.dll from different sites" as you put yourself at risk of infection. If you look you will find this error is very common and has an easy solution.
+
+-- Edit --
+
+
+
+
+I downloaded them too but didn't work . neither 2010 nor 2008 .
+
+I have another windows 7 , I'll try to install that . I hope that works

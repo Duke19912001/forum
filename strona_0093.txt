@@ -1,0 +1,177 @@
+=========================================
+STRONA 93 (URL: https://cs.rin.ru/forum/viewtopic.php?f=10&t=61441&hilit=rome+2&start=1380)
+=========================================
+
+[Data: Saturday, 02 Aug 2014, 01:09]
+Thats right coplan.
+
+@Ajiryda
+
+You only need it when you own Gaul and HATG DLC, but i think the majority of people have them, so you need it if you want to be up2date.
+
+And the "install-order" as long with the links are in the OP. The link you asked about is not leading to the Assemly Kit, as you see on top page theres the 13_1 Gaul and HATG Update. Its just you think that its leading to the Assemly Kit cos its right below with big green letters. 
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 02 Aug 2014, 06:02]
+besides gaul and hatg, did other dlc files update to v1.14?
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 02 Aug 2014, 07:08]
+So, Mr ShadowDuke
+1. Total.War.ROME.II.Update.13_1_Gaul_and_HATG_Update.rar [7.2 MiB]
+2. Total.War.ROME.II.Update.14_Gaul_and_HATG_Update.rar
+
+Don't I need Total.War.ROME.II.Patch.14.Language.Updates too?
+Sorry I ask u a lot, cause I m noob 
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 02 Aug 2014, 14:53]
+Thanks a bunch, ShadowDuke! 
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 02 Aug 2014, 15:48]
+50cal wrote:
+besides gaul and hatg, did other dlc files update to v1.14?
+
+
+the other dlc files updates with game patch so they dont need a seperate patch.
+
+-- Edit --
+
+
+Ajiryda wrote:
+So, Mr ShadowDuke
+1. Total.War.ROME.II.Update.13_1_Gaul_and_HATG_Update.rar [7.2 MiB]
+2. Total.War.ROME.II.Update.14_Gaul_and_HATG_Update.rar
+
+Don't I need Total.War.ROME.II.Patch.14.Language.Updates too?
+Sorry I ask u a lot, cause I m noob 
+
+
+
+Shadowdukes patches are in german language,if you want to play the game with other language download the spesific language files.
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 02 Aug 2014, 19:11]
+ShadowDuke wrote:
+Give me the link to the mod at pm and i will download and upload it for you. Or try http://gaddons.org/workshop
+
+Loads, but does not work with non-steam version 
+Maybe there is some kind of converter?
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 03 Aug 2014, 01:47]
+Hey guys, i have problem with twitchsdk_32_relaese.dll. I found this dll on internet but it doesnt work. How can fix?
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 03 Aug 2014, 08:06]
+Total War: Rome 2 (SEGA) (RUS/ENG) [Steam-Rip] - DWORD
+
+v 1.14.0.0 build 12540.560829 (from 3.08.2014)
+
+Included DLC:
+
+Hannibal at the Gates
+Baktria Faction
+Beasts of War
+Blood & Gore
+Caesar in Gaul
+Greek States Culture Pack
+Nomadic Tribes Culture Pack
+Pirates & Raiders
+
+Torrent release by DWORD (free registration on tracker is needed for downloading): http://rustorka.com/forum/viewtopic.php?t=169806
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 03 Aug 2014, 13:54]
+Hello,
+
+When I try to start a Great Campaign with factions from Pirates and Raiders DLC, it shows a text saying "[DO NOT LOCALISE]" on Culture, and it doesn't show the Factions text or advantages/disadvantages. I have v1.14.0 (Build 12540.560829*) and all the spanish translations that i've found (Vanilla spanish language, spanish language update for path 14, last UPC from here and encyclopedia-es-v1.13.1-11724.548874 from ShadowDuke).
+Could someone upload the latest spanish encyclopedia or wherever it's needed?
+
+Thanks in advance
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 03 Aug 2014, 14:29]
+@all
+
+
+ Spoiler
+
+
+there is something wrong with my update, what happen??
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 03 Aug 2014, 15:44]
+chernysh wrote:
+ShadowDuke wrote:
+Give me the link to the mod at pm and i will download and upload it for you. Or try http://gaddons.org/workshop
+
+Loads, but does not work with non-steam version 
+Maybe there is some kind of converter?
+
+
+There is a solution for steam mods. Just follow these steps:
+
+1. First you must have some sort of downloader for steam workshop(Gadon,or whatever).
+2. Download wanted mod from steam workshop and name it ->name of the mod(whatever you want)<-.pack.File must have .pack extension.
+3. Open mod with hexa editor and you'll find bytes PFH4. Delete all first bytes untill PFH4. It is important to make sure PFH4 is the very start of your new moded file.
+4. Save it and put it to your RTW2 data folder.
+5. Use user.script to activate the mod and play it.
+
+Cheers. 
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 03 Aug 2014, 15:44]
+
+_________________
+01000111 01101000 01101111 01110011 01110100 00100000 01110111 01101000 01100101 01110010 01100101 00100000 01100001 01110010 01100101 00100000 01111001 01101111 01110101 00111111 00100000 01000100 01100101 01101100 01100101 01110100 01100101 00100000 01110100 01101000 01101001 01110011 00100000 01110000 01101111 01110011 01110100 00101100 00100000 01101001 01100110 00100000 01111001 01101111 01110101 00100000 01100100 01100001 01110010 01100101 00101110
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 03 Aug 2014, 17:56]
+Igec35, thank you  
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 03 Aug 2014, 20:45]
+Is there any link to download the game with all dlc's and the update 14 so you download and just play without having to update anything else?
+
+I have seen some torrents but i am not sure if they work.
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 03 Aug 2014, 23:18]
+arni23456 wrote:
+@all
+
+
+ Spoiler
+
+
+there is something wrong with my update, what happen??
+
+
+Theres nothing wrong, its only 1 file, its a cosmetic error i forgot to change 15 to 1!
+
+@kooltek
+You answered your own question..
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 04 Aug 2014, 03:04]
+before update 14, my data_rome2.pack is 900+mb
+after update 14, data_rome2.pack is only 400mb.
+
+is that fine? or something went wrong? thanks!

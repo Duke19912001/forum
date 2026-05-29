@@ -1,0 +1,194 @@
+=========================================
+STRONA 91 (URL: https://cs.rin.ru/forum/viewtopic.php?f=10&t=61441&hilit=rome+2&start=1350)
+=========================================
+
+[Data: Thursday, 31 Jul 2014, 23:11]
+So vanillia game works fine, as soon as i try to launch with mod manager with mod selected it crash during loading screen.. Anyone else had this?
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 31 Jul 2014, 23:37]
+Yes, either the mod is not working with the patch or/and you need to clear and have a look at C:\Users\###\AppData\Roaming\The Creative Assembly\Rome2\scripts\user.script.txt
+
+I had the same problem, but last time i played the game (with mod) is weeks ago and im not 100% sure how excatly i got the mod working again.
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 01 Aug 2014, 00:15]
+Yes i had problems with userscripts before, hmm will try to reinstall patches. Thanks for the reply
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 01 Aug 2014, 03:47]
+I see that patch 14 has now gone live.
+
+The game files are the same as patch 14 beta except for rome2.dll. Is that an important difference?
+Can I use the 14 beta crack (rome2.dll) without any problems?
+
+Cheers
+
+
+I must say the game is much better with patch 14. My HatG campaign has been really interesting with some great battles vs. the AI
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 01 Aug 2014, 04:37]
+Rome2.dll wasnt updated, no file was updated, so the old Crack will still work.
+
+Im starting to upload other language files now, like promised. Starting with the most popular ones. (And we'll see if other minor languages are also needed)
+
+
+Total War ROME II Patch 14 Language Updates (31.07.2014)
+
+i N S T A L L  N O T E S
+ 
+You need initial language files regarding your language (example for eng: local_en.pack & music_en.pack)
+
+1) Extract all files to your Rome 2 <root> install dir
+2) Play
+ 
+
+English Language Update:
+
+http://www61.zippyshare.com/v/44770674/file.html (Mirror: http://www65.zippyshare.com/v/11671431/file.html) [beta=final]
+or
+https://www.firedrive.com/file/6CFA53FFD45BD067
+
+Spanish Language Update:
+
+https://www.firedrive.com/file/460F64FFF0B76A8E
+
+French Language Update:
+
+https://www.firedrive.com/file/39FFD40D39192744
+
+Polish Language Update:
+
+https://www.firedrive.com/file/86E2905421CBFD49
+
+Italian Language Update:
+
+https://www.firedrive.com/file/22CFD96B95945962
+
+Czech Language Update:
+
+https://www.firedrive.com/file/A2AF77D8D6E1C027
+
+Turkish Language Update:
+
+https://www.firedrive.com/file/0B80513BE13F33E1
+
+Russian Language Update:
+
+https://www.firedrive.com/file/93BC59E56AA009BD
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 01 Aug 2014, 08:38]
+ShadowDuke wrote:
+Rome2.dll wasnt updated, no file was updated, so the old Crack will still work.
+
+Im starting to upload other language files now, like promised. Starting with the most popular ones. (And we'll see if other minor languages are also needed)
+
+
+Total War ROME II Patch 14 Language Updates (31.07.2014)
+
+i N S T A L L  N O T E S
+ 
+You need initial language files regarding your language (example for eng: local_en.pack & music_en.pack)
+
+1) Extract all files to your Rome 2 <root> install dir
+2) Play
+ 
+
+
+
+thank you very much. ShadowDuke !! I am happy today!!
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 01 Aug 2014, 09:12]
+nice thx- waiting for cz patck
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 01 Aug 2014, 09:12]
+
+_________________
+mostly inactive until at least half of july 2025
+
+If any of my uploads are outdated or no longer online , the best way to do is to send me a PM and i will add the title to the next batch
+UPLOADS PAUSED (have all requests in queue for when i am back to being more active)
+
+List of recent games with modern DRMs:(updated 01-Mar-2023) - http://cs.rin.ru/forum/viewtopic.php?f=10&t=68151
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 01 Aug 2014, 11:04]
+Total.War.Rome.II.v1.14.0.Incl.DLC.Cracked-3DM
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 01 Aug 2014, 16:22]
+prudislav wrote:
+nice thx- waiting for cz patck
+
+
+added
+
+UPC is here: http://bit.ly/1ljrZ68
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 01 Aug 2014, 16:24]
+First: many thx for speed release of Patch 14 Beta 
+
+Second: Problem - if i install the "Patch 14 Beta Fix" it´s finished after Step 1/15 without any error_message - the "Patch 14 Beta" has been installed with 15/15 Steps - is the "Patch 14 Beta Fix" installation with only 1/15 steps ok?
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 01 Aug 2014, 16:27]
+No 2, for Gaul and HATG (if you dont own them you dont need it! If you own them and theres an error, your made something wrong, e.g. have wrong Version), read at upload what you need etc! (The 15 is an error, nvm its just cosmetic). And Patch 14 beta=final.
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 01 Aug 2014, 16:29]
+so no Turkish language update 
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 01 Aug 2014, 16:30]
+Yuzutu wrote:
+so no Turkish language update 
+
+
+Check again in 30 minutes 
+
+€: added
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 01 Aug 2014, 16:43]
+ShadowDuke wrote:
+No 2, for Gaul and HATG (if you dont own them you dont need it! If you own them and theres an error, your made something wrong, e.g. have wrong Version), read at upload what you need etc! (The 15 is an error, nvm its just cosmetic). And Patch 14 beta=final.
+
+thx for answer 
+so what if i wanna play Gaul or Hannibal?
+and should i reinstall "Patch 14 Beta"? or can i leave it with incomplete "Patch 14 Beta Fix" installation?
+
+what do you mean with "...The 15 is an error, nvm its just cosmetic..."
+
+the game works but i want it the way it should be!
+
+thx for efforts!
+
+i installed it from patch 13.1 hotfix . festival + season (the shown version ingame is the same your patch 13.1 hotfix release is ... hmmm i try complete reinstall
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 01 Aug 2014, 16:47]
+Thank you for all the updates ShadowDuke! I've updated all the steps. Everything went without errors. I have a request.
+Please download the updated files for the russian version local_ru.pack, music_ru.pack and others.
+Thank you in advance.
+
+I apologize for my english;) Used Google translator.

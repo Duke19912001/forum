@@ -1,0 +1,301 @@
+=========================================
+STRONA 7 (URL: https://cs.rin.ru/forum/viewtopic.php?f=10&t=61441&hilit=rome+2&start=90)
+=========================================
+
+[Data: Tuesday, 03 Sep 2013, 08:22]
+oronzo91 wrote:
+Is it multi-lang or have only 1 lang (lang_eng.pack o similar) ?
+
+MULTI 8
+
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 03 Sep 2013, 08:24]
+Total War: ROME II [FULL + DLC|ENGLISH|18.5GB]
+Size: 18.4GB
+
+Download:
+
+Uploaded.to:
+
+
+ Spoiler
+http://ul.to/hi6csr3b
+http://ul.to/2glpzut2
+http://ul.to/zlqffint
+http://ul.to/1e8088v3
+http://ul.to/t8m98vzj
+http://ul.to/59bp5ram
+http://ul.to/2wxarskx
+http://ul.to/nylk9llv
+http://ul.to/9td5xyc2
+http://ul.to/klabmjio
+http://ul.to/nygmlkum
+http://ul.to/5v7dnad0
+http://ul.to/6qmcxtva
+http://ul.to/6zq2wkf0
+http://ul.to/6herg5y0
+http://ul.to/py2vgfc0
+http://ul.to/2v6gsdb1
+http://ul.to/rmkep8s0
+http://ul.to/u5wecwjp
+
+
+Billionuploads:
+
+
+ Spoiler
+Uploading
+
+
+Putlocker:
+
+
+ Spoiler
+http://www.putlocker.com/file/9FB8871CBEC8F68B
+...
+
+
+Password:
+
+
+ Spoiler
+awesome
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 03 Sep 2013, 08:24]
+
+_________________
+
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 03 Sep 2013, 08:26]
+I am AWESOME wrote:
+Total War: ROME II [FULL + DLC|ENGLISH|18.5GB]
+Size: 18.4GB
+
+If you try to use normal compression with WinRar, or FreeArc this game will be around 10GB or less.
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 03 Sep 2013, 08:26]
+
+_________________
+From Mexico with love ^^
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 03 Sep 2013, 08:26]
+Cracked or not yet ?
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 03 Sep 2013, 08:27]
+hattisit_ wrote:
+oronzo91 wrote:
+Is it multi-lang or have only 1 lang (lang_eng.pack o similar) ?
+
+MULTI 8
+
+
+the game is like CoD, only one language at a time.
+Awesome confirm this
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 03 Sep 2013, 08:28]
+May be you are right with renaming files to ES/IT..etc for other language.
+
+Will check it and let you know.
+
+local_en.pack
+local_en_rome2.pack
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 03 Sep 2013, 08:28]
+
+_________________
+
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 03 Sep 2013, 08:28]
+Quote:
+the game is like CoD, only one language at a time.
+Awesome confirm this
+
+ok, then me must waiting for Language Packs 
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 03 Sep 2013, 08:28]
+
+_________________
+
+. . .. . .
+
+ The current best Free File Hosters!
+
+1. http://mega.co.nz/
+
+
+2. http://openload.co/
+
+
+3. http://uptobox.com/
+
+
+4. http://zippyshare.com/
+
+
+ My PC Details
+- MSI Z87-G45 Gaming Motherboard
+- 16 GB RAM (2x 8192MB) Crucial Ballistix Sport
+- Intel® Core™ i7-4770K @ 4.3GHz
+- MSI Geforce GTX 980 Twin Frozr V Gaming 4G @ 1470MHz
+- Windows 10 Pro x64  (better than Win7, no joke!)
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 03 Sep 2013, 08:33]
+I am AWESOME wrote:
+May be you are right with renaming files to ES/IT..etc for other language.
+
+Will check it and let you know.
+
+local_en.pack
+local_en_rome2.pack
+
+
+renaimg doesnt work, like with all ones before. We just need the local_es etc. files for each lang, than force it and it will be ok.
+
+Hopefully you will provide that language files, too.
+
+So, kevinyang225 - are your files eng only, too? O winder if there are other languages added, bout doubt it.
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 03 Sep 2013, 08:34]
+Dorenzl wrote:
+Cracked or not yet ?
+
+
+Not cracked yet. 
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 03 Sep 2013, 08:37]
+I am AWESOME wrote:
+May be you are right with renaming files to ES/IT..etc for other language.
+
+Will check it and let you know.
+
+local_en.pack
+local_en_rome2.pack
+
+change language in game option in Steam and game will download language file.
+The language files are 3:
+local_en.pack
+local_en_rome2.pack
+data.pack
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 03 Sep 2013, 08:37]
+thanks kevin
+nice packing 10 GB (extracted 18.5 GB)^^
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 03 Sep 2013, 08:38]
+data.pa(c)k in main dir? Is not needed for lang, afaik.
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 03 Sep 2013, 08:40]
+ShadowDuke wrote:
+data.pa(c)k in main dir? Is not needed for lang, afaik.
+
+yes it need, without this file, the game in semi-lang. I talk for experience with Shogun 2 -> 1/2 Eng and 1/2 My Lang
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 03 Sep 2013, 08:45]
+around 1GB each lang pack, spanish here 
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 03 Sep 2013, 08:45]
+
+_________________
+From Mexico with love ^^
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 03 Sep 2013, 09:16]
+Total War Rome II LANGUAGE PACKS
+
+GERMAN
+http://www.putlocker.com/file/D072086D971E7AB3
+http://www.putlocker.com/file/AD4AC5A2C3CF8880
+
+ITALIAN
+http://www.putlocker.com/file/8ED30F1954A34259
+http://www.putlocker.com/file/8D4808664F7D2AD5
+
+SPANISH
+http://www.putlocker.com/file/9F464A1EC3F246F9
+http://www.putlocker.com/file/2CB7801991A7531D
+
+FRENCH
+http://www.putlocker.com/file/9EA749685800B920
+http://www.putlocker.com/file/D0DDA6006BCFE0CB
+
+RUSSIAN
+http://www.putlocker.com/file/EE043C3C32A8CB1E
+http://www.putlocker.com/file/B0AEF571BD8DAD9D
+
+CZECH
+http://www.putlocker.com/file/6151B5DADCC4ABDA
+http://www.putlocker.com/file/0A733A1FF4599593
+
+POLISH
+http://www.putlocker.com/file/78EB4C9A7A92DB92
+http://www.putlocker.com/file/E8C9821F6EE74956
+
+TURKISH
+http://www.putlocker.com/file/7072A9999C962080
+http://www.putlocker.com/file/4B05529A22FFE6BB
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 03 Sep 2013, 09:16]
+
+_________________
+
+. . .. . .
+
+ The current best Free File Hosters!
+
+1. http://mega.co.nz/
+
+
+2. http://openload.co/
+
+
+3. http://uptobox.com/
+
+
+4. http://zippyshare.com/
+
+
+ My PC Details
+- MSI Z87-G45 Gaming Motherboard
+- 16 GB RAM (2x 8192MB) Crucial Ballistix Sport
+- Intel® Core™ i7-4770K @ 4.3GHz
+- MSI Geforce GTX 980 Twin Frozr V Gaming 4G @ 1470MHz
+- Windows 10 Pro x64  (better than Win7, no joke!)

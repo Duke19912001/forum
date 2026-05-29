@@ -1,0 +1,184 @@
+=========================================
+STRONA 52 (URL: https://cs.rin.ru/forum/viewtopic.php?f=10&t=61441&hilit=rome+2&start=765)
+=========================================
+
+[Data: Sunday, 02 Mar 2014, 23:55]
+jacks88d wrote:
+Hi, I have a problem. I'm playing local co-op and everytime I use the "re-host" option the faction for both players are changed to Rome factions. I searched google for the problem and on the creative forums a user was complaining about the same thing. He was using an online steam account and his girlfriend was using the same account but offline so they could play together, and described my problem. Later an admin replied "Steam is seeing both computers as using the same Steam id" but I'm not using steam just the crack and different user ids set in the steam_api.ini does anyone know how to fix it?
+
+Hi,
+I've not tried it, but if your wanting to play on your local lan without steam (and no internet) you could try:
+Smart Steam Emu and a non cracked steam_api.dll for the version of the game your using.
+Smart Steam Emu can spoof different steam id's via a few different methods.
+Smart Steam Emu: viewtopic.php?f=29&t=62935
+Worth a shot.
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 05 Mar 2014, 17:19]
+so, latest dlc still not cracked ? 
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 07 Mar 2014, 13:21]
+Please, crack the latest patch.
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 09 Mar 2014, 22:26]
+Can anyone upload DeI or MagnarMod that is compatible with the cracked patch 9?I've searched the whole internet but could not find a version that is that old.
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 12 Mar 2014, 04:39]
+fearless3 wrote:
+Please, crack the latest patch.
+
+
+Sigh, again.....! 9.1 is no full beta patch! So there wont be any cracked Update from RLD. Next cracked Update is Beta10! And thats still TBA!
+
+Edit:
+Patch 10 beta is out. So you can finally expect a new cracked update soon!
+
+Changelog:
+
+
+ Spoiler
+Please note this patch is currently in BETA as of 10/03/2014. Build number is 10069.512334.
+
+Performance improvements
+
+General performance improvements:
+
+Additional Support for AMD Crossfire multi-GPU configs.
+Further improvements to GPU performance and reduction in CPU-bottlenecks for all configs.
+Improved core Battle performance scenarios.
+Resolved CPU core-affinity threading issue.
+Implemented borderless window when running at desktop resolution in Windowed mode.
+There is no longer an upper limit on the graphics settings that a user can select in the frontend. Previously if the game determined that a user’s machine was low-end then it would not allow them to select high graphics settings. This limitation is now gone. Note that selecting high graphics settings on low-end machines will negatively affect performance.
+Improved consistency of reflections on shiny textures.
+‘Unlimited Video Memory’ option improvements:
+
+Unlimited Video Memory is now selectable for all integrated GPUs running on 64-bit operating systems from Windows Vista onward. Integrated GPUs use system memory as video memory at all times, as they have no dedicated video memory of their own. This code change now allows our integrated GPU customers to use all of their system memory as video memory. When Unlimited Video Memory is enabled, discrete GPUs use system memory as an extension of their dedicated GPU video memory, when their dedicated video memory is not enough to run at their chosen graphics quality settings. Please be advised that in both cases, using system memory as GPU video memory can impact performance as it is generally not as fast as dedicated GPU video memory. Also, if system memory runs low (or out), the user’s hard drive will be paged, resulting in reduced framerates.
+For users running on an integrated GPU in 64-bit Windows (Vista onwards), with Unlimited Video Memory available but not selected, we have increased the amount of video memory that the game sees from 800MB to 1024MB.
+Fixed an issue causing Unlimited Video Memory to be unavailable for users with certain discrete video cards.
+Fixed an issue that was causing Unlimited Video Memory to become disabled on some multi-GPU configurations.
+Battle performance improvements:
+
+Eliminated battle pathfinding performance spike which caused battles to stutter.
+Addressed a crash in siege battles which occurred on some maps after breaching walls with artillery.
+Addressed a crash in Egyptian Large City battle caused by the map data.
+Addressed a crash caused by squads within the same unit attempting to use different formations.
+Fixed a UI lock-up when opening the steam overlay during the introduction sequence at the start of an ambush battle (while defending).
+
+Gameplay Improvements
+
+Battle AI improvements:
+
+Fixed an issue which could cause the attacking siege AI to stall when attempting to breach the walls with artillery.
+Improved coordination of AI defenders in city, port and town battles when they are outside the settlement. This improves the behaviour of disembarked naval units and reinforcement armies.
+Addressed an issue which caused disembarked naval AI defenders in siege battles to become inactive.
+Improved the battle AI's ability to predict the outcome of combat actions, allowing it to better commit its troops in combat.
+Battle AI in field battles is now encouraged to outflank earlier when necessary.
+
+General battle improvements:
+
+Improved ladder docking in Rome city map.
+Addressed collision gaps in fort walls caused by auxiliary buildings, which sometimes allowed units to pass through walls.
+Prevented siege ladders/towers being pushed into the wall of a settlement on the battlefield.
+Settlement gates no longer close on friendly units during battles.
+Smoothed uneven terrain under a dockable wall in Egyptian port battle map.
+Fixed wall in large Barbarian city map.
+Fixed floating buildings in some Roman City and Barbarian battle maps.
+General Campaign improvements:
+
+Improvements made to the campaign auto-resolver's modelling of melee-based infantry, which corrects a wide range of auto-resolver imbalances.
+In campaign mode, garrisoned Hastati will now upgrade correctly after researching the 'Cohort Organization' technology, which converts Hastati to Legionaries.
+Slave army leaders will no longer always look Hellenic in Campaign mode.
+Unit cards no longer appear outside of the merge window UI while merging units in campaign modes.
+Settlement labels in Campaign modes now consistently display the diplomatic relationship status that is currently held with the owning faction. Red = War, Blue = Allied With, Grey = neutral.
+Improvements made to the accuracy of the unit tooltip threat indicator in the battle UI.
+Cinematic Mode shortcut key now works consistently in different languages.
+Usability Improvements
+
+Addressed a number of minor audio issues.
+Battlefield death animations no longer with the victim in a kneeling pose.
+Category icon no longer incorrectly appears on elephant units once the unit is out of control.
+
+
+Edit2:
+
+Can some1 provide the updated gaul.pack?
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 13 Mar 2014, 18:40]
+
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 13 Mar 2014, 22:46]
+I hope they make a good dlc campaign
+could some one provide an updated gaul.pack
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 14 Mar 2014, 05:09]
+Removed CEG from Rome2.dll Patch#10.
+
+<removed due not working> See below for working Crack.
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 14 Mar 2014, 05:31]
+ShadowDuke wrote:
+Removed CEG from Rome2.dll Patch#10.
+
+i tried it on my legit game to see if it would work, and nothing..
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 14 Mar 2014, 05:35]
+See here viewtopic.php?p=897225#p897225
+
+Also if you start your original game with removed ceg from rome2.dll its gonna download just the vanilla ceg activated rome2.dll again.
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 14 Mar 2014, 05:54]
+ShadowDuke wrote:
+See here viewtopic.php?p=897225#p897225
+
+Also if you start your original game with removed ceg from rome2.dll its gonna download just the vanilla ceg activated rome2.dll again.
+
+yes it will download the new CEG .dll again if i use the org steam_api.dll.. but i even tried using a launcher to inject the .dll(like his Darkness II v1.1 crack) with an ALI213 emu, and it still does nothing!.. and i have yet to get any CEG game of mine to work either(with or without LumaEmu)..
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 14 Mar 2014, 12:17]
+Heres Crack for Patch#10. Now all you need is Patch#10 files 
+
+http://www51.zippyshare.com/v/50584392/file.html
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 14 Mar 2014, 12:48]
+ShadowDuke wrote:
+Heres Crack for Patch#10. In my case i needed to disable RTSS (Rivatuner Statistics Server*) to be able to start the game. Now all you need is Patch#10 files 
+
+just tried it with patch 10 installed and it doesnt work.. it will probably only work on your system like if i where to make one.
+btw the LumaEmu_CEG.log says..
+LumaCEG Started, Patching...
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 14 Mar 2014, 13:02]
+Meh  Thats all? No steamclient.log? I also took the "Windows 8.1 Notifications" steamclient.dll from lumaemu. nvm, tried the other steamclient.dll and also working, here at least...
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 14 Mar 2014, 13:03]
+ShadowDuke wrote:
+Meh  Thats all? No steamclient.log? I also took the "Windows 8.1 Notifications" steamclient.dll from lumaemu.
+
+nope, not even the LumaEmu steamclient log created.. i even tested the "normal" steamclient.dll

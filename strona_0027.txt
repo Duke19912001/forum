@@ -1,0 +1,152 @@
+=========================================
+STRONA 27 (URL: https://cs.rin.ru/forum/viewtopic.php?f=10&t=61441&hilit=rome+2&start=390)
+=========================================
+
+[Data: Monday, 09 Sep 2013, 01:51]
+Please, spanish updated files.
+
+Thank you.
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 09 Sep 2013, 02:19]
+RezMar wrote:
+Does SteamFix really work?
+For me SinglePlayer works perfect but MP i got VAC error in the middle of playthrough.
+Is this because of SteamFix or something else.
+
+I tried reloaded crack or some other LAN-FIX versions. And most of them works perfect (only LAN via Tunngle). But we can't load the game. 
+Any solutions for anything (save/load or VAC error)?
+
+
+No matter if RLD or RVT, saving and loading is always working fine - just getting the VAC Auth error. Trying both cracks for host/client later.
+
+And btw. the "lan-fix-v2" around is v1 crack vom rld, compare rome2.dll - build nr. is also from v.1 and not from Update1! So Update1 is not "activated" - you can see that best when you finish the round and ai is moving. With Update1 its now much faster until the ai is done with their moves!
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 09 Sep 2013, 03:43]
+Total War Rome II Multi Languages For Update 1
+
+
+Code: Select all | Line number On/Off | Expand/Contract
+http://pan.baidu.com/share/link?shareid ... 3090215182
+
+
+(EN/FR/DE/IT/ES/RU/PL/CZ/TR)
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 09 Sep 2013, 04:06]
+kevinyang225 wrote:
+Total War Rome II Multi Languages For Update 1
+
+
+Code: Select all | Line number On/Off | Expand/Contract
+http://pan.baidu.com/share/link?shareid ... 3090215182
+
+
+(EN/FR/DE/IT/ES/RU/PL/CZ/TR)
+
+
+I did update 1 but How do I know it works? My game version does not change. I have FuLL REPACK version , Do ı have to download Reload version to update ?
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 09 Sep 2013, 04:13]
+sigh, how often we have to say game version with v1.1 is same as v1.0! Only build change! How about you look at that! You can also check exe details!
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 09 Sep 2013, 14:11]
+[quote="kevinyang225"]Total War Rome II Multi Languages For Update 1
+
+
+Code: Select all | Line number On/Off | Expand/Contract
+http://pan.baidu.com/share/link?shareid ... 3090215182
+
+
+how big is this please?
+thanks.
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 09 Sep 2013, 14:16]
+9 packs ~1GB each
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 09 Sep 2013, 14:16]
+
+_________________
+
+Visit FTS Home
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 09 Sep 2013, 14:30]
+Thank you very much.
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 09 Sep 2013, 14:30]
+DAFFYDAFFY wrote:
+kevinyang225 wrote:
+Total War Rome II Multi Languages For Update 1
+
+
+Code: Select all | Line number On/Off | Expand/Contract
+http://pan.baidu.com/share/link?shareid ... 3090215182
+
+
+how big is this please?
+thanks.
+
+
+Must be hard to click the link, then the dir and voilá, see the size...
+
+http://pan.baidu.com/share/link?shareid ... Update%201
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 09 Sep 2013, 19:22]
+Language files For Update 1 spanish
+https://mega.co.nz/#!QwAy2YoR!OK8HYXeaZ ... kf5Wqtf13A
+pass: punchao
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 09 Sep 2013, 19:22]
+
+_________________
+
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 09 Sep 2013, 21:24]
+A stealth/hotfix patch was released today that made ai actually use phalanx with hoplites and pike units.
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 09 Sep 2013, 21:59]
+Is there a way to get hotfix updates which fix red sky and possibly some other minor issues, or do we have to wait for next patch on friday (and a proper crack for it) ?
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 10 Sep 2013, 01:13]
+whoops!,i forgot pan.baidu show the size in the little box 
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 10 Sep 2013, 18:54]
+Total War Rome II Multi Languages For Update 1
+
+putlocker Please
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 10 Sep 2013, 19:18]
+thx for language pack links, needed it cause DL and installed 3dm version and applied their Total.War.Rome.II.CHS.Patch.v1.1, game is only CN
+still downloading En language, at this hour I've found others v2.0 and 3.0 patcher
+can I put the files in directory after updated the game with 1,1 and so works in English? or should I first unrar language and then apply patch?
+who tried it, maybe same way for 2 and 3

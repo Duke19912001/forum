@@ -1,0 +1,242 @@
+=========================================
+STRONA 89 (URL: https://cs.rin.ru/forum/viewtopic.php?f=10&t=61441&hilit=rome+2&start=1320)
+=========================================
+
+[Data: Sunday, 27 Jul 2014, 09:36]
+Alpha22 wrote:
+Hey .
+
+I gave up .
+
+Nothing solved that .
+
+I guess I'll have to wait for another DLC campaign like Hannibal At The Gates in order to have latest updates there .
+
+I'll be thankful if someone who has access to steam downloads this small mod for me :
+
+http://steamcommunity.com/sharedfiles/filedetails/?id=205902838
+
+Dude in the worse of cases and I know is a drag u can download this:
+http://thepiratebay.se/torrent/10390896 ... ate___Asse
+
+I uploaded it and it goes perfect with any patch from Shadowduke
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 27 Jul 2014, 09:57]
+neoiq5719 wrote:
+Alpha22 wrote:
+Hey .
+
+I gave up .
+
+Nothing solved that .
+
+I guess I'll have to wait for another DLC campaign like Hannibal At The Gates in order to have latest updates there .
+
+I'll be thankful if someone who has access to steam downloads this small mod for me :
+
+http://steamcommunity.com/sharedfiles/filedetails/?id=205902838
+
+Dude in the worse of cases and I know is a drag u can download this:
+http://thepiratebay.se/torrent/10390896 ... ate___Asse
+
+I uploaded it and it goes perfect with any patch from Shadowduke
+
+
+
+My friend , Thanks .
+
+But I have update 13.1 working and when start updating to 14 beta an error occurs for every single one of those 15 sessions .
+
+It doesn't work . I'm sure .
+
+
+I was hoping someone do me a favor and download these mods for me from steam :
+
+http://steamcommunity.com/sharedfiles/filedetails/?id=205902838
+
+they are less than 2 MB and unfortunately don't have non steam link .
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 27 Jul 2014, 10:23]
+if someone has the problem that checksum mismatch when update 1.13.1hotfix, ignore it and continue updating. then use this link and just download part1, then exract data_rome2.pack and overwrite it. after that you can update v1.14 without any problems.
+
+http://bt.3dmgame.com/down.php?date=1403318888&hash=e54e4c042b11d4eb5530edbafbdf4576d08d8a58
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 27 Jul 2014, 10:28]
+Well if u havent updated the game with shadowduke´s patches before then that means u wont be able to do it in the future since its a different version therefore u need one that works with his patches.
+
+-- Edit --
+
+
+50cal wrote:
+if someone has the problem that checksum mismatch when update 1.13.1hotfix, ignore it and continue updating. then use this link and just download part1, then exract data_rome2.pack and overwrite it. after that you can update v1.14 without any problems.
+
+http://bt.3dmgame.com/down.php?date=1403318888&hash=e54e4c042b11d4eb5530edbafbdf4576d08d8a58
+
+The 3DM version will not go with future shadowduke´s patches
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 27 Jul 2014, 11:15]
+neoiq5719 wrote:
+Well if u havent updated the game with shadowduke´s patches before then that means u wont be able to do it in the future since its a different version therefore u need one that works with his patches.
+
+-- Edit --
+
+
+50cal wrote:
+if someone has the problem that checksum mismatch when update 1.13.1hotfix, ignore it and continue updating. then use this link and just download part1, then exract data_rome2.pack and overwrite it. after that you can update v1.14 without any problems.
+
+http://bt.3dmgame.com/down.php?date=1403318888&hash=e54e4c042b11d4eb5530edbafbdf4576d08d8a58
+
+The 3DM version will not go with future shadowduke´s patches
+
+
+please read carefully, just download part1, and just only extract the mismatch file: data_rome2.pack! then you have all v1.13.1 correct files. so you can update v1.14 without any problems. unless you have all 15 files mismatch.
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 27 Jul 2014, 11:27]
+Is not about reading carefully man. ANY PART OF 3DM will not accept future updates from shadowduke. This is like bread for today and hunger for tomorrow. I have downloaded the 3DM version and tested it. Is not about selecting one file, it will not patch later on.
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 27 Jul 2014, 11:27]
+neoiq5719 wrote:
+Well if u havent updated the game with shadowduke´s patches before then that means u wont be able to do it in the future since its a different version therefore u need one that works with his patches.
+
+-- Edit --
+
+
+50cal wrote:
+if someone has the problem that checksum mismatch when update 1.13.1hotfix, ignore it and continue updating. then use this link and just download part1, then exract data_rome2.pack and overwrite it. after that you can update v1.14 without any problems.
+
+http://bt.3dmgame.com/down.php?date=1403318888&hash=e54e4c042b11d4eb5530edbafbdf4576d08d8a58
+
+The 3DM version will not go with future shadowduke´s patches
+
+They will, if the scene group released it with the correct files for its version.
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 27 Jul 2014, 11:32]
+alvaro1992 wrote:
+neoiq5719 wrote:
+Well if u havent updated the game with shadowduke´s patches before then that means u wont be able to do it in the future since its a different version therefore u need one that works with his patches.
+
+-- Edit --
+
+
+50cal wrote:
+if someone has the problem that checksum mismatch when update 1.13.1hotfix, ignore it and continue updating. then use this link and just download part1, then exract data_rome2.pack and overwrite it. after that you can update v1.14 without any problems.
+
+http://bt.3dmgame.com/down.php?date=1403318888&hash=e54e4c042b11d4eb5530edbafbdf4576d08d8a58
+
+The 3DM version will not go with future shadowduke´s patches
+
+They will, if the scene group released it with the correct files for its version.
+
+OK then sit and wait ´cos I dont know how long that will take. This guy releases it the following day.
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 27 Jul 2014, 11:38]
+neoiq5719 wrote:
+Is not about reading carefully man. ANY PART OF 3DM will not accept future updates from shadowduke. This is like bread for today and hunger for tomorrow. I have downloaded the 3DM version and tested it. Is not about selecting one file, it will not patch later on.
+
+
+then it's your own problems. because 3DM version is same as steam version, and all files are correct, so why could not patch? for me, just overwrite that error file after update v1.13.1, and then all good to go. update to v1.14 without any problems. just make sure the file's hash code is correct, no matter what version is, all can use the update patch and also support future updates.
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 27 Jul 2014, 13:14]
+50cal wrote:
+because 3DM version is same as steam version, and all files are correct, so why could not patch?
+
+
+I agree with that and in fact you can update 3DM's 13.1 version to 14 beta with ShadowDuke's xdelta patches. I did it and it works just fine. But don't be confused by "13.1 Hotfix"... 13.1 is 13.1. If you want to xdelta patch 3DM 13.1 to 14 Beta then you use ShadowDuke's xdelta patches Total.War.ROME.II.Update.14_beta.rar and Total.War.ROME.II.Update.14_beta_Fixed.rar (don't forget to include the 14b EN language files).
+
+ShadowDuke patches are built from Steam (German language version) and from what I understand he checked his steam version against RLD Hannibal at the Gates... this way we all have a common starting point.
+
+SO you use the RLD HATG release patched several times to get to the current patch 14 beta.... phewww 
+
+But what about 3DM's 13.1? Its a steam version that from what 3DM says is 13.1 final and I believe them. BUT there is a difference between 3DM 13.1 and xdelta patched RLD HATG 13.1
+
+The difference is in 4 files that are never touched by ShadowDukes xdeta patches.
+
+..\Total War ROME II\data\campaigns\main_gaul\startpos.esf
+..\Total War ROME II\data\campaigns\main_punic\startpos.esf
+..\Total War ROME II\data\gaul.pack
+..\Total War ROME II\data\punic.pack
+
+These four files in the 3DM release are newer... the 3DM startpos files show version numbers higher than RLD's... the 3DM version should be current. Maybe there are some small regional differences or something... I looked and found only slight (insignificant?) differences.
+
+However!!! Over the last few days ShadowDuke posted an SFV file for his 14 beta data directory and his files match RLD HATG version (updated to 14b) exactly (I am not sure about the startpos files).
+
+At the end of the day it is possible (probably) that the 3DM version will not be supported by ShadowDuke because these 4 files are miss match with his steam install.
+
+I have played complete CiG and HatG campanges with 3DM 13.1 and the release works, but I did notice bugs here and there. Was it the game, or 3DM's release at fault, I don't know
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 27 Jul 2014, 15:23]
+3DM files for HATG and Gaul + startpos file for both DLC should be newer, cos they updated them with 13.1? I dont own both DLC, so if Steam updates them, i cant provide the updates for the DLC. But the vanilla DLC filesa re still working tho. Also possible that HATG got a small update in Patch 14. So maybe some1 can make a xdelta patch for the difference between my HATG and Gaul files and 3DM's latest one.
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 27 Jul 2014, 18:17]
+ShadowDuke wrote:
+So maybe some1 can make a xdelta patch for the difference between my HATG and Gaul files and 3DM's latest one.
+
+
+Ok try this trial unsupported test package. Did I mention this is an unsupported test 
+
+This HATG / CIG DLC update patch is intended for Total.War.ROME.II.Hannibal.at.the.Gates-RELOADED that has been updated via ShadowDuke's xdelta patches to at least 13.1
+
+Cheers
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 27 Jul 2014, 19:05]
+For startpos file you shouldnt have done xdelta. For such small files we do the update.exe  Can you provide them just as they be?
+
+Nvm, i did the whole thing now for xdelta like you're used to  will just test it and then upload it, thanks for providing the updated files. Much appreciated.
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 27 Jul 2014, 19:07]
+ShadowDuke wrote:
+For startpos file you shouldnt have done xdelta. For such small files we do the update.exe  Can you provide them just as they be?
+
+Nvm, i did the whole thing now for xdelta like you're used to  will just test it and then upload it, thanks for providing the updated files. Much appreciated.
+
+I already have update 14 beta, do I have to apply this update and apply update 14 again?
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 27 Jul 2014, 19:36]
+No, you dont have to apply Update 14 again. I tagged it as 13_1 cos the Gaul and HATG files are from Patch 13_1. They also work with Patch 14. (Vanilla HATG and Gaul also work with latest patch, but we want an up2date release, right? )
+
+This patch patches only gaul.pack and punic.pack. So you can apply it even without Patch 14. You just need this Release viewtopic.php?p=900844#p900844 or RLD HATG Release (updated gaul and hannibal dlc files after initial release) to apply them to. OP is also updated.
+
+Total.War.ROME.II.Assembly.Kit.BETA.14 [Beta=Final]
+
+Info
+
+
+Code: Select all | Line number On/Off | Expand/Contract
+ 
+1) Extract all files to your Rome 2 <root> install dir
+2) Start with /binaries/BOB.AssemblyKit.exe & TWeak.AssemblyKit.exe
+ 
+
+
+Download: [159mb] (Zippyshare, Firedrive)
+
+Zippyshare
+Firedrive

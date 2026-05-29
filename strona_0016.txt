@@ -1,0 +1,309 @@
+=========================================
+STRONA 16 (URL: https://cs.rin.ru/forum/viewtopic.php?f=10&t=61441&hilit=rome+2&start=225)
+=========================================
+
+[Data: Tuesday, 03 Sep 2013, 21:26]
+I've got Awesome's version. Is it true that if I crack it with the Reloaded crack, then I won't be able to update when patches and fixes are released for this game? Seems like updates are going to be needed to get the best performance.
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 03 Sep 2013, 21:34]
+Marti20 wrote:
+Look at this ppl
+
+Code: Select all | Line number On/Off | Expand/Contract
+http://forums.totalwar.com/showthread.p ... e?p=646496
+
+In that file are also more graphics options
+like ON/OFF DX11 ,TESSELATION etc 
+
+
+Something odd, I can't seem to find my "Creative Assembly" folder in the location they specify at that link 
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 03 Sep 2013, 21:35]
+Ston3Cold wrote:
+Something odd, I can't seem to find my "Creative Assembly" folder in the location they specify at that link 
+
+
+Its The Creative Assembly folder 
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 03 Sep 2013, 21:43]
+MitraljezaC wrote:
+Ston3Cold wrote:
+Something odd, I can't seem to find my "Creative Assembly" folder in the location they specify at that link 
+
+
+Its The Creative Assembly folder 
+
+
+LOL, omw...thanks, obviously whoever typed that post on their site needs to rectify that 
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 03 Sep 2013, 21:55]
+a noob question from a noob player
+
+what am i supposed to do to win a game
+
+
+i have never played total war game but i though i migh learn this game it seems good game but i dont know what im doing wrong
+
+
+here is a video of my gameplay
+
+
+https://www.youtube.com/watch?v=yDi3BO1Vauo&feature=c4-overview&list=UUFzEykziawuPRUR0s81zsXQ
+
+
+any advices !!!
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 04 Sep 2013, 01:31]
+Could someone post an sfv for the game?
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 04 Sep 2013, 04:21]
+Anyone manage to get any of the LAN cracks working? I've tested all the ones posted in this thread - they all kick us off the multiplayer campaign after a couple of turns saying there was a "VAC Authentication Errorr".
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 04 Sep 2013, 06:21]
+I can't run this game.
+
+I have windows 8 64 bits, nothing happens when i run the exe doesn't even show at task manager ,my steam account is logged in.
+
+
+Had the same problem with Civ, tried both steamworks RVTfix in the reloaded installation and reloaded cracks, both didn't work.
+
+Where you guys think the problem is ? What can i do
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 04 Sep 2013, 09:13]
+vizouk wrote:
+I can't run this game.
+
+I have windows 8 64 bits, nothing happens when i run the exe doesn't even show at task manager ,my steam account is logged in.
+
+
+Had the same problem with Civ, tried both steamworks RVTfix in the reloaded installation and reloaded cracks, both didn't work.
+
+Where you guys think the problem is ? What can i do
+
+
+Same situation
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 04 Sep 2013, 12:06]
+el3issa wrote:
+a noob question from a noob player
+
+what am i supposed to do to win a game
+
+
+i have never played total war game but i though i migh learn this game it seems good game but i dont know what im doing wrong
+
+
+here is a video of my gameplay
+
+
+https://www.youtube.com/watch?v=yDi3BO1Vauo&feature=c4-overview&list=UUFzEykziawuPRUR0s81zsXQ
+
+
+any advices !!!
+
+
+1) At 9:00 when you attack the siege: Listen to the advisor, he said, put your archers up the hill. Then shot from there at only one enemy army (the nearest to your achers), then they will run up the hill to your archers...you have an advantage over them because of that. Now at a certain point they gonna retreat, in the meantime, let your melee army attack the siege weapons and move up with your archers so you attack the other enemy melee troops. Hint: lure the enemy with archers to attack you.
+2) At 13:00 you dont need to attack the siege anymore 
+3) At 14:00 put only 1 or 2 from your troops to avoid that they fall in your back when you go the right path. 1 archer 1 melee is enough. Then move with the others to the path and put ur troops in a good line of defensive.
+
+Other hints, group one of the same type army with strg+lmb to highlight them and press strg+1 (2,3,4,5,6,7,8,9,0), then you dont need to click every troops. And also while moving with right click, hold that done and move your mouse. Its very important to keep your troops in a line to the enemy so they cant flank you. So for you its the same, try to fall into enemys flanks to gain an advantage. Thats also what frorrests are foor, you see the symbol when they are hidden. And further in game, dont attack with your whole army/troops, always keep a reserve for suprises either from your or the enemy.
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 04 Sep 2013, 15:29]
+remember that against cavalry, it is always better to send units with spears and not with sword
+
+-- Edit --
+
+The SIngle-player campaign work with new multiplayer crack or crash at 1 turn
+
+-- Edit --
+
+
+Quote:
+First Total War: ROME II Update this Friday.
+
+At Creative Assembly we are very pleased with the response to ROME II, with hundreds of thousands of players enjoying the game so far; but we do know that, as with all large PC releases, the variety of hardware and general system specifications can cause issues for some people and we are urgently working to help get them the right experience.
+
+As announced last month, we are also planning to tweak the balancing, AI routines and other features now that we’re getting real-time metric feedback from thousands of players.
+
+The result is that the first update to the game will drop this Friday, with the intention to update the game on a weekly basis in the immediate future.
+
+Full patch notes will be available on Friday, but the update will address known instances of crashes due to hardware conflicts alongside several other performance fixes.
+
+In addition, anyone experiencing graphical issues including low resolution textures, should check our support forums at http://www.totalwar.com/rome2support which contain suggestions for settings which will improve visuals in almost all cases.
+
+There are also a variety of other fixes suggested in our support forum, please head there to find out more or report your own problem directly to the CA team who will assist you.
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 04 Sep 2013, 17:24]
+Here is the debug of Windows 8 64 bits, that can't run Total War Rome 2 or Civ V
+
+
+Code: Select all | Line number On/Off | Expand/Contract
+CPU Stack
+Address   Value      ASCII Comments
+00F5FAA0   7743DEB4  ´ÞCw  ; RETURN to ntdll.NtTerminateProcess+0C
+00F5FAA4  [77470927  '  Gw  ; /RETURN from ntdll.NtTerminateProcess to ntdll.RtlExitUserProcess+6D
+00F5FAA8  /FFFFFFFF  ÿÿÿÿ  ; |Arg1 = -1
+00F5FAAC  |00000000        ; \Arg2 = 0
+00F5FAB0  |7745F787  ‡÷Ew  ; ntdll.RtlDecodePointer
+00F5FAB4  |00DF39B8  ¸9ß
+00F5FAB8  |00000000
+00F5FABC  |00F5FAD0  Ðúõ
+00F5FAC0  \770539BE  ¾9w  ; /RETURN from ntdll.RtlExitUserProcess to KERNEL32.ExitProcess+13
+00F5FAC4  /00000000        ; \Arg1 = 0
+00F5FAC8  |77E8F3B0  °óèw
+00F5FACC  |FFFFFFFF  ÿÿÿÿ
+00F5FAD0  |00F5FADC  Üúõ
+00F5FAD4  \003D1589  ‰=   ; /RETURN from KERNEL32.ExitProcess to Rome2.003D1589
+00F5FAD8  /00000000        ; \ExitCode = 0
+00F5FADC  |00F5FB28  (ûõ
+00F5FAE0  \003D17B5  µ=   ; RETURN from Rome2.003D1572 to Rome2.003D17B5
+00F5FAE4  /00000000
+00F5FAE8  |B17AD550  PÕz±
+00F5FAEC  |00000000
+00F5FAF0  |00000000
+00F5FAF4  |FFAAD000   Ðªÿ
+00F5FAF8  |00DF39B8  ¸9ß
+00F5FAFC  |00DF39B4  ´9ß
+00F5FB00  |00DF39BC  ¼9ß
+00F5FB04  |00DF39B8  ¸9ß
+00F5FB08  |003D6128  (a=
+00F5FB0C  |003D6120   a=
+00F5FB10  |00F5FAE8  èúõ
+00F5FB14  |00000001  
+00F5FB18  |00F5FBB0  °ûõ   ; Pointer to next SEH record
+00F5FB1C  |003D2690  &=   ; SE handler
+00F5FB20  |B1B25728  (W²±
+00F5FB24  |FFFFFFFE  þÿÿÿ
+00F5FB28  |00F5FB3C  <ûõ
+00F5FB2C  \003D17DB  Û=   ; RETURN from Rome2.003D168A to Rome2.003D17DB
+00F5FB30  /00000000
+00F5FB34  |00000000
+00F5FB38  |00000000
+00F5FB3C  |00F5FBC0  Àûõ
+00F5FB40  \003D14A8  ¨=   ; RETURN from Rome2.003D17CA to Rome2.003D14A8
+00F5FB44  /00000000
+00F5FB48  |B17AD5B8  ¸Õz±
+00F5FB4C  |00000000
+00F5FB50  |00000000
+00F5FB54  |FFAAD000   Ðªÿ
+00F5FB58  |00000044  D
+00F5FB5C  |01011DC6  Æ
+00F5FB60  |01011DA6  ¦  ; UNICODE "WinSta0\Default"
+00F5FB64  |01011D40  @  ; UNICODE "E:\Program Files (x86)\Total War ROME II\Rome2.exe"
+00F5FB68  |00000000
+00F5FB6C  |00000000
+00F5FB70  |00000000
+00F5FB74  |00000000
+00F5FB78  |00000000
+00F5FB7C  |00000000
+00F5FB80  |00000000
+00F5FB84  |00000081  
+00F5FB88  |0000000A  
+ 
+00F5FB8C  |00000000
+00F5FB90  |198317C9  Éƒ
+00F5FB94  |FFFFF880  €øÿÿ
+00F5FB98  |19831610  ƒ
+00F5FB9C  |FFFFF880  €øÿÿ
+00F5FBA0  |00000000
+00F5FBA4  |00000000
+00F5FBA8  |00F5FB48  Hûõ
+00F5FBAC  |FFFFFA80  €úÿÿ
+00F5FBB0  |00F5FC00   üõ   ; Pointer to next SEH record
+00F5FBB4  |003D2690  &=   ; SE handler
+00F5FBB8  |B1B25748  HW²±
+00F5FBBC  |00000000
+00F5FBC0  |00F5FBCC  Ìûõ
+00F5FBC4  \7705850D  
+…w  ; RETURN to KERNEL32.BaseThreadInitThunk+0E
+00F5FBC8  /FFAAD000   Ðªÿ
+00F5FBCC  |00F5FC10  üõ
+00F5FBD0  \7746BF39  9¿Fw  ; RETURN to ntdll.7746BF39
+00F5FBD4  /FFAAD000   Ðªÿ
+00F5FBD8  |C60B4F53  SOÆ
+00F5FBDC  |00000000
+00F5FBE0  |00000000
+00F5FBE4  |FFAAD000   Ðªÿ
+00F5FBE8  |6E0DF6BF  ¿ö
+n
+00F5FBEC  |FFFFF800   øÿÿ
+00F5FBF0  |19831650  Pƒ
+00F5FBF4  |FFFFF880  €øÿÿ
+00F5FBF8  |00F5FBD8  Øûõ
+00F5FBFC  |FFFFF880  €øÿÿ
+00F5FC00  |00F5FC20   üõ   ; Pointer to next SEH record
+00F5FC04  |77415191  ‘QAw  ; SE handler
+00F5FC08  |B1BB546B  kT»±
+00F5FC0C  |00000000
+00F5FC10  |00F5FC28  (üõ
+00F5FC14  \7746BF0C  ¿Fw  ; /RETURN from ntdll.7746BF12 to ntdll.7746BF0C
+00F5FC18   003D14ED  í=   ; |Arg1 = Rome2.<ModuleEntryPoint>
+00F5FC1C   FFAAD000   Ðªÿ  ; \Arg2 = FFAAD000
+00F5FC20   FFFFFFFF  ÿÿÿÿ  ; End of SEH chain
+00F5FC24   774E1DF7  ÷Nw  ; SE handler
+00F5FC28   00000000
+00F5FC2C   00000000
+00F5FC30   003D14ED  í=   ; Rome2.<ModuleEntryPoint>
+00F5FC34   FFAAD000   Ðªÿ
+ 
+
+
+or.
+
+http://0bin.net/paste/FRVcz5u2C7o10Oxh# ... 3VfzdOxOw=
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 04 Sep 2013, 17:28]
+hattisit_ wrote:
+Total War Rome II LANGUAGE PACKS
+
+
+TURKISH
+http://www.putlocker.com/file/7072A9999C962080
+http://www.putlocker.com/file/4B05529A22FFE6BB
+
+
+
+Can you reupload please ? Thank you
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 04 Sep 2013, 17:39]
+1st patch is coming this friday
+next patches will be released week by week 
+we will se how much they gonna repair this broken game 
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 04 Sep 2013, 17:39]
+
+_________________
+
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 04 Sep 2013, 21:16]
+First they need to release beta version, because now we got alpha version.. after beta will be final product

@@ -1,0 +1,97 @@
+=========================================
+STRONA 71 (URL: https://cs.rin.ru/forum/viewtopic.php?f=10&t=61441&hilit=rome+2&start=1050)
+=========================================
+
+[Data: Friday, 30 May 2014, 16:37]
+does anyone know if there´s any difference between binkw32 and binkw64 in order to crack this stuff?
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 30 May 2014, 16:41]
+What do you mean?
+
+TWR2 only has a binkw32.dll file. And in this file theres just an injection for lumaemu_ceg.dll.
+You can also inject the binkw64.dll for any other game..if thats what you asking.
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 30 May 2014, 17:06]
+but if u have a 64 bit system shouldnt u use the binkw64 or it doesnt go that way?
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 30 May 2014, 17:27]
+neoiq5719 wrote:
+but if u have a 64 bit system shouldnt u use the binkw64 or it doesnt go that way?
+
+the game does not use x64(and there are no x64 .dlls in the game folder)
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 30 May 2014, 17:31]
+ok thx
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 30 May 2014, 18:16]
+Total War: Rome II (2) (1.13.0 build 11398.543170) (SEGA) (RUS|ENG) [L|Steam-Rip] - R.G. Gamblers
+
+ DLCs
+"Greek States Culture Pack"
+"Caesar in Gaul"
+"Baktria Faction"
+"Blood & Gore"
+"Seleucid Empire Faction Pack"
+"Nomadic Tribes Culture Pack"
+"Beasts of War"
+"Seasons & Wonders Update"
+"Hannibal at the Gates"
+"Pirates and Raiders"
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 30 May 2014, 18:30]
+pankya would it be possible for u to show the download link for the non-russian speakers? is like finding a needle in a haystack
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 30 May 2014, 19:03]
+neoiq5719, here you are - http://i63.fastpic.ru/big/2014/0530/28/ ... c2af28.png
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 30 May 2014, 19:16]
+i´m sorry but I cant get to access that page. dont know how to. do u need to register to access that page?
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 30 May 2014, 19:52]
+Could someone please post a sfv of a fully updated game?
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 30 May 2014, 20:09]
+http://thepiratebay.se/torrent/10255163
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 30 May 2014, 20:12]
+That's not a .sfv file but thanks for trying.
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 31 May 2014, 10:59]
+hi PankyA, works super thx a bunch
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 31 May 2014, 11:59]
+Would it be possible to have the latest update version of the patch 13
+
+Total War: Rome II (2) (1.13.0 build 11398.543170)
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 31 May 2014, 12:29]
+tanauser
+i´ll upload it soon at piratebay

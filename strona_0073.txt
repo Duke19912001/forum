@@ -1,0 +1,213 @@
+=========================================
+STRONA 73 (URL: https://cs.rin.ru/forum/viewtopic.php?f=10&t=61441&hilit=rome+2&start=1080)
+=========================================
+
+[Data: Wednesday, 04 Jun 2014, 19:52]
+So just found this place, Theres alot of info and Dl's scattered so heres what I got so far,
+
+Currently installed,
+
+RLD - HATG (I assume this starts me at V 11 after reading through comments, this is the Reloaded HATG copy from TPB)
+
+From reading this post I also assume my next steps are,
+
+11 Hotfix --> Update 12 Beta --> Update 12 Beta to Final --> 12 Lang file --> Place msvcr120.dll in Rome 2 Directory --> Update 13 Getae & Pydna --> 13 Lang file --> Update 13 Final Hotfix Pirates & Raiders --> 13 P&R Lang File. In that order, Can anybody confirm this is right? (Is a fresh HATG required or is my vanilla HATG okay to start from as I have played through a few campaigns already)
+
+Also could someone explain how I can insert mods, iv used a loader I found but every mod CTD, more than likely becuase I was only running vanilla HATG at the time but im not sure.
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 04 Jun 2014, 20:16]
+...thats right...and why didnt you read the prev. postings? Order is there, etc. mods also explained. And yes, if you use a newer Version of the mod it'll crash due version mismatch! Use ModManager like i said many times before. http://www.twcenter.net/forums/showthre ... d-25-04-14
+
+And what do you mean with fresh or vanilla HATG? For me its both the same. HATG only is with Patch11, so theres only 1 Version, hence its the same if fresh/new or vanilla.
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 04 Jun 2014, 20:30]
+ShadowDuke wrote:
+...thats right...and why didnt you read the prev. postings? Order is there, etc. mods also explained.
+
+
+I did read through a good bit of them but 73 pages worth of info is like finding a needle in a haystack and I never found where any Mod posted an exact order or a Tut on updating from HATG --> Update 13 P&R so I asked for confirmation on what I beleived was correct after searching through to find all the update post.
+
+As for the mod issue, the link you replied was the exact one I was using, however it crashed every mod I used running Vanilla HATG, im almost positive that the issue was due to the HATG V11 but as the DL lacked any info im not sure if it was due to me not placing the loader in the rome 2 directory or something small I missed.
+
+By fresh I mean this, I have DL'ed the V11 HATG from TPB, I have played this game without mods, Do I need to uninstall HATG and reinstall it after deleting all traces of it befor I begin patching, I only ask as many post by others start like this,
+
+Code: Select all | Line number On/Off | Expand/Contract
+ *Fresh Hannibal at the Gates installed and cracked.
+*extract and installed update 11 hotfix without any error.
+*extract and installed update 12 beta without any error.
+*extract and installed update 12 final without any error.
+*put msvcr120.dll in ROME II directory.
+*extract eng language for update 12.
+
+
+It seems like many people reinstall the game fresh befor applying updates however I have already deleted my original HATG ISO, so that would require me to ReDL another 20GB+.
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 04 Jun 2014, 20:52]
+Meeseeks wrote:
+I did read through a good bit of them but 73 pages worth of info is like finding a needle in a haystack
+
+
+Srsly, then learn to use a forum. Theres thread intern search for every thread, so you can find it faster and dont need to read 73 pages!
+
+
+Quote:
+I asked for confirmation on what I beleived was correct after searching through to find all the update post.
+
+
+I already did.
+
+Mods crash? Also explained why...when you used HATG vanilla mods wee already updated! Im using the mod manager myself and its working, so this cannot be!
+
+And last but not least, order is posted! You dont need to re-install or whatever, why should you??
+
+And again, everything you ppl need to know for updated game, mods, everything, is already explained on the last pages! So do us all a favor and read before asking questions which are already answered more than 4 times. Thank you.
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 04 Jun 2014, 21:25]
+ShadowDuke wrote:
+Meeseeks wrote:
+I did read through a good bit of them but 73 pages worth of info is like finding a needle in a haystack
+
+
+Srsly, then learn to use a forum. Theres thread intern search for every thread, so you can find it faster and dont need to read 73 pages!
+
+
+The word mod pulls up 3 pages of Q&A while only giving a detail about a "ModManger" If you read my post you'd of seen iv already tried this and had error.
+Not to mention any posting of the order comes from somebody who is having a problem installing up to 5 pages back if not more, is it wise to take info from somebody already having erros?
+You seem to have a serious issue if you can give me 3 reply's and troll the entire time, but cant just answer 3 questions yes or no and then leave in 1 post.
+I get you might think you answered my questions but honestly your answers arent very good, "...thats right..." is hardly an answer. If anything you answered my question about mod's and I appreciate that.
+
+Obviously I didnt just come here to ask how its done as I read enough to get the steps down im just asking for confirmation apparently more than a few people have had problems, but seeing as I'v figured it out on my own good luck to you and what a welcome reputation you give this place to newcommers with questions. 
+
+If your willing to help then reply with help, if all you want to do is troll then feel free to PM me bud.
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 05 Jun 2014, 10:22]
+Is there anyway to play multiplayer on latest update 13 with steamworks or something?
+
+
+
+
+and thank you all reading through all these pages I finally got rome 2 with latest updates working 
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 05 Jun 2014, 11:13]
+So... is this game still running like shit on Campaign map?
+Last time I played it was when Hannibal was released.... maybe something changed since then (pls)
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 05 Jun 2014, 11:13]
+
+_________________
+
+SCS - Help Revive / Every upload of mine in SCS contains files only for Windows, don't ask for Linux/MAC.
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 05 Jun 2014, 16:31]
+ShadowDuke > pls upload polish files for up13
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 13 Jun 2014, 15:39]
+My game, i think after installing patch 12, crashes on siege battles. "rome2.exe stopped working" shows after few minutes playing the battle. I've downgraded graphics but still the same.
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 15 Jun 2014, 12:40]
+i have the HATG version from RELOADED ( works fine ), tried to install update 11 hotfix, 15/15 DONE but i have got this at the end
+
+
+
+EDIT
+
+Problem solved.. Rome2.exe was running at background
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 15 Jun 2014, 12:40]
+
+_________________
+SPECS : Ryzen 7 3800X | RTX 3070 8G | 16Gb DDR4 | 1TB SSD
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 15 Jun 2014, 16:11]
+Can you upload the assembly kit? Please!
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 15 Jun 2014, 18:36]
+After patch 13, how do i play multiplayer? Is there a new version of steam works? Thanks
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 17 Jun 2014, 14:05]
+ShadowDuke wrote:
+...thats right...and why didnt you read the prev. postings? Order is there, etc. mods also explained. And yes, if you use a newer Version of the mod it'll crash due version mismatch! Use ModManager like i said many times before. http://www.twcenter.net/forums/showthre ... d-25-04-14
+
+And what do you mean with fresh or vanilla HATG? For me its both the same. HATG only is with Patch11, so theres only 1 Version, hence its the same if fresh/new or vanilla.
+
+
+Hi! Sorry for asking this much.. but can you give us some steam mod? like familia romana mod for rome 2, like pax romana mod. I will be happy if you did
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 17 Jun 2014, 17:12]
+patch 13.1 hotfix is up, anything major?
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 17 Jun 2014, 22:35]
+ziodaddy wrote:
+patch 13.1 hotfix is up, anything major?
+
+Technical and performance improvements
+Campaign
+
+A rare crash which occurred after declining to fight a battle as a reinforcing army while the camera was still moving on the Campaign map has been fixed.
+
+General battle improvements
+
+Cavalry can now break away from infantry less easily in all battles.
+Increased the cost of armoured elephants.
+Improved terrain heights and building positions in Pydna Historical Battle.
+Fix for raiding horsemen having wrong shield type.
+Fix for Illyrian Raiders having wrong armour type.
+Wind will now affect more particles during battles, e.g. smoke will be blown in the wind direction.
+
+General campaign improvements
+
+Added 9 new seasonal festival events across all Campaigns.
+Some Getae objectives that were not completing now are.
+Fix for Dacian Bowmen not being recruitable from upgraded buildings.
+Fix for Hellenic wine subject choice giving the wrong effects.
+Added new Balkan sword (melee weapon stats) for balancing and assigned to Thracian peltasts.
+Bonus vs. large added to Rhomphaia and Falx.
+Buffed Thracian Peltasts in melee.
+Illyrian hoplites and noble hoplites now have Hoplite Wall ability.
+Swapped ships for Illyrian Raiders, added Illyrian Raider ship to all the correct port levels.
+Fix for technology missing a link to previous technology.
+Fix for melee attack penalty in battles for Balkan group generals units.
+Added Thracian Warriors to settlement garrison units.
+Fix for units not being available from all appropriate building levels.
+Added naked warriors to Nervii unit roster.
+
+Usability Improvements
+General
+
+Updated the encyclopaedia to reflect the latest changes e.g. include all special units.
+
+-- Edit --
+
+PLs ShadowDuke do the magic u always do. we depend on u in this desperate times lol

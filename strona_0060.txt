@@ -1,0 +1,172 @@
+=========================================
+STRONA 60 (URL: https://cs.rin.ru/forum/viewtopic.php?f=10&t=61441&hilit=rome+2&start=885)
+=========================================
+
+[Data: Friday, 28 Mar 2014, 15:55]
+Can you tell me wich page the launcher crack was posted?
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 28 Mar 2014, 15:58]
+Total War Rome 2 v.1.9 (Reloaded) + update 10 and 11 (ShadowDuke)+ xdelta crack no working.
+
+Help, please
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 28 Mar 2014, 16:00]
+alvaro1992 wrote:
+Can you tell me wich page the launcher crack was posted?
+
+page 51
+here is the emu, put it in the launcher folder
+download/file.php?id=16136
+
+
+Landau wrote:
+Total War Rome 2 v.1.9 (Reloaded) + update 10 and 11 (ShadowDuke)+ xdelta crack no working.
+
+its working perfectly fine, did you read the instructions very carefully??
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 28 Mar 2014, 16:04]
+machine4578 wrote:
+alvaro1992 wrote:
+Can you tell me wich page the launcher crack was posted?
+
+page 51
+here is the emu, put it in the launcher folder
+download/file.php?id=16136
+
+Thanks.
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 28 Mar 2014, 16:12]
+machine4578 wrote:
+Landau wrote:
+Total War Rome 2 v.1.9 (Reloaded) + update 10 and 11 (ShadowDuke)+ xdelta crack no working.
+
+its working perfectly fine, did you read the instructions very carefully??
+
+
+Yes, I did everything as the manual says, but it remains frozen on the initial screen of creative assembly
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 28 Mar 2014, 17:23]
+@Landau
+
+Problem is not the updates, but your machine. Cos a lot of ppl who owns the game on Steam have the same problem. Just check the Community Hub for instance. Nothing we can do to help you, sorry. Cos the patches are working 100% fine.
+
+@alvaro1992
+
+I also already posted the TWR2 Mod Manager, thats all you need. http://www.twcenter.net/forums/showthre ... d-23-12-13 and the better choice here.
+
+@prudislav
+
+They are already upped!?
+
+@shimura
+
+There is no fonts dir. I've no idea what you're talking about. Theres a Cursors dir, which issnt updated since vanilla.
+Edit: \Total War Rome II\data\encyclopedia\bootstrap\fonts are also not updated since vanilla and only 4 files, 3 html and 1 svg. They are not language bounded. same with \Total War Rome II\data\encyclopedia\css\fronts & \Total War Rome II\data\encyclopedia\video-js\font
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 28 Mar 2014, 17:25]
+Duke I just realized U did mistake in language text file ;D thats why I didnt have proper fonts 
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 28 Mar 2014, 17:25]
+
+_________________
+师傅领进门，修行在个人
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 28 Mar 2014, 17:31]
+Does anyone know whether there's a way to enable the Hannibal DLC for an official Steam version of the game?
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 28 Mar 2014, 17:33]
+@ShadowDuke
+found only delta ones , and i dont have initital lang file anymore
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 28 Mar 2014, 17:33]
+
+_________________
+mostly inactive until at least half of july 2025
+
+If any of my uploads are outdated or no longer online , the best way to do is to send me a PM and i will add the title to the next batch
+UPLOADS PAUSED (have all requests in queue for when i am back to being more active)
+
+List of recent games with modern DRMs:(updated 01-Mar-2023) - http://cs.rin.ru/forum/viewtopic.php?f=10&t=68151
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 28 Mar 2014, 17:40]
+Vorkhan wrote:
+Does anyone know whether there's a way to enable the Hannibal DLC for an official Steam version of the game?
+
+
+Use Crack from here or use Greenluma! (Like always) + ofc punic.pack and \data\campaigns\main_punic\startpos.esf
+
+@shimura
+
+On what LANG-Pack the langauge.txt is not peroperly? Afaik they are right, i used the 2 pack files + right language.txt for each lang. So ENG-Patch in language.txt (EN), Turkish (TR), etc. all fine afaik.
+
+
+prudislav wrote:
+@ShadowDuke
+found only delta ones , and i dont have initital lang file anymore
+
+
+Thats too bad. So you deleted the whole game and now want to play again, or why are they missing now? English initital files? They are in Total.War.ROME.II.Caesar.in.Gaul-RELOADED + Total.War.ROME.II.Update.9.Incl.DLC-RELOADED. Then you can use Update10+11 provided by me.
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 28 Mar 2014, 17:40]
+Vorkhan wrote:
+Does anyone know whether there's a way to enable the Hannibal DLC for an official Steam version of the game?
+
+use GreenLuma
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 28 Mar 2014, 20:24]
+@ShadowDuke
+sorry my bad too drunk to think straight 
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 28 Mar 2014, 20:24]
+
+_________________
+mostly inactive until at least half of july 2025
+
+If any of my uploads are outdated or no longer online , the best way to do is to send me a PM and i will add the title to the next batch
+UPLOADS PAUSED (have all requests in queue for when i am back to being more active)
+
+List of recent games with modern DRMs:(updated 01-Mar-2023) - http://cs.rin.ru/forum/viewtopic.php?f=10&t=68151
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 29 Mar 2014, 04:05]
+Ok so I have a legit version of the game which was bought from steam and I only want to pirate the dlc's, reloaded's releases always have a steam_api.txt but steam one doesn't have this therefore I cannot activate the dlc's, all the latest dlc's can be found here: http://www.reloaded-games.org/total-war-rome-ii-hannibal-gates-reloaded and I just want to know how to activate it on the legit version I have all the dlc files already, I also know that some dlc's dint need any files but just require activation whereas other e.g. Caesar in Gaul need both files and activation
+thanks
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 29 Mar 2014, 07:09]
+Greenluma!
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 30 Mar 2014, 02:03]
+Please post a checksum file for validated install of TWR2 with the DLC's.

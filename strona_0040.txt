@@ -1,0 +1,214 @@
+=========================================
+STRONA 40 (URL: https://cs.rin.ru/forum/viewtopic.php?f=10&t=61441&hilit=rome+2&start=585)
+=========================================
+
+[Data: Thursday, 28 Nov 2013, 14:45]
+True.. we need updated language packs (for me polish), latest LP we got it's for patch 3. 
+
+update: Patch 7 doesn't unlock Seleucids DLC!
+
+update 2: hell yeah! I unlocked Seleucids
+Go to steam_api.ini
+DLC004=0000258580
+
+Seleucids enabled 
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 28 Nov 2013, 14:49]
+have this game issues been fixed?
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 28 Nov 2013, 14:55]
+quiksilver wrote:
+have this game issues been fixed?
+
+
+Haha never  Rome 2 it's the most bugged game i've seen at my whole life...
+Maybe at patch.. 15 game will be "fixed". But now, first CA will release next 10 DLC 
+
+btw. game with no patch 54.1 fps, with patch 7 = 76.9. Not bad... but still at "small" fight fps can drop to 20.
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 28 Nov 2013, 18:42]
+hattisit_ wrote:
+Total War Rome II LANGUAGE PACKS
+
+GERMAN
+ITALIAN
+SPANISH
+FRENCH
+RUSSIAN
+CZECH
+POLISH
+TURKISH
+
+Hi, can you upload the language packs for Update 7 ?
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 28 Nov 2013, 21:23]
+Go to steam_api.ini
+change 00000... to
+DLC004=0000258580 -Seleucid unlocked
+DLC005=0000261050 - Baktria unlocked
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 29 Nov 2013, 12:31]
+Pls up LANGUAGE PACKS for up7
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 29 Nov 2013, 13:13]
+legoras wrote:
+Go to steam_api.ini
+change 00000... to
+DLC004=0000258580 -Seleucid unlocked
+DLC005=0000261050 - Baktria unlocked
+
+so what are the dlc 2 & 3 appid's and what are they for since i don't have but the first DLC appid which is for the greek states ?
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 29 Nov 2013, 13:41]
+legoras wrote:
+Go to steam_api.ini
+change 00000... to
+DLC004=0000258580 -Seleucid unlocked
+DLC005=0000261050 - Baktria unlocked
+
+How to activate dlc's with Multiplayer crack
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 29 Nov 2013, 15:07]
+numerno wrote:
+legoras wrote:
+Go to steam_api.ini
+change 00000... to
+DLC004=0000258580 -Seleucid unlocked
+DLC005=0000261050 - Baktria unlocked
+
+so what are the dlc 2 & 3 appid's and what are they for since i don't have but the first DLC appid which is for the greek states ?
+
+
+DLC001=0000212301 - Greek
+DLC002=0000258270 - Nomadic
+DLC003=0000258580 - Seleucid
+DLC004=0000259800 - Blood & Gore (first 4 ID confirmed http://steamdb.info/app/214950/#section_dlc)
+DLC005=0000261050 - Baktria I think. First time when I add only this ID, Bactria was unlocked.
+DLC006=0000261620 - not included in patch 7
+DLC007=0000267180 - not included in patch 7
+DLC008=0000267630 - not included in patch 7
+
+Strange.. I delete all DLC ID at steam_api.ini, and DLC still enabled  Maybe need DLC ID for first launch only.
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 29 Nov 2013, 16:03]
+legoras wrote:
+numerno wrote:
+legoras wrote:
+Go to steam_api.ini
+change 00000... to
+DLC004=0000258580 -Seleucid unlocked
+DLC005=0000261050 - Baktria unlocked
+
+so what are the dlc 2 & 3 appid's and what are they for since i don't have but the first DLC appid which is for the greek states ?
+
+
+DLC001=0000212301 - Greek
+DLC002=0000258270 - Nomadic
+DLC003=0000258580 - Seleucid
+DLC004=0000259800 - Blood & Gore (first 4 ID confirmed http://steamdb.info/app/214950/#section_dlc)
+DLC005=0000261050 - Baktria I think. First time when I add only this ID, Bactria was unlocked.
+DLC006=0000261620 - not included in patch 7
+DLC007=0000267180 - not included in patch 7
+DLC008=0000267630 - not included in patch 7
+Strange.. I delete all DLC ID at steam_api.ini, and DLC still enabled  Maybe need DLC ID for first launch only.
+
+well those id's do unlock the mentioned factions but sadly for custom battles only except for the greek states and the averni (gallic) i think which you can choose for the compaign .. strangely enough the RELOADED update didn't update the "steam_api.ini" with the latest appid's ,, at least for me but yeah adding those Id's does the job ,, and deleting the Id's causes the DLC's to not be visible in the game > having tried that !
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 29 Nov 2013, 19:47]
+Hmmm, for me all DLC fraction are unlocked for Campaign and custom battle 
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 30 Nov 2013, 20:27]
+legoras wrote:
+Go to steam_api.ini
+change 00000... to
+DLC004=0000258580 -Seleucid unlocked
+DLC005=0000261050 - Baktria unlocked
+
+
+I'm using the Reloaded crack and added the Seleucid and Baktria ids. The Seleucids work but not the Baktria faction. Is the Baktria DLC even out yet?
+
+This is what my list looks like:
+DLC001=0000212301
+DLC002=0000258270
+DLC003=0000259800
+DLC004=0000258580
+DLC005=0000261050
+DLC006=0000000000
+DLC007=0000000000
+DLC008=0000000000
+DLC009=0000000000
+DLC010=0000000000
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 30 Nov 2013, 22:38]
+So add all ID:
+DLC001=0000212301
+DLC002=0000258270
+DLC003=0000258580
+DLC004=0000259800
+DLC005=0000261050
+DLC006=0000261620
+DLC007=0000267180
+DLC008=0000267630
+
+Maybe 0000261050 is not for bactria, but other ID.
+About Bactria.. this DLC is not released (for legal players  ) but pirates can unlock it by ID (Bactria is included in patch 7, why CA doesn't release it? who knows...)
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 01 Dec 2013, 00:03]
+Credits for RVTFIX\REVOLT\Reloaded Group
+
+Total.War.ROME.II.Update.7.Incl.DLC-RELOADED
+Details
+Size: 1.72GB
+Version:1.7
+
+Reminder: Install all previous updates(1,2,3,4 Reloaded's)
+includes DLC with new playable armies checked and working
++3 Main bug fixes when using mp fix trade with Co-op partner
++Visual color improvment and FPS increased.
+
+ Spoiler
+
+
+
+ Spoiler
+Putlocker
+Please do not post links to scene releases.
+
+Multiplayer Fix= ftp://revolt:1234@revolt.loginto.me/Tot ... RVTFiX.rar
+
+
+Use MP fix after all updates installed! Mpfix link is above playable checked working 100%.
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 01 Dec 2013, 00:13]
+I have a problem i always crash when i'm about to start a battle in the campaign mode.
+
+It seems like the problem comes from rome2.dll. Any ideas?
+thanks

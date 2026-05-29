@@ -1,0 +1,200 @@
+=========================================
+STRONA 36 (URL: https://cs.rin.ru/forum/viewtopic.php?f=10&t=61441&hilit=rome+2&start=525)
+=========================================
+
+[Data: Friday, 04 Oct 2013, 21:19]
+please, could anyone upload updated spanish files?
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 04 Oct 2013, 21:19]
+
+_________________
+
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 05 Oct 2013, 11:50]
+Can you also upload Italian language files for patch3 please? Thank you.
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 05 Oct 2013, 13:51]
+finally I was waiting for this patch, it's time to conquer more provinces again
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 05 Oct 2013, 14:31]
+Well, I found out that the reason for my game not starting after patching is the new ste*m_api.dll from update 3, if I use the one from update 2, game starts, but crashes randomly, no idea whats going on. Would be very grateful if someone posts update 3 sfv so I can check my game files CRC, or at least upload R*me2.dll R*me2.exe and ste*m_api.dll from update 3, thanks
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 05 Oct 2013, 15:10]
+erul3z wrote:
+Well, I found out that the reason for my game not starting after patching is the new ste*m_api.dll from update 3, if I use the one from update 2, game starts, but crashes randomly, no idea whats going on. Would be very grateful if someone posts update 3 sfv so I can check my game files CRC, or at least upload R*me2.dll R*me2.exe and ste*m_api.dll from update 3, thanks
+
+Just use the crack from update 3. The game run smoothy now (Campaign map only).
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 05 Oct 2013, 15:35]
+Like I said, when I copy crack files from crack folder in upd 3 my game wont start, I have no idea what could be wrong
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 06 Oct 2013, 06:28]
+erul3z wrote:
+Like I said, when I copy crack files from crack folder in upd 3 my game wont start, I have no idea what could be wrong
+
+Let's try this solution: Install the game, crack it with crack RELOADED. Then run update 3, copy crack from update 3.
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 06 Oct 2013, 08:56]
+anyone knows why I cant tick the unlimited memory option, cant tick it since patch 2, and for some reason my game crashes when I zoom in on battle mod, all I have done is update the game. arent patches suppose to fix the game?
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 06 Oct 2013, 14:40]
+pls upload polish upadate files
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 06 Oct 2013, 15:00]
+OK re installed the game and the patches, the zoom problem fixed but I still cant tick that option, however I found a new way to trick the game and get that option on. now there is a small problem, the siege weapons and rock (mountains rocks and rock on the river bank) are black, any fix or should I re install again (it will be my 10th time I install this game)
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 06 Oct 2013, 22:28]
+DragonManiac wrote:
+anyone knows why I cant tick the unlimited memory option, cant tick it since patch 2, and for some reason my game crashes when I zoom in on battle mod, all I have done is update the game. arent patches suppose to fix the game?
+
+
+Enable it in config.
+
+\Users\###\AppData\Roaming\The Creative Assembly\Rome2\scripts\preferences.script.txt
+
+gfx_unlimited_video_memory true; # gfx_unlimited_video_memory <bool>, Enable unlimited video memory allocation #
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 07 Oct 2013, 15:55]
+ShadowDuke wrote:
+DragonManiac wrote:
+anyone knows why I cant tick the unlimited memory option, cant tick it since patch 2, and for some reason my game crashes when I zoom in on battle mod, all I have done is update the game. arent patches suppose to fix the game?
+
+
+Enable it in config.
+
+\Users\###\AppData\Roaming\The Creative Assembly\Rome2\scripts\preferences.script.txt
+
+gfx_unlimited_video_memory true; # gfx_unlimited_video_memory <bool>, Enable unlimited video memory allocation #
+
+
+I know that trick, but its always reset it to false, however I found a new trick
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 07 Oct 2013, 16:18]
+Try set that file to "Read Only" 
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 07 Oct 2013, 16:18]
+
+_________________
+
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 07 Oct 2013, 17:53]
+Enzo87 wrote:
+pls upload polish upadate files
+
+
+Code: Select all | Line number On/Off | Expand/Contract
+Put whole content inside data folder
+http://www.putlocker.com/file/4EF9B122C6E2DCCB
+http://www.putlocker.com/file/AD7B0EC4D13A9084
+http://www.putlocker.com/file/FC182CE64270D914
+pass: cs.rin.ru
+
+
+Satiro88 wrote:
+Can you also upload Italian language files for patch3 please? Thank you.
+
+
+Code: Select all | Line number On/Off | Expand/Contract
+Put whole content inside data folder
+http://www.putlocker.com/file/099FB78414020BFE
+http://www.putlocker.com/file/95D95602E2C89D4E
+http://www.putlocker.com/file/6349C170553BDAD9
+pass: cs.rin.ru
+
+
+prudislav wrote:
+czech ones pls 
+
+
+Code: Select all | Line number On/Off | Expand/Contract
+http://www.putlocker.com/file/4B7D54FB04E0C088
+http://www.putlocker.com/file/017546A9CAD1A96D
+http://www.putlocker.com/file/3B090819258EFF25
+pass: cs.rin.ru
+
+
+bigbluetrongt wrote:
+please, could anyone upload updated spanish files?
+
+
+Code: Select all | Line number On/Off | Expand/Contract
+http://www.putlocker.com/file/26338A318241C6C4
+http://www.putlocker.com/file/0E61B900A9F2477F
+http://www.putlocker.com/file/981EBD3B11982FED
+pass: cs.rin.ru
+
+
+MoCS wrote:
+Updated german files would also be great.
+
+
+Code: Select all | Line number On/Off | Expand/Contract
+http://www.putlocker.com/file/AAAF19B8899E2908
+http://www.putlocker.com/file/5D3305EC813F3F02
+http://www.putlocker.com/file/3AFCCE3168F671BA
+pass: cs.rin.ru
+
+
+Salomon61 wrote:
+Also may you upload Turkish language files for update 3
+
+
+Code: Select all | Line number On/Off | Expand/Contract
+http://www.putlocker.com/file/5C40488FAA72B1E4
+http://www.putlocker.com/file/4FBDDC20001F297B
+http://www.putlocker.com/file/52132BE62683944A
+pass: cs.rin.ru
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 07 Oct 2013, 17:53]
+
+_________________
+From Mexico with love ^^
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 07 Oct 2013, 17:58]
+czech ones pls 
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 07 Oct 2013, 17:58]
+
+_________________
+mostly inactive until at least half of july 2025
+
+If any of my uploads are outdated or no longer online , the best way to do is to send me a PM and i will add the title to the next batch
+UPLOADS PAUSED (have all requests in queue for when i am back to being more active)
+
+List of recent games with modern DRMs:(updated 01-Mar-2023) - http://cs.rin.ru/forum/viewtopic.php?f=10&t=68151

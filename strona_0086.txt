@@ -1,0 +1,154 @@
+=========================================
+STRONA 86 (URL: https://cs.rin.ru/forum/viewtopic.php?f=10&t=61441&hilit=rome+2&start=1275)
+=========================================
+
+[Data: Friday, 25 Jul 2014, 11:29]
+I reinstalled everything ...still the same . historical battle at carthago doesn't load.When I attack the AI ..it crashes during battlemap load , but if I wait for the AI to attack me instead..the same battlemap loads properly.
+
+Code: Select all | Line number On/Off | Expand/Contract
+ 
+data_rome2.pack size mismatch
+text/credits.xml size mismatch
+local_ge.pack missing
+text/default_keys.xml size mismatch
+models_rome2.pack size mismatch
+terrain2_rome2.pack size mismatch
+text/dx11.txt missing
+tiles3_rome2.pack size mismatch
+text/disclaimers.html size mismatch
+campaigns/main_rome/startpos.esf size mismatch
+sound_rome2.pack size mismatch
+tiles_rome2.pack size mismatch
+local_ge_rome2.pack missing
+tiles4_rome2.pack size mismatch
+music_ge.pack missing
+models2_rome2.pack size mismatch
+music_ge_rome2.pack missing
+local_en.pack unknown file
+local_en_rome2.pack unknown file
+music_en.pack unknown file
+music_en_rome2.pack unknown file
+C:\Users\RsniX\AppData\Roaming\The Creative Assembly\Rome2\scripts\user.script.txt user script existing
+ 
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 25 Jul 2014, 11:32]
+DEL C:\Users\RsniX\AppData\Roaming\The Creative Assembly\Rome2\scripts\user.script.txt!
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 25 Jul 2014, 11:48]
+ShadowDuke wrote:
+DEL C:\Users\RsniX\AppData\Roaming\The Creative Assembly\Rome2\scripts\user.script.txt!
+
+Just tried your suggestion..didn't work.Crashes on load. 
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 25 Jul 2014, 11:51]
+hmm, then i dont know what your problems are. I said everythign about it now, there are some errors which cannot be, like the startpos file, and i dont want to repeat it again.
+
+What does your language.txt in \data\ says!? Which language you play anyway? English?
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 25 Jul 2014, 11:55]
+ShadowDuke wrote:
+hmm, then i dont know what your problems are. I said everythign about it now, there are some errors which cannot be, like the startpos file, and i dont want to repeat it again.
+
+What does your language.txt in \data\ says!? Which language you play anyway? English?
+
+Yes its english.
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 25 Jul 2014, 11:58]
+also funny, log says *en files unknown file and *ge file says missing..
+
+And he has almost the same log
+viewtopic.php?p=933611#p933611
+but not quite, he dont get the *en file missing.....
+
+Still looks like your whole install must be fucked up somehow, theres no other explanation, did you start the batch while patching with or no admin rights?!
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 25 Jul 2014, 12:05]
+ShadowDuke wrote:
+also funny, log says *en files unknown file and *ge file says missing..
+
+And he has almost the same log
+viewtopic.php?p=933611#p933611
+but not quite, he dont get the *en file missing.....
+
+Still looks like your whole install must be fucked up somehow, theres no other explanation, did you start the batch while patching with or no admin rights?!
+
+No admin rights...did the same the previous ones too..is that y everythins fucked up?
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 25 Jul 2014, 12:10]
+No, no admin rights is right.
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 25 Jul 2014, 12:19]
+Can I play multiplayer game (LAN) with my friends with the most updated patch and crack? 
+
+Sorry for my poor english 
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 25 Jul 2014, 13:29]
+Is there anyway to grab the patches from steam without the original game?
+
+Never mind
+
+Just gonna buy the game i think, after patch 14 its almost how it should of been at release.
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 25 Jul 2014, 13:29]
+How should that be possible?
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 25 Jul 2014, 14:09]
+ShadowDuke wrote:
+How should that be possible?
+
+Who knows?
+I do know there are much more knowledgable folks in these matters than me 
+
+Dosnt each patch come down as a single file? I thought (maybe naively) there would be a way to get them or from online storage or the like, it seems you can get anything for any software nowadays, just an assumption that there would be a way to get the patch files.
+
+I took an instant dislike to steam when it first came around, influenced by too many online tales of its failings and have since always avoided it.
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 25 Jul 2014, 16:24]
+@ ShadowDuke: Could you post all yours original game files here ? Maybe something is affecting the xdelta.
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 25 Jul 2014, 16:58]
+sfv from latest update, \data\ is here viewtopic.php?p=933676#p933676, all ok but tiles4_rome2.pack. Will psot a sfv for full \data\ patch14_beta..
+
+
+gringosan wrote:
+Should you include the /data/manifest.txt in your patches? I think this is the source of the file mismatches that are reported in the log file.
+
+
+Heres the file, tho i doubt that will change anything. ^^ Cos i didnt add the file in any prev. patches and the patching was always succesful for the people. 
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 25 Jul 2014, 17:32]
+I ran the sfv checker and got this result, (ignoring the manifest file) all is as we all discussed including the tiles4_rome2.pack missmatch:
+
+ Spoiler
+
+
+And still got the missmatch errors on the modified.txt and the ctd when trying to play siege battles in some cities, they dont even appear in the custom battle map preview.
+So i guess we will have to wait and see if patch 14 final can fix it.

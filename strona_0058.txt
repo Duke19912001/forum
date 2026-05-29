@@ -1,0 +1,156 @@
+=========================================
+STRONA 58 (URL: https://cs.rin.ru/forum/viewtopic.php?f=10&t=61441&hilit=rome+2&start=855)
+=========================================
+
+[Data: Thursday, 27 Mar 2014, 17:24]
+which forum ??
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 27 Mar 2014, 17:28]
+Steam Community hub?
+
+============
+Hotfix added. Crack for hotfix updated.
+viewtopic.php?p=900433#p900433
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 27 Mar 2014, 17:30]
+shman wrote:
+which forum ??
+
+on steam, Total War: ROME II > General Discussions..
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 27 Mar 2014, 17:32]
+please give the link lol . there are so many threads there
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 27 Mar 2014, 17:34]
+my bad ok You strangely named this ;x
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 27 Mar 2014, 17:34]
+
+_________________
+师傅领进门，修行在个人
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 27 Mar 2014, 17:35]
+shman wrote:
+please give the link lol . there are so many threads there
+
+
+ Spoiler
+http://steamcommunity.com/app/214950/discussions/0/558751812717714623/#p3
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 27 Mar 2014, 21:39]
+Total.War.ROME.II.Hannibal.at.the.Gates-RELOADED
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 27 Mar 2014, 21:39]
+11.84 GB
+
+meh.
+
+Somebody share the DLC alone.
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 27 Mar 2014, 21:39]
+
+_________________
+
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 27 Mar 2014, 21:41]
+Yup, the DLC only would be nice, thanks
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 27 Mar 2014, 22:34]
+yup, will update DLC only soon.
+
+~20 minutes dl, then extract + ul. ^^
+
+Edit: RLD's Crack is very similar too Steam006 variant, also ceg is still active (shown in pid), not like in their prev. crack. pid shows in RLD's prev. crack no ceg, no it shows ceg. i have no time to test or look further into this, im busy with the dlc and updates.
+
+DLC is over 1,2gb and gaul.pack is also updated...
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 27 Mar 2014, 22:38]
+ShadowDuke wrote:
+Edit: RLD's Crack is very similar too Steam006 variant, also ceg is still active, not like in their prev. crack.
+
+Can you upload their crack?
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 27 Mar 2014, 22:38]
+
+_________________
+SteamLite viewtopic.php?f=29&t=68783
+GreenLuma 2026 viewtopic.php?f=10&t=103709
+LumaCEG Plugin viewtopic.php?f=29&t=64354
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 27 Mar 2014, 22:42]
+http://www58.zippyshare.com/v/73641347/file.html
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 27 Mar 2014, 22:46]
+nvm
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 27 Mar 2014, 22:52]
+ShadowDuke wrote:
+DLC is over 1,2gb and gaul.pack is also updated...
+
+so porbably xdelta for gaul.pack?
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 27 Mar 2014, 22:52]
+
+_________________
+mostly inactive until at least half of july 2025
+
+If any of my uploads are outdated or no longer online , the best way to do is to send me a PM and i will add the title to the next batch
+UPLOADS PAUSED (have all requests in queue for when i am back to being more active)
+
+List of recent games with modern DRMs:(updated 01-Mar-2023) - http://cs.rin.ru/forum/viewtopic.php?f=10&t=68151
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 27 Mar 2014, 23:25]
+yes, xdelta for gaul.pack. punic.pack and startpos file for punic and updated one for gaul.
+
+Total.War.ROME.II.Gaul.Update.and.Hannibal.DLC *xdelta*
+
+You need Update 11 installed!
+
+
+Code: Select all | Line number On/Off | Expand/Contract
+ 
+1) Extract all files to your Rome 2 <root> install dir
+2) Start TWR2_gaul_up_and_hannibal_dlc.bat
+3) Play
+
+
+Download: [531mb] (Zippyshare, Mega)
+
+http://ncrypt.in/folder-LyARhABf
+(pw: twr2_hannibal)

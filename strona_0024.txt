@@ -1,0 +1,163 @@
+=========================================
+STRONA 24 (URL: https://cs.rin.ru/forum/viewtopic.php?f=10&t=61441&hilit=rome+2&start=345)
+=========================================
+
+[Data: Saturday, 07 Sep 2013, 17:36]
+I am AWESOME wrote:
+With this update we patch existing files as the updated files take up over
+10GB.
+
+
+They have finally realized the shortcomings of the usual way? 
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 07 Sep 2013, 17:36]
+
+_________________
+
+RIP vigylant.
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 07 Sep 2013, 17:59]
+I don't understand what Reloaded means. I need to have Total War installed WITH the old Reloaded crack already applied to it? "Copy the patch over first" means copying the patch to the install dir? Why do i need 10GB of free space, the patch is only 7.59MB? I can recl@im 10GB by deleting the Backup dir, huh? Sorry guys, I just came from work and am tired. Thanks in advance for any help given.
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 07 Sep 2013, 18:08]
+Whatever. wrote:
+I don't understand what Reloaded means. I need to have Total War installed WITH the old Reloaded crack already applied to it? "Copy the patch over first" means copying the patch to the install dir? Why do i need 10GB of free space, the patch is only 7.59MB? I can recl@im 10GB by deleting the Backup dir, huh? Sorry guys, I just came from work and am tired. Thanks in advance for any help given.
+
+you need the release of TW ROme 2 reloaded, because Update1 RLD is only English and it edit _en.pack file, so if you have another language will do not work.
+And Yes, you need to put old rld crack before patching.
+
+The patch (7MB) will patch a lot of file (10 GB)
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 07 Sep 2013, 18:09]
+Whatever. wrote:
+I don't understand what Reloaded means. I need to have Total War installed WITH the old Reloaded crack already applied to it? "Copy the patch over first" means copying the patch to the install dir? Why do i need 10GB of free space, the patch is only 7.59MB? I can recl@im 10GB by deleting the Backup dir, huh? Sorry guys, I just came from work and am tired. Thanks in advance for any help given.
+
+
+What they mean is:
+1. you need the reloaded game installed WITH their crack for this to work
+2. you need 10 gb of free space for the installer to unpack the data files, modify them and pack them back. Also worth mentioning, the installer does this in the windows temp folder, so if you have a small windows partition with less than 10 gb of free space the update will fail
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 07 Sep 2013, 18:14]
+@oronzo91, badw0lf: Awesome, thanks for the help guys.
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 07 Sep 2013, 18:47]
+Whatever. wrote:
+@oronzo91, badw0lf: Awesome, thanks for the help guys.
+
+I hope RLD will continue to support the game, at least until the main problems are resolved
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 07 Sep 2013, 19:26]
+New update.
+
+Size: 22.8MB
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 07 Sep 2013, 19:26]
+
+_________________
+
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 07 Sep 2013, 19:33]
+I am AWESOME wrote:
+New update.
+
+Size: 22.8MB
+
+It isn't a news update.
+it's only an hotfix for patch1. It fix the red sky
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 07 Sep 2013, 19:41]
+Hmm, no idea what it is.
+
+My Steam updated the game, so. 
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 07 Sep 2013, 19:41]
+
+_________________
+
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 07 Sep 2013, 19:43]
+Please provide updated language files.
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 07 Sep 2013, 19:46]
+ShadowDuke wrote:
+Please provide updated language files.
+
+which one ?
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 07 Sep 2013, 19:46]
+
+_________________
+From Mexico with love ^^
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 07 Sep 2013, 19:58]
+Spanish, please
+
+Thank you.
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 07 Sep 2013, 20:10]
+I am AWESOME wrote:
+Hmm, no idea what it is.
+
+My Steam updated the game, so. 
+
+i think that Reloaded include that because i dont have red sky
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 07 Sep 2013, 20:11]
+mhcvel wrote:
+ShadowDuke wrote:
+Please provide updated language files.
+
+which one ?
+
+
+german, please. 
+
+thank you for your effort.
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 07 Sep 2013, 21:05]
+oronzo91 wrote:
+I am AWESOME wrote:
+Hmm, no idea what it is.
+
+My Steam updated the game, so. 
+
+i think that Reloaded include that because i dont have red sky
+
+
+I doubt it. I have red sky.

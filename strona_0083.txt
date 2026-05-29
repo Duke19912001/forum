@@ -1,0 +1,174 @@
+=========================================
+STRONA 83 (URL: https://cs.rin.ru/forum/viewtopic.php?f=10&t=61441&hilit=rome+2&start=1230)
+=========================================
+
+[Data: Wednesday, 23 Jul 2014, 16:02]
+nodi wrote:
+Gonna try it again tnx shadow and steam anyway you guys are awesome. All this trouble almost makes me buy the game almost 
+
+Nodi, download this:
+http://thepiratebay.se/torrent/10390896
+Which will give u 13.1 and then patch it with this 14 which is what I have. If it doesnt work then it must be your comp.
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 23 Jul 2014, 16:07]
+Why should he download your repack!? He can use the xdelta patches here from OP (which he already did but wanted to make a clean install again..) and hes also fine! Dont need to download 12gb...and also on a public torrent tracker..
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 23 Jul 2014, 16:41]
+ok whatever suits him
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 23 Jul 2014, 16:55]
+Its giving me a cheksum mismatch on xdelta3 dammit didnt even notice it.
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 23 Jul 2014, 16:57]
+nodi wrote:
+Its giving me a cheksum mismatch on xdelta3 dammit didnt even notice it.
+
+When that happens is ´cos either u have a different version or u already patched it and it´s screwed .
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 23 Jul 2014, 17:43]
+im just gonna reinstall completely tomorow and if it doesnt work then im just gonna play it in patch 11
+
+-- Edit --
+
+I was messing with some of my system files did some stuff and just installed patch 11 hotfix with no error and started game im gonna reinstall all the patcehs now and report here if its fixed. Finally 
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 23 Jul 2014, 17:54]
+nodi wrote:
+im just gonna reinstall completely tomorow and if it doesnt work then im just gonna play it in patch 11
+
+-- Edit --
+
+I was messing with some of my system files did some stuff and just installed patch 11 hotfix with no error and started game im gonna reinstall all the patcehs now and report here if its fixed. Finally 
+
+break a leg
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 23 Jul 2014, 18:42]
+It worked yeaaaaaahhhhh  now the hard part downloading and reinstalling mods hahha. btw anyone know if theres a offsteam link for cat masters roman cohort mod.
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 23 Jul 2014, 18:45]
+nodi wrote:
+:) i got this pc for rome 2 hoping to play with a *censored AppID* men per unit mod but right now its not possible.
+
+-- Edit --
+
+Ok i dont know how but now the game chrashes after update 11 hotfix. First i got an error mscv downloaded the file then the game starts but ctds immediatly. I had absolutely no problems until today after installing update 14. Is it somthing in the files i have to delete anyone have similar issues before ?
+
+
+Did you do all 4 (i think 4 patches for 11 ) sounds like you missed one out?
+I may be wrong, same happened to me, i missed one and then got the ctd`s, make sure all done in the right order.
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 23 Jul 2014, 18:47]
+its working now just did a custom battle everything is fine thanks everyone and about tha cat masters mod if you have alink please post
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 23 Jul 2014, 19:10]
+Give me the link to the mod at pm and i will download and upload it for you. Or try http://gaddons.org/workshop
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 24 Jul 2014, 07:43]
+I updated my working 13.1 install with the xdelta patch 14 without issue but the game is broken for me now.
+
+I'm not sure if its beta patch or xdellta issue but i thought I would make a post as it seems others are not affected.
+
+I see in my C:\Users\XXXXXX\AppData\Roaming\The Creative Assembly\ "modified.log" some interesting notes as below
+
+Code: Select all | Line number On/Off | Expand/Contract
+data_rome2.pack size mismatch
+text/credits.xml size mismatch
+terrain2_rome2.pack size mismatch
+tiles_rome2.pack size mismatch
+tiles4_rome2.pack size mismatch
+local_en_rome2.pack size mismatch
+models2_rome2.pack size mismatch
+
+
+All of the .pack files were modified by the xdelta patch (except for local_en_rome2.pack and credits.xml)
+
+The game will launch and I did a custom battle just fine... but the Historic battle of Carthage will crash during loading. I loaded Teutoburg, Alesia, and Pydna without trouble.
+
+So with very limited testing I am having some issues with patch 14 beta.
+
+Cheers
+
+PS. The exe hang on exit seems intermittent for me, I would say it hangs 1 or 2 times out of 10 exits from the main menu.
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 24 Jul 2014, 12:27]
+I tried the battle of carthage and it worked. SO far
+
+PS Shadowduke would be so kind to download the mod:
+http://steamcommunity.com/sharedfiles/f ... =262664177
+and
+http://steamcommunity.com/sharedfiles/f ... earchtext=
+
+Much obliged
+thx
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 24 Jul 2014, 13:52]
+gringosan wrote:
+I updated my working 13.1 install with the xdelta patch 14 without issue but the game is broken for me now.
+
+I'm not sure if its beta patch or xdellta issue but i thought I would make a post as it seems others are not affected.
+
+I see in my C:\Users\XXXXXX\AppData\Roaming\The Creative Assembly\ "modified.log" some interesting notes as below
+
+Code: Select all | Line number On/Off | Expand/Contract
+data_rome2.pack size mismatch
+text/credits.xml size mismatch
+terrain2_rome2.pack size mismatch
+tiles_rome2.pack size mismatch
+tiles4_rome2.pack size mismatch
+local_en_rome2.pack size mismatch
+models2_rome2.pack size mismatch
+
+
+All of the .pack files were modified by the xdelta patch (except for local_en_rome2.pack and credits.xml)
+
+The game will launch and I did a custom battle just fine... but the Historic battle of Carthage will crash during loading. I loaded Teutoburg, Alesia, and Pydna without trouble.
+
+So with very limited testing I am having some issues with patch 14 beta.
+
+Cheers
+
+PS. The exe hang on exit seems intermittent for me, I would say it hangs 1 or 2 times out of 10 exits from the main menu.
+
+
+Since you already saw in the log "missmatch" the xdelta patch wasnt really working, was it!? Cos i dont have those entries in my log file! So its not possible that you didnt have any missmatch errors during patching..
+
+And even the local_en_rome2.pack you have a missmatch, its also only one english file where you got that msg, but its 2 files...i upped the eng language separately...there cant be an error...you must have done something wrong, thats pretty clear.
+
+@neoiq5719
+
+Here
+
+https://www.firedrive.com/file/6937142FB4CB0305
+
+And please check next time if its even working with Patch14 beta as the core pack says it does not...
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 24 Jul 2014, 13:53]
+Thx if it doesnt work I´ll update it myself

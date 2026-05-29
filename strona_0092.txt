@@ -1,0 +1,212 @@
+=========================================
+STRONA 92 (URL: https://cs.rin.ru/forum/viewtopic.php?f=10&t=61441&hilit=rome+2&start=1365)
+=========================================
+
+[Data: Friday, 01 Aug 2014, 16:53]
+chernysh wrote:
+Please download the updated files for the russian version local_ru.pack, music_ru.pack and others.
+
+
+Download? You mean upload!?
+
+I wont do that and explained more than once why not and why you all should have initial files! If you mean the updated files, those are the wrong files! It'd be local_ru_rome2.pack & music_ru_rome2.pack.
+
+
+kalleschmitz wrote:
+ShadowDuke wrote:
+No 2, for Gaul and HATG (if you dont own them you dont need it! If you own them and theres an error, your made something wrong, e.g. have wrong Version), read at upload what you need etc! (The 15 is an error, nvm its just cosmetic). And Patch 14 beta=final.
+
+thx for answer 
+so what if i wanna play Gaul or Hannibal?
+and should i reinstall "Patch 14 Beta"? or can i leave it with incomplete "Patch 14 Beta Fix" installation?
+
+what do you mean with "...The 15 is an error, nvm its just cosmetic..."
+
+the game works but i want it the way it should be!
+
+thx for efforts!
+
+i installed it from patch 13.1 hotfix . festival + season (the shown version ingame is the same your patch 13.1 hotfix release is ... hmmm i try complete reinstall
+
+
+I dont understand your questions! Why should you reinstall beta14 since its the same like final, nothing changed! And as for the fix, read the last pages!? How often we have to explain ever little tiny thing, every day... the "game fix" has nothing to do with Patch 14, like mentioned, its only GAUL and HATG Update!
+
+Its a cosmetic error, like i stated, nvm! Its just 2 files, not 15 which get updated with game-fix, thats a cosmetic error.
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 01 Aug 2014, 16:53]
+Is there a way to get the acf and manifest files for german and english Rome 2? Or could somebody upload acf and manifest?
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 01 Aug 2014, 17:10]
+ShadowDuke wrote:
+
+I dont understand your questions! Why should you reinstall beta14 since its the same like final, nothing changed! And as for the fix, read the last pages!? How often we have to explain ever little tiny thing, every day... the "game fix" has nothing to do with Patch 14, like mentioned, its only GAUL and HATG Update!
+
+Its an cosmetic error, like i stated, nvm! Its just 2 files, not 15 which get updated with game-fix, thats an cosmetic error.
+
+
+i know that beta is final (it`s the typical Creative Assambly way)
+
+i asked for reinstall "Beta 14" for not having the right installation when i install "Game Fix" what ends after 1/15 without any errors.
+
+so i want to you use your "Patch 14 Beta = Final + Game Fix" for playing Hannibal - you say your "game fix" should have 2/15 steps to be completed? i only have 1/15 .. damn i cant find the last pages i should read as you said ...
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 01 Aug 2014, 17:14]
+ShadowDuke wrote:
+chernysh wrote:
+Please download the updated files for the russian version local_ru.pack, music_ru.pack and others.
+
+
+Download? You mean upload!?
+Yes, upload
+
+
+Quote:
+I wont do that and explained more than once why not and why you all should have initial files!
+Do not quite understand, just see that and other sites are trying to post.
+
+
+Quote:
+It'd be local_ru_rome2.pack & music_ru_rome2.pack.
+Well, yes, and these need 
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 01 Aug 2014, 17:32]
+kalleschmitz wrote:
+ShadowDuke wrote:
+
+I dont understand your questions! Why should you reinstall beta14 since its the same like final, nothing changed! And as for the fix, read the last pages!? How often we have to explain ever little tiny thing, every day... the "game fix" has nothing to do with Patch 14, like mentioned, its only GAUL and HATG Update!
+
+Its an cosmetic error, like i stated, nvm! Its just 2 files, not 15 which get updated with game-fix, thats an cosmetic error.
+
+
+i know that beta is final (it`s the typical Creative Assambly way)
+
+i asked for reinstall "Beta 14" for not having the right installation when i install "Game Fix" what ends after 1/15 without any errors.
+
+so i want to you use your "Patch 14 Beta = Final + Game Fix" for playing Hannibal - you say your "game fix" should have 2/15 steps to be completed? i only have 1/15 .. damn i cant find the last pages i should read as you said ...
+
+
+Dude! I posted what you need fore game-fix, which version, etc! You cant find the last pages.....sigh..srsly now...you just need the posting where the download from fix is, there is everything written you need to know! You are making it more difficult than it is!
+
+@chernysh
+
+Write proper english, everythings said, i dont understand what you really want! As i said, i wont upload any initial language files! Make your posts more clear or i cant help you!
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 01 Aug 2014, 18:03]
+Ok... Here is some explanations... Btw good work to ShadowDuke and other minions 
+
+Don't read if you understood how patches and DLCs are working.
+------------------------------------------------------
+But first. Sorry for my bad English... I will try my best. And sorry for wall of text.
+
+Ok you guys need to know some basic stuff. Gaming industry is growing more and more... And a lot of stuff is changing. Some are good, some we will see when time pass and some are bad for all gamers (pirates and legal).
+In the past there was almost no patches for games (because internet was slow and Gaming Industries are trying to finish the game as much is possible). Then internet get more speed, and now we see some patches for games. Still this patches are small, and only fix some issues with games or patching to work for newer computers.
+
+But when internet become common, and speed get good for most countries, industry change they way of work. Now patches are huge and games are less polish or missing content. Some games are doing this in purpose to make more DLC (more DLC more money). Some Gaming Company are doing this because they can (huge fan base), some don't have high budget, and some are just bad (or good liar). Don't get me wrong not all companies are doing this methods, but there are more and more. And almost all Publisher are doing the same method: more DLCs, and small base game.
+
+Now some of you wonder what does this have to do with patches? Actually it is the big part.
+In the past game has only base, and some have expansion. That mean if game get update he just update the game. If it has expansion it update the expansion. And most of the game need to have base game if you want to play expansion. This is still the same in our days with small games and games who don't have DLCs.
+But now games have DLC. And you need to know that DLC are not Expansion (most of the time). Its just one part of the game that was implemented like bonus stuff, or it is cosmetic, or it is more class ... There is actually a small part of DLC that can be called Expansions.
+Now about the games that have DLCs: When this game get update, most of the time just fix base game (and expansion if have) and less time they implement fixes for DLCs. But when is DLC get update you need to update the DLC too with own patch. Sometimes base game updates can broke DLC and you need to update DLC too.
+
+Here is explanation for two games that have a bunch of DLCs (A lot of legal players don't know this and even more pirated players too).
+Europa Universalis IV and Crusader Kings II (don't get me wrong i like this game, and that's why i like to criticize this game and Total War).
+For this i will use CK II. CK II have several huge DLCs (or expansions), and a lots of small DLCs (graphic unit and portraits, songs...).
+Latest updates CK II try to reduce memory usage (this is just one of example) and they tried to do this by scaling down all of the portraits images in the game. This will be simple if all of the portraits are in base game, but actually most of the portraits come from DLCs. Now what Paradox did they change codes in the game and change resolutions of the portraits ofc. But here comes the conflict... First come from Paradox. They forgot to change resolutions from some portraits DLCs, and then gamers have graphical gliches. Later they bring new update to fix more bugs in game, and now they implement separated updates for DLCs (to fix portraits bugs). Now pirates are angry because they think that game is broken again. But its not. You need to have updated DLCs and then game will be fine. That's why is hard for tracking new games with huge DLCs list because they update DLCs, and sometimes we pirates forgot to put them or didn't sow that.
+
+Sorry for wall of text... I tried to be simple as possible to all of you. You guys really need to understood how updates now work and DLCs. And its not new...
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 01 Aug 2014, 18:03]
+
+_________________
+List of some Computer games CLICK ME
+
+  
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 01 Aug 2014, 18:04]
+ShadowDuke wrote:
+kalleschmitz wrote:
+ShadowDuke wrote:
+@chernysh
+Write proper english, everythings said, i dont understand what you really want! As i said, i wont upload any initial language files! Make your posts more clear or i cant help you!
+
+
+These updated files:
+music_ru_rome2.pack
+local_ru_rome2.pack
+
+I have them still with version u9 rld.
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 01 Aug 2014, 18:41]
+@chernysh
+
+uploaded!
+
+And heres the updated Gaul and HATG DLC files for Patch 14! (You need this viewtopic.php?p=934294#p934294)
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 01 Aug 2014, 19:04]
+Thank u so much, ShadowDuke
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 01 Aug 2014, 19:04]
+
+_________________
+The most respectful and useful users: - machine4578 - ShadowDuke - demde - MarloC - punchao - sam2k8
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 01 Aug 2014, 19:10]
+I installed it. I need updated music_ru_rome2.pack & local_ru_rome2.pack 
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 01 Aug 2014, 19:19]
+Thats what i uploaded! Sigh! viewtopic.php?p=935502#p935502
+.............
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 01 Aug 2014, 19:49]
+Thank u so much 
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 01 Aug 2014, 20:43]
+Thanks a lot ShadowDuke. 
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 02 Aug 2014, 00:13]
+So, Mr Shadow Duke, now I have 13.1 version, then I continue updating with Total.War.ROME.II.Update.14_beta.rar --> Total.War.ROME.II.Update.14_beta_Fixed.rar --> TWR2_Patch_14_ENG.rar. After updating using these files, should I apply the Total.War.ROME.II.Update.14_Gaul_and_HATG_Update.rar? and I dont Understand in your statement "And heres the updated Gaul and HATG DLC files for Patch 14! (You need this viewtopic.php?p=934294#p934294)" must I download the Assembly kit BETA too? Thanks before 
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 02 Aug 2014, 00:39]
+Ajiryda wrote:
+So, Mr Shadow Duke, now I have 13.1 version, then I continue updating with Total.War.ROME.II.Update.14_beta.rar --> Total.War.ROME.II.Update.14_beta_Fixed.rar --> TWR2_Patch_14_ENG.rar. After updating using these files, should I apply the Total.War.ROME.II.Update.14_Gaul_and_HATG_Update.rar? and I dont Understand in your statement "And heres the updated Gaul and HATG DLC files for Patch 14! (You need this viewtopic.php?p=934294#p934294)" must I download the Assembly kit BETA too? Thanks before 
+
+
+no,assembly kit is for modders.You need the install:
+
+1. Total.War.ROME.II.Update.13_1_Gaul_and_HATG_Update.rar at page 89
+2. Total.War.ROME.II.Update.14_Gaul_and_HATG_Update.rar
+
+Shadowduke does not have gaul and hatg dlcs.When this two dlcs updated guys giving him the dlcs updated files like gringosan at page 89,after that he makes an another patch for these two dlcs.

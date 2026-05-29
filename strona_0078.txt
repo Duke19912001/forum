@@ -1,0 +1,178 @@
+=========================================
+STRONA 78 (URL: https://cs.rin.ru/forum/viewtopic.php?f=10&t=61441&hilit=rome+2&start=1155)
+=========================================
+
+[Data: Friday, 27 Jun 2014, 20:04]
+If you'd update correctly with the provided patches theres no need for, cos its already the german update.
+
+Or did you Update previously from elsewhere and now need the up-2-date german language files?
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 27 Jun 2014, 21:12]
+Hello there.
+
+Does anyone have a solution for twitchsdk_32_release.dll crash after end of turn in campaign ?
+Because this problem is really frustating for me because i download both RTW 13.1 from 3DM and TPB version but still always crash because of that twitch problem.
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 28 Jun 2014, 09:30]
+I'd surely be thankful if someone could post the Assembly Kit updates.
+
+Please and thanks.
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 28 Jun 2014, 12:27]
+ShadowDuke wrote:
+If you'd update correctly with the provided patches theres no need for, cos its already the german update.
+
+Or did you Update previously from elsewhere and now need the up-2-date german language files?
+
+
+
+yep 
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 28 Jun 2014, 15:12]
+delv213 wrote:
+I'd surely be thankful if someone could post the Assembly Kit updates.
+
+Please and thanks.
+
+
+viewtopic.php?p=924271#p924271
+
+Was there an update!?
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 28 Jun 2014, 16:06]
+how can i start the mod launcher without steam ? To play with some mods.
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 28 Jun 2014, 16:22]
+Hm? The Mod Manager starts Rome2.exe. So if you use cracked Version, you dont need launcher.
+
+http://www.twcenter.net/forums/showthre ... d-25-04-14
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 29 Jun 2014, 03:28]
+hello friends, anyone has the mod immortals (300) or spartan epic experience?
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 29 Jun 2014, 04:18]
+raptor-sniper wrote:
+how can i start the mod launcher without steam ? To play with some mods.
+
+
+at page 51 machine4578 posted an emu for launcher,i'm using it with toon's aio mod,no problems.Also as written you can use the one from twcenter
+
+-- Edit --
+
+
+juanjexsan1992 wrote:
+hello friends, anyone has the mod immortals (300) or spartan epic experience?
+
+
+maybe this can be work for you,as i dont have steam installed i didn't try it.
+
+http://gaddons.org/workshop
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 29 Jun 2014, 07:15]
+ShadowDuke wrote:
+delv213 wrote:
+I'd surely be thankful if someone could post the Assembly Kit updates.
+
+Please and thanks.
+
+
+viewtopic.php?p=924271#p924271
+
+Was there an update!?
+
+
+http://www.twcenter.net/forums/showthre ... -Kit-Patch
+
+^Yup, the update helps make patch 13 work from what I've read. Otherwise it will continue to CTD on start-up when trying to use any older database info.
+
+Either that or you uploaded the most recent version and I have no clue how to edit the database, which makes me extremely sad.
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 29 Jun 2014, 07:37]
+delv213 wrote:
+ShadowDuke wrote:
+delv213 wrote:
+I'd surely be thankful if someone could post the Assembly Kit updates.
+
+Please and thanks.
+
+
+viewtopic.php?p=924271#p924271
+
+Was there an update!?
+
+
+http://www.twcenter.net/forums/showthre ... -Kit-Patch
+
+^Yup, the update helps make patch 13 work from what I've read. Otherwise it will continue to CTD on start-up when trying to use any older database info.
+
+Either that or you uploaded the most recent version and I have no clue how to edit the database, which makes me extremely sad.
+
+I dont think the Assembly kit has anything to do with the patch since u can remove it and the game is still fine.
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 29 Jun 2014, 14:11]
+ShadowDuke wrote:
+Hm? The Mod Manager starts Rome2.exe. So if you use cracked Version, you dont need launcher.
+
+http://www.twcenter.net/forums/showthre ... d-25-04-14
+
+
+Thanks 
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 29 Jun 2014, 16:18]
+delv213 wrote:
+ShadowDuke wrote:
+delv213 wrote:
+I'd surely be thankful if someone could post the Assembly Kit updates.
+
+Please and thanks.
+
+
+viewtopic.php?p=924271#p924271
+
+Was there an update!?
+
+
+http://www.twcenter.net/forums/showthre ... -Kit-Patch
+
+^Yup, the update helps make patch 13 work from what I've read. Otherwise it will continue to CTD on start-up when trying to use any older database info.
+
+Either that or you uploaded the most recent version and I have no clue how to edit the database, which makes me extremely sad.
+
+
+Then the patch is already in there, cos i downloaded and uploaded it at 18.06.
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 29 Jun 2014, 22:36]
+For guys who need languages just download your language from this site: https://www.mediafire.com/folder/b23krx8e9nuhv/TOTAL_WAR_CENTER unpack it and place it into data folder.
+You need your language files from version 1.0 or above. This is primary for translate mods but it seems that every change in patches and DLC are included too.
+Tested with latest version and everything is translated.
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 29 Jun 2014, 22:40]
+"Language" file is not only text, so UPC wont help much at all. They also arent updated frequently for each language. Minor languages are often outdated.

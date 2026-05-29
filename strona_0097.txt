@@ -1,0 +1,171 @@
+=========================================
+STRONA 97 (URL: https://cs.rin.ru/forum/viewtopic.php?f=10&t=61441&hilit=rome+2&start=1440)
+=========================================
+
+[Data: Friday, 08 Aug 2014, 18:13]
+....thats waht i said. He also dont need to delete them and what if he does not have the ENG files that i posted!? Game is still not english then..
+
+@kerttwes
+
+Last scomment, 07.08. google-translate, said eng is not there or smth.
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 08 Aug 2014, 18:23]
+ShadowDuke wrote:
+@kerttwes
+
+Last scomment, 07.08. google-translate, said eng is not there or smth.
+
+
+I will translate that comment for you:
+
+"Почтенный,скажите,сочетание руский интерфейс/английская озвучка - возможны в этом релизе?"
+
+= "Can you please tell if it's possible to have Russian interface language and English sound/speach language at the same time in this release?"
+
+As you can see, there is nothing told about "eng is not there". The user just asks a question to releaser - if it's possible to have different languages for text and speach (because by default game installs the same language for both text and speach).
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 08 Aug 2014, 18:28]
+When I have extracted the files I had no Option to Choose ( English or Russian)
+
+But for me the Set up has extracted Both All file RU and ENG
+I have started the game .... It was in Russian
+Than deleted the Russian files and at the next launching the game was in English
+
+The patch 14 is in
+
+just a bug that I found :At the end of Historical Battle ; If you chose Leave to desktop : The game freeze
+So with Alt-Ctrl-Del call the Gestion and end manualy the game
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 08 Aug 2014, 23:53]
+Is anyone here a good moder i need some help making mods.
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 09 Aug 2014, 01:57]
+machine4578 wrote:
+alvaro1992 wrote:
+Any progress on a fix for the crack so the game will properly exit?
+
+the current crack is working fine, no crashes during game or on exit. 
+
+
+
+Hi Guys
+
+I wanted to make a quick post about the exe hang on exit from a campaign or a battle. If I exit from the menu before loading a game then the exe will not hang on exit.
+
+So I still have this problem using the latest couple of versions of the lumaEMU_CEG plugin. I see that it is working for many but not all.
+
+What I have found is, using the lumaEMU_CEG.dll from ShadowDuke's patch 12 is working for me without issue as far as I can tell.
+
+Cheers
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 09 Aug 2014, 03:42]
+tanauser wrote:
+Once extracted
+Delete those Folders and your game will be in english
+local_RU.pack
+local_RU_rome2.pack
+music_RU.pack
+music_RU_rome2.pack
+
+open
+language.txt and check it is EN
+
+
+MOTHER OF GOD IT WORKED. THank you! You saved me countless hours of frustration in applying patches. Thank you!
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 09 Aug 2014, 10:48]
+stamax wrote:
+tanauser wrote:
+Once extracted
+Delete those Folders and your game will be in english
+local_RU.pack
+local_RU_rome2.pack
+music_RU.pack
+music_RU_rome2.pack
+
+open
+language.txt and check it is EN
+
+
+MOTHER OF GOD IT WORKED. THank you! You saved me countless hours of frustration in applying patches. Thank you!
+
+
+It works also if another language pack is applied. I've tried with the Italian one without problem.
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 09 Aug 2014, 11:31]
+hey guys!
+I cant install the latest patch, at first it missed a dll called msvcr110, after i have downloaded that i got the error of "0xc00007b" so i have installed tha latest visual studio express, that was supposed to solve things, but no. I am not sure my game is compatible with the newest patch, but when i tried to install an older patch, it started the installation without a problem, so i was thinkig about redownloading the rld hannibal at the gates, and then updating to patch 14 properly, but im not sure i wont get the same error, when i finally try to upgrade to p14. Anyone had similar problems? Any suggestions?
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 09 Aug 2014, 17:43]
+For me the game was better before Patch 14
+I guess we are all waitting for a new Crack that will solve the Exit bug
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 09 Aug 2014, 19:55]
+...read last pagesa about it. Theres nothing to resolve. EIther its working for you with a properly exit or you use an older LumaEMU_CEG.dll!
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 09 Aug 2014, 22:13]
+Guys can someone tell me about the performance in this game? Was the FPS problem on campaign map solved? or does it still run like shit with 15-25 FPS on high end rigs no matter what settings?
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 09 Aug 2014, 22:13]
+
+_________________
+
+SCS - Help Revive / Every upload of mine in SCS contains files only for Windows, don't ask for Linux/MAC.
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 10 Aug 2014, 01:55]
+Its much better now in battle and campaign. I run it on extreme just fine huge battles its been optimazied much better. The problem now i pathfinding which is horrendous.
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 10 Aug 2014, 01:58]
+Ty for reply... back when Hannibal was released... campaign map still was true horror.
+Ultra settings = big battles 40-60 fps... campaign map 15-25 O_o
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 10 Aug 2014, 01:58]
+
+_________________
+
+SCS - Help Revive / Every upload of mine in SCS contains files only for Windows, don't ask for Linux/MAC.
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 10 Aug 2014, 07:20]
+ShadowDuke wrote:
+...read last pagesa about it. Theres nothing to resolve. EIther its working for you with a properly exit or you use an older LumaEMU_CEG.dll!
+
+
+I have tried the one you posted with patch 12 , but it didn't solve the problem : I can't exit to desktop
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 10 Aug 2014, 09:31]
+So i have downloaded the rld release of Hatg, installed it, and all the vcr just to be sure. After that when i try to run the patch "twr2-up11-hotfix-build" that is in my game Root folder ofc unrarred. So when i try to run it, it starts and then windows ask if im sure to run it, i click yes, and then the program says "acces denied" then proceeds with the istallation (without errors), if i say no at the end, the install is finished, but the data files are the same as before. I have tried to run it as administrator, in that case it still ask my permission, but after that it says "access denied" again and then it doesnt even do anything just asks if there were any errors, ofc no new files in data either. (and i mean newer then my previous files in data folder) Im using win 8 if that is any help.
+i have already tried to install the next update "Total.War.ROME.II.Update.12.beta", but it makes a lot of errors duo to the fact of wrong files in data folder, i guess, so i just cancelled it.
+Any ideas what im doing terribly wrong?
+I have cracked the game with rld crack at first, that could be a problem?

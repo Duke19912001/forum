@@ -1,0 +1,186 @@
+=========================================
+STRONA 88 (URL: https://cs.rin.ru/forum/viewtopic.php?f=10&t=61441&hilit=rome+2&start=1305)
+=========================================
+
+[Data: Saturday, 26 Jul 2014, 16:05]
+Where can you download a clean iso. To update with the patches in this forum...
+
+Please!!
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 26 Jul 2014, 16:16]
+Eh.. Calm down. You don't necessarily need a clean release. You can use THIS and go with update 11 Hotfix from there and up (forum). Eh.. click the Download Torrent button, not the big DOWNLOAD one.
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 26 Jul 2014, 16:57]
+Hannibal at the Gates 27x500mb
+
+parts 1-17 https://drive.google.com/folderview?id= ... sp=sharing
+parts 18-27 https://drive.google.com/folderview?id= ... aring#list
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 26 Jul 2014, 20:36]
+I tried anything could but none worked . Still the same error .
+
+Guys , Can you post your MSVCR110.dll file for me ?
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 26 Jul 2014, 21:11]
+Alpha22 wrote:
+I tried anything could but none worked . Still the same error .
+
+Guys , Can you post your MSVCR110.dll file for me ?
+
+http://speedy.sh/F5W32/msvcr110.dll
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 26 Jul 2014, 21:23]
+Alpha22 wrote:
+I tried anything could but none worked . Still the same error .
+
+Guys , Can you post your MSVCR110.dll file for me ?
+
+
+Did you try installing dx from the redist folder in the game dir?
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 26 Jul 2014, 21:29]
+is anoyne else experiencing chrashes i campaing in siege battles when defending. Also got an erro after presing N during fix patch so no error during patching just the phase after.
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 26 Jul 2014, 22:14]
+MDS wrote:
+Alpha22 wrote:
+I tried anything could but none worked . Still the same error .
+
+Guys , Can you post your MSVCR110.dll file for me ?
+
+
+Did you try installing dx from the redist folder in the game dir?
+
+
+Yes , I installed all of them but same error .
+
+This time in windows 7 :
+
+the application was unable to start correctly (0xc00007b)
+
+-- Edit --
+
+
+neoiq5719 wrote:
+Alpha22 wrote:
+I tried anything could but none worked . Still the same error .
+
+Guys , Can you post your MSVCR110.dll file for me ?
+
+http://speedy.sh/F5W32/msvcr110.dll
+
+
+Thanks my friend .
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 26 Jul 2014, 22:33]
+In case you have access denied error after you patched game with fix, go to process manager and terminate tw rome process and then patch it again... For unknown reason the game won't terminate itself after quiting from main menu.
+
+Game works fine here after applying 14beta patch and fix, except for mentioned problem...
+
+Thank you very much ShadowDuke for your efforts...
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 26 Jul 2014, 22:33]
+
+_________________
+01000111 01101000 01101111 01110011 01110100 00100000 01110111 01101000 01100101 01110010 01100101 00100000 01100001 01110010 01100101 00100000 01111001 01101111 01110101 00111111 00100000 01000100 01100101 01101100 01100101 01110100 01100101 00100000 01110100 01101000 01101001 01110011 00100000 01110000 01101111 01110011 01110100 00101100 00100000 01101001 01100110 00100000 01111001 01101111 01110101 00100000 01100100 01100001 01110010 01100101 00101110
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 26 Jul 2014, 22:54]
+Alpha22 wrote:
+MDS wrote:
+Alpha22 wrote:
+I tried anything could but none worked . Still the same error .
+
+Guys , Can you post your MSVCR110.dll file for me ?
+
+
+Did you try installing dx from the redist folder in the game dir?
+
+
+Yes , I installed all of them but same error .
+
+This time in windows 7 :
+
+the application was unable to start correctly (0xc00007b)
+
+-- Edit --
+
+
+neoiq5719 wrote:
+Alpha22 wrote:
+I tried anything could but none worked . Still the same error .
+
+Guys , Can you post your MSVCR110.dll file for me ?
+
+http://speedy.sh/F5W32/msvcr110.dll
+
+
+Thanks my friend .
+
+
+Rollback to before you added the dodgy dll`s
+install latest net framework http://www.microsoft.com/en-gb/download ... x?id=30653
+dx and download and install these VC++ Redistributable Packages http://support.microsoft.com/kb/2019667 2012 and 2013 distributions.
+Then run msupdate.
+
+Lots of answers on google
+https://www.google.co.uk/search?q=+appl ... B:official
+
+Good luck
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 27 Jul 2014, 00:39]
+the system cannot find the file specified
+the filename, directory name, or volume label syntax is incorrect
+please help
+nevermind somehow it worked 
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 27 Jul 2014, 00:44]
+Wrong dir
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 27 Jul 2014, 00:52]
+yep im just used to going straight to data directory for mods. thanks for the update sieges are not chrashing anymore
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 27 Jul 2014, 07:11]
+Deleted
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 27 Jul 2014, 07:46]
+Hey .
+
+I gave up .
+
+Nothing solved that .
+
+I guess I'll have to wait for another DLC campaign like Hannibal At The Gates in order to have latest updates there .
+
+I'll be thankful if someone who has access to steam downloads this small mod for me :
+
+http://steamcommunity.com/sharedfiles/filedetails/?id=205902838

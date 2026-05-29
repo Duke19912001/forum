@@ -1,0 +1,816 @@
+=========================================
+STRONA 12 (URL: https://cs.rin.ru/forum/viewtopic.php?f=10&t=61441&hilit=rome+2&start=165)
+=========================================
+
+[Data: Tuesday, 03 Sep 2013, 13:53]
+Total.War.ROME.II-RELOADED
+
+nfo:
+
+Code: Select all | Line number On/Off | Expand/Contract
+Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  ßÜÜ ß
+Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  ÜÜÜÜÜÜ²Ý ÞÛÛÜ ²ÛÜ ßÜ
+Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  °²²ÛÛÛÛÛÛÛß ÜÛÛÛÛÝÞÛÛÝ Þ²
+Â  Â  Â  Â  Â  Â  Â  Â  ÜÜÜÜÜÜ Ü Â ÛßÛÛÛÛÛÛ²°Ü²ÛÛÛÛÛÜÛÛÛ² °ÛÝÜÜÜ Ü ÜÜÜÜÜÜ
+Â  Â  Â  Â  Â  Â  Â  Â  Û Â  Â  Â ÞÝÞÝÞÛÛÛÛÛÛÝÞÛÛÛÛÛÛÛÛÛÛÛÛÝ ÛÝ Â  ÞÝ Â  Â  Â Û
+Â  Â  Â  Â  Â  Â  Â  Â  Û Â  Â  Â  ² Â ²ÛÛÛÛÛÛÛÜÛÛÛÛÛÛÛÛÛÛÛÛÝÞÛÛ Â  ² Â  Â  Â  Û
+Â  Â  Â  Â  Â  Â  Â  Â  Û Â  Ü Â ÞÝ Â Þ²ÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÜÛÛÛ Â  ÞÝ Â Ü Â  Û
+Â  Â  Â  Â  Â  Â  Â  Â  Û Â  ÞÝÞÛ Â  Â  ßßßßß²²ÛÛÛÛÛÛÛÛÛßßß Â ²²° Â  ÛÝÞÝ Â  Û
+Â  Â  Â  Â  Â  Â  Â  Â  Û Â  Û°²Ý Â Ü²Ü Â  Â  Â  Â ÛÛÛÛÛ° Â  Â  Â  °ÛÝ Â  Þ²°Û Â  Û
+Â  Â  Â  Â  Â  Â  Â  Â  ÝÜ ÞÝ ÞÛ Â  ß Â  ²²ÜÜÜÜ²² Â ÛÜÜÛÛÛÛÛÛÝ ß Â  ÛÝ ÞÝ ÜÞ
+Â  Â  Â  Â  Â  Â  Â  Â  ÞÝ Â ²Ü ß²Ü Â  Â  ÛÛÛÛÛÛÛ Â  Â ÛÛÛÛÛÛÛ²² Â  Ü²ß Ü² Â ÞÝ
+Â  Â  Â  Â  Â  Â  Â  Â  ÝßÜ Â ßßÜÜ°ßÜ Â  ßß²²ÛÛÛÝ Â ÞÛ°ÜÜÜÜ ßß Üß°ÜÜßß Â ÜßÞ
+Â  Â  Â  Â  Â Ü Â  Â  Â Û Â ßßÜÜ Â ßßÜßÜ Â  Â ÛÛÛßßßßßß ²ÛÛÛ° ÜßÜßß Â ÜÜßß Â Û
+Â  Â  Â  Â  Â ÞÝ Â  Â  Û Â  Â  ß²²Ü ÞÝÞÝ Â  ÜÜÜ ÞÛÛÛÝ ÞÛÛ²ÝÞÝÞÝ Ü²ß Â  Â  Â Û Â Ü Â  Â  Â Ü
+Â  Â  Â  Â  Üß Â  Â  Â Û Â  Ü Â ÞÛÛÝ°Û² Â  ÞÛ²Ý °²ÛÛ² Â  Â  Â  ²Û°ÞÛÜ Â  Â  Â  Û Â ÞÝ Â  Â  ÞÝ
+Â  Â  Â  ÜßÜÜß Â  Â  Û Â  ÞÝ ÛÛÞ²Üß Â  Â  Â  Â  Â  ÜÜßßßÛÛÜÜ Â ßÜ²ÝÞÝ Â  Â  Â ßÜÜÛ° Â  Â Üß
+Â  Â  Â ÞÝ²ÛÝ Â  Â  Â ß ÜÜÛ°ÞÛ²ß Â  Â  Â  Â  Â  ÜÛÛÛ Â  Â  ÛÛ²² Â  Â ²ß Â  Â  Ü²ÛÛß Â  Â ÜßÜÜß
+Â  Â  Â ²ÛÛÛ² Â  Â  Ü²ÛÛß Â ÛÛÝ Â  Â  Â  Â  Â  ²²ÛÛÝ Â  Â ÞÛÛÛÛÝ ÜßÜÜß Â  ÞÛÛÛÝ Â  Â ÞÝ²ÛÝ
+Â  Â  Â ÞÛÛÛÛÝ Â  ÞÛÛÛÝ Â Þ²² Â  Â  Â  Â  Â  ÞÛÛÛÛ Â  Â  ÛÛÛÛÛ ÞÝ²ÛÝ Â  Â °²ÛÛÛ Â  Â ²ÛÛÛ²
+Â  Â  Â  ÛÛÛÛÛ Â  °²ÛÛÛ °ÛÛÝ Â  Â ÜÜÜÜÛÛÛÛÛÛÛÛ Â  Â ÞÛÛÛÛÝ ²ÛÛÛ² Â  Â ÜÜÛÛÛ²° Â ÞÛÛÛÛÝ
+Â  Â  Â  °ÛÛÛÛÛ Â ÜÜÛÛÛ²ÞÛÛÝ °ÛÛÛ²²ß Â  ßÛÛÛÛÝ Â  ÛÛÛÛÛ Â ÞÛÛÛÛÝ°ÛÛÛÛÛÛß ÞÛÛÛÛÛÛÛ²
+Â  ²²ÛÝ ÞÛÛÛÛÝ²²ÛÛÛß ÛÛÛ Â ²²ÛÛÛ Â  Â  ÜÛÛÛÛÛÛÛÛÛÛÛÛ²²ÛÛÛÛÛÛ²ÞÛÛÛÛÛÝ Â ÞÛÛÛ°ÛÛÛÛÛ
+Â  ÛÛÛÛ Â ÛÛÛÛÛÛÛÛÛÝ °ÛÛÛ ÞÛÛÛÛÝ Â  Â ²²ÛÛÛÛÝ Â ÞÛÛÛÛÛÛÛÛ°ÛÛÛÛÛÛÛÛÛÛ Â  ÞÛ²² ÞÛÛÛÛ²
+Â  ÛÛÛÛ Â ÞÛÛÛÛÛÛÛÛ Â ÞÛÛÛ°ÞÛÛÛÛÝ Â  ÞÛÛÛÛÛÛÛ Â  ²ÛÛÛÛÛÛÛ ÞÛÛÛÛÛÛÛÛÛÝ Â ÛÛÛÝ Â ÛÛÛÛÛÝ
+Â  ÛÛÛÛÝÜÛÛÛÛÛÛÛÛÛÝ ÞÛÛÛÝ²²ÛÛÛ Â  Â ÛÛÛÛÛÛ²² Â  Â ßß²²ÛÛÝ Â ÛÛÛÛÛÛÛÛÛÛÜÜÛÛÛÝ Â ÞÛÛÛÛ²
+Â  ÞÛÛÛÛÛÛÛ²²ß²ÛÛÛÛÜ²²ÛÛÛÛÛÛÛÛ Â  Â ÛÛÛÛÛÝ Â  Â  Â  Â °ÛÛÛÝ Â ÞÛÛÛÛ² ßßß²²ÛÛÛÝ ÜÛÛÛÛÛÝ
+Â  ÞÛÛÛ²²ÛÛÛÜÜÜ°°ßßßÛÛÛÛÛÛÛÛÛÛÜÜÜÛÛÛ²²ß Â  Â  Â  Â  ÞÛÛÛÝ ÜÛÛÛÛÛÝ Â  Û ÞÛÛÛÛÛÛÛÛ²²ß
+Â  Â ÛÛÛÛ Â  Â ßßßÛÛÛÛÜÜÜÜÜ°° Â  ßßßßß Â  Â  Â  nERv Â  ÞÛÛÛÛÛÛÛÛ²²ß Â  Â Û Þ²²ÛÛÛÛßßß
+Â  Â ßßßß Â  Â  Â  Â  ÜßßßÛÛÛÛÛÛ Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Þ²²ÛÛÛÛßßß Â  Â  Â Û
+Â  Â  Â  Â  Â  Â  Â  Â  Û Â  Â  ²²ÛÛ Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Û
+Â  Â  Â  Â  Â  Â  Â  Â  Û Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â Û
+Â  Â  Â  Â  Â  Â  Â  Â  Û Â  Â ÜßßÛ Üßß Â ² Â  ÜßßÜ ÜßßÜ ÜßÜ Â Üßß Â ÜßÜ Â  Â  Û
+Â  Â  Â  Â  Â  Â  Â  Â  ÛÜÜÜ Ûß² Â ²ß Ü Û Â  Û Â ² Ûßß² ² Â Û ²ß Ü Û Â ² ÜÜÜÛ
+Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â Û Â ßßßß ßßß Â ßß Â ß Â  Â ßßß Â ßßßß ßßß
+Â 
+Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Total War: Rome II (c) Sega
+Â  Â 
+Â  Â  Â  Â  09/2013 :..... RELEASE.DATE .. PROTECTION .......: Steam+CEG
+Â  Â  Â  Â  Â  Â  Â  1 :.......... DISC(S) .. GAME.TYPE ........: Strategy
+Â  Â 
+Â  Â  Â  Â  Â  Â  Â  Â  Â  Â Üßß Â ÜßßÜ ÜßÜßÜ Üßß Â ß ÜßßÜ ÜßßÜ ÜßßÜ Üß
+Â  ßßßßßßßßßßßßßßßß Û ß² Ûßß² Û Â  ² ²ß Ü Û Û Â ² ²ß Â  Û Â ² ßßßÛ ßßßßßßßßßßßßßßßß
+Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  ßß Â ß Â  Â ß Â  ß ßßßß ß ß Â  Â ß Â  Â  ßß Â  ßß
+Â 
+Â  How far will you go for Rome?
+Â 
+Â  The award-winning Total War series returns to Rome, setting a brand new
+Â  quality benchmark for Strategy gaming. Become the world's first superpower
+Â  and command the Ancient world's most incredible war machine. Dominate your
+Â  enemies by military, economic and political means. Your ascension will bring
+Â  both admiration and jealousy, even from your closest allies.
+Â 
+Â  Will you suffer betrayal or will you be the first to turn on old friends?
+Â  Will you fight to save the Republic, or plot to rule alone as Emperor?
+Â 
+Â  Key Features
+Â  ~~~~~~~~~~~~
+Â  * Plan your conquest of the known world in a massive sandbox turn-based
+Â  Â  campaign mode (supporting additional 2-player cooperative & competitive
+Â  Â  modes). Conspiracies, politics, intrigue, revolts, loyalty, honour,
+Â  Â  ambition, betrayal. Your decisions will write your own story.
+Â  * Build vast armies and take to the battlefield in real-time combat mode.
+Â  Â  Put your tactical skills to the test as you directly control tens of
+Â  Â  thousands of men clashing in epic land and sea battles.
+Â  * Play for the glory of Rome as one of three families or take command of a
+Â  Â  huge variety of rival civilisations - each offers a notably different form
+Â  Â  of gameplay experience with hundreds of unique units from siege engines
+Â  Â  and heavy cavalry to steel-plated legionaries and barbarian berserkers.
+Â  * See exotic ancient cities and colossal armies rendered in incredible
+Â  Â  detail, as jaw-dropping battles unfold. Detailed camera perspectives allow
+Â  Â  you to see your men shout in victory or scream in pain on the frontline,
+Â  Â  while a new tactical cam allows a god's eye view of the carnage to better
+Â  Â  inform your strategic decisions.
+Â  * Extremely scalable experience, with gameplay and graphics performance
+Â  Â  optimised to match low and high-end hardware alike.
+Â 
+Â  Â 
+Â  Included
+Â  ~~~~~~~~
+Â  Total War: Rome II - Greek States Culture Pack
+Â 
+Â 
+Â  Â  Â  Â  Â  Â  Â ß ÜßßÜ Üß Â  ²ÜÜ Â ÜßßÜ ² Â  ² Â  ÜßßÜ ÜßßÜ ²ÜÜ Â Üßß Â Üß
+Â  ßßßßßßßßßß Û Û Â ² ßßßÛ Û Â Ü Ûßß² Û Â  Û Â  Û Â ² Û Â ² Û Â Ü ²ß Ü ßßßÛ ßßßßßßßßßß
+Â  Â  Â  Â  Â  Â  Â ß ß Â  Â  ßß Â  ßßß ß Â  Â ßßß ßßß ß Â  Â  ßß Â  ßßß ßßßß Â ßß
+Â 
+Â  1. Unrar
+Â  2. Burn or mount the image. Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â 
+Â  3. Install the game. Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â 
+Â  4. Copy over the cracked content from the /Crack directory on the image to
+Â  Â  Â your game install directory. Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â 
+Â  5. Play the game. Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â 
+Â  6. If you like this game, BUY IT! Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â 
+Â 
+Â  Â  Â  Â  Â  Â  Â  Â Üßß Â ÜßßÛ ÜßßÜ ² Â Ü ÜßßÛ ÜßßÜ ÜßßÜ ²ÜÜ Â Üßß Â Üß
+Â  ßßßßßßßßßßßß Û ß² Ûß² Â Û Â ² Û Â ² Ûßß Â Û Â ² Û Â ² Û Â Ü ²ß Ü ßßßÛ ßßßßßßßßßßßßß
+Â  Â  Â  Â  Â  Â  Â  Â  ßß Â  Â Û Â  ßß Â  ßß Â ß Â  Â ß Â  Â  ßß Â  ßßß ßßßß Â ßß
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 03 Sep 2013, 13:57]
+Grosses_K wrote:
+Total.War.ROME.II-RELOADED
+
+nfo:
+
+Code: Select all | Line number On/Off | Expand/Contract
+                                      ßÜÜ ß
+                              ÜÜÜÜÜÜ²Ý ÞÛÛÜ ²ÛÜ ßÜ
+                          °²²ÛÛÛÛÛÛÛß ÜÛÛÛÛÝÞÛÛÝ Þ²
+                ÜÜÜÜÜÜ Ü  ÛßÛÛÛÛÛÛ²°Ü²ÛÛÛÛÛÜÛÛÛ² °ÛÝÜÜÜ Ü ÜÜÜÜÜÜ
+                Û      ÞÝÞÝÞÛÛÛÛÛÛÝÞÛÛÛÛÛÛÛÛÛÛÛÛÝ ÛÝ   ÞÝ      Û
+                Û       ²  ²ÛÛÛÛÛÛÛÜÛÛÛÛÛÛÛÛÛÛÛÛÝÞÛÛ   ²       Û
+                Û   Ü  ÞÝ  Þ²ÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÜÛÛÛ   ÞÝ  Ü   Û
+                Û   ÞÝÞÛ     ßßßßß²²ÛÛÛÛÛÛÛÛÛßßß  ²²°   ÛÝÞÝ   Û
+                Û   Û°²Ý  Ü²Ü        ÛÛÛÛÛ°       °ÛÝ   Þ²°Û   Û
+                ÝÜ ÞÝ ÞÛ   ß   ²²ÜÜÜÜ²²  ÛÜÜÛÛÛÛÛÛÝ ß   ÛÝ ÞÝ ÜÞ
+                ÞÝ  ²Ü ß²Ü     ÛÛÛÛÛÛÛ    ÛÛÛÛÛÛÛ²²   Ü²ß Ü²  ÞÝ
+                ÝßÜ  ßßÜÜ°ßÜ   ßß²²ÛÛÛÝ  ÞÛ°ÜÜÜÜ ßß Üß°ÜÜßß  ÜßÞ
+         Ü      Û  ßßÜÜ  ßßÜßÜ    ÛÛÛßßßßßß ²ÛÛÛ° ÜßÜßß  ÜÜßß  Û
+         ÞÝ     Û     ß²²Ü ÞÝÞÝ   ÜÜÜ ÞÛÛÛÝ ÞÛÛ²ÝÞÝÞÝ Ü²ß      Û  Ü      Ü
+        Üß      Û   Ü  ÞÛÛÝ°Û²   ÞÛ²Ý °²ÛÛ²       ²Û°ÞÛÜ       Û  ÞÝ     ÞÝ
+      ÜßÜÜß     Û   ÞÝ ÛÛÞ²Üß           ÜÜßßßÛÛÜÜ  ßÜ²ÝÞÝ      ßÜÜÛ°    Üß
+     ÞÝ²ÛÝ      ß ÜÜÛ°ÞÛ²ß           ÜÛÛÛ     ÛÛ²²    ²ß     Ü²ÛÛß    ÜßÜÜß
+     ²ÛÛÛ²     Ü²ÛÛß  ÛÛÝ           ²²ÛÛÝ    ÞÛÛÛÛÝ ÜßÜÜß   ÞÛÛÛÝ    ÞÝ²ÛÝ
+     ÞÛÛÛÛÝ   ÞÛÛÛÝ  Þ²²           ÞÛÛÛÛ     ÛÛÛÛÛ ÞÝ²ÛÝ    °²ÛÛÛ    ²ÛÛÛ²
+      ÛÛÛÛÛ   °²ÛÛÛ °ÛÛÝ    ÜÜÜÜÛÛÛÛÛÛÛÛ    ÞÛÛÛÛÝ ²ÛÛÛ²    ÜÜÛÛÛ²°  ÞÛÛÛÛÝ
+      °ÛÛÛÛÛ  ÜÜÛÛÛ²ÞÛÛÝ °ÛÛÛ²²ß   ßÛÛÛÛÝ   ÛÛÛÛÛ  ÞÛÛÛÛÝ°ÛÛÛÛÛÛß ÞÛÛÛÛÛÛÛ²
+  ²²ÛÝ ÞÛÛÛÛÝ²²ÛÛÛß ÛÛÛ  ²²ÛÛÛ     ÜÛÛÛÛÛÛÛÛÛÛÛÛ²²ÛÛÛÛÛÛ²ÞÛÛÛÛÛÝ  ÞÛÛÛ°ÛÛÛÛÛ
+  ÛÛÛÛ  ÛÛÛÛÛÛÛÛÛÝ °ÛÛÛ ÞÛÛÛÛÝ    ²²ÛÛÛÛÝ  ÞÛÛÛÛÛÛÛÛ°ÛÛÛÛÛÛÛÛÛÛ   ÞÛ²² ÞÛÛÛÛ²
+  ÛÛÛÛ  ÞÛÛÛÛÛÛÛÛ  ÞÛÛÛ°ÞÛÛÛÛÝ   ÞÛÛÛÛÛÛÛ   ²ÛÛÛÛÛÛÛ ÞÛÛÛÛÛÛÛÛÛÝ  ÛÛÛÝ  ÛÛÛÛÛÝ
+  ÛÛÛÛÝÜÛÛÛÛÛÛÛÛÛÝ ÞÛÛÛÝ²²ÛÛÛ    ÛÛÛÛÛÛ²²    ßß²²ÛÛÝ  ÛÛÛÛÛÛÛÛÛÛÜÜÛÛÛÝ  ÞÛÛÛÛ²
+  ÞÛÛÛÛÛÛÛ²²ß²ÛÛÛÛÜ²²ÛÛÛÛÛÛÛÛ    ÛÛÛÛÛÝ        °ÛÛÛÝ  ÞÛÛÛÛ² ßßß²²ÛÛÛÝ ÜÛÛÛÛÛÝ
+  ÞÛÛÛ²²ÛÛÛÜÜÜ°°ßßßÛÛÛÛÛÛÛÛÛÛÜÜÜÛÛÛ²²ß         ÞÛÛÛÝ ÜÛÛÛÛÛÝ   Û ÞÛÛÛÛÛÛÛÛ²²ß
+   ÛÛÛÛ    ßßßÛÛÛÛÜÜÜÜÜ°°   ßßßßß       nERv   ÞÛÛÛÛÛÛÛÛ²²ß    Û Þ²²ÛÛÛÛßßß
+   ßßßß         ÜßßßÛÛÛÛÛÛ                     Þ²²ÛÛÛÛßßß      Û
+                Û     ²²ÛÛ                                     Û
+                Û                                              Û
+                Û    ÜßßÛ Üßß  ²   ÜßßÜ ÜßßÜ ÜßÜ  Üßß  ÜßÜ     Û
+                ÛÜÜÜ Ûß²  ²ß Ü Û   Û  ² Ûßß² ²  Û ²ß Ü Û  ² ÜÜÜÛ
+                       Û  ßßßß ßßß  ßß  ß    ßßß  ßßßß ßßß
+ 
+                          Total War: Rome II (c) Sega
+   
+        09/2013 :..... RELEASE.DATE .. PROTECTION .......: Steam+CEG
+              1 :.......... DISC(S) .. GAME.TYPE ........: Strategy
+   
+                   Üßß  ÜßßÜ ÜßÜßÜ Üßß  ß ÜßßÜ ÜßßÜ ÜßßÜ Üß
+  ßßßßßßßßßßßßßßßß Û ß² Ûßß² Û   ² ²ß Ü Û Û  ² ²ß   Û  ² ßßßÛ ßßßßßßßßßßßßßßßß
+                    ßß  ß    ß   ß ßßßß ß ß    ß     ßß   ßß
+ 
+  How far will you go for Rome?
+ 
+  The award-winning Total War series returns to Rome, setting a brand new
+  quality benchmark for Strategy gaming. Become the world's first superpower
+  and command the Ancient world's most incredible war machine. Dominate your
+  enemies by military, economic and political means. Your ascension will bring
+  both admiration and jealousy, even from your closest allies.
+ 
+  Will you suffer betrayal or will you be the first to turn on old friends?
+  Will you fight to save the Republic, or plot to rule alone as Emperor?
+ 
+  Key Features
+  ~~~~~~~~~~~~
+  * Plan your conquest of the known world in a massive sandbox turn-based
+    campaign mode (supporting additional 2-player cooperative & competitive
+    modes). Conspiracies, politics, intrigue, revolts, loyalty, honour,
+    ambition, betrayal. Your decisions will write your own story.
+  * Build vast armies and take to the battlefield in real-time combat mode.
+    Put your tactical skills to the test as you directly control tens of
+    thousands of men clashing in epic land and sea battles.
+  * Play for the glory of Rome as one of three families or take command of a
+    huge variety of rival civilisations - each offers a notably different form
+    of gameplay experience with hundreds of unique units from siege engines
+    and heavy cavalry to steel-plated legionaries and barbarian berserkers.
+  * See exotic ancient cities and colossal armies rendered in incredible
+    detail, as jaw-dropping battles unfold. Detailed camera perspectives allow
+    you to see your men shout in victory or scream in pain on the frontline,
+    while a new tactical cam allows a god's eye view of the carnage to better
+    inform your strategic decisions.
+  * Extremely scalable experience, with gameplay and graphics performance
+    optimised to match low and high-end hardware alike.
+ 
+   
+  Included
+  ~~~~~~~~
+  Total War: Rome II - Greek States Culture Pack
+ 
+ 
+             ß ÜßßÜ Üß   ²ÜÜ  ÜßßÜ ²   ²   ÜßßÜ ÜßßÜ ²ÜÜ  Üßß  Üß
+  ßßßßßßßßßß Û Û  ² ßßßÛ Û  Ü Ûßß² Û   Û   Û  ² Û  ² Û  Ü ²ß Ü ßßßÛ ßßßßßßßßßß
+             ß ß     ßß   ßßß ß    ßßß ßßß ß     ßß   ßßß ßßßß  ßß
+ 
+  1. Unrar
+  2. Burn or mount the image.                                                
+  3. Install the game.                                                      
+  4. Copy over the cracked content from the /Crack directory on the image to
+     your game install directory.                                            
+  5. Play the game.                                                          
+  6. If you like this game, BUY IT!                                                      
+ 
+               Üßß  ÜßßÛ ÜßßÜ ²  Ü ÜßßÛ ÜßßÜ ÜßßÜ ²ÜÜ  Üßß  Üß
+  ßßßßßßßßßßßß Û ß² Ûß²  Û  ² Û  ² Ûßß  Û  ² Û  ² Û  Ü ²ß Ü ßßßÛ ßßßßßßßßßßßßß
+                ßß    Û   ßß   ßß  ß    ß     ßß   ßßß ßßßß  ßß
+
+
+Yup, i can confirm that RELOADED has released a crack now!
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 03 Sep 2013, 13:59]
+commanderz wrote:
+I am AWESOME how you make the game from 16 Gb to 8 gb?? is a repack version or anything get cut or compressed video?...@@
+
+only better compression
+
+-- Edit --
+
+
+Nicke9494 wrote:
+Grosses_K wrote:
+Total.War.ROME.II-RELOADED
+
+nfo:
+
+Code: Select all | Line number On/Off | Expand/Contract
+                                      ßÜÜ ß
+                              ÜÜÜÜÜÜ²Ý ÞÛÛÜ ²ÛÜ ßÜ
+                          °²²ÛÛÛÛÛÛÛß ÜÛÛÛÛÝÞÛÛÝ Þ²
+                ÜÜÜÜÜÜ Ü  ÛßÛÛÛÛÛÛ²°Ü²ÛÛÛÛÛÜÛÛÛ² °ÛÝÜÜÜ Ü ÜÜÜÜÜÜ
+                Û      ÞÝÞÝÞÛÛÛÛÛÛÝÞÛÛÛÛÛÛÛÛÛÛÛÛÝ ÛÝ   ÞÝ      Û
+                Û       ²  ²ÛÛÛÛÛÛÛÜÛÛÛÛÛÛÛÛÛÛÛÛÝÞÛÛ   ²       Û
+                Û   Ü  ÞÝ  Þ²ÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÜÛÛÛ   ÞÝ  Ü   Û
+                Û   ÞÝÞÛ     ßßßßß²²ÛÛÛÛÛÛÛÛÛßßß  ²²°   ÛÝÞÝ   Û
+                Û   Û°²Ý  Ü²Ü        ÛÛÛÛÛ°       °ÛÝ   Þ²°Û   Û
+                ÝÜ ÞÝ ÞÛ   ß   ²²ÜÜÜÜ²²  ÛÜÜÛÛÛÛÛÛÝ ß   ÛÝ ÞÝ ÜÞ
+                ÞÝ  ²Ü ß²Ü     ÛÛÛÛÛÛÛ    ÛÛÛÛÛÛÛ²²   Ü²ß Ü²  ÞÝ
+                ÝßÜ  ßßÜÜ°ßÜ   ßß²²ÛÛÛÝ  ÞÛ°ÜÜÜÜ ßß Üß°ÜÜßß  ÜßÞ
+         Ü      Û  ßßÜÜ  ßßÜßÜ    ÛÛÛßßßßßß ²ÛÛÛ° ÜßÜßß  ÜÜßß  Û
+         ÞÝ     Û     ß²²Ü ÞÝÞÝ   ÜÜÜ ÞÛÛÛÝ ÞÛÛ²ÝÞÝÞÝ Ü²ß      Û  Ü      Ü
+        Üß      Û   Ü  ÞÛÛÝ°Û²   ÞÛ²Ý °²ÛÛ²       ²Û°ÞÛÜ       Û  ÞÝ     ÞÝ
+      ÜßÜÜß     Û   ÞÝ ÛÛÞ²Üß           ÜÜßßßÛÛÜÜ  ßÜ²ÝÞÝ      ßÜÜÛ°    Üß
+     ÞÝ²ÛÝ      ß ÜÜÛ°ÞÛ²ß           ÜÛÛÛ     ÛÛ²²    ²ß     Ü²ÛÛß    ÜßÜÜß
+     ²ÛÛÛ²     Ü²ÛÛß  ÛÛÝ           ²²ÛÛÝ    ÞÛÛÛÛÝ ÜßÜÜß   ÞÛÛÛÝ    ÞÝ²ÛÝ
+     ÞÛÛÛÛÝ   ÞÛÛÛÝ  Þ²²           ÞÛÛÛÛ     ÛÛÛÛÛ ÞÝ²ÛÝ    °²ÛÛÛ    ²ÛÛÛ²
+      ÛÛÛÛÛ   °²ÛÛÛ °ÛÛÝ    ÜÜÜÜÛÛÛÛÛÛÛÛ    ÞÛÛÛÛÝ ²ÛÛÛ²    ÜÜÛÛÛ²°  ÞÛÛÛÛÝ
+      °ÛÛÛÛÛ  ÜÜÛÛÛ²ÞÛÛÝ °ÛÛÛ²²ß   ßÛÛÛÛÝ   ÛÛÛÛÛ  ÞÛÛÛÛÝ°ÛÛÛÛÛÛß ÞÛÛÛÛÛÛÛ²
+  ²²ÛÝ ÞÛÛÛÛÝ²²ÛÛÛß ÛÛÛ  ²²ÛÛÛ     ÜÛÛÛÛÛÛÛÛÛÛÛÛ²²ÛÛÛÛÛÛ²ÞÛÛÛÛÛÝ  ÞÛÛÛ°ÛÛÛÛÛ
+  ÛÛÛÛ  ÛÛÛÛÛÛÛÛÛÝ °ÛÛÛ ÞÛÛÛÛÝ    ²²ÛÛÛÛÝ  ÞÛÛÛÛÛÛÛÛ°ÛÛÛÛÛÛÛÛÛÛ   ÞÛ²² ÞÛÛÛÛ²
+  ÛÛÛÛ  ÞÛÛÛÛÛÛÛÛ  ÞÛÛÛ°ÞÛÛÛÛÝ   ÞÛÛÛÛÛÛÛ   ²ÛÛÛÛÛÛÛ ÞÛÛÛÛÛÛÛÛÛÝ  ÛÛÛÝ  ÛÛÛÛÛÝ
+  ÛÛÛÛÝÜÛÛÛÛÛÛÛÛÛÝ ÞÛÛÛÝ²²ÛÛÛ    ÛÛÛÛÛÛ²²    ßß²²ÛÛÝ  ÛÛÛÛÛÛÛÛÛÛÜÜÛÛÛÝ  ÞÛÛÛÛ²
+  ÞÛÛÛÛÛÛÛ²²ß²ÛÛÛÛÜ²²ÛÛÛÛÛÛÛÛ    ÛÛÛÛÛÝ        °ÛÛÛÝ  ÞÛÛÛÛ² ßßß²²ÛÛÛÝ ÜÛÛÛÛÛÝ
+  ÞÛÛÛ²²ÛÛÛÜÜÜ°°ßßßÛÛÛÛÛÛÛÛÛÛÜÜÜÛÛÛ²²ß         ÞÛÛÛÝ ÜÛÛÛÛÛÝ   Û ÞÛÛÛÛÛÛÛÛ²²ß
+   ÛÛÛÛ    ßßßÛÛÛÛÜÜÜÜÜ°°   ßßßßß       nERv   ÞÛÛÛÛÛÛÛÛ²²ß    Û Þ²²ÛÛÛÛßßß
+   ßßßß         ÜßßßÛÛÛÛÛÛ                     Þ²²ÛÛÛÛßßß      Û
+                Û     ²²ÛÛ                                     Û
+                Û                                              Û
+                Û    ÜßßÛ Üßß  ²   ÜßßÜ ÜßßÜ ÜßÜ  Üßß  ÜßÜ     Û
+                ÛÜÜÜ Ûß²  ²ß Ü Û   Û  ² Ûßß² ²  Û ²ß Ü Û  ² ÜÜÜÛ
+                       Û  ßßßß ßßß  ßß  ß    ßßß  ßßßß ßßß
+ 
+                          Total War: Rome II (c) Sega
+   
+        09/2013 :..... RELEASE.DATE .. PROTECTION .......: Steam+CEG
+              1 :.......... DISC(S) .. GAME.TYPE ........: Strategy
+   
+                   Üßß  ÜßßÜ ÜßÜßÜ Üßß  ß ÜßßÜ ÜßßÜ ÜßßÜ Üß
+  ßßßßßßßßßßßßßßßß Û ß² Ûßß² Û   ² ²ß Ü Û Û  ² ²ß   Û  ² ßßßÛ ßßßßßßßßßßßßßßßß
+                    ßß  ß    ß   ß ßßßß ß ß    ß     ßß   ßß
+ 
+  How far will you go for Rome?
+ 
+  The award-winning Total War series returns to Rome, setting a brand new
+  quality benchmark for Strategy gaming. Become the world's first superpower
+  and command the Ancient world's most incredible war machine. Dominate your
+  enemies by military, economic and political means. Your ascension will bring
+  both admiration and jealousy, even from your closest allies.
+ 
+  Will you suffer betrayal or will you be the first to turn on old friends?
+  Will you fight to save the Republic, or plot to rule alone as Emperor?
+ 
+  Key Features
+  ~~~~~~~~~~~~
+  * Plan your conquest of the known world in a massive sandbox turn-based
+    campaign mode (supporting additional 2-player cooperative & competitive
+    modes). Conspiracies, politics, intrigue, revolts, loyalty, honour,
+    ambition, betrayal. Your decisions will write your own story.
+  * Build vast armies and take to the battlefield in real-time combat mode.
+    Put your tactical skills to the test as you directly control tens of
+    thousands of men clashing in epic land and sea battles.
+  * Play for the glory of Rome as one of three families or take command of a
+    huge variety of rival civilisations - each offers a notably different form
+    of gameplay experience with hundreds of unique units from siege engines
+    and heavy cavalry to steel-plated legionaries and barbarian berserkers.
+  * See exotic ancient cities and colossal armies rendered in incredible
+    detail, as jaw-dropping battles unfold. Detailed camera perspectives allow
+    you to see your men shout in victory or scream in pain on the frontline,
+    while a new tactical cam allows a god's eye view of the carnage to better
+    inform your strategic decisions.
+  * Extremely scalable experience, with gameplay and graphics performance
+    optimised to match low and high-end hardware alike.
+ 
+   
+  Included
+  ~~~~~~~~
+  Total War: Rome II - Greek States Culture Pack
+ 
+ 
+             ß ÜßßÜ Üß   ²ÜÜ  ÜßßÜ ²   ²   ÜßßÜ ÜßßÜ ²ÜÜ  Üßß  Üß
+  ßßßßßßßßßß Û Û  ² ßßßÛ Û  Ü Ûßß² Û   Û   Û  ² Û  ² Û  Ü ²ß Ü ßßßÛ ßßßßßßßßßß
+             ß ß     ßß   ßßß ß    ßßß ßßß ß     ßß   ßßß ßßßß  ßß
+ 
+  1. Unrar
+  2. Burn or mount the image.                                                
+  3. Install the game.                                                      
+  4. Copy over the cracked content from the /Crack directory on the image to
+     your game install directory.                                            
+  5. Play the game.                                                          
+  6. If you like this game, BUY IT!                                                      
+ 
+               Üßß  ÜßßÛ ÜßßÜ ²  Ü ÜßßÛ ÜßßÜ ÜßßÜ ²ÜÜ  Üßß  Üß
+  ßßßßßßßßßßßß Û ß² Ûß²  Û  ² Û  ² Ûßß  Û  ² Û  ² Û  Ü ²ß Ü ßßßÛ ßßßßßßßßßßßßß
+                ßß    Û   ßß   ßß  ß    ß     ßß   ßßß ßßßß  ßß
+
+
+Yup, i can confirm that RELOADED has released a crack now!
+
+revolt unlock lan so it's better 
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 03 Sep 2013, 13:59]
+It's normal winrar compression. 
+
+Nothing removed or ripped.
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 03 Sep 2013, 13:59]
+
+_________________
+
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 03 Sep 2013, 14:00]
+rld crack only?
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 03 Sep 2013, 14:00]
+
+_________________
+mostly inactive until at least half of july 2025
+
+If any of my uploads are outdated or no longer online , the best way to do is to send me a PM and i will add the title to the next batch
+UPLOADS PAUSED (have all requests in queue for when i am back to being more active)
+
+List of recent games with modern DRMs:(updated 01-Mar-2023) - http://cs.rin.ru/forum/viewtopic.php?f=10&t=68151
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 03 Sep 2013, 14:00]
+commanderz wrote:
+I am AWESOME how you make the game from 16 Gb to 8 gb?? is a repack version or anything get cut or compressed video?...@@
+
+
+i made it 1dvd5, i think still compressing though
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 03 Sep 2013, 14:03]
+oronzo91 wrote:
+revolt unlock lan so it's better 
+
+
+All Cracks unlock MP Features, LAN accessable...ofc online only with steamworks fix.
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 03 Sep 2013, 14:04]
+BTW: any chance that skidrowcegemu method would work on Shogun2 too?
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 03 Sep 2013, 14:04]
+
+_________________
+mostly inactive until at least half of july 2025
+
+If any of my uploads are outdated or no longer online , the best way to do is to send me a PM and i will add the title to the next batch
+UPLOADS PAUSED (have all requests in queue for when i am back to being more active)
+
+List of recent games with modern DRMs:(updated 01-Mar-2023) - http://cs.rin.ru/forum/viewtopic.php?f=10&t=68151
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 03 Sep 2013, 14:05]
+ShadowDuke wrote:
+oronzo91 wrote:
+revolt unlock lan so it's better 
+
+
+All Cracks unlock MP Features, LAN accessable...ofc online only with steamworks fix.
+
+
+So the game works, LAN with like hamachi or Tunngle? If so that is awesome!
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 03 Sep 2013, 14:06]
+Nicke9494 wrote:
+
+Yup, i can confirm that RELOADED has released a crack now!
+
+
+You don't say ? 
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 03 Sep 2013, 14:10]
+Ston3Cold wrote:
+Nicke9494 wrote:
+
+Yup, i can confirm that RELOADED has released a crack now!
+
+
+You don't say ? 
+
+
+Lol 
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 03 Sep 2013, 14:10]
+Grosses_K wrote:
+Total.War.ROME.II-RELOADED
+
+nfo:
+
+Code: Select all | Line number On/Off | Expand/Contract
+                                      ßÜÜ ß
+                              ÜÜÜÜÜÜ²Ý ÞÛÛÜ ²ÛÜ ßÜ
+                          °²²ÛÛÛÛÛÛÛß ÜÛÛÛÛÝÞÛÛÝ Þ²
+                ÜÜÜÜÜÜ Ü  ÛßÛÛÛÛÛÛ²°Ü²ÛÛÛÛÛÜÛÛÛ² °ÛÝÜÜÜ Ü ÜÜÜÜÜÜ
+                Û      ÞÝÞÝÞÛÛÛÛÛÛÝÞÛÛÛÛÛÛÛÛÛÛÛÛÝ ÛÝ   ÞÝ      Û
+                Û       ²  ²ÛÛÛÛÛÛÛÜÛÛÛÛÛÛÛÛÛÛÛÛÝÞÛÛ   ²       Û
+                Û   Ü  ÞÝ  Þ²ÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÜÛÛÛ   ÞÝ  Ü   Û
+                Û   ÞÝÞÛ     ßßßßß²²ÛÛÛÛÛÛÛÛÛßßß  ²²°   ÛÝÞÝ   Û
+                Û   Û°²Ý  Ü²Ü        ÛÛÛÛÛ°       °ÛÝ   Þ²°Û   Û
+                ÝÜ ÞÝ ÞÛ   ß   ²²ÜÜÜÜ²²  ÛÜÜÛÛÛÛÛÛÝ ß   ÛÝ ÞÝ ÜÞ
+                ÞÝ  ²Ü ß²Ü     ÛÛÛÛÛÛÛ    ÛÛÛÛÛÛÛ²²   Ü²ß Ü²  ÞÝ
+                ÝßÜ  ßßÜÜ°ßÜ   ßß²²ÛÛÛÝ  ÞÛ°ÜÜÜÜ ßß Üß°ÜÜßß  ÜßÞ
+         Ü      Û  ßßÜÜ  ßßÜßÜ    ÛÛÛßßßßßß ²ÛÛÛ° ÜßÜßß  ÜÜßß  Û
+         ÞÝ     Û     ß²²Ü ÞÝÞÝ   ÜÜÜ ÞÛÛÛÝ ÞÛÛ²ÝÞÝÞÝ Ü²ß      Û  Ü      Ü
+        Üß      Û   Ü  ÞÛÛÝ°Û²   ÞÛ²Ý °²ÛÛ²       ²Û°ÞÛÜ       Û  ÞÝ     ÞÝ
+      ÜßÜÜß     Û   ÞÝ ÛÛÞ²Üß           ÜÜßßßÛÛÜÜ  ßÜ²ÝÞÝ      ßÜÜÛ°    Üß
+     ÞÝ²ÛÝ      ß ÜÜÛ°ÞÛ²ß           ÜÛÛÛ     ÛÛ²²    ²ß     Ü²ÛÛß    ÜßÜÜß
+     ²ÛÛÛ²     Ü²ÛÛß  ÛÛÝ           ²²ÛÛÝ    ÞÛÛÛÛÝ ÜßÜÜß   ÞÛÛÛÝ    ÞÝ²ÛÝ
+     ÞÛÛÛÛÝ   ÞÛÛÛÝ  Þ²²           ÞÛÛÛÛ     ÛÛÛÛÛ ÞÝ²ÛÝ    °²ÛÛÛ    ²ÛÛÛ²
+      ÛÛÛÛÛ   °²ÛÛÛ °ÛÛÝ    ÜÜÜÜÛÛÛÛÛÛÛÛ    ÞÛÛÛÛÝ ²ÛÛÛ²    ÜÜÛÛÛ²°  ÞÛÛÛÛÝ
+      °ÛÛÛÛÛ  ÜÜÛÛÛ²ÞÛÛÝ °ÛÛÛ²²ß   ßÛÛÛÛÝ   ÛÛÛÛÛ  ÞÛÛÛÛÝ°ÛÛÛÛÛÛß ÞÛÛÛÛÛÛÛ²
+  ²²ÛÝ ÞÛÛÛÛÝ²²ÛÛÛß ÛÛÛ  ²²ÛÛÛ     ÜÛÛÛÛÛÛÛÛÛÛÛÛ²²ÛÛÛÛÛÛ²ÞÛÛÛÛÛÝ  ÞÛÛÛ°ÛÛÛÛÛ
+  ÛÛÛÛ  ÛÛÛÛÛÛÛÛÛÝ °ÛÛÛ ÞÛÛÛÛÝ    ²²ÛÛÛÛÝ  ÞÛÛÛÛÛÛÛÛ°ÛÛÛÛÛÛÛÛÛÛ   ÞÛ²² ÞÛÛÛÛ²
+  ÛÛÛÛ  ÞÛÛÛÛÛÛÛÛ  ÞÛÛÛ°ÞÛÛÛÛÝ   ÞÛÛÛÛÛÛÛ   ²ÛÛÛÛÛÛÛ ÞÛÛÛÛÛÛÛÛÛÝ  ÛÛÛÝ  ÛÛÛÛÛÝ
+  ÛÛÛÛÝÜÛÛÛÛÛÛÛÛÛÝ ÞÛÛÛÝ²²ÛÛÛ    ÛÛÛÛÛÛ²²    ßß²²ÛÛÝ  ÛÛÛÛÛÛÛÛÛÛÜÜÛÛÛÝ  ÞÛÛÛÛ²
+  ÞÛÛÛÛÛÛÛ²²ß²ÛÛÛÛÜ²²ÛÛÛÛÛÛÛÛ    ÛÛÛÛÛÝ        °ÛÛÛÝ  ÞÛÛÛÛ² ßßß²²ÛÛÛÝ ÜÛÛÛÛÛÝ
+  ÞÛÛÛ²²ÛÛÛÜÜÜ°°ßßßÛÛÛÛÛÛÛÛÛÛÜÜÜÛÛÛ²²ß         ÞÛÛÛÝ ÜÛÛÛÛÛÝ   Û ÞÛÛÛÛÛÛÛÛ²²ß
+   ÛÛÛÛ    ßßßÛÛÛÛÜÜÜÜÜ°°   ßßßßß       nERv   ÞÛÛÛÛÛÛÛÛ²²ß    Û Þ²²ÛÛÛÛßßß
+   ßßßß         ÜßßßÛÛÛÛÛÛ                     Þ²²ÛÛÛÛßßß      Û
+                Û     ²²ÛÛ                                     Û
+                Û                                              Û
+                Û    ÜßßÛ Üßß  ²   ÜßßÜ ÜßßÜ ÜßÜ  Üßß  ÜßÜ     Û
+                ÛÜÜÜ Ûß²  ²ß Ü Û   Û  ² Ûßß² ²  Û ²ß Ü Û  ² ÜÜÜÛ
+                       Û  ßßßß ßßß  ßß  ß    ßßß  ßßßß ßßß
+ 
+                          Total War: Rome II (c) Sega
+   
+        09/2013 :..... RELEASE.DATE .. PROTECTION .......: Steam+CEG
+              1 :.......... DISC(S) .. GAME.TYPE ........: Strategy
+   
+                   Üßß  ÜßßÜ ÜßÜßÜ Üßß  ß ÜßßÜ ÜßßÜ ÜßßÜ Üß
+  ßßßßßßßßßßßßßßßß Û ß² Ûßß² Û   ² ²ß Ü Û Û  ² ²ß   Û  ² ßßßÛ ßßßßßßßßßßßßßßßß
+                    ßß  ß    ß   ß ßßßß ß ß    ß     ßß   ßß
+ 
+  How far will you go for Rome?
+ 
+  The award-winning Total War series returns to Rome, setting a brand new
+  quality benchmark for Strategy gaming. Become the world's first superpower
+  and command the Ancient world's most incredible war machine. Dominate your
+  enemies by military, economic and political means. Your ascension will bring
+  both admiration and jealousy, even from your closest allies.
+ 
+  Will you suffer betrayal or will you be the first to turn on old friends?
+  Will you fight to save the Republic, or plot to rule alone as Emperor?
+ 
+  Key Features
+  ~~~~~~~~~~~~
+  * Plan your conquest of the known world in a massive sandbox turn-based
+    campaign mode (supporting additional 2-player cooperative & competitive
+    modes). Conspiracies, politics, intrigue, revolts, loyalty, honour,
+    ambition, betrayal. Your decisions will write your own story.
+  * Build vast armies and take to the battlefield in real-time combat mode.
+    Put your tactical skills to the test as you directly control tens of
+    thousands of men clashing in epic land and sea battles.
+  * Play for the glory of Rome as one of three families or take command of a
+    huge variety of rival civilisations - each offers a notably different form
+    of gameplay experience with hundreds of unique units from siege engines
+    and heavy cavalry to steel-plated legionaries and barbarian berserkers.
+  * See exotic ancient cities and colossal armies rendered in incredible
+    detail, as jaw-dropping battles unfold. Detailed camera perspectives allow
+    you to see your men shout in victory or scream in pain on the frontline,
+    while a new tactical cam allows a god's eye view of the carnage to better
+    inform your strategic decisions.
+  * Extremely scalable experience, with gameplay and graphics performance
+    optimised to match low and high-end hardware alike.
+ 
+   
+  Included
+  ~~~~~~~~
+  Total War: Rome II - Greek States Culture Pack
+ 
+ 
+             ß ÜßßÜ Üß   ²ÜÜ  ÜßßÜ ²   ²   ÜßßÜ ÜßßÜ ²ÜÜ  Üßß  Üß
+  ßßßßßßßßßß Û Û  ² ßßßÛ Û  Ü Ûßß² Û   Û   Û  ² Û  ² Û  Ü ²ß Ü ßßßÛ ßßßßßßßßßß
+             ß ß     ßß   ßßß ß    ßßß ßßß ß     ßß   ßßß ßßßß  ßß
+ 
+  1. Unrar
+  2. Burn or mount the image.                                                
+  3. Install the game.                                                      
+  4. Copy over the cracked content from the /Crack directory on the image to
+     your game install directory.                                            
+  5. Play the game.                                                          
+  6. If you like this game, BUY IT!                                                      
+ 
+               Üßß  ÜßßÛ ÜßßÜ ²  Ü ÜßßÛ ÜßßÜ ÜßßÜ ²ÜÜ  Üßß  Üß
+  ßßßßßßßßßßßß Û ß² Ûß²  Û  ² Û  ² Ûßß  Û  ² Û  ² Û  Ü ²ß Ü ßßßÛ ßßßßßßßßßßßßß
+                ßß    Û   ßß   ßß  ß    ß     ßß   ßßß ßßßß  ßß
+
+fake, no info now @http://www.prelist.ws/?section=GAMES or http://orlydb.com/s/games
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 03 Sep 2013, 14:10]
+
+_________________
+
+. . .. . .
+
+ The current best Free File Hosters!
+
+1. http://mega.co.nz/
+
+
+2. http://openload.co/
+
+
+3. http://uptobox.com/
+
+
+4. http://zippyshare.com/
+
+
+ My PC Details
+- MSI Z87-G45 Gaming Motherboard
+- 16 GB RAM (2x 8192MB) Crucial Ballistix Sport
+- Intel® Core™ i7-4770K @ 4.3GHz
+- MSI Geforce GTX 980 Twin Frozr V Gaming 4G @ 1470MHz
+- Windows 10 Pro x64  (better than Win7, no joke!)
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 03 Sep 2013, 14:11]
+Hahaha once again rld magicly "makes a crack" and drop a game  Dam i had great speed on the torrent 1.7mb/sec then it dropped to 100kb/s :S ragetime
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 03 Sep 2013, 14:12]
+hattisit_ wrote:
+Grosses_K wrote:
+Total.War.ROME.II-RELOADED
+
+nfo:
+
+Code: Select all | Line number On/Off | Expand/Contract
+                                      ßÜÜ ß
+                              ÜÜÜÜÜÜ²Ý ÞÛÛÜ ²ÛÜ ßÜ
+                          °²²ÛÛÛÛÛÛÛß ÜÛÛÛÛÝÞÛÛÝ Þ²
+                ÜÜÜÜÜÜ Ü  ÛßÛÛÛÛÛÛ²°Ü²ÛÛÛÛÛÜÛÛÛ² °ÛÝÜÜÜ Ü ÜÜÜÜÜÜ
+                Û      ÞÝÞÝÞÛÛÛÛÛÛÝÞÛÛÛÛÛÛÛÛÛÛÛÛÝ ÛÝ   ÞÝ      Û
+                Û       ²  ²ÛÛÛÛÛÛÛÜÛÛÛÛÛÛÛÛÛÛÛÛÝÞÛÛ   ²       Û
+                Û   Ü  ÞÝ  Þ²ÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÜÛÛÛ   ÞÝ  Ü   Û
+                Û   ÞÝÞÛ     ßßßßß²²ÛÛÛÛÛÛÛÛÛßßß  ²²°   ÛÝÞÝ   Û
+                Û   Û°²Ý  Ü²Ü        ÛÛÛÛÛ°       °ÛÝ   Þ²°Û   Û
+                ÝÜ ÞÝ ÞÛ   ß   ²²ÜÜÜÜ²²  ÛÜÜÛÛÛÛÛÛÝ ß   ÛÝ ÞÝ ÜÞ
+                ÞÝ  ²Ü ß²Ü     ÛÛÛÛÛÛÛ    ÛÛÛÛÛÛÛ²²   Ü²ß Ü²  ÞÝ
+                ÝßÜ  ßßÜÜ°ßÜ   ßß²²ÛÛÛÝ  ÞÛ°ÜÜÜÜ ßß Üß°ÜÜßß  ÜßÞ
+         Ü      Û  ßßÜÜ  ßßÜßÜ    ÛÛÛßßßßßß ²ÛÛÛ° ÜßÜßß  ÜÜßß  Û
+         ÞÝ     Û     ß²²Ü ÞÝÞÝ   ÜÜÜ ÞÛÛÛÝ ÞÛÛ²ÝÞÝÞÝ Ü²ß      Û  Ü      Ü
+        Üß      Û   Ü  ÞÛÛÝ°Û²   ÞÛ²Ý °²ÛÛ²       ²Û°ÞÛÜ       Û  ÞÝ     ÞÝ
+      ÜßÜÜß     Û   ÞÝ ÛÛÞ²Üß           ÜÜßßßÛÛÜÜ  ßÜ²ÝÞÝ      ßÜÜÛ°    Üß
+     ÞÝ²ÛÝ      ß ÜÜÛ°ÞÛ²ß           ÜÛÛÛ     ÛÛ²²    ²ß     Ü²ÛÛß    ÜßÜÜß
+     ²ÛÛÛ²     Ü²ÛÛß  ÛÛÝ           ²²ÛÛÝ    ÞÛÛÛÛÝ ÜßÜÜß   ÞÛÛÛÝ    ÞÝ²ÛÝ
+     ÞÛÛÛÛÝ   ÞÛÛÛÝ  Þ²²           ÞÛÛÛÛ     ÛÛÛÛÛ ÞÝ²ÛÝ    °²ÛÛÛ    ²ÛÛÛ²
+      ÛÛÛÛÛ   °²ÛÛÛ °ÛÛÝ    ÜÜÜÜÛÛÛÛÛÛÛÛ    ÞÛÛÛÛÝ ²ÛÛÛ²    ÜÜÛÛÛ²°  ÞÛÛÛÛÝ
+      °ÛÛÛÛÛ  ÜÜÛÛÛ²ÞÛÛÝ °ÛÛÛ²²ß   ßÛÛÛÛÝ   ÛÛÛÛÛ  ÞÛÛÛÛÝ°ÛÛÛÛÛÛß ÞÛÛÛÛÛÛÛ²
+  ²²ÛÝ ÞÛÛÛÛÝ²²ÛÛÛß ÛÛÛ  ²²ÛÛÛ     ÜÛÛÛÛÛÛÛÛÛÛÛÛ²²ÛÛÛÛÛÛ²ÞÛÛÛÛÛÝ  ÞÛÛÛ°ÛÛÛÛÛ
+  ÛÛÛÛ  ÛÛÛÛÛÛÛÛÛÝ °ÛÛÛ ÞÛÛÛÛÝ    ²²ÛÛÛÛÝ  ÞÛÛÛÛÛÛÛÛ°ÛÛÛÛÛÛÛÛÛÛ   ÞÛ²² ÞÛÛÛÛ²
+  ÛÛÛÛ  ÞÛÛÛÛÛÛÛÛ  ÞÛÛÛ°ÞÛÛÛÛÝ   ÞÛÛÛÛÛÛÛ   ²ÛÛÛÛÛÛÛ ÞÛÛÛÛÛÛÛÛÛÝ  ÛÛÛÝ  ÛÛÛÛÛÝ
+  ÛÛÛÛÝÜÛÛÛÛÛÛÛÛÛÝ ÞÛÛÛÝ²²ÛÛÛ    ÛÛÛÛÛÛ²²    ßß²²ÛÛÝ  ÛÛÛÛÛÛÛÛÛÛÜÜÛÛÛÝ  ÞÛÛÛÛ²
+  ÞÛÛÛÛÛÛÛ²²ß²ÛÛÛÛÜ²²ÛÛÛÛÛÛÛÛ    ÛÛÛÛÛÝ        °ÛÛÛÝ  ÞÛÛÛÛ² ßßß²²ÛÛÛÝ ÜÛÛÛÛÛÝ
+  ÞÛÛÛ²²ÛÛÛÜÜÜ°°ßßßÛÛÛÛÛÛÛÛÛÛÜÜÜÛÛÛ²²ß         ÞÛÛÛÝ ÜÛÛÛÛÛÝ   Û ÞÛÛÛÛÛÛÛÛ²²ß
+   ÛÛÛÛ    ßßßÛÛÛÛÜÜÜÜÜ°°   ßßßßß       nERv   ÞÛÛÛÛÛÛÛÛ²²ß    Û Þ²²ÛÛÛÛßßß
+   ßßßß         ÜßßßÛÛÛÛÛÛ                     Þ²²ÛÛÛÛßßß      Û
+                Û     ²²ÛÛ                                     Û
+                Û                                              Û
+                Û    ÜßßÛ Üßß  ²   ÜßßÜ ÜßßÜ ÜßÜ  Üßß  ÜßÜ     Û
+                ÛÜÜÜ Ûß²  ²ß Ü Û   Û  ² Ûßß² ²  Û ²ß Ü Û  ² ÜÜÜÛ
+                       Û  ßßßß ßßß  ßß  ß    ßßß  ßßßß ßßß
+ 
+                          Total War: Rome II (c) Sega
+   
+        09/2013 :..... RELEASE.DATE .. PROTECTION .......: Steam+CEG
+              1 :.......... DISC(S) .. GAME.TYPE ........: Strategy
+   
+                   Üßß  ÜßßÜ ÜßÜßÜ Üßß  ß ÜßßÜ ÜßßÜ ÜßßÜ Üß
+  ßßßßßßßßßßßßßßßß Û ß² Ûßß² Û   ² ²ß Ü Û Û  ² ²ß   Û  ² ßßßÛ ßßßßßßßßßßßßßßßß
+                    ßß  ß    ß   ß ßßßß ß ß    ß     ßß   ßß
+ 
+  How far will you go for Rome?
+ 
+  The award-winning Total War series returns to Rome, setting a brand new
+  quality benchmark for Strategy gaming. Become the world's first superpower
+  and command the Ancient world's most incredible war machine. Dominate your
+  enemies by military, economic and political means. Your ascension will bring
+  both admiration and jealousy, even from your closest allies.
+ 
+  Will you suffer betrayal or will you be the first to turn on old friends?
+  Will you fight to save the Republic, or plot to rule alone as Emperor?
+ 
+  Key Features
+  ~~~~~~~~~~~~
+  * Plan your conquest of the known world in a massive sandbox turn-based
+    campaign mode (supporting additional 2-player cooperative & competitive
+    modes). Conspiracies, politics, intrigue, revolts, loyalty, honour,
+    ambition, betrayal. Your decisions will write your own story.
+  * Build vast armies and take to the battlefield in real-time combat mode.
+    Put your tactical skills to the test as you directly control tens of
+    thousands of men clashing in epic land and sea battles.
+  * Play for the glory of Rome as one of three families or take command of a
+    huge variety of rival civilisations - each offers a notably different form
+    of gameplay experience with hundreds of unique units from siege engines
+    and heavy cavalry to steel-plated legionaries and barbarian berserkers.
+  * See exotic ancient cities and colossal armies rendered in incredible
+    detail, as jaw-dropping battles unfold. Detailed camera perspectives allow
+    you to see your men shout in victory or scream in pain on the frontline,
+    while a new tactical cam allows a god's eye view of the carnage to better
+    inform your strategic decisions.
+  * Extremely scalable experience, with gameplay and graphics performance
+    optimised to match low and high-end hardware alike.
+ 
+   
+  Included
+  ~~~~~~~~
+  Total War: Rome II - Greek States Culture Pack
+ 
+ 
+             ß ÜßßÜ Üß   ²ÜÜ  ÜßßÜ ²   ²   ÜßßÜ ÜßßÜ ²ÜÜ  Üßß  Üß
+  ßßßßßßßßßß Û Û  ² ßßßÛ Û  Ü Ûßß² Û   Û   Û  ² Û  ² Û  Ü ²ß Ü ßßßÛ ßßßßßßßßßß
+             ß ß     ßß   ßßß ß    ßßß ßßß ß     ßß   ßßß ßßßß  ßß
+ 
+  1. Unrar
+  2. Burn or mount the image.                                                
+  3. Install the game.                                                      
+  4. Copy over the cracked content from the /Crack directory on the image to
+     your game install directory.                                            
+  5. Play the game.                                                          
+  6. If you like this game, BUY IT!                                                      
+ 
+               Üßß  ÜßßÛ ÜßßÜ ²  Ü ÜßßÛ ÜßßÜ ÜßßÜ ²ÜÜ  Üßß  Üß
+  ßßßßßßßßßßßß Û ß² Ûß²  Û  ² Û  ² Ûßß  Û  ² Û  ² Û  Ü ²ß Ü ßßßÛ ßßßßßßßßßßßßß
+                ßß    Û   ßß   ßß  ß    ß     ßß   ßßß ßßßß  ßß
+
+fake, no info now @http://www.prelist.ws/?section=GAMES or http://orlydb.com/s/games
+
+
+Lol, no it is not fake it is 100% real!
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 03 Sep 2013, 14:12]
+hattisit_ wrote:
+Grosses_K wrote:
+Total.War.ROME.II-RELOADED
+
+nfo:
+
+Code: Select all | Line number On/Off | Expand/Contract
+                                      ßÜÜ ß
+                              ÜÜÜÜÜÜ²Ý ÞÛÛÜ ²ÛÜ ßÜ
+                          °²²ÛÛÛÛÛÛÛß ÜÛÛÛÛÝÞÛÛÝ Þ²
+                ÜÜÜÜÜÜ Ü  ÛßÛÛÛÛÛÛ²°Ü²ÛÛÛÛÛÜÛÛÛ² °ÛÝÜÜÜ Ü ÜÜÜÜÜÜ
+                Û      ÞÝÞÝÞÛÛÛÛÛÛÝÞÛÛÛÛÛÛÛÛÛÛÛÛÝ ÛÝ   ÞÝ      Û
+                Û       ²  ²ÛÛÛÛÛÛÛÜÛÛÛÛÛÛÛÛÛÛÛÛÝÞÛÛ   ²       Û
+                Û   Ü  ÞÝ  Þ²ÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÜÛÛÛ   ÞÝ  Ü   Û
+                Û   ÞÝÞÛ     ßßßßß²²ÛÛÛÛÛÛÛÛÛßßß  ²²°   ÛÝÞÝ   Û
+                Û   Û°²Ý  Ü²Ü        ÛÛÛÛÛ°       °ÛÝ   Þ²°Û   Û
+                ÝÜ ÞÝ ÞÛ   ß   ²²ÜÜÜÜ²²  ÛÜÜÛÛÛÛÛÛÝ ß   ÛÝ ÞÝ ÜÞ
+                ÞÝ  ²Ü ß²Ü     ÛÛÛÛÛÛÛ    ÛÛÛÛÛÛÛ²²   Ü²ß Ü²  ÞÝ
+                ÝßÜ  ßßÜÜ°ßÜ   ßß²²ÛÛÛÝ  ÞÛ°ÜÜÜÜ ßß Üß°ÜÜßß  ÜßÞ
+         Ü      Û  ßßÜÜ  ßßÜßÜ    ÛÛÛßßßßßß ²ÛÛÛ° ÜßÜßß  ÜÜßß  Û
+         ÞÝ     Û     ß²²Ü ÞÝÞÝ   ÜÜÜ ÞÛÛÛÝ ÞÛÛ²ÝÞÝÞÝ Ü²ß      Û  Ü      Ü
+        Üß      Û   Ü  ÞÛÛÝ°Û²   ÞÛ²Ý °²ÛÛ²       ²Û°ÞÛÜ       Û  ÞÝ     ÞÝ
+      ÜßÜÜß     Û   ÞÝ ÛÛÞ²Üß           ÜÜßßßÛÛÜÜ  ßÜ²ÝÞÝ      ßÜÜÛ°    Üß
+     ÞÝ²ÛÝ      ß ÜÜÛ°ÞÛ²ß           ÜÛÛÛ     ÛÛ²²    ²ß     Ü²ÛÛß    ÜßÜÜß
+     ²ÛÛÛ²     Ü²ÛÛß  ÛÛÝ           ²²ÛÛÝ    ÞÛÛÛÛÝ ÜßÜÜß   ÞÛÛÛÝ    ÞÝ²ÛÝ
+     ÞÛÛÛÛÝ   ÞÛÛÛÝ  Þ²²           ÞÛÛÛÛ     ÛÛÛÛÛ ÞÝ²ÛÝ    °²ÛÛÛ    ²ÛÛÛ²
+      ÛÛÛÛÛ   °²ÛÛÛ °ÛÛÝ    ÜÜÜÜÛÛÛÛÛÛÛÛ    ÞÛÛÛÛÝ ²ÛÛÛ²    ÜÜÛÛÛ²°  ÞÛÛÛÛÝ
+      °ÛÛÛÛÛ  ÜÜÛÛÛ²ÞÛÛÝ °ÛÛÛ²²ß   ßÛÛÛÛÝ   ÛÛÛÛÛ  ÞÛÛÛÛÝ°ÛÛÛÛÛÛß ÞÛÛÛÛÛÛÛ²
+  ²²ÛÝ ÞÛÛÛÛÝ²²ÛÛÛß ÛÛÛ  ²²ÛÛÛ     ÜÛÛÛÛÛÛÛÛÛÛÛÛ²²ÛÛÛÛÛÛ²ÞÛÛÛÛÛÝ  ÞÛÛÛ°ÛÛÛÛÛ
+  ÛÛÛÛ  ÛÛÛÛÛÛÛÛÛÝ °ÛÛÛ ÞÛÛÛÛÝ    ²²ÛÛÛÛÝ  ÞÛÛÛÛÛÛÛÛ°ÛÛÛÛÛÛÛÛÛÛ   ÞÛ²² ÞÛÛÛÛ²
+  ÛÛÛÛ  ÞÛÛÛÛÛÛÛÛ  ÞÛÛÛ°ÞÛÛÛÛÝ   ÞÛÛÛÛÛÛÛ   ²ÛÛÛÛÛÛÛ ÞÛÛÛÛÛÛÛÛÛÝ  ÛÛÛÝ  ÛÛÛÛÛÝ
+  ÛÛÛÛÝÜÛÛÛÛÛÛÛÛÛÝ ÞÛÛÛÝ²²ÛÛÛ    ÛÛÛÛÛÛ²²    ßß²²ÛÛÝ  ÛÛÛÛÛÛÛÛÛÛÜÜÛÛÛÝ  ÞÛÛÛÛ²
+  ÞÛÛÛÛÛÛÛ²²ß²ÛÛÛÛÜ²²ÛÛÛÛÛÛÛÛ    ÛÛÛÛÛÝ        °ÛÛÛÝ  ÞÛÛÛÛ² ßßß²²ÛÛÛÝ ÜÛÛÛÛÛÝ
+  ÞÛÛÛ²²ÛÛÛÜÜÜ°°ßßßÛÛÛÛÛÛÛÛÛÛÜÜÜÛÛÛ²²ß         ÞÛÛÛÝ ÜÛÛÛÛÛÝ   Û ÞÛÛÛÛÛÛÛÛ²²ß
+   ÛÛÛÛ    ßßßÛÛÛÛÜÜÜÜÜ°°   ßßßßß       nERv   ÞÛÛÛÛÛÛÛÛ²²ß    Û Þ²²ÛÛÛÛßßß
+   ßßßß         ÜßßßÛÛÛÛÛÛ                     Þ²²ÛÛÛÛßßß      Û
+                Û     ²²ÛÛ                                     Û
+                Û                                              Û
+                Û    ÜßßÛ Üßß  ²   ÜßßÜ ÜßßÜ ÜßÜ  Üßß  ÜßÜ     Û
+                ÛÜÜÜ Ûß²  ²ß Ü Û   Û  ² Ûßß² ²  Û ²ß Ü Û  ² ÜÜÜÛ
+                       Û  ßßßß ßßß  ßß  ß    ßßß  ßßßß ßßß
+ 
+                          Total War: Rome II (c) Sega
+   
+        09/2013 :..... RELEASE.DATE .. PROTECTION .......: Steam+CEG
+              1 :.......... DISC(S) .. GAME.TYPE ........: Strategy
+   
+                   Üßß  ÜßßÜ ÜßÜßÜ Üßß  ß ÜßßÜ ÜßßÜ ÜßßÜ Üß
+  ßßßßßßßßßßßßßßßß Û ß² Ûßß² Û   ² ²ß Ü Û Û  ² ²ß   Û  ² ßßßÛ ßßßßßßßßßßßßßßßß
+                    ßß  ß    ß   ß ßßßß ß ß    ß     ßß   ßß
+ 
+  How far will you go for Rome?
+ 
+  The award-winning Total War series returns to Rome, setting a brand new
+  quality benchmark for Strategy gaming. Become the world's first superpower
+  and command the Ancient world's most incredible war machine. Dominate your
+  enemies by military, economic and political means. Your ascension will bring
+  both admiration and jealousy, even from your closest allies.
+ 
+  Will you suffer betrayal or will you be the first to turn on old friends?
+  Will you fight to save the Republic, or plot to rule alone as Emperor?
+ 
+  Key Features
+  ~~~~~~~~~~~~
+  * Plan your conquest of the known world in a massive sandbox turn-based
+    campaign mode (supporting additional 2-player cooperative & competitive
+    modes). Conspiracies, politics, intrigue, revolts, loyalty, honour,
+    ambition, betrayal. Your decisions will write your own story.
+  * Build vast armies and take to the battlefield in real-time combat mode.
+    Put your tactical skills to the test as you directly control tens of
+    thousands of men clashing in epic land and sea battles.
+  * Play for the glory of Rome as one of three families or take command of a
+    huge variety of rival civilisations - each offers a notably different form
+    of gameplay experience with hundreds of unique units from siege engines
+    and heavy cavalry to steel-plated legionaries and barbarian berserkers.
+  * See exotic ancient cities and colossal armies rendered in incredible
+    detail, as jaw-dropping battles unfold. Detailed camera perspectives allow
+    you to see your men shout in victory or scream in pain on the frontline,
+    while a new tactical cam allows a god's eye view of the carnage to better
+    inform your strategic decisions.
+  * Extremely scalable experience, with gameplay and graphics performance
+    optimised to match low and high-end hardware alike.
+ 
+   
+  Included
+  ~~~~~~~~
+  Total War: Rome II - Greek States Culture Pack
+ 
+ 
+             ß ÜßßÜ Üß   ²ÜÜ  ÜßßÜ ²   ²   ÜßßÜ ÜßßÜ ²ÜÜ  Üßß  Üß
+  ßßßßßßßßßß Û Û  ² ßßßÛ Û  Ü Ûßß² Û   Û   Û  ² Û  ² Û  Ü ²ß Ü ßßßÛ ßßßßßßßßßß
+             ß ß     ßß   ßßß ß    ßßß ßßß ß     ßß   ßßß ßßßß  ßß
+ 
+  1. Unrar
+  2. Burn or mount the image.                                                
+  3. Install the game.                                                      
+  4. Copy over the cracked content from the /Crack directory on the image to
+     your game install directory.                                            
+  5. Play the game.                                                          
+  6. If you like this game, BUY IT!                                                      
+ 
+               Üßß  ÜßßÛ ÜßßÜ ²  Ü ÜßßÛ ÜßßÜ ÜßßÜ ²ÜÜ  Üßß  Üß
+  ßßßßßßßßßßßß Û ß² Ûß²  Û  ² Û  ² Ûßß  Û  ² Û  ² Û  Ü ²ß Ü ßßßÛ ßßßßßßßßßßßßß
+                ßß    Û   ßß   ßß  ß    ß     ßß   ßßß ßßßß  ßß
+
+fake, no info now @http://www.prelist.ws/?section=GAMES or http://orlydb.com/s/games
+
+
+looks like you have bad source informations 
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 03 Sep 2013, 14:12]
+
+_________________

@@ -1,0 +1,303 @@
+=========================================
+STRONA 56 (URL: https://cs.rin.ru/forum/viewtopic.php?f=10&t=61441&hilit=rome+2&start=825)
+=========================================
+
+[Data: Sunday, 23 Mar 2014, 14:52]
+vezu wrote:
+So the game and mods are running, but there seems to be a problem - some of the screens and text is missing / scrambled. On the Victory conditions screen in the canpaign starting screen for instance, the text is nowhere to be found - just a blank window. The problem does not originate from the mod, it is there with no mods as well. Also, the game does not close propperly - still runs after I "Quit" - I see it has something to do with the emu, but how do I fix it? 
+Hope you can answer soon!
+
+i posted a crack on the previous using an ALI213 emu that fixes the Rome2.exe from running after you close the game..
+here is the link i posted,
+http://www66.zippyshare.com/v/85011277/file.html
+
+as for the missing text, did you install both updates??(update 9-10beta and 10beta-10)
+and if you installed both updates, did any error occur?
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 23 Mar 2014, 15:30]
+machine4578 wrote:
+vezu wrote:
+So the game and mods are running, but there seems to be a problem - some of the screens and text is missing / scrambled. On the Victory conditions screen in the canpaign starting screen for instance, the text is nowhere to be found - just a blank window. The problem does not originate from the mod, it is there with no mods as well. Also, the game does not close propperly - still runs after I "Quit" - I see it has something to do with the emu, but how do I fix it? 
+Hope you can answer soon!
+
+i posted a crack on the previous using an ALI213 emu that fixes the Rome2.exe from running after you close the game..
+here is the link i posted,
+http://www66.zippyshare.com/v/85011277/file.html
+
+as for the missing text, did you install both updates??(update 9-10beta and 10beta-10)
+and if you installed both updates, did any error occur?
+
+
+The ALI emu did fix the quitting problem, yes, thank you. As for the Graphics problem - no errors occured when installing, but I don't think I installed 2 patches. I only installed the one provided with a link on page 53, which is a straight patch9-10 update, i believe? I had a fresh R2 1.9 + all dlc's of RLD as was asked. Would you be so kind as to provide me with the propper links for the stuff i need? Thanks in advance, sir 
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 23 Mar 2014, 15:50]
+vezu wrote:
+The ALI emu did fix the quitting problem, yes, thank you. As for the Graphics problem - no errors occured when installing, but I don't think I installed 2 patches. I only installed the one provided with a link on page 53, which is a straight patch9-10 update, i believe? I had a fresh R2 1.9 + all dlc's of RLD as was asked. Would you be so kind as to provide me with the propper links for the stuff i need? Thanks in advance, sir 
+
+if you have the RLD update 9 instlled, you ineed to install 2 updates to be current.. the 166MB update then the 17MB update
+update 9 to 10Beta
+http://www52.zippyshare.com/v/46647519/file.html
+
+Update 10Beta to 10
+http://www41.zippyshare.com/v/6877773/file.html
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 23 Mar 2014, 16:03]
+machine4578 wrote:
+vezu wrote:
+The ALI emu did fix the quitting problem, yes, thank you. As for the Graphics problem - no errors occured when installing, but I don't think I installed 2 patches. I only installed the one provided with a link on page 53, which is a straight patch9-10 update, i believe? I had a fresh R2 1.9 + all dlc's of RLD as was asked. Would you be so kind as to provide me with the propper links for the stuff i need? Thanks in advance, sir 
+
+if you have the RLD update 9 instlled, you ineed to install 2 updates to be current.. the 166MB update then the 17MB update
+update 9 to 10Beta
+http://www52.zippyshare.com/v/46647519/file.html
+
+Update 10Beta to 10
+http://www41.zippyshare.com/v/6877773/file.html
+
+
+Thanks! That did the work, sir. You have been of quite some help, have a nice day 
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 23 Mar 2014, 16:07]
+vezu wrote:
+Thanks! That did the work, sir. You have been of quite some help, have a nice day 
+
+glad to here its working now.. and you are welcome 
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 24 Mar 2014, 11:23]
+Reloaded upload this week update 10 with all dlc included hannibal in new download of the game same with reloaded do with caesar in gaul is official
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 24 Mar 2014, 11:56]
+..yes we know...and we will bring Hannibal only on our Update 10 which is already rlsd.
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 26 Mar 2014, 15:24]
+Hi,
+I need a steamworks fix for Total War Rome II version 1.10.0, help please!!
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 26 Mar 2014, 17:03]
+Total.War.ROME.II.Update.11.incl.Seasons.and.Wonders.DLC *cracked/xdelta*
+
+(you need Update 10 installed - prev. updates - viewtopic.php?p=898026#p898026)
+
+Changelog Update 11: http://pastebin.com/8fE7F7nW
+
+NFO:
+
+
+
+ Spoiler
+Code: Select all | Line number On/Off | Expand/Contract
+ 
+Total.War.ROME.II.Update.11.incl.Seasons.and.Wonders.DLC
+ 
+ßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßß
+ 
+ 
+G A M E N O T E S
+ 
+ 
+With this update we patch existing files as the updated files take up over 12GB.
+For this reason, its very important that you use it on your Rome 2 <root> dir
+with Update 10 applied, we recommend using Total.War.ROME.II.Update.10.Beta.to.Final
+ 
+This Release includes the following DLC:
+- Greek States Culture Pack
+- Nomadic Tribes Culture Pack
+- Baktria Faction Pack
+- Seleucid Empire Faction Pack
+- Blood & Gore
+- Epirus and Elephants Update
+- Beasts of War
+- Seasons and Wonders (new)
+(- Caesar in Gaul *included in RLDs Update 9 Release)
+ 
+See changelog.txt for a complete Changelist.
+ 
+How far will you go for Rome?
+The award-winning Total War series returns to Rome, setting a brand new
+quality benchmark for Strategy gaming. Become the world's first superpower
+and command the Ancient world's most incredible war machine. Dominate your
+enemies by military, economic and political means. Your ascension will bring
+both admiration and jealousy, even from your closest allies.
+Will you suffer betrayal or will you be the first to turn on old friends?
+Will you fight to save the Republic, or plot to rule alone as Emperor?
+ 
+Key Features
+* Plan your conquest of the known world in a massive sandbox turn-based
+campaign mode (supporting additional 2-player cooperative & competitive
+modes). Conspiracies, politics, intrigue, revolts, loyalty, honour,
+ambition, betrayal. Your decisions will write your own story.
+* Build vast armies and take to the battlefield in real-time combat mode.
+Put your tactical skills to the test as you directly control tens of
+thousands of men clashing in epic land and sea battles.
+* Play for the glory of Rome as one of three families or take command of a
+huge variety of rival civilisations - each offers a notably different form
+of gameplay experience with hundreds of unique units from siege engines
+and heavy cavalry to steel-plated legionaries and barbarian berserkers.
+* See exotic ancient cities and colossal armies rendered in incredible
+detail, as jaw-dropping battles unfold. Detailed camera perspectives allow
+you to see your men shout in victory or scream in pain on the frontline,
+while a new tactical cam allows a god's eye view of the carnage to better
+inform your strategic decisions.
+* Extremely scalable experience, with gameplay and graphics performance
+optimised to match low and high-end hardware alike.
+ 
+ßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßß
+ 
+ 
+i N S T A L L  N O T E S
+ 
+ 
+1) Extract all files to your Rome 2 <root> install dir
+2) Start TWR2_update11.bat and follow the instrctions
+3) Now go get a coffee, this will take some time.
+4) Copy content from /Crack/ * dir into your Rome 2 <root> dir and overwrite
+5) Start with Rome2.exe
+ 
+ 
+If you want to use mods, just download the Total War: Rome 2 - MOD MANAGER
+http://bit.ly/1edRrtw
+ 
+ßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßß
+ 
+ 
+N O T E S
+ 
+Tomorrow we will release the new Hannibal DLC. You will only need the new *.pack
+file for the DLC, since Patch 11 makes this DLC ready!
+ 
+This update is for GER Language. Download ENG-Lang-Patch below!
+ 
+ 
+ßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßß
+ 
+ 
+
+
+Download: [513mb]
+
+http://ncrypt.in/folder-G52lJQRE
+(pw: twr2_up11)
+
+Total.War.Rome II.Update11.Hotfix
+
+http://www22.zippyshare.com/v/62572439/file.html
+
+Total.War.Rome II.Update11.Crack.Only.V3 (for hotfix)
+
+http://www59.zippyshare.com/v/90049897/file.html
+
+
+ Spoiler
+Game will now close properly and settings are saved now. Crack updated for Hotfix
+
+
+English Language Patch for Update 11:
+
+http://www54.zippyshare.com/v/74685035/file.html
+
+Italian Language Patch for Update 11:
+
+http://www61.zippyshare.com/v/57724997/file.html
+
+Spanish Language Patch for Update 11:
+
+http://www46.zippyshare.com/v/58244878/file.html
+
+Turkish Language Patch for Update 11:
+
+http://www61.zippyshare.com/v/54085870/file.html
+
+Polish Language Patch for Update 11:
+
+http://www77.zippyshare.com/v/54518489/file.html
+
+Russian Language Patch for Update 11:
+
+http://www34.zippyshare.com/v/18821921/file.html
+
+Czech Language Patch for Update 11:
+
+http://www31.zippyshare.com/v/76717164/file.html
+
+Francais Language Patch for Update 11:
+
+http://www43.zippyshare.com/v/53684302/file.html
+http://www77.zippyshare.com/v/47261120/file.html
+
+
+Copy to your rome 2/data dir and overwrite. Need initial language files (which are not updated since vanilla Release! local_en.pack & music_en.pack)
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 26 Mar 2014, 17:06]
+How to use steamworks(revolt) saves on the ALI213 Emu crack? Singleplayer saves shows up but those on multi/lan not. Resume as Host is grayed out. Thanks!
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 26 Mar 2014, 17:25]
+@ShadowDuke
+Thx bro for giving updated version of game 
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 26 Mar 2014, 17:25]
+
+_________________
+List of some Computer games CLICK ME
+
+  
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 26 Mar 2014, 17:55]
+nvm, fixed.
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 26 Mar 2014, 18:02]
+Is update 11 working? Is it in english?
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 26 Mar 2014, 18:05]
+Please read carefully!
+
+Quote:
+English Language Patch for Update 11
+
+
+
+So for eng you need this as well!
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 26 Mar 2014, 18:09]
+ShadowDuke wrote:
+Please read carefully!
+
+Quote:
+English Language Patch for Update 11
+
+
+
+So for eng you need this as well!
+
+And atm its crashing when you hit "end round" due that crap Twitch.TV support (twitchsdk_32_release.dll), and im trying to fix that but still failed...i just dunno why that dll is causing a crash.
+
+
+As i understand i can just take the existing english files from my current installation, or i need specifically these?

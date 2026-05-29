@@ -1,0 +1,188 @@
+=========================================
+STRONA 98 (URL: https://cs.rin.ru/forum/viewtopic.php?f=10&t=61441&hilit=rome+2&start=1455)
+=========================================
+
+[Data: Sunday, 10 Aug 2014, 14:32]
+skandara wrote:
+So i have downloaded the rld release of Hatg, installed it, and all the vcr just to be sure. After that when i try to run the patch "twr2-up11-hotfix-build" that is in my game Root folder ofc unrarred. So when i try to run it, it starts and then windows ask if im sure to run it, i click yes, and then the program says "acces denied" then proceeds with the istallation (without errors), if i say no at the end, the install is finished, but the data files are the same as before. I have tried to run it as administrator, in that case it still ask my permission, but after that it says "access denied" again and then it doesnt even do anything just asks if there were any errors, ofc no new files in data either. (and i mean newer then my previous files in data folder) Im using win 8 if that is any help.
+i have already tried to install the next update "Total.War.ROME.II.Update.12.beta", but it makes a lot of errors duo to the fact of wrong files in data folder, i guess, so i just cancelled it.
+Any ideas what im doing terribly wrong?
+I have cracked the game with rld crack at first, that could be a problem?
+
+
+try to disable ur AV and UAC
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 10 Aug 2014, 21:02]
+I cant belive it bu my game chrashes now. For some fucking reason it just decided to chrash today after i was downloading some mods and tikering with them. Reinstalled the updates there was a xdelta mismatch. Tried some thing and there was no mismatch installed the game but it chrashes on patch 14 hag. WTF happened
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 10 Aug 2014, 21:31]
+Check the op for order and the rest is pretty much explained on the last pages, for crash and for mods.
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 10 Aug 2014, 23:22]
+the campaign is fine now but the custom battles chrash. the thing is the game was working perfect until today i dont know if my antivirus dis something or i did something.Actually battles dont work in campaign fuck it im done. normal battles work siege battles dont
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 11 Aug 2014, 13:27]
+nodi wrote:
+the campaign is fine now but the custom battles chrash. the thing is the game was working perfect until today i dont know if my antivirus dis something or i did something.Actually battles dont work in campaign fuck it im done. normal battles work siege battles dont
+
+
+did you install this?
+
+viewtopic.php?f=10&t=61441&start=1290
+
+
+EDIT- Nevermind i didnt read your post properly!
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 11 Aug 2014, 14:22]
+Hi all,
+
+i need steam_api.ini with all ID DLC please
+
+thanks by advances 
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 11 Aug 2014, 14:22]
+
+_________________
+I have certifications EBIOS RM, ISO27005, SECUWEB, PENTESTWEB, PRIM'X (ZED! and Zonecentral), ITIL v3 Foundations & CISCO CCNA1, CCNA2, CCNA3, CCNA4
+Don't hate the hacker, hate the code...
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 11 Aug 2014, 14:45]
+DLC001=212301
+DLC002=258270
+DLC003=258580
+DLC004=259800
+DLC005=261050
+DLC006=261620
+DLC007=267630
+DLC008=273380
+DLC009=273381
+DLC010=273382
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 11 Aug 2014, 14:47]
+I have followed the way to update. but when I was updating 14 beta fixed. It's only update 1 files and after that it say that the update finished. And I continue updating but when I run the game. Its error and "the ordinal 354 couldnot be located bla bla bla". How it can be?
+
+ShadowDuke wrote:
+You have those files in \data\?
+
+local_en.pack
+local_en_rome2.pack
+music_en.pack
+music_en_rome2.pack
+
+And like i said....changing language in ANY ini, skidrow.ini (ali213.ini, 3dmgame.ini) etc. is not working!
+
+And if you look at the comments on that torrent site, ppl are saying eng is not working for them.. ¿ (for this crappy repack). So either you download no repacks again or download a proper one (did i say i hate such repacks?^^) or you download latest Scene (RLD) Release and patch your way up!
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 11 Aug 2014, 15:07]
+ShadowDuke wrote:
+DLC001=212301
+DLC002=258270
+DLC003=258580
+DLC004=259800
+DLC005=261050
+DLC006=261620
+DLC007=267630
+DLC008=273380
+DLC009=273381
+DLC010=273382
+
+
+thanks you 
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 11 Aug 2014, 15:07]
+
+_________________
+I have certifications EBIOS RM, ISO27005, SECUWEB, PENTESTWEB, PRIM'X (ZED! and Zonecentral), ITIL v3 Foundations & CISCO CCNA1, CCNA2, CCNA3, CCNA4
+Don't hate the hacker, hate the code...
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 11 Aug 2014, 15:37]
+MDS wrote:
+nodi wrote:
+the campaign is fine now but the custom battles chrash. the thing is the game was working perfect until today i dont know if my antivirus dis something or i did something.Actually battles dont work in campaign fuck it im done. normal battles work siege battles dont
+
+
+did you install this?
+
+viewtopic.php?f=10&t=61441&start=1290
+
+
+EDIT- Nevermind i didnt read your post properly!
+
+Actually it worked. I didnt download it because i thought it was included in the first page patach 14 but it isnt.
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 11 Aug 2014, 16:00]
+Srsly...!? I said check the op for order! So you didnt check or you had seen it issnt included.... sigh
+
+You just had to click "beta 14" and had seen there also the gamefix attached + info etc...
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 11 Aug 2014, 16:15]
+ShadowDuke wrote:
+Srsly...!? I said check the op for order! So you didnt check or you had seen it issnt included.... sigh
+
+You just had to click "beta 14" and had seen there also the gamefix attached + info etc...
+
+Sorry missed it my bad, it doesnt matter that i apllied the fix after patch 14 hatg right,
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 11 Aug 2014, 16:31]
+Just for confirm the last version for exe is : 1.11.0.0 it's correct ?
+
+I use the crack RELOADED on ISO HATG
+
++ update 13_1 + update 14 + files language 14
+
+Game work fine !
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 11 Aug 2014, 16:31]
+
+_________________
+I have certifications EBIOS RM, ISO27005, SECUWEB, PENTESTWEB, PRIM'X (ZED! and Zonecentral), ITIL v3 Foundations & CISCO CCNA1, CCNA2, CCNA3, CCNA4
+Don't hate the hacker, hate the code...
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 11 Aug 2014, 16:39]
+huyustus wrote:
+Just for confirm the last version for exe is : 1.11.0.0 it's correct ?
+
+I use the crack RELOADED on ISO HATG
+
++ update 13_1 + update 14 + files language 14
+
+Game work fine !
+
+you should NEVER use an old crack on a new version(unless there is no crack at all).. you should be using the new update 14 crack which is working 100%!
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 11 Aug 2014, 16:41]
+Nope it issnt. Also just cos its working doesnt mean its working properly, cos both files got updated, important is the rome2.dll here and if you use a 5 month old Crack....do as you want but now you know.

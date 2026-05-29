@@ -1,0 +1,215 @@
+=========================================
+STRONA 90 (URL: https://cs.rin.ru/forum/viewtopic.php?f=10&t=61441&hilit=rome+2&start=1335)
+=========================================
+
+[Data: Sunday, 27 Jul 2014, 20:00]
+ShadowDuke wrote:
+No, you dont have to apply Update 14 again. I tagged it as 13_1 cos the Gaul and HATG files are from Patch 13_1. They also work with Patch 14. (Vanilla HATG and Gaul also work with latest patch, but we want an up2date release, right? )
+
+This patch patches only gaul.pack and punic.pack. So you can apply it even without Patch 14. You just need this Release viewtopic.php?p=900844#p900844 or RLD HATG Release (updated gaul and hannibal dlc files after initial release) to apply them to. OP is also updated.
+
+Total.War.ROME.II.Assembly.Kit.BETA.14
+
+Info
+
+
+Code: Select all | Line number On/Off | Expand/Contract
+ 
+1) Extract all files to your Rome 2 <root> install dir
+2) Start with /binaries/BOB.AssemblyKit.exe & TWeak.AssemblyKit.exe
+ 
+
+
+Download: [159mb] (Zippyshare, Firedrive)
+
+Zippyshare
+Firedrive
+
+
+Hi .
+
+I only have 1 update 13.1 .
+
+what is this one ?
+
+Total.War.ROME.II.Update.13_1_Gaul_and_HATG_Update
+
+Should I have this before updating to 14 beta ( the 47 MB file ) ?
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 27 Jul 2014, 20:34]
+That´s for modding man, if u r not into modding never mind that then.
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 27 Jul 2014, 20:39]
+He asked what Total.War.ROME.II.Update.13_1_Gaul_and_HATG_Update is  but quoted also the explanation....
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 27 Jul 2014, 20:48]
+Guys please help me ,
+
+I only have this :
+
+http://cs.rin.ru/forum/viewtopic.php?p=924204#p924204
+
+Should I have any other Update before running Update 14 beta ?
+
+I don't have this file : http://cs.rin.ru/forum/viewtopic.php?p=934294#p934294
+
+
+
+
+As I said before , My game doesn't update from 13.1 to 14 beta and causes a bad image error that wasn't fixed after 3 days .
+
+
+Quote:
+He asked what Total.War.ROME.II.Update.13_1_Gaul_and_HATG_Update is  but quoted the also explanation....
+
+
+Dude , I just need 1 answer .
+
+Just tell me if there is any other update between 13.1 and 14 beta .
+
+That's all 
+
+
+Quote:
+neoiq5719 wrote:
+That´s for modding man, if u r not into modding never mind that then.
+
+
+My friend , I'm not talking about Total.War.ROME.II.Assembly.Kit.BETA.14 . There is an update under update 13.1 ( that has 7.2 MB size ) .
+
+I just want to know what that is and whether I should install that before 14 beta .
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 27 Jul 2014, 20:58]
+Install Order is still in the op...for instance..and its stll just an update for gaul and HATG DLC, so if you maybe dont own those in the 1st place...theres no need to have that update...
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 27 Jul 2014, 20:58]
+ShadowDuke wrote:
+Install Order is still in the op...for instance..and its stll jsut an update for gaul and HATG DLC, so if you maybe dont own those in the 1st place...theres no need to have that update...
+
+
+Thanks my friend .
+
+Sorry for bothering with my posts . 
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 28 Jul 2014, 06:35]
+gringosan wrote:
+Ok try this trial unsupported test package. Did I mention this is an unsupported test 
+
+This HATG / CIG DLC update patch is intended for Total.War.ROME.II.Hannibal.at.the.Gates-RELOADED that has been updated via ShadowDuke's xdelta patches to at least 13.1
+
+Cheers
+
+
+The patch didn't work for me. I think becasue my 4 files are v1.13.0, and the date is June 3rd, they are newer than reloaded version but older than v1.13.1. So could you make the patch update form v1.13.0 to v1.13.1? Or make the patch ignore file hash check and force the patch to update the files. I very much appreciate it.
+
+Edit:
+Never mind, I solved it myself. Anyway, thanks for the patch and also thanks to ShadowDuke for keeping up the xdelta patches.
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 28 Jul 2014, 18:58]
+MDS wrote:
+Hannibal at the Gates 27x500mb
+
+parts 1-17 https://drive.google.com/folderview?id= ... sp=sharing
+parts 18-27 https://drive.google.com/folderview?id= ... aring#list
+
+
+
+Ty MDS, is all ready!! 
+
+My question now is ...
+
+It will make a compilation of all languages ​​and in update 11 http://cs.rin.ru/forum/viewtopic.php?p=900433#p900433 ? but the version update 14!!
+
+It would be interesting to have the game in Spanish and French full :-Þ
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 28 Jul 2014, 19:14]
+Sorry, but i already said at least 5 times that i will upload all language updates (just the ~200mb updated lang files, no the initial ones!), once it hits Patch 14 final! So long you have to use the updated english files or you can still use the update11 ones, but some things are missing in the translation.
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 28 Jul 2014, 19:33]
+My characters-champions avatars(portraits) on campaign map are corrupt(I think it is a lod problem).It happened after 14 beta patch. The rest is running fine here so far(30 turns in HatG).
+
+Can anybody confirm this please?
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 28 Jul 2014, 19:33]
+
+_________________
+01000111 01101000 01101111 01110011 01110100 00100000 01110111 01101000 01100101 01110010 01100101 00100000 01100001 01110010 01100101 00100000 01111001 01101111 01110101 00111111 00100000 01000100 01100101 01101100 01100101 01110100 01100101 00100000 01110100 01101000 01101001 01110011 00100000 01110000 01101111 01110011 01110100 00101100 00100000 01101001 01100110 00100000 01111001 01101111 01110101 00100000 01100100 01100001 01110010 01100101 00101110
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 29 Jul 2014, 08:16]
+ShadowDuke wrote:
+Sorry, but i already said at least 5 times that i will upload all language updates (just the ~200mb updated lang files, no the initial ones!), once it hits Patch 14 final! So long you have to use the updated english files or you can still use the update11 ones, but some things are missing in the translation.
+
+
+You do not have to excuse! I just ask for the update that you commented in the past. The basis files lang have them, if necessary the fellow would go up if some need.
+
+To recap, I can only surrender me to your work and effort. 
+
+Ty!!
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 31 Jul 2014, 15:26]
+Hi, I've the game version 1.13.0 Build 11398(inc. Pirates and Raiders) installed and I can't update from any of xdelta patches. I tried last 3 patches and all 3 of them gives the -
+Code: Select all | Line number On/Off | Expand/Contract
+xdelta3: target window checksum mismatch: XD3_INVALID_INPUT
+- error at some point and I roll back the updates. Is there any update files which updates from my version of the game? or Should I ıgnore the errors and install the patches anyway?
+
+Btw this is my first post; I've used all xdelta patches with Divinity OS, they worked perfectly, thanks to Shadowduke and/or whoever's making them.
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 31 Jul 2014, 15:54]
+i think the update 14 beta patch went live.. so that patch should be official!
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 31 Jul 2014, 20:15]
+quillon wrote:
+or Should I ıgnore the errors and install the patches anyway?
+
+
+No, ofc not!
+
+
+machine4578 wrote:
+i think the update 14 beta patch went live.. so that patch should be official!
+
+
+Yes, beta14 went to final, but without any changes. 
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 31 Jul 2014, 21:47]
+ShadowDuke wrote:
+quillon wrote:
+or Should I ıgnore the errors and install the patches anyway?
+
+
+No, ofc not!
+
+
+
+
+Is there's no alternative to DLing the 10+gıg of -suitable version- of the game again?..

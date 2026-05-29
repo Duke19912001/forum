@@ -1,0 +1,226 @@
+=========================================
+STRONA 74 (URL: https://cs.rin.ru/forum/viewtopic.php?f=10&t=61441&hilit=rome+2&start=1095)
+=========================================
+
+[Data: Wednesday, 18 Jun 2014, 04:55]
+Total.War.ROME.II.Update.13_1.Hotfix.and.Festivals.Update *xdelta* Version: v1.13.1-11724.548874 (17.06.2014)
+
+You need Update 13 hotfix plus Pirates and Raiders DLC installed!
+
+Changelog:
+
+
+ Spoiler
+Code: Select all | Line number On/Off | Expand/Contract
+ 
+v1.13.1-11724.548874
+ 
+Technical and performance improvements
+ 
+Campaign
+ 
+A rare crash which occurred after declining to fight a battle as a reinforcing army while the camera was still moving on the Campaign map has been fixed.
+General battle improvements
+ 
+Cavalry can now break away from infantry less easily in all battles.
+Increased the cost of armoured elephants.
+Improved terrain heights and building positions in Pydna Historical Battle.
+Fix for raiding horsemen having wrong shield type.
+Fix for Illyrian Raiders having wrong armour type.
+Wind will now affect more particles during battles, e.g. smoke will be blown in the wind direction.
+General campaign improvements
+ 
+Added 9 new seasonal festival events across all Campaigns.
+Some Getae objectives that were not completing now are.
+Fix for Dacian Bowmen not being recruitable from upgraded buildings.
+Fix for Hellenic wine subject choice giving the wrong effects.
+Added new Balkan sword (melee weapon stats) for balancing and assigned to Thracian peltasts.
+Bonus vs. large added to Rhomphaia and Falx.
+Buffed Thracian Peltasts in melee.
+Illyrian hoplites and noble hoplites now have Hoplite Wall ability.
+Swapped ships for Illyrian Raiders, added Illyrian Raider ship to all the correct port levels.
+Fix for technology missing a link to previous technology.
+Fix for melee attack penalty in battles for Balkan group generals units.
+Added Thracian Warriors to settlement garrison units.
+Fix for units not being available from all appropriate building levels.
+Added naked warriors to Nervii unit roster.
+Usability Improvements
+ 
+General
+ 
+Updated the encyclopaedia to reflect the latest changes e.g. include all special units.
+ 
+
+
+
+Code: Select all | Line number On/Off | Expand/Contract
+ 
+1) Extract all files to your Rome 2 <root> install dir
+2) Start TWR2_UP13_1_Hotfix_and_Festivals_Update.bat
+3) Copy Crack
+4) Play
+
+
+Download: [27mb] (Zippyshare, Firedrive)
+
+Zippyshare
+Firedrive
+
+Notes: German Update. ENG lang files below.
+
+
+ENG-Lang Files for Update13_1.hotfix.and.festivals.update : [188mb]
+
+http://www8.zippyshare.com/v/38885407/file.html
+or
+https://www.firedrive.com/file/7C2D0E4A4C4CC2F9
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 18 Jun 2014, 05:55]
+ShadowDuke wrote:
+Total.War.ROME.II.Update.13_1.Hotfix.and.Festivals.Update *xdelta* Version: v1.13.1-11724.548874 (17.06.2014)
+
+
+
+
+ShadowDuke, you are the man ... 
+
+thx.
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 18 Jun 2014, 06:52]
+@ShadowDuke
+
+Thanks much mate. Cheers.
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 18 Jun 2014, 07:26]
+@ShadowDuke
+Thx friend for updating and maintaining this game.
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 18 Jun 2014, 07:26]
+
+_________________
+List of some Computer games CLICK ME
+
+  
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 18 Jun 2014, 09:34]
+u r the freaken best. thx a lot man
+
+-- Edit --
+
+my game starts but crashes when starting a camapaign. Anyone has this problem?
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 18 Jun 2014, 10:07]
+Thanks for this game!
+
+Someone can post lang files in italian, please?
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 18 Jun 2014, 10:13]
+@neoiq5719
+
+Tested all 3 campaigns before releasing. New Campaign, Movement into City, End Turn, Battle. Everything's working as it should be.
+
+For those who need other language files. Do you still have the major language files (vanilla Release)? Italian for example; local_it.pack & music_it.pack.
+
+Im gonna provide in the next major Update (Patch #14b is coming soon, tho i dont know if im gonna wait for Patch #14 final then), all "updated" language files, example; local_it_rome2.pack & music_it_rome2.pack. Im not gonna provide the vanilla ones for each supported language.
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 18 Jun 2014, 10:14]
+no problem starting a campaign, could someone please post a md5 or any hash of the updated "data_rome2.pack". Thanks.
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 18 Jun 2014, 10:21]
+put into \data\
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 18 Jun 2014, 10:46]
+@ShadowDuke
+
+thanks for the sfv. I have a different checksum, must of did something wrong when patching. 
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 18 Jun 2014, 11:46]
+Total.War.ROME.II.Assembly.Kit.BETA
+
+Info
+
+
+Code: Select all | Line number On/Off | Expand/Contract
+ 
+1) Extract all files to your Rome 2 <root> install dir
+2) Start with /binaries/BOB.AssemblyKit.exe & TWeak.AssemblyKit.exe
+ 
+
+
+Download: [158mb] (Zippyshare, Firedrive)
+
+Zippyshare
+Firedrive
+
+And also a complete sfv from todays Update (excluded main dir files, launcher.exe, boot.pack, gaul.pack, punic.pack and the 2 language files).
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 18 Jun 2014, 12:20]
+You are a Great man 
+( could you next time upload language file on firedrive too  )
+Thank you again
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 18 Jun 2014, 12:20]
+
+_________________
+SPECS : Ryzen 7 3800X | RTX 3070 8G | 16Gb DDR4 | 1TB SSD
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 18 Jun 2014, 12:37]
+Np, i make a mirror now for ENG on Firedrive.
+
+Edit: Done.
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 18 Jun 2014, 14:16]
+ShadowDuke wrote:
+@neoiq5719
+
+Tested all 3 campaigns before releasing. New Campaign, Movement into City, End Turn, Battle. Everything's working as it should be.
+
+For those who need other language files. Do you still have the major language files (vanilla Release)? Italian for example; local_it.pack & music_it.pack.
+
+Im gonna provide in the next major Update (Patch #14b is coming soon, tho i dont know if im gonna wait for Patch #14 final then), all "updated" language files, example; local_it_rome2.pack & music_it_rome2.pack. Im not gonna provide the vanilla ones for each supported language.
+
+I Think is better to wait until the patch is live since it might drive u crazy with all the changes they constantly do and CA have a good history in this.
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 18 Jun 2014, 14:22]
+ShadowDuke wrote:
+Np, i make a mirror now for ENG on Firedrive.
+
+Edit: Done.
+
+
+Hi Shadowduke.. You know i really appreciate for uploading the updated patches of rome 2 total war... because of that we can play rome 2 up to date and also we can updated mod in twcenter..
+
+sorry for being such a noob but what is assembly kit beta for??? do we need to include this in our download or we can just leave it??
+thanks and have a nice day!!

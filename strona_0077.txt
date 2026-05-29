@@ -1,0 +1,172 @@
+=========================================
+STRONA 77 (URL: https://cs.rin.ru/forum/viewtopic.php?f=10&t=61441&hilit=rome+2&start=1140)
+=========================================
+
+[Data: Saturday, 21 Jun 2014, 17:24]
+complete.
+
+3dm v1.13.1 good job.
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 21 Jun 2014, 17:26]
+vecino398 wrote:
+Hi neoiq5719,
+
+I have version 13.1, the problem is that the text in Spanish do not have it, download the files...
+
+ShadowDuke wrote:
+Spanish Language Patch for Update 11:
+
+http://www46.zippyshare.com/v/58244878/file.html
+
+
+Is not that the problem, which does not show the text during the historic battle of Pydna...
+
+
+ShadowDuke wrote:
+Total.War.ROME.II.Update.13.Getae.and.Pydna *xdelta* Version: v1.13.0.0-11271.541757 (27.05.2014)
+
+
+
+But if I download files ShadowDuke in English are shown in correct english ...
+I can not see the texts in spanish. I do not consider it a problem because it is matter of time before that UPC Project update the file in spanish.
+
+
+ShadowDuke wrote:
+
+ENG-Lang Files for Update13_1.hotfix.and.festivals.update : [188mb]
+
+http://www8.zippyshare.com/v/38885407/file.html
+or
+https://www.firedrive.com/file/7C2D0E4A4C4CC2F9
+
+
+ty for trying to help me neoiq5719 
+
+The only thing that comes to my mind is Find those text in English with FPM and rewrite them in spanish and make you own mod for it. Easy peasy
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 21 Jun 2014, 18:35]
+@vecino398
+
+Please play for now on english, cos like i said already earlier last week, that i'll upload all up2date language files once the game hits Update14.
+
+
+vecino398 wrote:
+I do not pretend to abuse of your generosity ShadowDuke... but I wonder if it would be possible to get TWR2_ESP_LANG_UP13.rar
+
+
+
+Maybe later, rather tomorrow when i have some time to spend i can upload those updated spanish lang files.
+
+@neoiq5719, vecino398
+The "es" encyclopedia i posted is only for that purpose. Spanish updated (patch #13.1) text and sound (Pydna like mentioned) will only work with updated language files, which i'll upload when patch14 is out.
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 22 Jun 2014, 00:07]
+Re ShadowDuke ~!
+
+You understand me, use the extra time. I have no problem waiting... for his work is fantastic.
+
+I perform guard until the publication of patch14 for you ... forever grateful.
+
+ty more... ;-Þ
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 22 Jun 2014, 12:28]
+@ShadowDuke
+
+what is TWR 13_1 SFV file FOR?
+I mean do i need to install it after updating my rome 2 total war to 13.1??
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 22 Jun 2014, 12:32]
+joshhh wrote:
+@ShadowDuke
+
+what is TWR 13_1 SFV file FOR?
+I mean do i need to install it after updating my rome 2 total war to 13.1??
+
+
+the TWR 13_1 SFV file is to check the files in the data folder if you want, and you don't need to install it, but it's not a bad idea to to check them.
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 22 Jun 2014, 12:49]
+T3mpl4r wrote:
+joshhh wrote:
+@ShadowDuke
+
+what is TWR 13_1 SFV file FOR?
+I mean do i need to install it after updating my rome 2 total war to 13.1??
+
+
+the TWR 13_1 SFV file is to check the files in the data folder if you want, and you don't need to install it, but it's not a bad idea to to check them.
+
+
+what will i do? just copy and paste in data folder then double click it?? BTW thanks for quick response
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 22 Jun 2014, 13:03]
+copy the sfv file to data folder and then use this to check the files.
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 22 Jun 2014, 17:47]
+Hello!
+Could somebody upload Polish text files from update 13?
+Thank you very much! I can't send a beer, but I can send 1$/1 EUR on paypal for effort.
+P.S. I have Polish text files from update 11 if somebody needs.
+
+-- Edit --
+
+oh, and one question. Which steamfix should I use for update 13 to play coop?
+
+Thank you ShadowDuke for files!
+
+To Polish cs.rin.ru users:
+Jak ktoś potrzebuje, to niech mi napisze prywatną (PM) wiadomość, podeślę linki.
+(If somebody needs the files, please send me Private Message)
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 23 Jun 2014, 10:17]
+can anyone upload spanish text files pls
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 23 Jun 2014, 10:29]
+topotamadre wrote:
+can anyone upload spanish text files pls
+
++1
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 26 Jun 2014, 10:48]
+is there anyone here know how to add this in nvidia experience.. i cant optimize this game and play it in experience
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 26 Jun 2014, 14:17]
+joshhh wrote:
+is there anyone here know how to add this in nvidia experience.. i cant optimize this game and play it in experience
+
+To be able to optimize it u should have something higher than a 660gtx I believe and optimization for midrange cards means downgrading the game which is something Rome 2 does already by itself.
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 27 Jun 2014, 10:32]
+please spanish update 13.1
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 27 Jun 2014, 19:22]
+can some1 update the german files pls.
+DEU-Lang Files for Update13_1.hotfix.and.festivals.update. thanks

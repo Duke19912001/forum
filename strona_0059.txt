@@ -1,0 +1,162 @@
+=========================================
+STRONA 59 (URL: https://cs.rin.ru/forum/viewtopic.php?f=10&t=61441&hilit=rome+2&start=870)
+=========================================
+
+[Data: Thursday, 27 Mar 2014, 23:26]
+Thank you! Will report if it works fine in a min
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 27 Mar 2014, 23:35]
+Crack included?
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 27 Mar 2014, 23:35]
+
+_________________
+
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 27 Mar 2014, 23:40]
+Look at the Update 11 posting, please! There is the Crack...
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 27 Mar 2014, 23:43]
+Is it possible to install this DLC on another build/repack? Or only yout Update 11?
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 27 Mar 2014, 23:43]
+
+_________________
+
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 28 Mar 2014, 00:02]
+On what Repack or build do you want to update it? You need either way Update 11 installed for Hannibal DLC to work.
+
+I think it'd work, if you have the gaul.pack from Update9.RLD for instance. Or just take the punic.pack and startpos file for main_punic from update.exe from my upload.
+
+Edit: Firedrive Mirror added.
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 28 Mar 2014, 00:46]
+ok...i dont speak german but im sure this isn't good....
+
+
+image hosting
+
+
+upload immagini
+
+help??
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 28 Mar 2014, 00:59]
+You have no (admin) rights in the dir where you extract the files, or you have no rights (or whatever) to move them in the right dir, cos you have 13x access denied (15-2 german files you dont have). And why do you extract them to c:\users....\total war rome 2\? Is this your game dir or temp dir? Or you didnt put the whole files in rome 2 <root> dir!? Weird..
+
+You're the 1st reporting this problem and many others did the update succesfully.
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 28 Mar 2014, 01:23]
+ShadowDuke wrote:
+You have no (admin) rights in the dir where you extract the files, and why do you extract them to c:\users....\total war rome 2\? Is this your game dir or temp dir? Weird..
+
+You're the 1st reporting this problem and many others did the update succesfully.
+
+
+but it has worked up to patch 10...
+the path users/Marco/giochi/ is where i install games cause ive got a boring mcafee AV that delete every crack in program files when scan and it dont allow me to exclude program files folder from scanning...
+anyway im the sys admin, im the folder owner, ive full control and permission on the folder (Total War ROME II -> properties -> sharing; security)
+folder and files are read-only, i dont know if it is a problem, even if i deselect the read-only option it automatically return "read-only"
+perhaps win8.1 feels prankster tonight... 
+
+i dont know, suggestion?
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 28 Mar 2014, 01:47]
+Sorry, but i dont know. The problem must be on your side, cos several ppl applied the Update11 successfully and i also checked it again and double checked with machine4578, with no error. I dont know what i can do to help you.
+
+Im also using win 8.1. btw. so OS its definitely not.
+
+All i can say:
+
+After you press n for NO, the script renames the *.pack_NEW to *.pack in %DIR3%, which is \dataNEW\ where the patched files are stored.
+
+The next step is "move /Y "%DIR3%\*.*" %DIR4% >nul" - move files from \dataNEW\ to \data\ & overwrite without confirmation.
+
+Theres your access denied error. Since its not going any further because of that, it will try to extract update.exe into <root> dir, which also fails and saying on your Screen, "cannot create rome2.exe & cannot create rome2.dll"...
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 28 Mar 2014, 01:52]
+solved...
+the f****ng mcafee!
+with real-time scan disabled it was still put his nose in my buisness!
+unistalled and patching successful.
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 28 Mar 2014, 10:36]
+Thank u again, ShadowDuke.
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 28 Mar 2014, 10:36]
+
+_________________
+The most respectful and useful users: - machine4578 - ShadowDuke - demde - MarloC - punchao - sam2k8
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 28 Mar 2014, 14:59]
+How do I play mods on this game? I installed RELOADED's Hannibal at the Gates version, put the 4 turn per year mod into Data folder, but it didn't work in game. I read that I need to enable it in mod manager, but the launcer doesn't work.
+It says "Failed to initialise Steam! Are you running Steam?" Doesn't matter if i run Steam in the background or not, the message is always this.
+Both the update 11 crack posted here, and the RLD's original crack don't enable me to run the launcher. Any way to use the mod manager?
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 28 Mar 2014, 15:00]
+Can anyone up lang packs for Hannibal ?
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 28 Mar 2014, 15:00]
+
+_________________
+mostly inactive until at least half of july 2025
+
+If any of my uploads are outdated or no longer online , the best way to do is to send me a PM and i will add the title to the next batch
+UPLOADS PAUSED (have all requests in queue for when i am back to being more active)
+
+List of recent games with modern DRMs:(updated 01-Mar-2023) - http://cs.rin.ru/forum/viewtopic.php?f=10&t=68151
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 28 Mar 2014, 15:27]
+as far as i know yes P. but there are no custom fonts so no special characters in ur language just wierd things
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 28 Mar 2014, 15:27]
+
+_________________
+师傅领进门，修行在个人
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 28 Mar 2014, 15:39]
+Vadam1234 wrote:
+How do I play mods on this game? I installed RELOADED's Hannibal at the Gates version, put the 4 turn per year mod into Data folder, but it didn't work in game. I read that I need to enable it in mod manager, but the launcer doesn't work.
+It says "Failed to initialise Steam! Are you running Steam?" Doesn't matter if i run Steam in the background or not, the message is always this.
+Both the update 11 crack posted here, and the RLD's original crack don't enable me to run the launcher. Any way to use the mod manager?
+
+i posted some pages back a working ALI213 emu for the launcher folder so the launcher.exe will work for mods..

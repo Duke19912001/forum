@@ -1,0 +1,161 @@
+=========================================
+STRONA 34 (URL: https://cs.rin.ru/forum/viewtopic.php?f=10&t=61441&hilit=rome+2&start=495)
+=========================================
+
+[Data: Wednesday, 25 Sep 2013, 18:21]
+Nope sorry, i dont CAN understand how some1 can ask something which is written in the nfo and even posted here twice as well.
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 25 Sep 2013, 18:34]
+ShadowDuke wrote:
+Nope sorry, i dont CAN understand how some1 can ask something which is written in the nfo and even posted here twice as well.
+I can't understand why you can't write proper english.
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 25 Sep 2013, 18:37]
+Srsly?? Because its not my mother tongue? Sigh... Also looks pretty decent to me, should be understandable by everyone who speaks english! But, Whatever.
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 25 Sep 2013, 18:46]
+ShadowDuke wrote:
+Srsly?? Because its not my mother tongue? Sigh... Also looks pretty decent to me, should be understandable by everyone who speaks english! But, Whatever.
+English isn't my native language either, but i seem to be doing good enough. So.. I still don't understand why YOU can't write proper english, but whatever.
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 25 Sep 2013, 21:36]
+Can somebody uploading Turkish language files "local_tr.pack" and "local_tr_rome2.pack" from Update 2 ???
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 25 Sep 2013, 22:34]
+Another patch ~30mb. 2nd patch for patch3beta.
+
+1st fix for patch3beta:
+
+
+Quote:
+• Fix for issues with ALT-Tabbing the game and changing resolution
+• Improved camera stuttering / pausing when moving between settlements on the campaign map via the "Zoom to Location" buttons
+
+
+
+2nd:
+
+
+Quote:
+• Re-added the missing effects for the Monument of Leonidas building (part of Greek States DLC) in Campaign modes.
+• Fix to make sure the number of men correctly fit on ships in battle while using large unit sizes, to prevent them spawning outside the ship / in the sea.
+• Improvements to AI usage of forced march. Before Patch 3, attacking an army or navy in Forced March stance, would trigger a Victory Point battle, where nearby allies could join the battle as reinforcements. Now instead this triggers an Ambush battle, where nearby allies cannot join the battle as reinforcements. Therefore we have made changes to the Campaign AI to try not to stand in vulnerable position, and try to avoid enemy armies whilst in Force March stance. This will still happen in some circumstances, but the likelihood is reduced.
+
+We continue working on patch 3 BETA to ensure that when it goes live it will not bring new issues while it fixes the known issues.
+
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 25 Sep 2013, 23:58]
+I wonder how many and what kind of DLC could be released.
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 26 Sep 2013, 13:26]
+Whatever. wrote:
+I wonder how many and what kind of DLC could be released.
+
+
+second DLC on October = Seleucid faction
+Third DLC on November = Nomad factions
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 26 Sep 2013, 13:26]
+
+_________________
+SPECS : Ryzen 7 3800X | RTX 3070 8G | 16Gb DDR4 | 1TB SSD
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 26 Sep 2013, 14:57]
+Hey guys,
+
+What are your optimizations for the game? I'm asking this because i don't seem to get the game to look the way i want it to look. I have everything on Ultra settings with several other options turned on, but the game doesn't look as detailed and i'm still seeing jagged edges, while i have several options turned on to smoothen this out. I've tried switching several settings to Extreme, but the game doesn't really seem to look any different.
+
+m2net wrote:
+Whatever. wrote:
+I wonder how many and what kind of DLC could be released.
+
+
+second DLC on October = Seleucid faction
+Third DLC on November = Nomad factions
+Oh.. I didn't knew about a Nomad factions DLC, that's nice. Thanks for the info.
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 26 Sep 2013, 21:53]
+Whatever. wrote:
+Hey guys,
+
+What are your optimizations for the game? I'm asking this because i don't seem to get the game to look the way i want it to look. I have everything on Ultra settings with several other options turned on, but the game doesn't look as detailed and i'm still seeing jagged edges, while i have several options turned on to smoothen this out. I've tried switching several settings to Extreme, but the game doesn't really seem to look any different.
+
+m2net wrote:
+Whatever. wrote:
+I wonder how many and what kind of DLC could be released.
+
+
+second DLC on October = Seleucid faction
+Third DLC on November = Nomad factions
+Oh.. I didn't knew about a Nomad factions DLC, that's nice. Thanks for the info.
+
+
+YOU CAN play all factions without waiting for DLCs, lol just put the MOD and more than 114 factions will be playable
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 26 Sep 2013, 21:53]
+
+_________________
+SPECS : Ryzen 7 3800X | RTX 3070 8G | 16Gb DDR4 | 1TB SSD
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 27 Sep 2013, 19:10]
+i applied update 2 but it crashes at startup 
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 28 Sep 2013, 13:57]
+Wow, this game is buggy as heck.
+I played the prologue earlier and can't complete the first chapter. My general gets a 'noble death', after which I have to choose a new replacement general. Doing so freezes and crashes my game.
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 28 Sep 2013, 13:57]
+
+_________________
+It's pretty useless, costs a lot, and I need to spend my 200 bucks as smart as possible.
+I'll take it.
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 28 Sep 2013, 15:19]
+gvazdas wrote:
+Wow, this game is buggy as heck.
+I played the prologue earlier and can't complete the first chapter. My general gets a 'noble death', after which I have to choose a new replacement general. Doing so freezes and crashes my game.
+What? I just finished the first chapter a few minutes ago everything went fine. Try keeping the general's unit away from battle, the remaining units should do just fine.
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 28 Sep 2013, 18:18]
+Salomon61 wrote:
+Can somebody uploading Turkish language files "local_tr.pack" and "local_tr_rome2.pack" from Update 2 ???
+
+
+Please help me guys 
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 28 Sep 2013, 19:31]
+Spanish files for Update 2, please.
