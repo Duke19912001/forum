@@ -1,0 +1,306 @@
+=========================================
+STRONA 151 (URL: https://cs.rin.ru/forum/viewtopic.php?f=10&t=61441&hilit=rome+2&start=2250)
+=========================================
+
+[Data: Wednesday, 03 Dec 2014, 22:27]
+ShadowDuke wrote:
+Read the thread (last page) = answer.
+
+If its only a small ass thing then what is all this that brings about a different build number?
+
+Contents
+
+1 Technical and performance improvements
+1.1 Battle
+1.2 Campaign AI improvements
+1.3 General battle improvements
+1.4 General Campaign improvements
+2 Usability Improvements
+2.1 Battle
+2.2 Campaign
+3 Balancing Changes
+3.1 Unit Stats
+3.2 Unit Abilities and Attributes
+3.3 Unit Costs and Caps
+3.4 Unit Availability
+
+Technical and performance improvements
+Battle
+
+Fixed a rare projectile crash in battles.
+
+Campaign AI improvements
+
+Adjustment to Campaign AI to force factions that have just become known / discovered to take on the current attitude towards the player, rather than be neutral.
+
+General battle improvements
+
+Fixed bug with Celtic Linothorax armour on units in battle.
+Fixed misaligned settlement walls in Tigranocerta city battle map.
+Stopped infantry user triggering "riders into wedge" voiceover during battles.
+Armies moving from a settlement will no longer trigger "move completed" dialogue lines before their move has begun.
+Armenia can no longer use large onagers when defending in a custom siege battles.
+
+General Campaign improvements
+
+Fixes for seasonal effects and adjustments to income types and amounts from buildings in the campaign so subsistence is more favoured.
+Diplomatic scores have been lowered in general, and It is now harder to make client states.
+
+Usability Improvements
+Battle
+
+Factions are now listed in 2 columns in the Custom Battle and Multiplayer *Lobbies, to prevent the faction list going off the bottom of the screen.
+Fixed a Roman minor port coastal battle map, where units could disembark on an out-crop of land at the edge of the map, and therefore would get stuck and no longer be able to fight the navies in the battle.
+Fix for broken deployment area on port tile near the Dolmens in France.
+
+Campaign
+
+Faction Trait Icons fix - adjust to newer Emperor Edition colour scheme.
+
+Balancing Changes
+Unit Stats
+
+Increased armour of Foot Companions.
+Increased melee attack of Thracian Slingers, Bowmen, Skirmishers.
+Increased charge bonus of Carthaginian Noble Cavalry.
+Increased damage of longbows but reduced reload rate.
+Increased health of First Cohort and Eagle Cohort.
+Removed square from noble Spearmen and Persian Hoplites.
+Increased range of Nubian Bowmen to 150.
+Increased the health, attack and melee defence of Egyptian Cavalry.
+Increased the health of Thureos Spears by 5.
+Karian Axemen ranged weapon swapped for the same javelins as used by Thureos Spears.
+Increased the attack, armour and health of Mercenary Leopard Warriors.
+Increased the morale and armour of Camel Spearmen.
+Increased the morale of Camel Archers.
+Attack and charge bonus increased for Agrianian Axemen.
+Increased the armour of Thessalian Cavalry.
+Changed weapon of Hippeus Lancers so they do more damage.
+Increased the morale and health of Elite Persian Archers.
+Increased the armour, charge and melee defence of Etruscan Hoplites.
+Increased the morale of Light Hoplites.
+Increased the health of Heroes of Sparta.
+Increased the range of Gallic Hunters.
+Increased the health of Celtic Skirmishers.
+Increased the melee attack, charge bonus and melee defence of Celtiberian Cavalry.
+Increased the melee attack and charge bonus of Iberian Noble Cavalry
+Cantabrian Cavalry have been given higher damage javelins..
+Increased the armour of Veteran Riders.
+Increased the hit points of Horse Runners.
+Increased the armour of Bloodsworn.
+Increased the armour and morale of Spear Wall.
+Increased the morale and melee defence of Night Hunters.
+Increased the melee attack and melee defence of Fierce Swords.
+Increased the range of Dacian Heavy Bowmen.
+Increased the health and melee attack of Dacian Heavy Skirmishers.
+Increased the armour of Thracian Peltasts.
+Increased the morale of Thracian Warriors.
+Increased the health of Tribal Warriors and reduced speed.
+Increased the morale and melee defence of Illyrian Cavalry.
+Increased the morale of Parthian Foot Archers.
+Swapped the shield type of Scythian Royal Skirmishers and Sarmatian Horsemen to one with more armour.
+Increased armour and health of Sarmatian Royal Lancers.
+Reduced the mass of chariots.
+Increased the mass of elephants.
+Increased the attack of Briton Scout Riders to 38*
+Decreased the attack of Hastati to 35
+
+Unit Abilities and Attributes
+
+Added hoplite wall to Persian Hoplites.
+Rapid Advance for Gorgo's Skirmishers replaced with Rapid Reload.
+Added Frenzied Charge to Mighty Horse.
+Added Frenzied Charge to Illyrian Cavalry.
+Added Hoplite Wall for Noble Spearmen.
+Added Drago to Saka Noble Armoured Lancers.
+All camel units have gained the resistant to fatigue attribute.
+
+Unit Costs and Caps
+
+Thureos Hoplites cost decreased to 600.
+Illyrian Thureos Spears cost increased to 380.
+Iberian Swordsmen cost increased to 350.
+Thureos Spears cost increased to 560.
+Riders of the Hunt cost decreased to 570.
+(Mercenary) Rhodian Slingers cost decrease to 590.
+Evocati Cohort cost increased to 890.
+Triarii cost decreased to 790.
+Steppe Archers cost increased to 330
+Nubian Bowmen, Hippeus Lancers, Dacian Heavy Bowmen, Mercenary Thracian *Warriors and Illyrian Cavalry cost increased
+Steppe Archers cost increased to 330
+Egyptian cavalry increased to 600.
+Celtic Warhounds cost reduced by 50
+Increased the custom/multiplayer battle cap of Mercenary Axe Warriors to 4.
+
+Unit Availability
+
+Mercenary Thracian Warriors added to custom/multiplayer battle roster for *Macedon and Athens.
+Mercenary Samnite Warriors added to custom/multiplayer battle roster for Epirus.
+Mercenary Italian Cavalry added to custom/multiplayer battle roster for Syracuse.
+Mercenary Cappadocian Cavalry, Mercenary Skirmisher Cavalry and Mercenary *Syrian Archers added to custom/multiplayer roster for Galatia.
+Mercenary Germanic Scout Riders added to custom/multiplayer battle roster for Nervii.
+Mercenary Veteran Hoplites added to custom/multiplayer battle roster for the Odrysian Kingdom.
+Factional mercenaries for Tylis swapped from Dacian to Celtic units in campaign mode.
+Mercenary Tarantine Cavalry added to custom/multiplayer roster for Ardiaei.
+Cappadocian Cavalry added to campaign and battle roster for Pontus.
+Mercenary Naked Swords added to custom/multiplayer battle roster for Pontus.
+Mercenary Amazonian Riders added to custom/multiplayer battle roster for *Roxolani and Massagetae.
+
+build number is 15341.614751
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 03 Dec 2014, 22:49]
+Thats patch16, as you would see when you look at the changelog from my upload posting. The hotfix updated only one column.
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 04 Dec 2014, 00:14]
+ShadowDuke wrote:
+Thats patch16, as you would see when you look at the changelog from my upload posting. The hotfix updated only one column.
+
+
+I´m making an in-game unit card mod. Do u think is of any interest?
+[ img ]
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 04 Dec 2014, 08:39]
+nice 
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 04 Dec 2014, 16:21]
+OK, it's there a full torrent of .15341 version ? Thank you !
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 04 Dec 2014, 16:50]
+not yet
+only full torrent for v2.1.0.15239 but it's in russian so you will have to transfert the files from patch 15 , so the lastest DLC won't have the translation .
+A lot of people are looking for the translation for patch 16 ; but no one want's to upload the english files
+
+you will need
+
+music_en_rome2.pack
+local_en_rome2.pack
+local_en.pack
+
+and in encyclopedia the folder : en
+data\encyclopedia\en
+
+so you won't have the text for Black sea dlc etc ....
+
+ 
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 04 Dec 2014, 17:24]
+How often...local_en.pack is not updated since vanilla! You dont need it cos you already have it! If not, than thats not the only vanilla eng file which is missing!
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 04 Dec 2014, 17:30]
+ShadowDuke wrote:
+How often...local_en.pack is not updated since vanilla! You dont need it cos you already have it! If not, than thats not the only vanilla eng file which is missing!
+
+
+yes boss ;
+what about the other files ?
+Can you upload them for those who have the game from the russian xatab torrent ?
+...and I am not the only one
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 04 Dec 2014, 17:45]
+And that is http://www.megatorrent.eu/r-g-gamblers- ... 00026.html what version ? It's 4 days old.
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 04 Dec 2014, 18:18]
+it looks like an old one even 4 days ago ...
+(it looks Emperor edition patch 15)
+the xatab torrent is the latest available torrent at this day
+you will be v2.1.0.15239
+
+but not 15341.614751
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 04 Dec 2014, 18:19]
+
+
+Quote:
+Sega's PC strategy game Total War: Rome II is getting a new expansion, and it's coming soon. The Wrath of Sparta expansion, a brand-new campaign add-on, will arrive on December 16.
+
+Set in 432 BC during the outset of the Peloponnesian War, Wrath of Sparta represents the earliest time period that the Total War series has ever seen. Here's how Sega sets up Wrath of Sparta:
+
+"As the legendary warriors of Sparta are called into open conflict against an arrogant Athens by scheming Korinthos and Boiotia, Wrath of Sparta challenges you to dominate the Hellenic world. However, while the City States vie for control of their homelands, across the Aegean Sea the vengeful Persian Empire watches its old foe closely..."
+
+The Wrath of Sparta map will features a "highly detailed" ancient Greece, as well as Greek Island and the Ionian Coast. It will also include new tech-trees, battlefield and naval units, "great wonders," and iconic Greek heroes. Overall, Sega says the expansion will deliver "hundreds of hours" of gameplay.
+
+Total War: Rome II launched in September 2013, but developer The Creative Assembly and publisher Sega continue to support the PC/Mac game. That’s because the titles are perennial sellers, with new fans and history buffs playing them long after they’ve launched. In fact, the Total War games have around 850,000 monthly active players even though there hasn’t been a new title in the series this year. On average, gamers play Total War games for 104 hours per game.
+
+That kind of fan base is fanatical. That means that anytime the developers come up with something new, the players will come.
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 04 Dec 2014, 18:19]
+
+_________________
+mostly inactive until at least half of july 2025
+
+If any of my uploads are outdated or no longer online , the best way to do is to send me a PM and i will add the title to the next batch
+UPLOADS PAUSED (have all requests in queue for when i am back to being more active)
+
+List of recent games with modern DRMs:(updated 01-Mar-2023) - http://cs.rin.ru/forum/viewtopic.php?f=10&t=68151
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 04 Dec 2014, 19:28]
+Great and too bad this will be only the peloponnes wars
+I would have loved playing Leonidas
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 04 Dec 2014, 21:15]
+Hey guys I'm downloading Emperor Edition - Reloaded, anyone know what's version is it? This is the very first time playing this game so I know nothing... and if my version is old what I need to download??? thanks!
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 05 Dec 2014, 01:45]
+mendo1992 wrote:
+Emperor Edition - Reloaded, anyone know what's version is it?
+
+Update 15 (v2.0.0.0)
+
+mendo1992 wrote:
+and if my version is old what I need to download??? thanks!
+
+Total.War.ROME.II.Update.15.Hotfix
+Total.War.ROME.II.Update.15.Hotfix_Gaul_and_HATG_Update
+Total.War.ROME.II.Update.16.Black.Sea.Colonies.Culture.Pack
+Total.War.ROME.II.Update.16_Gaul_and_HATG_Update
+
+these updates are linked in the first post
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 05 Dec 2014, 10:47]
+misterpinball wrote:
+mendo1992 wrote:
+Emperor Edition - Reloaded, anyone know what's version is it?
+
+Update 15 (v2.0.0.0)
+
+mendo1992 wrote:
+and if my version is old what I need to download??? thanks!
+
+Total.War.ROME.II.Update.15.Hotfix
+Total.War.ROME.II.Update.15.Hotfix_Gaul_and_HATG_Update
+Total.War.ROME.II.Update.16.Black.Sea.Colonies.Culture.Pack
+Total.War.ROME.II.Update.16_Gaul_and_HATG_Update
+
+these updates are linked in the first post
+
+Thanks! I never check the first post, just saw it xD

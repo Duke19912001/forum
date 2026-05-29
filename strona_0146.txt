@@ -1,0 +1,167 @@
+=========================================
+STRONA 146 (URL: https://cs.rin.ru/forum/viewtopic.php?f=10&t=61441&hilit=rome+2&start=2175)
+=========================================
+
+[Data: Thursday, 20 Nov 2014, 22:52]
+Thank you Shadowduke.
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 20 Nov 2014, 22:52]
+
+_________________
+Always wanted to get rid of the files that were not listed in the sfv/md5 hash file? Check the QuickSFV plugin I created for this: viewtopic.php?f=10&t=108605 or this: viewtopic.php?p=1273745#p1273745
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 20 Nov 2014, 23:22]
+Total.War.ROME.II.Assembly.Kit.BETA.for.Update.16 (20.11.2014)
+
+Info
+
+
+Code: Select all | Line number On/Off | Expand/Contract
+1) Extract all files to your Rome 2 <root> install dir
+2) Start with /binaries/BOB.AssemblyKit.exe & TWeak.AssemblyKit.exe
+
+
+Download: [162mb] (Zippyshare, Mega)
+
+Zippyshare
+Mega
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 20 Nov 2014, 23:34]
+Total.War.ROME.II.Emperor.Edition.v2.1.0.15239.Incl.DLC.Cracked-3DM
+
+http://pan.baidu.com/s/1gd6BUbL
+
+latest version, full game.
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 20 Nov 2014, 23:47]
+will there be a patch 16 english language and encyclopedia? or is everything already in english?
+
+Thanks
+
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 20 Nov 2014, 23:47]
+
+_________________
+go to cialispascherfr24 pharmacy
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 21 Nov 2014, 04:52]
+Total.War.ROME.II.Update.16.Gaul_and_HATG_Update *xdelta* (20.11.2014)
+
+You need this installed!
+
+
+Code: Select all | Line number On/Off | Expand/Contract
+1) Extract all files to your Rome 2 <root> install dir
+2) Start TWR2_UP16_Gaul_and_HATG.bat
+3) Play
+
+
+Download: [3mb] (Zippyshare, Mega, Mediafire)
+
+Zippyshare
+Mega
+Mediafire
+
+Thanks to machine4578 for the updated DLC files.
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 21 Nov 2014, 04:55]
+@Shadowduke
+
+I kindly request you to make a torrent file for the last Black Sea Colonies update.  I can't download from both Mega Cloud and Zippyshare. I was very ok with the Firedrive in the past updates on which I relied most because Zippyshare is not resumable and freeze in the middle. With Mega Cloud it also freeze after 3% and say Temporary error. Since Firedrive has been down, I'm really in trouble to update the game. 
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 21 Nov 2014, 04:59]
+Sry i dont do public torrents ever, the law here is strong about that. Say where can i upload it so you can download it w/o any problems!?
+
+Tho you cant download from those 2 is a problem you should try to fix? Thats not normal. This happens only in Browser (tried a different one!?) or also with a download-manager?!
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 21 Nov 2014, 05:13]
+a Mediafire link or a googledrive one would be okay sir. I used to do downloads from there and proved to work with my IDM.
+
+If they are not possible let me find out other links which I can make it work with.
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 21 Nov 2014, 05:20]
+Ok, 1st link is up, 2nd will follow in a few minutes (Mediafire). I edited the postings. Cheers.
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 21 Nov 2014, 05:23]
+thanks ShadowDuke .. 
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 21 Nov 2014, 08:34]
+Thank you very much. You are truly wonderful. 
+
+-- Edit --
+
+@ShadowDuke
+
+Thanks to your mediafire download, I was able to successfully download the updates. Awesome! 
+I noticed local_en_rome2.pack was causing a checksum mismatch error. Should I proceed with the error??
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 21 Nov 2014, 08:36]
+Then you dont have Update15 english language files + the hotfix whch you need to update ofc!
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 21 Nov 2014, 08:59]
+I see what is missing. It is English language files I suppose. Choosing Massilia on campaign menu shows only a PLACEHOLDER text.
+
+-- Edit --
+
+I had a file actually installed. But it's not working. 
+
+I have this one.
+TWR2_Patch_15_final_ENG (372,477,769 bytes) My file's created date says September 17.
+
+I have been following this thread for about a half year. And I get Emperor Edition language files full and correct in Imperator Augustus campaign and new units etc. The text appears correctly. Only Black Sea Colonies dlc language inputs are missing. I guess you updated Patch15 final language files again in which CA updated language files in advance while I missed out that particular one?
+
+If you have a working language pack for the new dlc, would you please upload it on mediafire? I'm afraid to ask you because it's a big file.
+For now I'm trying with mega but not sure, it will work. I will update later on whether I succeed or fail with mega download.
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 21 Nov 2014, 09:22]
+Hmm, dunno anymore. Im upping eng files for Patch 16 and gonna post them later as im in the city soon, will post them when i get back.
+
+Edit: Now i see, you didnt update the english language file/s with Total.War.ROME.II.Update.15.Hotfix. Its also a xdelta for the 2 english files, then they're up2date on 01.10.2014 and the same two files were the source for todays update, i double checked. So i dont need to upload the english files separately. Everything is ok.
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 21 Nov 2014, 09:22]
+I installed the TWR2_Patch_15_final_ENG and now i cant update to version 16 cause i get an checksum mismatch. For the local_en_rome 2.pack
+
+What should I do Shadowduke.
+
+Regards
+
+Jepp 
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 21 Nov 2014, 09:22]
+
+_________________
+go to cialispascherfr24 pharmacy

@@ -1,0 +1,137 @@
+=========================================
+STRONA 193 (URL: https://cs.rin.ru/forum/viewtopic.php?f=10&t=61441&hilit=rome+2&start=2880)
+=========================================
+
+[Data: Monday, 21 Sep 2015, 16:15]
+So is there anything worth getting into the hustle of patch17? or the last one is good enough?
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 21 Sep 2015, 16:21]
+The_Exile wrote:
+So is there anything worth getting into the hustle of patch17? or the last one is good enough?
+
+IMO the last one is good enough. Better wait for patch 18.
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 21 Sep 2015, 17:06]
+Aomari wrote:
+The_Exile wrote:
+So is there anything worth getting into the hustle of patch17? or the last one is good enough?
+
+IMO the last one is good enough. Better wait for patch 18.
+
+
+There is gonna be a patch 18?
+Holy Lord of Patchuala!
+18 patches and still things are left to fix and polish..
+
+I only saw one good thing in patch 17 notes, under UI theme change, i dont like new all red blood screen from 16.x
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 22 Sep 2015, 20:23]
+fatalerror1 wrote:
+prudislav wrote:
+are there langpacks for Patch17 similarly to how sam is doing for Attila?? (interested in CZ one as that one should be smaller as its subs only)
+
++1 did not seen langs for patch17
+
++1, please Russian lang pack and others! Please!
+
+-- Edit --
+
+
+fatalerror1 wrote:
+prudislav wrote:
+are there langpacks for Patch17 similarly to how sam is doing for Attila?? (interested in CZ one as that one should be smaller as its subs only)
+
++1 did not seen langs for patch17
+
++1, please Russian lang pack and others! Please!
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 24 Sep 2015, 11:44]
+hello, and you can unlock the DLC with the original game?
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 24 Sep 2015, 12:16]
+@loop585 viewtopic.php?f=10&t=61441&p=1096601#p1096601
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 24 Sep 2015, 12:16]
+
+_________________
+Always wanted to get rid of the files that were not listed in the sfv/md5 hash file? Check the QuickSFV plugin I created for this: viewtopic.php?f=10&t=108605 or this: viewtopic.php?p=1273745#p1273745
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 25 Sep 2015, 09:28]
+Anybody able to upload the patch 17 compatible version of this?:
+http://steamcommunity.com/sharedfiles/f ... =263097925
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 25 Sep 2015, 09:38]
+KonTrolled wrote:
+Anybody able to upload the patch 17 compatible version of this?:
+http://steamcommunity.com/sharedfiles/f ... =263097925
+
+here
+http://www83.zippyshare.com/v/J6XkgfJw/file.html
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 25 Sep 2015, 10:04]
+Any news on patch18 or a least langs for patch 17?
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 25 Sep 2015, 11:58]
+machine4578 wrote:
+KonTrolled wrote:
+Anybody able to upload the patch 17 compatible version of this?:
+http://steamcommunity.com/sharedfiles/f ... =263097925
+
+here
+http://www83.zippyshare.com/v/J6XkgfJw/file.html
+
+
+Thank you very much good sir *Tips Fedora*
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 26 Sep 2015, 17:28]
+Anyone get this mod run? http://www.twcenter.net/forums/showthre ... -August-20
+
+they are 2 parts, both ticked in mod manager, start game but loading screen forever, game never gets to menu screen.
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 26 Sep 2015, 19:21]
+Yo guys , somebody play rome2 ,last version on tunnglenetwork or steamfix? Tell me... where do you play lanmode or online mode with friends.
+
+Subzero and Painkiller the 2v2 players ( me and Usman ) are waiting you, Would you challenge? contact me there or on steam geisuper007 . UsMAN= pesboy5
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 26 Sep 2015, 20:20]
+Ok, I see why it not works...anyone got german language files for patch 17?
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 27 Sep 2015, 12:01]
+can somebody share (family) the game? Is there a way to play online via steam (original) ? i used acf files, and cache. verifying cache it says 100%validate but when i press on play it says ''steam is too busy to handle..'' maybe i need rome2exe or steamapi original..ones.
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 27 Sep 2015, 13:04]
+Hi,
+
+I have a problem with launcher.I used emu provided in v2.2.0.15666 and launcher starts and then CTD. First time I got message "It seems you haven't bought/installed game" (something like that) but after that it just keep crashing.
+
+Is there away to crack it for update 17 ? Or I will be forced to use outdated mod manager http://www.twcenter.net/forums/showthre ... d-25-04-14.

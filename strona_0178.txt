@@ -1,0 +1,209 @@
+=========================================
+STRONA 178 (URL: https://cs.rin.ru/forum/viewtopic.php?f=10&t=61441&hilit=rome+2&start=2655)
+=========================================
+
+[Data: Saturday, 28 Feb 2015, 17:07]
+Kapanol wrote:
+Thanks,bumping
+
+please read forum rules § 5.5 Bumping Threads
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 28 Feb 2015, 17:42]
+leonardusius wrote:
+Changelog for v2.2.0.15666, please !
+
+
+Try to learn google.
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 28 Feb 2015, 19:28]
+ShadowDuke wrote:
+leonardusius wrote:
+Changelog for v2.2.0.15666, please !
+
+
+Try to learn google.
+
+Think twice and speak once.....give you this ''search'' and see if you get something.....always I first use Google.
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 28 Feb 2015, 19:30]
+@cowkiller
+mods__majorfactionempires.rar
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 01 Mar 2015, 13:14]
+hello 
+
+first post on on the forum, been around for a while.... you guys are awesome 
+
+anyhow, my problem with this game>
+
+i have the TW EE reloaded and update 2.2.0incl dlc reloaded installed
+
+i can play the prologue so far but the problem is custom battles...
+
+i get the meesage '' total war has stoped working ''
+
+i tried every graphic option but still the same..
+
+anyone know about any fix, i read that even legit users had the problem so i don't know..
+i should have tired it on steam when it was free for the weekend...bahhh
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 02 Mar 2015, 16:02]
+testni wrote:
+@cowkiller
+mods__majorfactionempires.rar
+
+thank you so much
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 02 Mar 2015, 18:00]
+Machine and ShaduwDuke, I tried both your cracks on my Reloaded copy v.2.2.0.15539 (624940) but both give an en error due to LumaEmu_CEG.dll acting up or something. What am I doing wrong? I want to give your cracks a try to get rid of the errors that I encounter with resuming a save game with co-op grand campaign.
+
+I can post my LumaEmu_CEG log if you want.
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 02 Mar 2015, 18:00]
+
+_________________
+Always wanted to get rid of the files that were not listed in the sfv/md5 hash file? Check the QuickSFV plugin I created for this: viewtopic.php?f=10&t=108605 or this: viewtopic.php?p=1273745#p1273745
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 02 Mar 2015, 18:24]
+Anomaly wrote:
+Machine and ShaduwDuke, I tried both your cracks on my Reloaded copy v.2.2.0.15539 (624940) but both give an en error due to LumaEmu_CEG.dll acting up or something. What am I doing wrong? I want to give your cracks a try to get rid of the errors that I encounter with resuming a save game with co-op grand campaign.
+
+I can post my LumaEmu_CEG log if you want.
+
+try the newest LumaEmu_CEG.dll plugin(which is also inlcuded in the newest update i posted).
+viewtopic.php?f=29&t=64354
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 03 Mar 2015, 22:30]
+machine4578 wrote:
+Anomaly wrote:
+Machine and ShaduwDuke, I tried both your cracks on my Reloaded copy v.2.2.0.15539 (624940) but both give an en error due to LumaEmu_CEG.dll acting up or something. What am I doing wrong? I want to give your cracks a try to get rid of the errors that I encounter with resuming a save game with co-op grand campaign.
+
+I can post my LumaEmu_CEG log if you want.
+
+try the newest LumaEmu_CEG.dll plugin(which is also inlcuded in the newest update i posted).
+viewtopic.php?f=29&t=64354
+
+
+Yeah that works. Thank you. I still have to test whether that fixes the problems with LAN co-op grand campaign.
+
+Edit: Your crack for v.2.2.0.15539 with latest LumaEmu_CEG doesn't even load. ShaduwDuke's crack with the latest LumaEmu_CEG plugin works but crashes when you hit the "host game" button.
+
+The problem with Reloaded's crack is: either you can't load your save for co-op grand campaign and when it does, strange things happen. Both host and client are the host's faction and the client's faction is no longer controllable.
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 03 Mar 2015, 22:30]
+
+_________________
+Always wanted to get rid of the files that were not listed in the sfv/md5 hash file? Check the QuickSFV plugin I created for this: viewtopic.php?f=10&t=108605 or this: viewtopic.php?p=1273745#p1273745
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 07 Mar 2015, 11:05]
+Hi Guys, extremely long time lurker here who has finally decided to register because this place is so good 
+
+Anyway, I am posting here because I have an issue with the Total War Mod Manager (the one which you can get from TWC) which is stopping me from installing mods for Rome II.
+
+I have searched seemingly everywhere, including on other sites, and haven't come up with any kind of solution so I thought i'd try this.
+
+Basically the issue is that every time I start up the mod manager, I end up with an unhandled exception error "Value cannot be null. Parameter name: path1" error which, from what i've seen, is related to the manager being unable to find the game directory. I googled this and quickly came up with the supposed solution to go into the mod manager settings .txt located in appdata and type in in my Rome II directory, which I have done, however the error still persists and I am unsure how to proceed.
+
+Also, if I DO continue into the Mod Manager and try to set my game directory from there, I get another error: "_currentGame is null".
+
+I am using version 2 of the mod manager. Also, the CA Launcher works (as per the handy emulator from here) but it cant see any mods which I put in the data folder.
+Finally if it helps any, I got Rome II by installing the RELOADED Emperor Edition release and then patching it up to the latest version using the links from this thread. The vanilla game works flawlessly in every aspect.
+
+Hope I can get some help with this. Thanks guys.
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 08 Mar 2015, 00:23]
+can anyone upload A/R2:TW GEMFX - Version 1.0.8.1?
+
+http://www.twcenter.net/forums/showthre ... on-1-0-8-1
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 13 Mar 2015, 06:39]
+HI!
+
+I have currently installed the:
+Total.War.ROME.II.Emperor.Edition-RELOADED
+Total.War.ROME.II.Emperor.Edition.Update.v2.2.0.Incl.DLC-RELOADED
+
+Can someone tell me that should I update the game or I have the latest version right now?
+
+The reason why I'm asking is that because I've tried to install the patches but all failed (xd3 error or invalid input).
+But still I can't play DEI latest version (1.04a) because the game crashes and cannot start.
+I've just reinstalled the whole game, and before it with the same version it was okay, so I thought that I don't have the latest version.
+
+Any ideas?
+
+EDIT:
+I figured out that the unzipping process of Total Commander Ultima Prime is somewhat faulty.
+I've unzipped the mod with 7zip and now all is okay.
+Sorry for posting
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 13 Mar 2015, 20:49]
+I own the original game, is there a way to play wrath of sparta dlc without buying it?
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 14 Mar 2015, 17:29]
+Hello and gracias first of all, and for his work.  ...
+
+Total.War.ROME.II.Wrath.of.Sparta, Massilia Faction, and Black Sea Colonies Culture Pack are in Spanish?
+
+Or at least subtitles?
+
+Subtítulos in Spanish, and more languages for them........
+
+http://www.mediafire.com/folder/2d43qd860yllp
+
+Credits: Swiss Halberdier, Radious, and DramaBelli.
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 14 Mar 2015, 17:32]
+Alby1666 wrote:
+I own the original game, is there a way to play wrath of sparta dlc without buying it?
+
+
+No! Use a Crack then yes ofc!
+
+
+Destapeman wrote:
+Hello and gracias first of all, and for his work.  ...
+
+Total.War.ROME.II.Wrath.of.Sparta, Massilia Faction, and Black Sea Colonies Culture Pack are in Spanish?
+
+Or at least subtitles?
+
+Subtítulos in Spanish, and more languages for them........
+
+http://www.mediafire.com/folder/2d43qd860yllp
+
+Credits: Swiss Halberdier, Radious, and DramaBelli.
+
+
+UPC is for mods not for the main game!

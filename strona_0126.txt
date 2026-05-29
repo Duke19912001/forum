@@ -1,0 +1,187 @@
+=========================================
+STRONA 126 (URL: https://cs.rin.ru/forum/viewtopic.php?f=10&t=61441&hilit=rome+2&start=1875)
+=========================================
+
+[Data: Thursday, 18 Sep 2014, 08:29]
+viewtopic.php?p=948280#p948280 below
+You can also use RLD Crack. Or just an older lumaemu_ceg.dll from an older crack for example. Some people have problems with not closing it properly, some dont. Im always providing latest lumaemu_ceg.dll from Steam006 as it fixes bugs, so you decide..
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 18 Sep 2014, 08:49]
+
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 18 Sep 2014, 08:49]
+
+_________________
+
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 18 Sep 2014, 10:03]
+@ShadowDuke: Thank you for the new content! I have a question though, have you never added updated Encyclopedia content before?
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 18 Sep 2014, 10:08]
+For english you dont, cos its not stored on HDD, it uses online Encyclopedia. As for other languages i only updated it a few times (and not for every language every time) but it also doesnt get an update for every patch.
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 18 Sep 2014, 10:10]
+ShadowDuke wrote:
+Total.War.ROME.II.Update.15.encyclopedia.and.language.files (16.09.2014)
+
+Will add step-by-step encyclopedia & Languages for Update.15.final...
+
+
+Encyclopedia (Zippyshare ~30mb)
+
+English: <not needed, online ingame>
+German: http://www23.zippyshare.com/v/34353371/file.html
+Italian: http://www5.zippyshare.com/v/39248700/file.html
+French: http://www13.zippyshare.com/v/98147004/file.html
+Spanish: http://www45.zippyshare.com/v/36804802/file.html
+Russian: http://www8.zippyshare.com/v/8233853/file.html
+
+
+Languages (Firedrive 350-400mb)
+
+English: https://www.firedrive.com/file/5EAC4460D07F55F6
+German: <not needed, included in Patch15.final> but for once (https://www.firedrive.com/file/5634B4E1BA03ABD1)
+Polish: https://www.firedrive.com/file/5FE014DA490ABBA9 (thanks luthor126)
+Italian: https://www.firedrive.com/file/DBB8108C95C446D9
+French: https://www.firedrive.com/file/00F262AD755D108E
+Spanish: https://www.firedrive.com/file/8A71BA7BEF74A59E
+Russian: https://www.firedrive.com/file/19C8045CDA86F034
+
+
+Code: Select all | Line number On/Off | Expand/Contract
+1) Extract all files to your Rome 2 \data\ dir
+2) Play
+
+
+please turkish lang.
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 18 Sep 2014, 10:12]
+@ShadowDuke: Hmm.. so what happens when i use the Encyclopedia offline, do i get old information?
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 18 Sep 2014, 10:12]
+G4U55 wrote:
+punchao wrote:
+ShadowDuke wrote:
+Italian, French, Spanish & Russian language and encyclopedia added.
+
+Where is this?
+
+
+You can download your lang pack here
+
+
+Code: Select all | Line number On/Off | Expand/Contract
+https://kickass.to/total-war-rome-ii-em ... .html#main
+
+
+when you add it to torrent client, select only your language in \content\ . I tested italian and works fine.
+
+tried to use CZ one with RLD crack and game crashs on gaul and hannibal campaign 
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 18 Sep 2014, 10:12]
+
+_________________
+mostly inactive until at least half of july 2025
+
+If any of my uploads are outdated or no longer online , the best way to do is to send me a PM and i will add the title to the next batch
+UPLOADS PAUSED (have all requests in queue for when i am back to being more active)
+
+List of recent games with modern DRMs:(updated 01-Mar-2023) - http://cs.rin.ru/forum/viewtopic.php?f=10&t=68151
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 18 Sep 2014, 10:20]
+Whatever. wrote:
+@ShadowDuke: Hmm.. so what happens when i use the Encyclopedia offline, do i get old information?
+
+
+No idea. If you dowload english Language theres simply no en dir in the Encyclopedia dir, so it wont download it. No idea how it access the Encyclopedia then. Maybe it doesnt if your not online? I didnt test it, cos im always online (LAN) and i think most of the people are always online. Disonnect your internet and see if the Encyclopedia loads the page?
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 18 Sep 2014, 10:21]
+ShadowDuke wrote:
+Whatever. wrote:
+@ShadowDuke: Hmm.. so what happens when i use the Encyclopedia offline, do i get old information?
+
+
+No idea. If you dowlaod english Language theres simply no en dir in the Encyclopedia dir, so it wont download it. No idea how it access the Encyclopedia then. Maybe it doesnt if you not online?
+
+
+if you are online it load encyklopedia from internet if offline it load from encyklopedia folder if you have outdated files and in offline mode it load old information
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 18 Sep 2014, 10:24]
+Here it is the English up to date encyclopedia uploaded by @machine4578. I requested from him yesterday:
+English encyclopedia
+http://www2.zippyshare.com/v/88469191/file.html
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 18 Sep 2014, 10:24]
+
+_________________
+List of some Computer games CLICK ME
+
+  
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 18 Sep 2014, 10:26]
+Yes, i saw this. I still wonder why it doesnt download en Encyclopedia for me, when i set english language and its downloading the english sound/music files, but doesnt download en Encyclopedia on hdd.
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 18 Sep 2014, 10:33]
+I don't know why  For me that's really odd.
+Btw ShadowDuke all your work you are doing for updating the game and other are appreciate by me and others too.
+Just do what you like and have a nice life. Don't bother to people who always complain or trolling or just don't know to use search...
+
+Live long and have a happy gaming life... 
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 18 Sep 2014, 10:33]
+
+_________________
+List of some Computer games CLICK ME
+
+  
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 18 Sep 2014, 10:35]
+Thanks ShadowDuke, Sisah and RezMar! Might it be possible for someone to upload it to firedrive, I always have problems with zippyshare?
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 18 Sep 2014, 10:38]
+RezMar
+Thanks for the kind words.
+
+Whatever.
+https://www.firedrive.com/file/8CF5B65CFB483FEC
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 18 Sep 2014, 10:39]
+yes he is a nice guy
+very patient 
+sometime I wonder how he can

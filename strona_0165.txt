@@ -1,0 +1,182 @@
+=========================================
+STRONA 165 (URL: https://cs.rin.ru/forum/viewtopic.php?f=10&t=61441&hilit=rome+2&start=2460)
+=========================================
+
+[Data: Monday, 29 Dec 2014, 08:38]
+@mhcvel
+keep in mind that the current update(from 12-19-2014) is not posted and the legit lang files may screw up the non fully updated game(unless ShadowDuke posts new xdelta)
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 29 Dec 2014, 15:44]
+mhcvel wrote:
+I asked because I own the game on Steam, but I dont have two DLC's (Black Sea and Daughters of Mars).
+
+I can upload languages but I'm wondering if there will be a missing encyclopedia files for ppl with the game provided here (full dlc's)...
+
+
+In your game, is encyclopedia work offline? If yes, can you upload it?
+
+Encyclopedia update from Shadowduke only work with internet connect. And I don't know in legal game, encyclo can work offline or not.
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 29 Dec 2014, 15:53]
+freddy86 wrote:
+mhcvel wrote:
+I asked because I own the game on Steam, but I dont have two DLC's (Black Sea and Daughters of Mars).
+
+I can upload languages but I'm wondering if there will be a missing encyclopedia files for ppl with the game provided here (full dlc's)...
+
+
+In your game, is encyclopedia work offline? If yes, can you upload it?
+
+Encyclopedia update from Shadowduke only work with internet connect. And I don't know in legal game, encyclo can work offline or not.
+
+the encyclopedia is the SAME.. it only works online.
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 29 Dec 2014, 20:26]
+i am the only noob on the forum who doest know how to download dlc because of some link pasword  
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 30 Dec 2014, 16:05]
+machine4578 wrote:
+@mhcvel
+keep in mind that the current update(from 12-19-2014) is not posted and the legit lang files may screw up the non fully updated game(unless ShadowDuke posts new xdelta)
+
+
+sorry the noobness here but may I ask how to get lan on 16.1 without trouble? shall I do it with provided cs rin updates of this thread or by using reloaded 2.2.0 update? I am able to get lan but after I click on "encircle city" on siege battles, my game crashes..
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 30 Dec 2014, 17:14]
+I reinstalled my game, then I downloaded reloaded 2.2.0 update and still happens. If i click the grand campaing the game crash.
+i dont know what to do 
+
+how i check the viewer?
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 30 Dec 2014, 17:17]
+ofteno wrote:
+I reinstalled my game, then I downloaded reloaded 2.2.0 update and still happens. If i click the grand campaing the game crash.
+i dont know what to do 
+
+how i check the viewer?
+
+did you try removing the AppData\Roaming\The Creative Assembly\Rome2 folder too?
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 30 Dec 2014, 18:57]
+machine4578 wrote:
+ofteno wrote:
+I reinstalled my game, then I downloaded reloaded 2.2.0 update and still happens. If i click the grand campaing the game crash.
+i dont know what to do 
+
+how i check the viewer?
+
+did you try removing the AppData\Roaming\The Creative Assembly\Rome2 folder too?
+
+
+yes, I did try that.
+im starting to believe I wont play 2.2.0
+the game crashes and I dont know why.
+
+the 2.0.0 version works fine, the grand campaing works, but as soon as I update the game the grand campaing makes my game crash.
+I used the files from shadow and reloaded update.
+BTW. its just the 2.2.0 version, before that during the manual update it worked fine
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 30 Dec 2014, 19:18]
+please upload spanish language files
+thanks
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 31 Dec 2014, 06:15]
+machine4578 wrote:
+keep in mind that the current update(from 12-19-2014)
+
+I'm in v2.2.0 Build 15558.627558...
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 31 Dec 2014, 06:15]
+
+_________________
+From Mexico with love ^^
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 31 Dec 2014, 06:37]
+mhcvel wrote:
+machine4578 wrote:
+keep in mind that the current update(from 12-19-2014)
+
+I'm in v2.2.0 Build 15558.627558...
+
+yep, that is the current version i have too, but the current version ShadowDuke has posted is v2.2.0 Build 15539.624940.
+and since some lang files update with each update, i am sure there could be issues if you use the new lang files on the old version.
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 31 Dec 2014, 22:43]
+ofteno wrote:
+machine4578 wrote:
+ofteno wrote:
+I reinstalled my game, then I downloaded reloaded 2.2.0 update and still happens. If i click the grand campaing the game crash.
+i dont know what to do 
+
+how i check the viewer?
+
+did you try removing the AppData\Roaming\The Creative Assembly\Rome2 folder too?
+
+
+yes, I did try that.
+im starting to believe I wont play 2.2.0
+the game crashes and I dont know why.
+
+the 2.0.0 version works fine, the grand campaing works, but as soon as I update the game the grand campaing makes my game crash.
+I used the files from shadow and reloaded update.
+BTW. its just the 2.2.0 version, before that during the manual update it worked fine
+
+
+When updating are you removing the UAC from Windows (assuming you have W7 / 8 / 8.1
+
+That happened to me, actually you should notice that when you updated your game with the Xdeltas, there were missmatches right?
+
+Look to one post I did a few pages back explaining how to update from reloaded 2.2.0 to the newest DLC (wrath of sparta).
+
+I've updated to that patch and no problesm at the moment in the grand campaings (haven't tried the other campaings). the only problem I see is that freaking cartaghe is heavy to destroy!!!!!!!!! 
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 01 Jan 2015, 01:09]
+was there any lang packs for wrath of Sparta campaign? (found only eng/ger upfated langs)
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 01 Jan 2015, 01:09]
+
+_________________
+mostly inactive until at least half of july 2025
+
+If any of my uploads are outdated or no longer online , the best way to do is to send me a PM and i will add the title to the next batch
+UPLOADS PAUSED (have all requests in queue for when i am back to being more active)
+
+List of recent games with modern DRMs:(updated 01-Mar-2023) - http://cs.rin.ru/forum/viewtopic.php?f=10&t=68151
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 01 Jan 2015, 01:11]
+no
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 01 Jan 2015, 11:19]
+Happy New Year 2015

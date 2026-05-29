@@ -1,0 +1,178 @@
+=========================================
+STRONA 105 (URL: https://cs.rin.ru/forum/viewtopic.php?f=10&t=61441&hilit=rome+2&start=1560)
+=========================================
+
+[Data: Tuesday, 26 Aug 2014, 00:14]
+Whatever. wrote:
+nodi wrote:
+Sadly ca just said it isnt in the plans for the near future maybe later down the line. If you cant finish a campaign just use mods i use about 15 mods and it makes the campaign great.
+It's dated for a release on September the 16th. Didn't you check out the previous page?  I don't really want to wait a month though, perhaps i'm just going to start earlier. I couldn't finish my Campaigns because of problems not related to the game. I became sick the first time, apparently i can't make use of a PC anymore without wearing glasses. The second time the game fried my graphic card. 
+
+Actually CA confirmed that its fake and that the family tree is not included. The only thing thats true is the augustus dlc.
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 26 Aug 2014, 00:19]
+nodi wrote:
+Actually CA confirmed that its fake and that the family tree is not included. The only thing thats true is the augustus dlc.
+Dammit, seemed like a great addition. Where did you read this?
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 26 Aug 2014, 00:22]
+Whatever. wrote:
+nodi wrote:
+Actually CA confirmed that its fake and that the family tree is not included. The only thing thats true is the augustus dlc.
+Dammit, seemed like a great addition. Where did you read this?
+
+official forum was very sad to see it. I was basically only exited for the family tree part not the augustus dlc
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 26 Aug 2014, 01:15]
+nodi wrote:
+official forum was very sad to see it. I was basically only exited for the family tree part not the augustus dlc
+The Augustus DLC doesn't really interest me either. I'm more interested in additional Factions and additional content for Campaign mode. I don't care about the Story Campaign content.
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 27 Aug 2014, 07:57]
+Hi all i'm new here, I got a problem installing update v 1.11 (seasons and wonders)
+I did all was required to do from the install notes (copied all files in my root folder, ran the batch file and paste the crack), but when i ran it from rome2.exe; it goes: the program can't start because MSVCR120.dll is missing from your computer. try reinstalling...
+
+what did i do wrong?
+thanks
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 27 Aug 2014, 08:03]
+@shrine
+
+Hi and welcome to our forum...
+You get this error when you don't have some of the redist installed. To do this fallow my instruction:
+
+Go to your game installed folder.
+And you will see folder named redist. Enter it and you will see 3 vcredist and one folder directx. Install one by one vcredist (They are Microsoft Visual C++). And then you will not have that error.
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 27 Aug 2014, 08:03]
+
+_________________
+List of some Computer games CLICK ME
+
+  
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 27 Aug 2014, 08:15]
+@RezMar
+
+Hi thanks for the warm welcome, really appreciate it.
+I did what you asked me to do I install all of my vcredist, but it didn't solve the problem, still got that missing dll issues.
+that's weird coz i update the 1.10 using the same exact method and went successfully well. why it isn't working on 1.11?
+I'm clean uninstalling the rome game (it's the third times btw), hoping i'm getting better chance doing clean install from start with ur guidance.
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 27 Aug 2014, 08:19]
+Pls stop. Don't uninstall...
+
+This file is actually from C++ 2013. Not included in game folder.
+Download it from here --->
+
+Code: Select all | Line number On/Off | Expand/Contract
+http://www.microsoft.com/en-us/download ... x?id=40784
+
+
+select _86.exe and 64.exe (not first one exe). And install them one by one.
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 27 Aug 2014, 08:19]
+
+_________________
+List of some Computer games CLICK ME
+
+  
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 27 Aug 2014, 08:31]
+too late already done that 
+hey that's okay, i'll repeat it in no time, and with that magic link of yours offcourse 
+thanks mate
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 27 Aug 2014, 09:09]
+Hi 
+
+I'm new here. I waith so much TWR2 update 1.14 with crack. And now i found this forum. THX TO YOU ALL 
+
+I have TWR2 v1.11, so i see it is a little complicate to update from v.1.11 to v1.14 and many of you got bugs. So I decide to download "Total War: Rome 2 (SEGA) (RUS/ENG) [Steam-Rip] (Update 16.08.2014).torrent". My question is is this the last update? And did i download the right thing? 
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 27 Aug 2014, 09:17]
+Actually this version steamrip has a better crack
+- No bug when exiting the game to desktop
+- So far ( today) : 27/08/2014 this is the latest version
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 27 Aug 2014, 09:39]
+Its more than stated once if you experience the "bug" with the game not exit properly, use an older LumaEmu_CEG.dll!
+
+@wavetw
+People who got "bugs" which arent bugs are the reason. They did the patching wrong, have crappy AV enabled, etc. All due their own faults!
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 27 Aug 2014, 10:20]
+Total War: Rome 2 (SEGA) (RUS/ENG) [Steam-Rip] (Update 16.08.2014)
+INFO
+
+ Spoiler
+Year: 2013
+Genre: Strategy (Real-time / Turn-based) / 3D
+Developer: The Creative Assembly
+Publisher: SEGA / 1C-SoftKlab
+Platform: PC
+Game Version: v1.14.1.0 build 13180.569980
+Language: English / Russian
+Language: Russian / English
+Publication Type: Steam-Rip
+Medicine: Present (Steam006 / CODEX Steam emulator)
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 27 Aug 2014, 10:20]
+
+_________________
+
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 27 Aug 2014, 10:30]
+I am very sorry ... ( I praise you) ... but you are wrong
+This solution didn't wok ( for me and others)
+
+The crack ( Included in the Steam Rip version ) replacing the one "" that create the bug"" solve the problem
+the crack is different
+and so far any mod compatible
+
+I have no problem with that
+Thank you for helping the Pirate community and I still remain your faithful dude 
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 27 Aug 2014, 10:47]
+@RezMar;
+
+Hey man so i was trying to install the 1.11 update (copy the files in my root folder game n running the batch) n it goes continuing extracting the rest of the updates with some (german?!) installer, I let it goes for a while but it doesn't seems to move (or is it?! dunno it's been 20mins straight keep on like this). Here is the screen shot of my installer:
+
+ Spoiler
+
+is this normal, do i have to wait a lil bit longer?
+thx waiting for ur reply

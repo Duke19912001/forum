@@ -1,0 +1,132 @@
+=========================================
+STRONA 169 (URL: https://cs.rin.ru/forum/viewtopic.php?f=10&t=61441&hilit=rome+2&start=2520)
+=========================================
+
+[Data: Saturday, 17 Jan 2015, 03:45]
+Ok I also load as the same faction as my friend. I didn't even realize we didn't try loading before. Also if we play as Boii and Thrace we can't even load, he gets kicked no matter what and I get returned to lobby. But if we play as Rome and Sparta, we both load as Sparta. No matter which one of us resumes.
+
+Anyone else experiencing this and playing over Tunngle? We're gonna try again on local network when he can come. I'm absolutely no expert in how the cracks work, but I'm guessing its because the steam_api.dll cheats in a way it makes a pretend account you get in the multiplayer, but since its LAN and the same pretend account, the game gets confused? Don't know, I'll sleep on it. 
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 18 Jan 2015, 10:51]
+Anomaly wrote:
+ Spoiler
+RezMar wrote:
+TWRII SteamFix - Update 16 v2.1.0-15239 by REVOLT
+http://www54.zippyshare.com/v/19074760/file.html
+
+I am using this its from 2.0.0 with new cracked Rome2.dll for last version. I didn't test multiplayer because my friend don't have last version of game...
+
+Have a nice day. 
+
+
+As RezMar pointed out, download the latest Revolt Steamfix for this game: Total.War.ROME.II.V2.0.0.Steamworks.Fix-RVTFiX: ftp://revolt:1234@revolt.loginto.me/Tot ... RVTFiX.rar
+and use the latest version of the cracked Rome2.dll. There's your LAN fix. Done.
+
+Sorry. I'm rushed to tell it's working but I was wrong. The LAN indeed is working with this REVOLT fix but it crashes during battle loading, always at the same spot around third just someone sayed before......Only https://drive.google.com/file/d/0B59cqp ... sp=sharing pasted directly into game folder is WORKING !!!
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 18 Jan 2015, 11:38]
+hello! i'm new to this game...
+just downloaded Total.War.ROME.II.Emperor.Edition-RELOADED and Total War ROME II Emperor Edition Update v2.2.0 Incl DLC-RELOADED!
+what patches will i need after this!
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 18 Jan 2015, 16:15]
+Is there any way to play LEGIT steam version with pirated DLC only?
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 19 Jan 2015, 14:11]
+Anyone has or can create a steamfix works for original lobies? Revolt forum created a steamfix for pes15 , i can join original lobies, than with ACF files, i converted the game into Original, so for steam I have paid 70$ for pes... if anyone create steamfix for original lobies ..we can convert it too..
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 19 Jan 2015, 21:37]
+can someone upload these two mods thank you  http://steamcommunity.com/sharedfiles/f ... =225205137 http://steamcommunity.com/sharedfiles/f ... =205674098
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 19 Jan 2015, 22:50]
+mods achillesmne2006.rar
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 20 Jan 2015, 03:23]
+testni wrote:
+mods achillesmne2006.rar
+
+thank you very much 
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 20 Jan 2015, 23:02]
+Uncle_Iroh wrote:
+hello! i'm new to this game...
+just downloaded Total.War.ROME.II.Emperor.Edition-RELOADED and Total War ROME II Emperor Edition Update v2.2.0 Incl DLC-RELOADED!
+what patches will i need after this!
+
+
+Nothing. For some reason it seems you may have to run patch.bat manually; after that you'll have the latest version of Rome II.
+
+
+What problems are people experiencing with LAN? I thought why not give Reloaded's crack a try and it works for me.
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 20 Jan 2015, 23:02]
+
+_________________
+Always wanted to get rid of the files that were not listed in the sfv/md5 hash file? Check the QuickSFV plugin I created for this: viewtopic.php?f=10&t=108605 or this: viewtopic.php?p=1273745#p1273745
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 23 Jan 2015, 14:40]
+Is any new update ?
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 24 Jan 2015, 02:30]
+Ok we got it completely working. For the host use the files I posted earlier. And for the client use the original files from 3DM version. The client wont be able to host but he'll be able to join and no more loading as the same faction. Everything works great. We're at turn 150 or something.
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 24 Jan 2015, 20:41]
+ziodaddy
+is this what u were looking for?
+
+http://www.mediafire.com/download/mq181 ... v1_0_6.exe
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 25 Jan 2015, 03:41]
+When i install the update 2.2.0.0 my game crash on start (rome screen) how i do to update from 2.0.0.0 to 2.2.0.0 with out problems? where i put the update?
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 26 Jan 2015, 02:50]
+Can someone please upload DLC only?
+
+-- Edit --
+
+
+machine4578 wrote:
+agentghost wrote:
+i have a legit Total War Rome 2 - Emperor Edition. with no paid DLC.
+
+Is there anyway I can apply the cracked DLC for my legit version?
+
+get the DLC files and use a REVOLT wrapper.
+
+
+Can you explain this better please?
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 26 Jan 2015, 03:09]
+viewtopic.php?p=1000023#p1000023
+
+DLC with extra files on legit game, no!

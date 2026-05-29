@@ -1,0 +1,131 @@
+=========================================
+STRONA 115 (URL: https://cs.rin.ru/forum/viewtopic.php?f=10&t=61441&hilit=rome+2&start=1710)
+=========================================
+
+[Data: Saturday, 13 Sep 2014, 19:31]
+neoiq5719 wrote:
+Didnt u need the 2012 in order the get past update 12?
+I couldn't get past Update 13.1, got message MSVCR110.DLL missing. Perhaps for the better, I installed it on Win. 7 32Bit, I suppose such a game is a better addition for 64Bit. I did install it on 64Bit a few hours ago, with additional Redistributables 2008 and 2010 x64. I'm going to check things out tomorrow though. 
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 13 Sep 2014, 20:59]
+Well next year directx 12 is suppossed to come out and it will make a big difference for games since most of the GPU will be used. cant wait.
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 13 Sep 2014, 21:46]
+MSVCR110.DLL is from vcredist 2011. Just install them all (both, x86 and x64 on a x64 system) and your fine and wont have such problems in the future!
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 13 Sep 2014, 23:29]
+neoiq5719 wrote:
+Well next year directx 12 is suppossed to come out and it will make a big difference for games since most of the GPU will be used. cant wait.
+I never knew there were Redistributables above 2010 and i didn't know about this either. I've always been anti-updating until recently, changed my mind because of my new PC. Total War actually got me spooked when there were strange sounds coming from my somewhat older PC everytime i launched the game. My Graphics card overheated, not sure whether this was the only problem, but i should have used newer drivers.
+
+Thanks for the unintended information!  I'm going to install these Redistributables.
+
+ShadowDuke wrote:
+MSVCR110.DLL is from vcredist 2011. Just install them all (both, x86 and x64 on a x64 system) and your fine and wont have such problems in the future!
+2011, got it. I will install them all. Pretty cool, Total War will be the first game i'll be running on Windows x64. Thanks for the comment!
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 14 Sep 2014, 07:38]
+Anyone has the DEI version 085d ( patch 14) ? 
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 14 Sep 2014, 08:09]
+tanauser wrote:
+Anyone has the DEI version 085d ( patch 14) ? 
+
+Why do u want an older version?
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 14 Sep 2014, 08:25]
+my version v1.14.1.0 build 13180.569980
+works perfect .... Not a single bug
+for what I understand the beta version patch 15 causes some problem
+I am waiting for stable final patch or maybe the emperor edition if I can found it
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 14 Sep 2014, 17:07]
+tanauser wrote:
+my version v1.14.1.0 build 13180.569980
+works perfect .... Not a single bug
+for what I understand the beta version patch 15 causes some problem
+I am waiting for stable final patch or maybe the emperor edition if I can found it
+
+I have the 15 and not experienced anything wierd.
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 15 Sep 2014, 06:13]
+What about task manager necessary to close the game after exit ?
+(I never was able to solve the problem)
+It only have stopped with the steam-rip crack
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 15 Sep 2014, 07:52]
+tanauser wrote:
+my version v1.14.1.0 build 13180.569980
+works perfect .... Not a single bug
+for what I understand the beta version patch 15 causes some problem
+I am waiting for stable final patch or maybe the emperor edition if I can found it
+
+
+patch15 (final)=emperor edition.
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 15 Sep 2014, 08:47]
+tanauser wrote:
+What about task manager necessary to close the game after exit ?
+(I never was able to solve the problem)
+It only have stopped with the steam-rip crack
+
+That´s what bothers u about patch 15? lol
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 15 Sep 2014, 09:15]
+yes ; I had it with patch 14
+now it is solved with the steam-ripp crack
+Do you still have this problem with the Beta patch 15?
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 15 Sep 2014, 10:57]
+neoiq5719 wrote:
+tanauser wrote:
+What about task manager necessary to close the game after exit ?
+(I never was able to solve the problem)
+It only have stopped with the steam-rip crack
+
+That´s what bothers u about patch 15? lol
+
+
+
+There are practically no mods for it except for DeI. That's what bothers me.
+Also, if you're also annoyed by the fact that graphics and other options don't save because of the process staying in tasks, I think you can run your game without mods, not go into any battles and close the game just fine after changing your graphics options and other stuff to whatever you desire. It just breaks after the 1 battle or with any mods applied.
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 15 Sep 2014, 11:03]
+I was able to run 2 mods with the Steam-ripp + a game cheat (trainer)
+and exit the game with graphic set to "Very High" settings
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 15 Sep 2014, 13:08]
+tanauser wrote:
+yes ; I had it with patch 14
+now it is solved with the steam-ripp crack
+Do you still have this problem with the Beta patch 15?
+
+Problem exiting ? yes but doesnt bug me that much

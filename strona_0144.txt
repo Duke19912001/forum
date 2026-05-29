@@ -1,0 +1,133 @@
+=========================================
+STRONA 144 (URL: https://cs.rin.ru/forum/viewtopic.php?f=10&t=61441&hilit=rome+2&start=2145)
+=========================================
+
+[Data: Sunday, 26 Oct 2014, 18:11]
+copy&paste
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 27 Oct 2014, 02:47]
+delv213 wrote:
+Riki_Stealth wrote:
+my game crashed while on "ROME TOTAL WAR EMPEROR EDITION" splash screen before SEGA .... anyone know how to fix this damn thing??
+
+Problem signature:
+Problem Event Name: APPCRASH
+Application Name: Rome2.exe
+Application Version: 2.0.0.0
+Application Timestamp: 54172ac9
+Fault Module Name: Rome2.dll
+Fault Module Version: 2.0.0.0
+Fault Module Timestamp: 54172a4d
+Exception Code: 80000003
+Exception Offset: 0081a054
+OS Version: 6.1.7601.2.1.0.256.48
+Locale ID: 1033
+Additional Information 1: 0a9e
+Additional Information 2: 0a9e372d3b4ad19135b953a78882e789
+Additional Information 3: 0a9e
+Additional Information 4: 0a9e372d3b4ad19135b953a78882e789
+
+
+Delete your Rome II Roaming folder and it should work after, if it doesn't reinstall.
+
+C:\Users\WhateverYourPCNameIs\AppData\Roaming\The Creative Assembly
+
+^Substitute the WhateverYourPCNameIs with your PC name.
+
+
+
+Woah thanks dude!! It's been 2 fuckin days I confused how to fix this.. Thankss
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 28 Oct 2014, 07:43]
+ShadowDuke wrote:
+copy&paste
+
+Yes, it works just like that, which is unbelievable with nowadays registry modifying games. Thank you !
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 28 Oct 2014, 12:07]
+anyone know how to fix Multiplayer game?? i wanna play LAN campaign with my cousin, we are using Emperor Edition. whenever me or my cousin create a host game, the Rome ii has stopped working... what should i do?? anyone know??
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 29 Oct 2014, 02:07]
+Hi, Is there an update which updates from v2-0-0-13903 to v2-0-0-14116 here?
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 29 Oct 2014, 08:55]
+Sigh, rtfm, check op? Why do i even post the build-nr if people constantly ignoring it!?
+
+viewtopic.php?p=953761#p953761
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 29 Oct 2014, 10:50]
+Thanks.
+
+Sorry I checked last couple of pages and the first page's links but didn't came across the page you posted. Haven't looked deep enough I guess.
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 30 Oct 2014, 17:18]
+New update with some halloween stuff, wont update here tho.
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 30 Oct 2014, 18:47]
+Its not really worth it anyway.
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 02 Nov 2014, 21:22]
+What in fact is this festival of Lemuria ??????
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 02 Nov 2014, 23:26]
+"leonardusius"
+From steam:
+
+Quote:
+The latest free update for ROME II adds the festival of Lemuria to the game and a new seasonal challenge, Nightmare Mode!
+
+Lemuria was an ancient feast during which restless spirits were exorcised from the home with the alternate offering of beans and then clashing of cooking pots. Perhaps an early Roman version of Trick or Treat?
+
+Nightmare Mode can be toggled on from the game options menu, causing your troops to suffer horrifying visions in battle. Harpies descend from the skies as a terrifying atmosphere envelopes your forces. Assailed by such apparitions it is no surprise that your soldiers will find the enemy extremely frightening!
+
+Any generals skilled enough to complete a Campaign battle in Nightmare Mode will earn a new Steam achievement and the adoration of their peers. May the gods help you if you try to complete a whole campaign…
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 03 Nov 2014, 08:37]
+Quote:
+The latest free update for ROME II adds the festival of Lemuria to the game and a new seasonal challenge, Nightmare Mode!
+
+Lemuria was an ancient feast during which restless spirits were exorcised from the home with the alternate offering of beans and then clashing of cooking pots. Perhaps an early Roman version of Trick or Treat?
+
+
+So, no real game improvement, only fancy and useless stuff....IMHO this work could be used more efficient.
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 03 Nov 2014, 16:35]
+It will not be a correction of historical battles... so covered by the festival of Lemuria ??
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 05 Nov 2014, 12:04]
+I'm wondering if it is possible to generate new campaigns maps by splitting method of Shogun 2 ...Anyone knows ?
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 06 Nov 2014, 15:50]
+Total.War.ROME.II.Emperor.Edition.v2.0.0.14901.Incl.DLC.Cracked-3DM
+
+http://pan.baidu.com/s/1c03ZR7y
+
+full game, latest version.

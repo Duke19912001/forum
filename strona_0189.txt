@@ -1,0 +1,132 @@
+=========================================
+STRONA 189 (URL: https://cs.rin.ru/forum/viewtopic.php?f=10&t=61441&hilit=rome+2&start=2820)
+=========================================
+
+[Data: Sunday, 23 Aug 2015, 11:49]
+still curious how CPY managed to do in in their Attila crack
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 23 Aug 2015, 11:49]
+
+_________________
+mostly inactive until at least half of july 2025
+
+If any of my uploads are outdated or no longer online , the best way to do is to send me a PM and i will add the title to the next batch
+UPLOADS PAUSED (have all requests in queue for when i am back to being more active)
+
+List of recent games with modern DRMs:(updated 01-Mar-2023) - http://cs.rin.ru/forum/viewtopic.php?f=10&t=68151
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 23 Aug 2015, 15:41]
+machine4578 wrote:
+as for the encyclopedia issue, unfortunately it seems they implemeted a steam check like Attila. and without using the org steam_api.dll and haiving steam running. the pedia doesnt work.
+
+Can we have a crack like Attila for the time being, please ?
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 23 Aug 2015, 17:32]
+machine4578 wrote:
+is the game CTD before main menu with this LumaCEG error?
+
+____
+
+as for the encyclopedia issue, unfortunately it seems they implemeted a steam check like Attila. and without using the org steam_api.dll and haiving steam running. the pedia doesnt work.
+
+
+
+It would just randomly CTD if you clicked on any of the menu options or just regularly playing, Solved by downloading the PROPHET torrent.
+
+I guess I just had a bad torrent of the game.
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 23 Aug 2015, 18:44]
+So no-way to makesteamless CPY like crack for both Rome2/Attila anytime soon 
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 23 Aug 2015, 21:56]
+fatalerror1 wrote:
+So no-way to makesteamless CPY like crack for both Rome2/Attila anytime soon 
+
+you can play TWR2 100% offline but no pedia. for Attila you must have steam.
+
+
+Aomari wrote:
+Can we have a crack like Attila for the time being, please ?
+
+sure here try this, just be sure steam is running and start he game with Rome2.exe like normal and the pedia should work.
+http://www49.zippyshare.com/v/qAgftqs0/file.html
+
+greetz to sam2k8 and Steam006!!
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 24 Aug 2015, 01:40]
+Language Updates other languages ​​will be?
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 24 Aug 2015, 09:25]
+Guys is there a 17-th patch with crack for Rome II ?
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 24 Aug 2015, 12:20]
+mogrim90 wrote:
+Guys is there a 17-th patch with crack for Rome II ?
+
+the last update i posted IS patch 17(2.2.0.16019)
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 24 Aug 2015, 16:12]
+i have the legit version total war rome 2 emporer edition and i wanna get the dlc for free how?
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 24 Aug 2015, 16:57]
+Read the thread, answer is here!
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 24 Aug 2015, 17:25]
+ShadowDuke wrote:
+Read the thread, answer is here!
+
+
+There are like 189 pages and ive searched trough in 3 hours and cannot find anything...
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 24 Aug 2015, 20:36]
+Latest update shows errors when patching data and models 2 .
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 24 Aug 2015, 21:03]
+mfdoom wrote:
+Latest update shows errors when patching data and models 2 .
+
+seems you have bad org files then.. i suggest you try reinstalling the game or get the PPT release
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 25 Aug 2015, 10:16]
+now models ain't working too.
+
+-- Edit --
+
+My bad. I hadn't installed 666 update.
+
+-- Edit --
+
+Help i have no sound after the latest update!
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 25 Aug 2015, 11:43]
+really frustrating when I get my downloads corrupted after three attempts on the 1.2GB download. They all get 100% finished, but when I extract the .rar it is corrupted. I've tried all kinds of .rar repair applications and they don't make any difference.  Pls help x(

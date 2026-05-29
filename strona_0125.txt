@@ -1,0 +1,198 @@
+=========================================
+STRONA 125 (URL: https://cs.rin.ru/forum/viewtopic.php?f=10&t=61441&hilit=rome+2&start=1860)
+=========================================
+
+[Data: Thursday, 18 Sep 2014, 03:19]
+Please HELP! I download Total.War.ROME.II.Emperor.Edition-RELOADED and install. When I open it show error:
+
+Total War: Rome 2 has stopped working
+
+[ img ]
+
+I put crack but it still wont work 
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 18 Sep 2014, 03:29]
+Here is a collection of various fixes for startup crashes on one page, i'm pretty sure some of it have been mentioned already in this topic.
+http://steamcommunity.com/app/214950/di ... 918361073/
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 18 Sep 2014, 03:29]
+
+_________________
+⇛ The eyes, Chico. They never lie. ⇚
+
+In case you need a re-upload or something of anything i posted, shoot me a PM and i'll get back to ya'll.
+
+Password will always be: cs.rin.ru, if not stated otherwise...
+
+Please refrain from contacting me about stuff i simply posted and not uploaded, usually that stuff is old and possibly no longer in my possession. Thanks!
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 18 Sep 2014, 05:43]
+mhcvel wrote:
+Sisah wrote:
+Please can someone upload original binkw32.dll and rome2.exe
+
+Check if this can work 4 u... it's all I got
+
+
+Thank you
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 18 Sep 2014, 06:04]
+Italian, French, Spanish & Russian (and German) language and encyclopedia added.
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 18 Sep 2014, 06:10]
+hello
+
+may I ask which is the best crack for Lan Multiplayer for Emperor Edition?
+
+I have reloaded repack installed
+
+already tried in this sequence with these results:
+
+ali213 of our" updates section, stable on sp but doesnt allow mp host creation (screen locks up)
+3dm from page 117's repack crashes randomly my game on normal strategic map screen..so I dont even touch it for mp
+
+reloaded is only SP.. so.. sugestions please?
+
+-- Edit --
+
+
+wavetw wrote:
+Please HELP! I download Total.War.ROME.II.Emperor.Edition-RELOADED and install. When I open it show error:
+
+Total War: Rome 2 has stopped working
+
+[ img ]
+
+I put crack but it still wont work 
+
+
+
+the best thing since you installed reloaded on a fresh folder is to ensure that rome 2 documents folder is empty, to avoid conflicts with the new installation definitions.. more specifically delete the scripts folder in
+
+C:\Users\YOU\AppData\Roaming\The Creative Assembly\Rome2\scripts
+
+hope it helps friend
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 18 Sep 2014, 07:20]
+ShadowDuke wrote:
+Italian, French, Spanish & Russian language and encyclopedia added.
+
+thank you very much, always very well defined. I'm happy with this. ty!! 
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 18 Sep 2014, 07:27]
+keminsky wrote:
+hello
+
+may I ask which is the best crack for Lan Multiplayer for Emperor Edition?
+
+I have reloaded repack installed
+
+already tried in this sequence with these results:
+
+ali213 of our" updates section, stable on sp but doesnt allow mp host creation (screen locks up)
+3dm from page 117's repack crashes randomly my game on normal strategic map screen..so I dont even touch it for mp
+
+reloaded is only SP.. so.. sugestions please?
+
+
+yesterday i tested it on tunngle with reloaded crack it found one game but with password hosting game work too so i think MP via LAN working with reloaded crack
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 18 Sep 2014, 07:46]
+ShadowDuke wrote:
+Italian, French, Spanish & Russian language and encyclopedia added.
+
+Where is this?
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 18 Sep 2014, 07:46]
+
+_________________
+
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 18 Sep 2014, 07:51]
+punchao wrote:
+ShadowDuke wrote:
+Italian, French, Spanish & Russian language and encyclopedia added.
+
+Where is this?
+
+
+You can download your lang pack here
+
+
+Code: Select all | Line number On/Off | Expand/Contract
+https://kickass.to/total-war-rome-ii-em ... .html#main
+
+
+when you add it to torrent client, select only your language in \content\ . I tested italian and works fine.
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 18 Sep 2014, 07:54]
+punchao wrote:
+ShadowDuke wrote:
+Italian, French, Spanish & Russian language and encyclopedia added.
+
+Where is this?
+
+
+Check op!?
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 18 Sep 2014, 08:03]
+Thanks Kevin For Link
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 18 Sep 2014, 08:05]
+Thanks...but
+how to change encyclopedia language?
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 18 Sep 2014, 08:05]
+
+_________________
+
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 18 Sep 2014, 08:06]
+What do you mean by change? You play with the same encyclopedia language you play the game with. TWR2/data/encyclopedia/es in your case!
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 18 Sep 2014, 08:20]
+ShadowDuke wrote:
+Italian, French, Spanish & Russian (and German) language and encyclopedia added.
+
+
+thank you very much 
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 18 Sep 2014, 08:26]
+What patience you have to give the gods, ShadowDuke jejeje.
+"por tutatis" 
+
+p.d: I have observed that the game does not close correctly, you suggest me some motive... it remains waiting long periods and not closed

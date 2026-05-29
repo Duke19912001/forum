@@ -1,0 +1,187 @@
+=========================================
+STRONA 120 (URL: https://cs.rin.ru/forum/viewtopic.php?f=10&t=61441&hilit=rome+2&start=1785)
+=========================================
+
+[Data: Wednesday, 17 Sep 2014, 02:44]
+now i did something different:
+
+I ignored this "3DMGAME-Total.War.ROME.II.Emperor.Edition.v2.0.0.Incl.DLC.Cracked-3DM"
+
+then
+
+installed an old repack wich was on update 14 beta (one of those with Yoda icon on installer, a steam rip
+
+put all patches in this sequence:
+Total.War.ROME.II.Update.14_beta + gamefix! (Beta=Final, nothing changed, fix=typo (1 file))
+Total.War.ROME.II.Update.14_Gaul_and_HATG_Update
+Total.War.ROME.II.Update.14_1
+Total.War.ROME.II.Update.15_beta
+Total.War.ROME.II.Update.15_beta_to_final + gamefix! (Emperor Edition)
+Total.War.ROME.II.Update.15_Gaul_and_HATG_Update
+
+... and I put the update 15 beta to final crack
+
+I noticed that 15 gamefix corrected the data_rome2.pack but 15 beta to final had a mismatch on
+local_en_rome2.pack, so I subscribe Wolfremio90 opinion...
+
+..IN SUM:
+
+to those who want to use cumulative updates,here's the cherry of the cake:
+the local_en_rome2.pack which works without problems
+
+https://mega.co.nz/#!SxhhADCY!QW0w38cEm ... Pxdf4BR05o
+
+.. I only taken it from 3DM imperator edition..and magically works. Hope this helps you friends
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 17 Sep 2014, 03:12]
+Yeah, i totally forgot that i already had only the english language files for Patch15_beta1 (cos i last played the game on en). Ignore the error and load his file or my updated eng only files in the language thread. So its like before, german update only, download english language files separately.
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 17 Sep 2014, 03:20]
+whats the assembly kit?
+its not really needed, is it?
+i want to update properly, i have that 3dm full pack 14.1, then update 15 beta.
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 17 Sep 2014, 03:35]
+Why do i put info link at assembly kit if no one reads it!? If you want to know if you need it, you click the link and now what is it..
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 17 Sep 2014, 03:48]
+oh, i did not see any info link, at least not in that post a few pages back.
+i will check the other posts, thank you.
+
+aaaah, its there, it was too tiny for me, i didnt think its a link.
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 17 Sep 2014, 04:43]
+i've just updated the game for the emperor edition
+seems to be working fine except 1 thing
+everytime i exit the game from main menu the game is not responding
+am i the only one who experienced this?
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 17 Sep 2014, 04:45]
+the hang on main menu or in pause, when trying to exit the game is an issue that I notice..
+.. saying this with the "all necessary patches" method.. another thing I notice is a rare crash during normal gameplay on strategic map..anyone noticed this?
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 17 Sep 2014, 05:24]
+ikyu828 wrote:
+i've just updated the game for the emperor edition
+seems to be working fine except 1 thing
+everytime i exit the game from main menu the game is not responding
+am i the only one who experienced this?
+
+
+Like i said, we have to mention it 3 times per week at least...its the file lumaemu_ceg.dll an older version doesnt have this problems, its here in the thread somewhere, tho not all have this problem and im providing always the latest up2date lumaemu_ceg.dll. So bear with it or try use an older one (from an older crack, just this file) and also you can still read the thread and prev. postings, mentioning this like i said, 3 times per week...its not new..
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 17 Sep 2014, 05:35]
+ShadowDuke wrote:
+Total.War.ROME.II.Update.15.encyclopedia.and.language.files (16.09.2014)
+
+Will add step-by-step encyclopedia & Languages for Update.15.final...
+
+
+Encyclopedia (Zippyshare)
+
+English: <not needed, online ingame>
+German: http://www67.zippyshare.com/v/93283322/file.html
+
+
+
+Languages
+
+English: https://www.firedrive.com/file/5EAC4460D07F55F6
+German: <not needed, included in Patch15.final>
+
+
+Code: Select all | Line number On/Off | Expand/Contract
+1) Extract all files to your Rome 2 \data\ dir
+2) Play
+
+
+Hi, i wait french language... 
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 17 Sep 2014, 05:35]
+
+_________________
+I have certifications EBIOS RM, ISO27005, SECUWEB, PENTESTWEB, PRIM'X (ZED! and Zonecentral), ITIL v3 Foundations & CISCO CCNA1, CCNA2, CCNA3, CCNA4
+Don't hate the hacker, hate the code...
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 17 Sep 2014, 05:35]
+ShadowDuke wrote:
+Like i said, we have to mention it 3 times per week at least...its the file lumaemu_ceg.dll an older version doesnt have this problems, its here in the thread somewhere, tho not all have this problem and im providing always the latest up2date lumaemu_ceg.dll. So bear with it or try use an older one (from an older crack, just this file) and also you can still read the thread and prev. postings, mentioning this like i said, 3 times per week...its not new..
+
+it's different than before or previous version
+before if i exit the game form the main menu it will work, but i still need to close the rome2.exe from task manager
+w/ the ee patch, it's simply not responding (stuck in the main menu) when i try to exit the game from the main menu
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 17 Sep 2014, 05:39]
+Sorry to put it this way but this is one messed up patch. separated which add more burden to the situation and in the end....
+Why is the first part an executable and the second a rar? makes no sense
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 17 Sep 2014, 05:45]
+i've downloaded the 3DMGAME-Total.War.ROME.II.Emperor.Edition.v2.0.0.Incl.DLC.Cracked-3DM torrent.
+The game crashes when i end the turn in grand campaign at libya. Can anyone else confirm this ?
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 17 Sep 2014, 06:06]
+ikyu828 wrote:
+ShadowDuke wrote:
+Like i said, we have to mention it 3 times per week at least...its the file lumaemu_ceg.dll an older version doesnt have this problems, its here in the thread somewhere, tho not all have this problem and im providing always the latest up2date lumaemu_ceg.dll. So bear with it or try use an older one (from an older crack, just this file) and also you can still read the thread and prev. postings, mentioning this like i said, 3 times per week...its not new..
+
+it's different than before or previous version
+before if i exit the game form the main menu it will work, but i still need to close the rome2.exe from task manager
+w/ the ee patch, it's simply not responding (stuck in the main menu) when i try to exit the game from the main menu
+
+
+I had almost the same problem and older LumaEmu_CEG.dll from previous crack version didn't solve it
+maybe another file needed to change ?
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 17 Sep 2014, 06:23]
+neoiq5719 wrote:
+Sorry to put it this way but this is one shitty messed up patch. Is corrupt, separated which add more burden to the situation and in the end....wont work.
+Why is the first part an executable and the second a rar? makes no sense
+
+
+1st its not corrupt! You see other people complaining!? I also told you, i dl'ed the file and its not corrupt! Separated!? What, cos of a fix and gaul & hatg update (like it was before!?) and also extra eng language (also like before). And i rather supply a small "fix" instead of doing and uploading 1,4gb again... i keep spending enough time with the updating stuff etc!
+2nd it works
+3rd makes sense (winrar makes 1st part exe, 2nd+ part rar when sfx is chosen!)
+
+If you dont like how it is, dont download or use it! Thats everything i have to say to this. You people can feel lucky that im still updating this game, its my time i waste for you guys...maybe i should save this time next time or some1 else like to keep this game up2date, maybe machine4578 will but i heard he also doesnt have so much time anymore!
+
+@ikyu828
+Then use the prev. lumaemu_ceg.dll and see if its like before when you only needed to close rome2.exe. Some1 also said that any overlay can cause the same problem, RTSS, fraps, etc.
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 17 Sep 2014, 06:24]
+ShadowDuke wrote:
+@ikyu828
+Then use the prev. lumaemu_ceg.dll and see if its like before whe you only needed to close rome2.exe.
+
+it works now, but i only i test it after custom battle
+i'll try again after playing in gc for a while
+thanks again for the patch and help

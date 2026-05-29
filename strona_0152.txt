@@ -1,0 +1,276 @@
+=========================================
+STRONA 152 (URL: https://cs.rin.ru/forum/viewtopic.php?f=10&t=61441&hilit=rome+2&start=2265)
+=========================================
+
+[Data: Friday, 05 Dec 2014, 14:48]
+Hello guys, I really need some help.
+First of all thank you so much for keeping this topic updated, but I have a issue about the game (or pc?)
+In battlefield, pc sometimes locks itself up and i get a buzz sound (a very short piece of audio in loop I think) and I have to restart it manually everytime. What can be the problem? I'm about to go crazy.
+I'm attaching my DxDiag.
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 05 Dec 2014, 16:21]
+misterpinball wrote:
+mendo1992 wrote:
+Emperor Edition - Reloaded, anyone know what's version is it?
+
+Update 15 (v2.0.0.0)
+
+mendo1992 wrote:
+and if my version is old what I need to download??? thanks!
+
+Total.War.ROME.II.Update.15.Hotfix
+Total.War.ROME.II.Update.15.Hotfix_Gaul_and_HATG_Update
+Total.War.ROME.II.Update.16.Black.Sea.Colonies.Culture.Pack
+Total.War.ROME.II.Update.16_Gaul_and_HATG_Update
+
+these updates are linked in the first post
+
+Damn I did something wrong I think... I installed updates but when I click to Battles it crash, same things with campaigns, but not the prologue.
+
+Reinstalling.
+
+-- Edit --
+
+Ok I installed Total.War.ROME.II.Update.15.Hotfix and Total.War.ROME.II.Update.15.Hotfix_Gaul_and_HATG_Update but with Total.War.ROME.II.Update.16.Black.Sea.Colonies.Culture.Pack I received this errors:
+
+
+
+*************************************
+* TW: ROME II Update 16 (20.11.14) *
+*************************************
+
+Extracting patch files...
+Accesso negato.
+Applying Patch to blood_rome2.pack... [ 1 / 17 ]
+Applying Patch to data_rome2.pack... [ 2 / 17 ]
+xdelta3: target window checksum mismatch: XD3_INVALID_INPUT
+Applying Patch to gaul.pack... [ 3 / 17 ]
+Applying Patch to local_en_rome2.pack... [ 4 / 17 ]
+xdelta3: target window checksum mismatch: XD3_INVALID_INPUT
+Applying Patch to local_ge_rome2.pack... [ 5 / 17 ]
+Applying Patch to models2_rome2.pack... [ 6 / 17 ]
+xdelta3: target window checksum mismatch: XD3_INVALID_INPUT
+Applying Patch to models_rome2.pack... [ 7 / 17 ]
+Applying Patch to movies_rome2.pack... [ 8 / 17 ]
+Applying Patch to music_en_rome2.pack... [ 9 / 17 ]
+Applying Patch to music_ge_rome2.pack... [ 10 / 17 ]
+Applying Patch to music_rome2.pack... [ 11 / 17 ]
+Applying Patch to nomadic.pack... [ 12 / 17 ]
+Applying Patch to punic.pack... [ 13 / 17 ]
+Applying Patch to sound_rome2.pack... [ 14 / 17 ]
+Applying Patch to terrain2_rome2.pack... [ 15 / 17 ]
+Applying Patch to terrain_rome2.pack... [ 16 / 17 ]
+Applying Patch to tiles2_rome2.pack... [ 17 / 17 ]
+Applying Patch to tiles3_rome2.pack... [ 18 / 17 ]
+Applying Patch to tiles4_rome2.pack... [ 19 / 17 ]
+Applying Patch to tiles_rome2.pack... [ 20 / 17 ]
+
+DONE
+
+**************** Did any ERRORS occur? *************************
+* *
+* Selecting "Y" Restores your old files and ends the updating. *
+* Selecting "N" Will Continue the updating. *
+* *
+****************************************************************
+(Y/N):
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 06 Dec 2014, 13:49]
+I've 3DMGAME-Total.War.ROME.II.Emperor.Edition.v2.1.0.15239.Incl.DLC.Cracked-3DM and applying the last Total.War.ROME.II.Update.16_Gaul_and_HATG_Update block the game. What's wrong ?
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 06 Dec 2014, 13:53]
+leonardusius wrote:
+I've 3DMGAME-Total.War.ROME.II.Emperor.Edition.v2.1.0.15239.Incl.DLC.Cracked-3DM and applying the last Total.War.ROME.II.Update.16_Gaul_and_HATG_Update block the game. What's wrong ?
+
+the 3DM release should have the updated DLC files already.
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 06 Dec 2014, 15:12]
+But the Total.War.ROME.II.Update.16_Gaul_and_HATG_Updates to .15341 ?
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 06 Dec 2014, 18:51]
+machine4578 wrote:
+leonardusius wrote:
+I've 3DMGAME-Total.War.ROME.II.Emperor.Edition.v2.1.0.15239.Incl.DLC.Cracked-3DM and applying the last Total.War.ROME.II.Update.16_Gaul_and_HATG_Update block the game. What's wrong ?
+
+the 3DM release should have the updated DLC files already.
+
+I can't find those. Can someone paste those here? Original 3DM site is Japanese, God damn.
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 06 Dec 2014, 20:20]
+machine4578 wrote:
+leonardusius wrote:
+I've 3DMGAME-Total.War.ROME.II.Emperor.Edition.v2.1.0.15239.Incl.DLC.Cracked-3DM and applying the last Total.War.ROME.II.Update.16_Gaul_and_HATG_Update block the game. What's wrong ?
+
+the 3DM release should have the updated DLC files already.
+
+Any solution for my problem? I playing with the latest's 15 update now so that not a problem, just asking xD
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 06 Dec 2014, 21:24]
+mendo1992 wrote:
+misterpinball wrote:
+mendo1992 wrote:
+Emperor Edition -
+-- Edit --
+
+Ok I installed Total.War.ROME.II.Update.15.Hotfix and Total.War.ROME.II.Update.15.Hotfix_Gaul_and_HATG_Update but with Total.War.ROME.II.Update.16.Black.Sea.Colonies.Culture.Pack I received this errors:
+
+
+
+*************************************
+* TW: ROME II Update 16 (20.11.14) *
+*************************************
+
+Extracting patch files...
+Accesso negato.
+Applying Patch to blood_rome2.pack... [ 1 / 17 ]
+Applying Patch to data_rome2.pack... [ 2 / 17 ]
+xdelta3: target window checksum mismatch: XD3_INVALID_INPUT
+Applying Patch to gaul.pack... [ 3 / 17 ]
+Applying Patch to local_en_rome2.pack... [ 4 / 17 ]
+xdelta3: target window checksum mismatch: XD3_INVALID_INPUT
+Applying Patch to local_ge_rome2.pack... [ 5 / 17 ]
+Applying Patch to models2_rome2.pack... [ 6 / 17 ]
+xdelta3: target window checksum mismatch: XD3_INVALID_INPUT
+Applying Patch to models_rome2.pack... [ 7 / 17 ]
+Applying Patch to movies_rome2.pack... [ 8 / 17 ]
+Applying Patch to music_en_rome2.pack... [ 9 / 17 ]
+Applying Patch to music_ge_rome2.pack... [ 10 / 17 ]
+Applying Patch to music_rome2.pack... [ 11 / 17 ]
+Applying Patch to nomadic.pack... [ 12 / 17 ]
+Applying Patch to punic.pack... [ 13 / 17 ]
+Applying Patch to sound_rome2.pack... [ 14 / 17 ]
+Applying Patch to terrain2_rome2.pack... [ 15 / 17 ]
+Applying Patch to terrain_rome2.pack... [ 16 / 17 ]
+Applying Patch to tiles2_rome2.pack... [ 17 / 17 ]
+Applying Patch to tiles3_rome2.pack... [ 18 / 17 ]
+Applying Patch to tiles4_rome2.pack... [ 19 / 17 ]
+Applying Patch to tiles_rome2.pack... [ 20 / 17 ]
+
+DONE
+
+**************** Did any ERRORS occur? *************************
+* *
+* Selecting "Y" Restores your old files and ends the updating. *
+* Selecting "N" Will Continue the updating. *
+* *
+****************************************************************
+(Y/N):
+
+
+I have the same error!
+
+Please fix your patch, I can start the game but it crashes when choosing "great campaing". I use german version.
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 06 Dec 2014, 21:36]
+*************************************
+* TW: ROME II Update 16 (20.11.14) *
+*************************************
+
+Extracting patch files...
+Applying Patch to blood_rome2.pack... [ 1 / 17 ]
+Applying Patch to data_rome2.pack... [ 2 / 17 ]
+xdelta3: target window checksum mismatch: XD3_INVALID_INPUT
+Applying Patch to gaul.pack... [ 3 / 17 ]
+Applying Patch to local_en_rome2.pack... [ 4 / 17 ]
+xdelta3: target window checksum mismatch: XD3_INVALID_INPUT
+Applying Patch to local_ge_rome2.pack... [ 5 / 17 ]
+Applying Patch to models2_rome2.pack... [ 6 / 17 ]
+xdelta3: target window checksum mismatch: XD3_INVALID_INPUT
+Applying Patch to models_rome2.pack... [ 7 / 17 ]
+Applying Patch to movies_rome2.pack... [ 8 / 17 ]
+Applying Patch to music_en_rome2.pack... [ 9 / 17 ]
+Applying Patch to music_ge_rome2.pack... [ 10 / 17 ]
+Applying Patch to music_rome2.pack... [ 11 / 17 ]
+Applying Patch to nomadic.pack... [ 12 / 17 ]
+Applying Patch to punic.pack... [ 13 / 17 ]
+Applying Patch to sound_rome2.pack... [ 14 / 17 ]
+Applying Patch to terrain2_rome2.pack... [ 15 / 17 ]
+Applying Patch to terrain_rome2.pack... [ 16 / 17 ]
+Applying Patch to tiles2_rome2.pack... [ 17 / 17 ]
+
+DONE
+
+**************** Did any ERRORS occur? *************************
+* *
+* Selecting "Y" Restores your old files and ends the updating. *
+* Selecting "N" Will Continue the updating. *
+* *
+****************************************************************
+(Y/N):
+
+please help guys, what i should do to fix that damn error.... ive patch 15 hotfix installed and waited for this patch... and now it;s like this..... help!!
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 06 Dec 2014, 21:50]
+@Riki_Stealth, wait for reply, I'm using latest's 15 patch without problem, if you have any, try to reinstall the game.
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 06 Dec 2014, 21:57]
+mendo1992 wrote:
+@Riki_Stealth, wait for reply, I'm using latest's 15 patch without problem, if you have any, try to reinstall the game.
+
+
+im not having problem on pathc 15 tho...
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 07 Dec 2014, 02:51]
+I install HATG Reloaded and patch to last update (update 16) smoothly. Only slight problem with encyclopedia. Still old. Still looking for encylo eng file to see encylo offline
+
+@ Riki_Stealth & mendo1992, did you disable UAC completely?
+
+From emperor edition, try install Total.War.ROME.II.Update.15.beta_to_final_Emperor_Edition.FiX
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 07 Dec 2014, 03:23]
+Yes I have disabled UAC completely
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 07 Dec 2014, 11:48]
+leonardusius wrote:
+I've 3DMGAME-Total.War.ROME.II.Emperor.Edition.v2.1.0.15239.Incl.DLC.Cracked-3DM and applying the last Total.War.ROME.II.Update.16_Gaul_and_HATG_Update block the game. What's wrong ?
+
+Now, to put in other way the question: is this Total.War.ROME.II.Update.16_Gaul_and_HATG_Update give .15341 version ingame ? Anybody installed and can confirm ?
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 07 Dec 2014, 12:30]
+leonardusius wrote:
+Now, to put in other way the question: is this Total.War.ROME.II.Update.16_Gaul_and_HATG_Update give .15341 version ingame ? Anybody installed and can confirm ?
+
+
+my game ver is 15239, and i using all the patches from this forum including Update.16_Gaul_and_HATG_Update and never got any mismatch or error while patching it, the game also work nicely ..
+
+we didnt get the latest patch 16 hotfix, since its only minor fix thats why we're still running on 15239.
+
+about 2-3 pages back ..
+
+ShadowDuke wrote:
+New hotfix, wont release tho for only 1 missing unit, understand, please. 
+
+
+Quote:
+We’ve just released a hotfix for Patch 16 to address the known issue on MAC (Game options will now save and load correctly in the Mac Steam version.) and add the missing Cappadocian Cavalry to Pontus.
+
+
+just wait for next patch on dec 16 ..

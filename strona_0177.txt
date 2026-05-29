@@ -1,0 +1,186 @@
+=========================================
+STRONA 177 (URL: https://cs.rin.ru/forum/viewtopic.php?f=10&t=61441&hilit=rome+2&start=2640)
+=========================================
+
+[Data: Wednesday, 25 Feb 2015, 18:52]
+Thank you Machine4578
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 25 Feb 2015, 19:18]
+testni wrote:
+@cowkiller:
+mods_no_ai_agents.rar
+
+thanks 
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 26 Feb 2015, 02:44]
+testni wrote:
+@Rellington
+
+R2:TW GEMFX - Graphic Enhancement Mod 1.0.8
+
+Note: use FreeArc to extract.
+
+Fun trivia (unimportant since "bsham" doesn't sleep ): FreeArc compressed all 5 dlc files from 2.66Gb to 490Mb on normal compression!!!
+
+
+I'm a noob to uploading. I know now how to compress properly. Would have saved me so much time lol. Oh well, we all learn 
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 26 Feb 2015, 22:31]
+I've Rome II + the latest Reloaded update so v.2.2.0.155396 and game via local network (i.e. 2 PCs that I have against each other) works fine but when I try Hamachi to play a game with a friend, we cannot see/find each other. Anyone having an idea or solution? That would be most welcome.
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 26 Feb 2015, 22:31]
+
+_________________
+Always wanted to get rid of the files that were not listed in the sfv/md5 hash file? Check the QuickSFV plugin I created for this: viewtopic.php?f=10&t=108605 or this: viewtopic.php?p=1273745#p1273745
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 26 Feb 2015, 22:34]
+Dont use Hamachi? Use Tunngle or Evolve! Also, hamachi is paid-only, the other 2 are free! And its also not that good than the other 2!
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 27 Feb 2015, 03:41]
+I apologize in advance, but I had to ask this to someone whom knows what's going on :
+
+Just what should I download to make this game works? Rome 2 : Total War seems to have some sort of DRM and, after I tried inumerous cracks, it simply redirects me at the game page on Steam Store. Maybe Valve is trolling me...?
+
+Anyhow, should I use the Reloaded or R.G Mechanics version of Rome 2 : Total War?
+
+
+
+Also, which patches should I download and use to make the game work? All of them posted at the initial post or only the latest?
+
+
+
+I really apologize, but I simply can't figure out on my own. Thank you.
+
+-- Edit --
+
+I almost forgot : when I launch the game, it goes to the page of the game on Steam store.
+
+I have Steam installed in my PC - legit - anyone else had the same issue?
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 27 Feb 2015, 20:16]
+ShadowDuke wrote:
+Dont use Hamachi? Use Tunngle or Evolve! Also, hamachi is paid-only, the other 2 are free! And its also not that good than the other 2!
+
+
+But it should work right? I don't feel like installing Tunngle if it's not going to work either way.
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 27 Feb 2015, 20:16]
+
+_________________
+Always wanted to get rid of the files that were not listed in the sfv/md5 hash file? Check the QuickSFV plugin I created for this: viewtopic.php?f=10&t=108605 or this: viewtopic.php?p=1273745#p1273745
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 27 Feb 2015, 20:28]
+I dont know, havent tried Hamachi in years cos there are the better alternatives. But i know that some Games dont work with Hamachi. I dont see where the big deal is to deinstall Hamach and install Tunngle instead. You have either one "VPN" with Hamachi or Tunngle, so it actually doesnt matter. And its working with Tunngle, so... 
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 27 Feb 2015, 22:52]
+ShadowDuke wrote:
+I dont know, havent tried Hamachi in years cos there are the better alternatives. But i know that some Games dont work with Hamachi. I dont see where the big deal is to deinstall Hamach and install Tunngle instead. You have either one "VPN" with Hamachi or Tunngle, so it actually doesnt matter. And its working with Tunngle, so... 
+
+
+I've just installed Tunngle and found it more bothersome than Hamachi but at least we're able to find each other. Next problem is loading your save game. When you resume the host is a complete other faction and the client is the the host's faction. I'll give your crack and 3DM's a try, maybe that works; Reloaded's doesn't for that matter.
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 27 Feb 2015, 22:52]
+
+_________________
+Always wanted to get rid of the files that were not listed in the sfv/md5 hash file? Check the QuickSFV plugin I created for this: viewtopic.php?f=10&t=108605 or this: viewtopic.php?p=1273745#p1273745
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 28 Feb 2015, 00:26]
+Nevermind, I fixed by myself. Thanks for the help to the people on this topic, it was the only part of the internet with relevant help regarding the game.
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 28 Feb 2015, 07:14]
+ShadowDuke wrote:
+Total.War.ROME.II.Update.v2.2.0.15539-v2.2.0.15666 XDELTA
+Size: 23MB
+Code: Select all | Line number On/Off | Expand/Contract
+http://www50.zippyshare.com/v/lCnscRna/file.html
+
+NOTE:
+*you MUST have v2.2.0.15539 installed
+
+
+Anyone tried coop campaign over tunngle or anything that works without the game changing factions or save not working in the latest update?
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 28 Feb 2015, 12:04]
+Kapanol wrote:
+ShadowDuke wrote:
+Total.War.ROME.II.Update.v2.2.0.15539-v2.2.0.15666 XDELTA
+Size: 23MB
+Code: Select all | Line number On/Off | Expand/Contract
+http://www50.zippyshare.com/v/lCnscRna/file.html
+
+NOTE:
+*you MUST have v2.2.0.15539 installed
+
+
+Anyone tried coop campaign over tunngle or anything that works without the game changing factions or save not working in the latest update?
+
+
+I'm trying to figure out the same thing. I'll let you know when I find something.
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 28 Feb 2015, 12:04]
+
+_________________
+Always wanted to get rid of the files that were not listed in the sfv/md5 hash file? Check the QuickSFV plugin I created for this: viewtopic.php?f=10&t=108605 or this: viewtopic.php?p=1273745#p1273745
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 28 Feb 2015, 14:48]
+Changelog for v2.2.0.15666, please !
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 28 Feb 2015, 15:06]
+can someone upload this mod please??  http://steamcommunity.com/sharedfiles/filedetails/?id=233589292
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 28 Feb 2015, 16:43]
+Anomaly wrote:
+Kapanol wrote:
+ShadowDuke wrote:
+Total.War.ROME.II.Update.v2.2.0.15539-v2.2.0.15666 XDELTA
+Size: 23MB
+Code: Select all | Line number On/Off | Expand/Contract
+http://www50.zippyshare.com/v/lCnscRna/file.html
+
+NOTE:
+*you MUST have v2.2.0.15539 installed
+
+
+Anyone tried coop campaign over tunngle or anything that works without the game changing factions or save not working in the latest update?
+
+
+I'm trying to figure out the same thing. I'll let you know when I find something.
+
+
+Thanks,bumping

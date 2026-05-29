@@ -1,0 +1,120 @@
+=========================================
+STRONA 184 (URL: https://cs.rin.ru/forum/viewtopic.php?f=10&t=61441&hilit=rome+2&start=2745)
+=========================================
+
+[Data: Saturday, 20 Jun 2015, 10:15]
+machine4578 wrote:
+leonardusius wrote:
+machine4578 wrote:
+^
+did you ever check your files prior to updating. you should not be having issues if your files are correct. so you may have bad files unfortunately.
+also check page 1, you may have missed a hotifx?
+
+If files have any issues the game don't work; but I can play it flawless. Already checked page 1 and all updates/hotfix until 15539. I think I have other installed version and the xdelta update is wrong. BTW, how can I check what install I have ?
+Thank you.
+
+idk whats wrong to be honest  as i said i validated the files before and after making the patch files, and no one else in ~4 months reported an issue.
+
+Thanks for reply. But what to do next because I'm stuck here and not want to reinstall whole game; instead I want to see what it is wrong here. As I sayed before this 3 files mismatching:
+data_rome2.pack; local_en_rome2.pack; models_rome2.pack.
+Probably I have different release. But can't figure out how to detect what's it; I installed game long ago and forgot the release type. Please help. Thank you.
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 28 Jun 2015, 17:41]
+hi all  .. i need helping...
+i need startpos.esf file for any dlc can you help me?
+
+Thanks....im so sorry for my bad english... 
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 28 Jun 2015, 22:10]
+@machine4578 can you create a new crack for the latest version, I tried yours with a clean rome 2 copy installed from the free weekend and it will crash a few seconds after intro videos but the game worked fine while the free weekend lasted or if I cheat steam to make it believe I own the game, the problem is that without your crack I can't enable any of the dlcs.
+
+Thanks.
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 28 Jun 2015, 23:32]
+@MrAngio92:
+TWR2.rar
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 28 Jun 2015, 23:39]
+alvaro1992 wrote:
+@machine4578 can you create a new crack for the latest version, I tried yours with a clean rome 2 copy installed from the free weekend and it will crash a few seconds after intro videos but the game worked fine while the free weekend lasted or if I cheat steam to make it believe I own the game, the problem is that without your crack I can't enable any of the dlcs.
+
+Thanks.
+
+the game has not updated.. the current crack should still work fine.
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 29 Jun 2015, 09:46]
+So strange then, is it crashing for me alone?
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 29 Jun 2015, 14:06]
+gem.pack version 1.0.8.1 can be downloaded outside steam Wordshop?
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 29 Jun 2015, 14:56]
+I found something weird, if I copy the game's exe file and rename it to something like rome2 - copy.exe the game won't crash, but if I use the one named rome2.exe it will crash. 
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 29 Jun 2015, 16:33]
+testni wrote:
+@MrAngio92:
+TWR2.rar
+
+Thanks for everything! 
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 29 Jun 2015, 22:45]
+I succesfully added all the DLC with the AppID patcher, but several of the DLCs such as blood and gore read as not installed.
+
+Has anyone had success with taking the pack files from the mods of a legit/nonlegit game and copying them into the rome folder? If so is there a torrent yall would recommend?
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 30 Jun 2015, 12:47]
+Can someone tell me where Rome 2 keeps its workshop files? I can't for the life of me find them, to move them over to my other copy of Rome 2.
+
+(Specifically the Roma Invicta three part mod)
+
+Edit: Launching the Steam version of Rome 2 made them appear in /data. Still no idea where Steam keeps them "off season" though... very weird. 
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 30 Jun 2015, 13:22]
+Hello, i'm new to all this where can i find the rome 2 pre-load files for the cracked steam? i'm looking everywhere but can't find it.
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 05 Jul 2015, 16:50]
+hey machine, can you post your xdelta update also in german?
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 07 Jul 2015, 11:38]
+Can someone give me the link of the mod 'NEW: More Bloody Animation (the units remain in formation' (http://steamcommunity.com/sharedfiles/f ... =390721834). I tried the website:
+http://steamworkshopdownloader.com/ but the Mod manager did not recognize the file.
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 07 Jul 2015, 12:49]
+here http://www92.zippyshare.com/v/bv885v9c/file.html
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 07 Jul 2015, 12:49]
+
+_________________
+Haters gonna hate!
+My updates are always clean files - no cracks included.

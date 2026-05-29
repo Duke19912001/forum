@@ -1,0 +1,182 @@
+=========================================
+STRONA 200 (URL: https://cs.rin.ru/forum/viewtopic.php?f=10&t=61441&hilit=rome+2&start=2985)
+=========================================
+
+[Data: Thursday, 15 Oct 2015, 16:45]
+daniel767 wrote:
+Nope, not working for me, game crashing
+
+Better I forget about the pedia for a while...
+
+Do you have the (non-pedia) crack for Total.War.ROME.II.Update.v2.2.0.16019 incl binkw32.dll, so I can reset my game 
+
+crashing? it should NOT crash your game!!. did you restart steam??? did you try removing mods? did you try removing the appdata\roaming\The Creative Assembly\Rome2 folder?
+
+and always make backups of files!! here is org binkw32.dll
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 15 Oct 2015, 16:59]
+thanks, man, i use to do backups, i forgot now, do you also have the crack files for Total.War.ROME.II.Update.v2.2.0.16019 ?
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 15 Oct 2015, 18:33]
+daniel767 wrote:
+thanks, man, i use to do backups, i forgot now, do you also have the crack files for Total.War.ROME.II.Update.v2.2.0.16019 ?
+
+
+http://www68.zippyshare.com/v/xlIr7nZi/file.html
+Credits to Machine et al.
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 15 Oct 2015, 18:33]
+
+_________________
+Always wanted to get rid of the files that were not listed in the sfv/md5 hash file? Check the QuickSFV plugin I created for this: viewtopic.php?f=10&t=108605 or this: viewtopic.php?p=1273745#p1273745
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 15 Oct 2015, 21:17]
+thank you
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 16 Oct 2015, 11:37]
+Rome 2: EE v2.2.0 b16155 Language Packs
+
+
+Quote:
+https://mega.nz/#F!R8R0EChT!GNQhhKNM15cADUfT-KekSA
+
+
+Note: make sure you delete ALL old language .pack files (files with _en. or _de. or _ru. etc... in their name) from Rome 2/data folder before copy/pasting new ones, otherwise you will get missing text and sounds ingame (if old files remain present).
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 16 Oct 2015, 20:46]
+Thank you very much testni 
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 16 Oct 2015, 20:46]
+
+_________________
+Sorry for my English, I use Google translate. 
+CSF - Clean Steam files. Crack not included. If you don't know the password, read the FAQ. If I missed a new update, send a request to the PM.
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 16 Oct 2015, 21:13]
+Any chance of someone upload Assembly Kit compatible with latest version on this topic?
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 17 Oct 2015, 13:02]
+I have R2TW Emperor edition v 2.0.0 build 13903.584483. I wanted to run the DeI mod version 1.05e, but they told me that I needed to update to Emperor version 2.2. But I'm getting confused by all the different patch & update links in this thread. Can someone please tell me which ones I need to download & install ?
+
+I'm a total newbie, so please excuse any stupid queries !
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 17 Oct 2015, 13:17]
+ikoke wrote:
+I have R2TW Emperor edition v 2.0.0 build 13903.584483. I wanted to run the DeI mod version 1.05e, but they told me that I needed to update to Emperor version 2.2. But I'm getting confused by all the different patch & update links in this thread. Can someone please tell me which ones I need to download & install ?
+
+I'm a total newbie, so please excuse any stupid queries !
+
+the easiest way is to get the newest PPT release(15666), then get the 2 newest updates(16019 and 16155)
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 17 Oct 2015, 13:21]
+machine4578 wrote:
+ikoke wrote:
+I have R2TW Emperor edition v 2.0.0 build 13903.584483. I wanted to run the DeI mod version 1.05e, but they told me that I needed to update to Emperor version 2.2. But I'm getting confused by all the different patch & update links in this thread. Can someone please tell me which ones I need to download & install ?
+
+I'm a total newbie, so please excuse any stupid queries !
+
+the easiest way is to get the newest PPT release(15666), then get the 2 newest updates(16019 and 16155)
+
+
+
+But the PPT release would be the full game, right? With my slow net connection that would take forever.
+
+Any other way ? Couldn't I just download the updates?
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 17 Oct 2015, 13:50]
+ikoke wrote:
+But the PPT release would be the full game, right? With my slow net connection that would take forever.
+
+Any other way ? Couldn't I just download the updates?
+
+you could download updates only, BUT imo you are asking for trouble considering the amount of patches needed. not to mention alot of updates are big too(and links offline).
+so if you really want the updated game, i suggest you grab the PPT release and 2 updates.
+
+good luck!!
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 17 Oct 2015, 21:42]
+machine4578 wrote:
+ikoke wrote:
+But the PPT release would be the full game, right? With my slow net connection that would take forever.
+
+Any other way ? Couldn't I just download the updates?
+
+you could download updates only, BUT imo you are asking for trouble considering the amount of patches needed. not to mention alot of updates are big too(and links offline).
+so if you really want the updated game, i suggest you grab the PPT release and 2 updates.
+
+good luck!!
+
+
+Well thanks!
+
+One last thing, can you give me the download links ? Or point me to any posts that contain the links?
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 17 Oct 2015, 21:55]
+ikoke wrote:
+Well thanks!
+
+One last thing, can you give me the download links ? Or point me to any posts that contain the links?
+
+the PPT release should easily be found on any warez site. as for the 2 updates needed after installing the PPT release
+viewtopic.php?p=1094582#p1094582
+viewtopic.php?p=1119420#p1119420
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 18 Oct 2015, 19:31]
+Code: Select all | Line number On/Off | Expand/Contract
+https://mega.nz/#!RkQHAA6K!e9Bk3vtOMpEE ... 7O4harla7I
+this link to patch works better.
+i have compared files from lp b16155 to 15666 and they are the same except 2 files local_ru.pack and music_ru.pack and i don't have to remove anything from data folder because it was already done in this version of game.
+what exectly do i need to do to make pedia work on rus lang on 16155. im using this crack TWR2-22016155-pedia
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 20 Oct 2015, 08:05]
+Hey can someone send me a link to Total.War.ROME.II.Emperor.Edition.MULTi9-PROPHET + Patch 17 please thanks 
+
+-- Edit --
+
+
+Anomaly wrote:
+romspart wrote:
+I tried it, but it doesn't seem to do much except now the .sfv file shows that the local_en.pack and binw32.dll match.
+Could you possibly try uploading the local_en_rome2.pack, music_en.pack, and the music_en_rome2.pack as well?
+I think it's also worth noting that the language text document said RU, but I've tried changing it to EN (It says EN right now) and it doesn't seem to have any effect.
+Also, what does the redist folder do?
+
+Thanks again,
+romspart
+
+
+If those 3 .pack files match the .sfv there's absolutely no need for me to upload them. If the game worked fine before, then there's no need for the redist folder (includes DirectX and Visual C++ Redistributable).
+
+Torrent would be: https://torrentz.eu/0dfd8a60943bf50a7f0 ... f915a93861[/quothey can you send me a link to Total.War.ROME.II.Emperor.Edition.MULTi9-PROPHET + Patch 17

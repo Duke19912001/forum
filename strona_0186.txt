@@ -1,0 +1,194 @@
+=========================================
+STRONA 186 (URL: https://cs.rin.ru/forum/viewtopic.php?f=10&t=61441&hilit=rome+2&start=2775)
+=========================================
+
+[Data: Sunday, 19 Jul 2015, 16:33]
+machine4578 wrote:
+John Felton wrote:
+How do I use mods from the Steam Workshop? The workshop downloader can download the files, but none of them ever work. They aren't even recognized by the mod manager.
+
+Not all mods are on the forums either, so I cannot get those mods from there.
+
+Can anyone help me? Thank you!
+
+the mods do work, but you must remove the first few bytes with a hex editor!
+
+
+How do I do that? Sorry, I am a complete noob in these things. 
+
+I downloaded the HxD hex editor, if that will work, and I have opened the .pack file of the mod from the downloader. I don't get anything I see. What do I need to remove?
+
+Thanks.
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 19 Jul 2015, 16:53]
+PFH4 must be the first bytes when opening the mod with the hex editor. delete the first 8 bytes then save
+see the pics. i hope it helps.
+
+ Spoiler
+
+
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 19 Jul 2015, 22:16]
+machine4578 wrote:
+PFH4 must be the first bytes when opening the mod with the hex editor. delete the first 8 bytes then save
+see the pics. i hope it helps.
+
+ Spoiler
+
+
+
+
+Wonderful! Absolutely amazing. I cannot describe how thankful I am to you! 
+
+Thank you so much!
+
+Just a small question here. Will this hex-editing also work for other TW games with workshop, like Shogun 2 or Attila?
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 20 Jul 2015, 11:37]
+John Felton wrote:
+Wonderful! Absolutely amazing. I cannot describe how thankful I am to you! 
+
+Thank you so much!
+
+Just a small question here. Will this hex-editing also work for other TW games with workshop, like Shogun 2 or Attila?
+
+you are welcome. and yes do the same for Attila and Shogun 2 mods as well. 
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 21 Jul 2015, 16:39]
+leonardusius wrote:
+machine4578 wrote:
+leonardusius wrote:
+If files have any issues the game don't work; but I can play it flawless. Already checked page 1 and all updates/hotfix until 15539. I think I have other installed version and the xdelta update is wrong. BTW, how can I check what install I have ?
+Thank you.
+
+idk whats wrong to be honest  as i said i validated the files before and after making the patch files, and no one else in ~4 months reported an issue.
+
+Thanks for reply. But what to do next because I'm stuck here and not want to reinstall whole game; instead I want to see what it is wrong here. As I sayed before this 3 files mismatching:
+data_rome2.pack; local_en_rome2.pack; models_rome2.pack.
+Probably I have different release. But can't figure out how to detect what's it; I installed game long ago and forgot the release type. Please help. Thank you.
+
+
+I'm having this same problem when updating to patch 16. Everything is fine until then.
+xdelta3: target window checksum mismatch: XD3_INVALID_INPUT on data_rome2, local_en_rome2 and models2_rome2 when patching.
+I have the Reloaded version on Win7 and did the first 2 patches on the list (15.Hotfix, 15. Hotfix Gaul and HATG) plus the 15.Hotfix.Proper.Crack
+
+How would I solve this? I mean, is this a problem?
+
+Thanks in advance!
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 23 Jul 2015, 19:39]
+machine4578 wrote:
+John Felton wrote:
+How do I use mods from the Steam Workshop? The workshop downloader can download the files, but none of them ever work. They aren't even recognized by the mod manager.
+
+Not all mods are on the forums either, so I cannot get those mods from there.
+
+Can anyone help me? Thank you!
+
+the mods do work, but you must remove the first few bytes with a hex editor!
+
+
+Machine do you know some good scriptors who can make the steamdownloader work on the new implementation?
+I mean are lots of talented people in the forum.
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 26 Jul 2015, 22:34]
+machine4578 wrote:
+you are welcome. and yes do the same for Attila and Shogun 2 mods as well. 
+
+
+Forgive me for asking again, but it seems it doesn't work for Shogun 2. The hex files start right with PFH3 when I download the mods from Steam, so there seems to be nothing to remove. But the game crashes right away when I try to use them. I am using Darthmod, but I disable it when I use other mods like these.
+
+How do I make them work? I apologize if I am annoying anyone here. Thanks. 
+
+EDIT: Some DO seem to work without problems. Some don't. Maybe it is something else, from my side. Sorry for trouble.
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 27 Jul 2015, 04:39]
+I own Rome 2 legit on steam and I'm updated to Patch 17 beta, how can I get the DLC that is linked here (without the updates)
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 27 Jul 2015, 04:45]
+InSigniaX wrote:
+I own Rome 2 legit on steam and I'm updated to Patch 17 beta, how can I get the DLC that is linked here (without the updates)
+
+there is no DLC posted for the patch 17 beta. someone needs to share it. and imo its not worth it until the official patch is out.
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 30 Jul 2015, 20:26]
+Since recently I can't open the game anymore (get blackscreen and nothing happends as soon as i open game) I get this message right away: Total War: rome II has stopped working
+Problem signature:
+Problem Event Name: APPCRASH
+Application Name: Rome2.exe
+Application Version: 2.2.0.0
+Application Timestamp: 54cb55fe
+Fault Module Name: LumaEmu_CEG.dll
+Fault Module Version: 0.0.0.0
+Fault Module Timestamp: 5407685c
+Exception Code: c0000005
+Exception Offset: 00002549
+OS Version: 6.1.7601.2.1.0.256.4
+Locale ID: 1044
+Additional Information 1: 49ed
+Additional Information 2: 49ed31279220d1102505d24dc0cdd8dd
+Additional Information 3: 7383
+Additional Information 4: 738390ddd664a2dd2a5562cb2640d9b9
+
+Since i last played yesterday (it worked) I had windows update + nvidia driver update, but i tried reverting both and it still don't work. Hopefully someone can help me thanks. I have the lastest version posted here
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 30 Jul 2015, 20:30]
+^
+try the newest LumaEmu_CEG.dll plugin. download/file.php?id=24818
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 30 Jul 2015, 20:34]
+Fixed it! Thank you
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 02 Aug 2015, 13:49]
+Someone managed to get 15666.640460 to work multiplayer using the latest exe?
+
+EDIT:
+Nvm was a port issue, the game works fine.
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 03 Aug 2015, 18:19]
+alvaro1992 wrote:
+Someone managed to get 15666.640460 to work multiplayer using the latest exe?
+
+EDIT:
+Nvm was a port issue, the game works fine.
+
+
+What was the problem?
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 03 Aug 2015, 18:19]
+
+_________________
+Always wanted to get rid of the files that were not listed in the sfv/md5 hash file? Check the QuickSFV plugin I created for this: viewtopic.php?f=10&t=108605 or this: viewtopic.php?p=1273745#p1273745
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 04 Aug 2015, 03:19]
+It would be nice to get patch 17 beta, DeI's latest version only works on that patch. Do you reckon it will take long for the full patch? Anyway, great job guys!

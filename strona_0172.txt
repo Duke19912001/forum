@@ -1,0 +1,155 @@
+=========================================
+STRONA 172 (URL: https://cs.rin.ru/forum/viewtopic.php?f=10&t=61441&hilit=rome+2&start=2565)
+=========================================
+
+[Data: Monday, 16 Feb 2015, 16:56]
+Exactly this problem appeared also to me after applying Update from RELOADED
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 17 Feb 2015, 18:51]
+Imoen wrote:
+Did anyone figure out why the Total.War.ROME.II.Emperor.Edition.Update.v2.2.0.Incl.DLC-RELOADED crashes when you click on Grand Campaign ?
+
+
+Sammael666 wrote:
+Exactly this problem appeared also to me after applying Update from RELOADED
+
+
+For some reason it seems you may have to run patch.bat manually; this may take a while. Make sure to check your files with the latest .sfv file around. ( viewtopic.php?p=991984#p991984 )
+
+For me it works perfectly, including LAN.
+
+
+ Spoiler
+Edit: I tried it again and Reloaded's setup only unpacks the files and you still have to run patch.bat.
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 17 Feb 2015, 18:51]
+
+_________________
+Always wanted to get rid of the files that were not listed in the sfv/md5 hash file? Check the QuickSFV plugin I created for this: viewtopic.php?f=10&t=108605 or this: viewtopic.php?p=1273745#p1273745
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 18 Feb 2015, 13:43]
+Please, can we get the latest update? I believe it is build 15666...
+
+The latest version from OP is v2.2.0-15539.624940. It works fine but unfortunately it is obsolete. It doesn't work with some newest mods(there are some good trainers and CE fixes).
+
+Thanks for all efforts to both updaters.
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 18 Feb 2015, 13:43]
+
+_________________
+01000111 01101000 01101111 01110011 01110100 00100000 01110111 01101000 01100101 01110010 01100101 00100000 01100001 01110010 01100101 00100000 01111001 01101111 01110101 00111111 00100000 01000100 01100101 01101100 01100101 01110100 01100101 00100000 01110100 01101000 01101001 01110011 00100000 01110000 01101111 01110011 01110100 00101100 00100000 01101001 01100110 00100000 01111001 01101111 01110101 00100000 01100100 01100001 01110010 01100101 00101110
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 19 Feb 2015, 12:20]
+Thank you for the updates ShadowDuke!
+Could you upload the current german data/manifest.txt?
+There are some changed lines in the file, but it is not included in the update.
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 19 Feb 2015, 15:17]
+People who have legit game and want to play with dlcs like Hannibal, Bloodpack and Gaul need to have blood.pack, gaul.pack, greeks.pack, punic.pack in the data/ folder and startpos.esf files in the main_gaul, main_greeks, main_punic folder which are in the data/campaings folder. Then, you need to use REVOLT wrapper which u can found at this forums.
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 19 Feb 2015, 17:39]
+Strat0s wrote:
+Thank you for the updates ShadowDuke!
+Could you upload the current german data/manifest.txt?
+There are some changed lines in the file, but it is not included in the update.
+
+
+No, it wont make any difference.
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 19 Feb 2015, 18:07]
+sp1ke228 wrote:
+People who have legit game and want to play with dlcs like Hannibal, Bloodpack and Gaul need to have blood.pack, gaul.pack, greeks.pack, punic.pack in the data/ folder and startpos.esf files in the main_gaul, main_greeks, main_punic folder which are in the data/campaings folder. Then, you need to use REVOLT wrapper which u can found at this forums.
+
+
+My files are at the right place. Can you tell us how to use the revolt wrapper?
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 19 Feb 2015, 19:37]
+Com_J_B_cora wrote:
+sp1ke228 wrote:
+People who have legit game and want to play with dlcs like Hannibal, Bloodpack and Gaul need to have blood.pack, gaul.pack, greeks.pack, punic.pack in the data/ folder and startpos.esf files in the main_gaul, main_greeks, main_punic folder which are in the data/campaings folder. Then, you need to use REVOLT wrapper which u can found at this forums.
+
+
+My files are at the right place. Can you tell us how to use the revolt wrapper?
+
+
+Just rename your original steam_api.dll to REVOLT.dll, then place REVOLT.ini and steam_api.dll from archive to the same folder where REVOLT.dll.
+After you did that, open REVOLT.ini and type in game's app_id and change language if you need. That's all.
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 20 Feb 2015, 17:05]
+http://steamcommunity.com/sharedfiles/f ... earchtext= omeone can download this to me? Or can anybody know how can I download to steamworkshop.. so that I would not bothet anyone asking to download me a mod 
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 21 Feb 2015, 00:03]
+Here is a guide for downloading/modifying mod .pack files for usage in Rome 2. It was made based on "Igec35" instructions posted in this thread.
+
+Rome2 Mod Guide.pdf
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 21 Feb 2015, 00:42]
+ionuttzu wrote:
+Can someone give me the gem.pack of the latest version? 1.0.7
+Steam workshop downloader is shitting itself for me if I try it.
+
+
+I'm having this problem too. Trying to download the .pack file for GemFX through Steam Workshop Downloader, but it just brings up a dead page.
+
+It's the only file through the downloader I have ever had a problem with.
+
+If anyone is able to upload that file or detail a way to acquire it, that would be greatly appreciated.
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 21 Feb 2015, 01:56]
+Steam workshop downloader is outdated and no longer works. Enhanced Steam Workshop Downloader is a new script that works with the latest version of the workshop:
+https://greasyfork.org/en/scripts/5729-enhanced-steam-workshop-downloader
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 21 Feb 2015, 02:45]
+jltoga wrote:
+Steam workshop downloader is outdated and no longer works. Enhanced Steam Workshop Downloader is a new script that works with the latest version of the workshop:
+https://greasyfork.org/en/scripts/5729-enhanced-steam-workshop-downloader
+
+
+The Script doesn't work with GemFX either. You get the same dead page.
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 21 Feb 2015, 05:30]
+The script adds a "download" button to the workshop, so you don't need to use the old downloader page anymore 
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 21 Feb 2015, 12:46]
+Does anybody have a .sfv for latest .15666 build?
+
+Thanks
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 21 Feb 2015, 12:46]
+
+_________________
+01000111 01101000 01101111 01110011 01110100 00100000 01110111 01101000 01100101 01110010 01100101 00100000 01100001 01110010 01100101 00100000 01111001 01101111 01110101 00111111 00100000 01000100 01100101 01101100 01100101 01110100 01100101 00100000 01110100 01101000 01101001 01110011 00100000 01110000 01101111 01110011 01110100 00101100 00100000 01101001 01100110 00100000 01111001 01101111 01110101 00100000 01100100 01100001 01110010 01100101 00101110

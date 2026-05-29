@@ -1,0 +1,170 @@
+=========================================
+STRONA 138 (URL: https://cs.rin.ru/forum/viewtopic.php?f=10&t=61441&hilit=rome+2&start=2055)
+=========================================
+
+[Data: Friday, 03 Oct 2014, 00:26]
+Where do I download the base game so I can apply these updates? 
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 03 Oct 2014, 08:33]
+Firedrive doesnt work for me is the link down? Where else can i find the language pack for english version 15. Or can someone upload it ?
+Thanks
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 03 Oct 2014, 12:44]
+Wait until they fix their site!
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 03 Oct 2014, 13:19]
+tanauser wrote:
+neoiq5719 wrote:
+tanauser wrote:
+hello coplan 
+out of subject
+this was the good old time ... with the Kojiro mod
+I still have this Alamo mod to release to give to the Pirates ...
+https://www.youtube.com/watch?v=Vfgp1_5QLoA
+
+DO u read the posts man? told u CA is looking into the ALESIA bug
+http://forums.totalwar.com/showthread.p ... sia-bugged
+
+
+yes I red you  , but I though it was updated in this latest release ,
+btw there is another bug in Cannae :
+Roman horse rider remain still if at beginning charge they over pass the Carthaginian lines
+they don't get back in the battle unless you go for them
+
+I got CA to take a look at that one too
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 05 Oct 2014, 22:00]
+http://steamcommunity.com/sharedfiles/f ... earchtext=
+could someone pls upload this mod.
+thx a bunch
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 05 Oct 2014, 23:23]
+http://steamworkshopdownloader.com/
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 05 Oct 2014, 23:23]
+
+_________________
+⇛ The eyes, Chico. They never lie. ⇚
+
+In case you need a re-upload or something of anything i posted, shoot me a PM and i'll get back to ya'll.
+
+Password will always be: cs.rin.ru, if not stated otherwise...
+
+Please refrain from contacting me about stuff i simply posted and not uploaded, usually that stuff is old and possibly no longer in my possession. Thanks!
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 06 Oct 2014, 02:39]
+Hello everyone thanks a lot for all the latest updates and crack appreciate the hard work.
+
+I just downloaded Rome 2 Emperor Edition Reloaded but the in game version its showing v2.00 and below it 13903.584483*.
+
+So i have no idea if my game is already up to date or do i need to download any new patches?.
+
+Do i have to download from patch 14 onwards?, since its showing version 13903?.
+
+In the game i already have Armenia Faction and Emperor Campaign too.
+
+Can anyone guide me on updating this version to the latest please.
+
+Thank You.
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 06 Oct 2014, 06:39]
+RLD Emperor is Patch 15 "here", so just use the last 2 ones, hotfix + gaul + hatg update.
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 06 Oct 2014, 07:27]
+jAck_h!De wrote:
+http://steamworkshopdownloader.com/
+
+wow I didnt know this existed. thx a lot man BUT the mods that are downloaded dont work and apparently cannot be opened with the mod manager. They give error so I guess it doesnt work
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 06 Oct 2014, 09:31]
+There is a solution for steam mods. Just follow these steps:
+
+1. First you use downloader(http://steamworkshopdownloader.com).
+2. Download wanted mod from steam workshop and name it ->name of the mod(whatever you want)<-.pack.File must have .pack extension.
+3. Open mod with hexa editor and you'll find bytes PFH4. Delete all first bytes untill PFH4. It is important to make sure PFH4 is the very start of your new moded file.
+4. Save it and put it to your RTW2 data folder.
+5. Use user.script to activate the mod and play it.
+
+Cheers. 
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 06 Oct 2014, 09:31]
+
+_________________
+01000111 01101000 01101111 01110011 01110100 00100000 01110111 01101000 01100101 01110010 01100101 00100000 01100001 01110010 01100101 00100000 01111001 01101111 01110101 00111111 00100000 01000100 01100101 01101100 01100101 01110100 01100101 00100000 01110100 01101000 01101001 01110011 00100000 01110000 01101111 01110011 01110100 00101100 00100000 01101001 01100110 00100000 01111001 01101111 01110101 00100000 01100100 01100001 01110010 01100101 00101110
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 06 Oct 2014, 10:18]
+Here is a download link for R2TR CCLXXII.BC v. 2.0 mod.
+
+I followed instructions posted by *Igec35*. The mod now works with TWR2 ModManager normally.
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 06 Oct 2014, 11:15]
+Igec35 wrote:
+There is a solution for steam mods. Just follow these steps:
+
+1. First you use downloader(http://steamworkshopdownloader.com).
+2. Download wanted mod from steam workshop and name it ->name of the mod(whatever you want)<-.pack.File must have .pack extension.
+3. Open mod with hexa editor and you'll find bytes PFH4. Delete all first bytes untill PFH4. It is important to make sure PFH4 is the very start of your new moded file.
+4. Save it and put it to your RTW2 data folder.
+5. Use user.script to activate the mod and play it.
+
+Cheers. 
+
+wow u guys are something, thx a lot man.
+
+
+testni wrote:
+Here is a download link for R2TR CCLXXII.BC v. 2.0 mod.
+
+I followed instructions posted by *Igec35*. The mod now works with TWR2 ModManager normally.
+
+
+thx 2 u 2 man
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 06 Oct 2014, 16:25]
+i cannot download from firedrive. Can anyone help to upload other place for Total.War.ROME.II.Update.15.beta_to_final_Emperor_Edition? Thanks
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 07 Oct 2014, 01:40]
+hi there friends , i have little problem regarding the multiplayer of Rome 2 here it is:
+
+i have the Emperor version of rome and its ver is 13903.584483 so i think its the latest.
+
+i played with my brother in multiplayer the campaign , after some turns we did a save , but after loading the save , its corrupted.
+
+so i tried to read and search this topic but i think i didn't find a solution to it , so is there a know fix or even a workaround??
+
+thanks a lot for everyone
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 07 Oct 2014, 02:35]
+Thats also the case when your game gets async in multiplayer. Could be caused by many things. You played over Tunngle?

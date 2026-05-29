@@ -1,0 +1,254 @@
+=========================================
+STRONA 159 (URL: https://cs.rin.ru/forum/viewtopic.php?f=10&t=61441&hilit=rome+2&start=2370)
+=========================================
+
+[Data: Wednesday, 17 Dec 2014, 18:06]
+machine4578 wrote:
+septboyboy wrote:
+can anyone upload the post patch gaul.pack file?
+mine is messed up:/
+
+please.. i need a generous god
+
+seriously dude, what is your deal?? you ask for this file every patch(btw you already asked for this file today last page!  )
+and i already uploaded the complete file for you last patch. viewtopic.php?p=981966#p981966
+so there is NO way you could have screwed it up AGAIN! or could you.. 
+
+
+i missed that reply :/
+sorry on my part.
+
+thank you for bumping that.
+
+#edit
+my Caesar in Gaul works now!!
+thank you machine:D
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 17 Dec 2014, 18:19]
+Ty ShadowDuke !! It would be too much to ask... .sfv file comparison your files please :/
+I do not think that is the last DLC, I wait for other languages. French or Spanish... thank you very much for your perseverance.
+
+Merry christmas to you and all ;Þ
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 17 Dec 2014, 19:54]
+PR0 wrote:
+ShadowDuke wrote:
+Total.War.ROME.II.Update.16.1.Wrath.of.Sparta *xdelta* Version: v2.2.0-15539.624940 (16.12.2014)
+
+You need Update 16 without Hotfix installed!
+I'm confused. Which hotfix need not be installed? The last patches that I've installed are those listed below in the order they were required, and the game works fine as far as I played it some time ago:
+
+Total.War.ROME.II.Update.15.Hotfix *xdelta* Version: v2.0.0-14116.589209 (01.10.2014)
+Total.War.ROME.II.Update.15.Hotfix.Gaul_and_HATG_Update *xdelta* (01.10.2014)
+Total.War.ROME.II.Update.15.Hotfix.Proper.Crack
+
+I'm interested to try these last updates, but will patching to 16 now work? I'm not aware of any other Hotfixes after those above, did I miss something?
+
+
+Cos there was a small hotfix which i didnt upload? Which you had seen when reading the postings right after patch16.
+
+So the newest lumaceg plugin breaks the game again? Hmm, sigh...i only tested basic stuff like going into city withh army, next round ,etc. got no crash.
+
+Wont upload other languages and sfv is already here!?
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 17 Dec 2014, 20:07]
+G4U55 wrote:
+luthor126 wrote:
+ShadowDuke will you upload updated language files?
+
+
+
+-- Edit --
+
+3DMGAME-Total.War.ROME.II.Emperor.Edition.v2.2.0.15539.Incl.DLC.Cracked-3DM (thanks 3DM Team)
+
+
+Code: Select all | Line number On/Off | Expand/Contract
+http://ul.to/i08hgmx2
+http://ul.to/aoxdrpdi
+http://ul.to/7yh9s8q5
+http://ul.to/wdxnd501
+http://ul.to/ndseijzk
+http://ul.to/b1ufxlpq
+http://ul.to/u9k6yi6e
+http://ul.to/ahecxk10
+http://ul.to/sopn6z0c
+http://ul.to/d66aiwsd
+http://ul.to/nru7e4ji
+http://ul.to/himbavmy
+http://ul.to/8i4vq9cb
+http://ul.to/r5bn68r3
+http://ul.to/zzz5h9y7
+
+
+Thanks
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 17 Dec 2014, 20:11]
+Total.War.ROME.II.Update.16.1.Wrath.of.Sparta.Crackfix Version: v2.2.0-15539.624940 (17.12.2014)
+
+The newest lumaemu_ceg.dll plugin from steam006 breaks the game, so heres the old one which is still working. Thanks for reporting this. I only tested basic stuff which prev. wasnt working when the plugin was bad.
+
+
+Code: Select all | Line number On/Off | Expand/Contract
+ 
+Copy to main rome 2 dir, overwrite
+This is just the old dll, still need the other crack files from up16.1.
+ 
+
+
+Download: [50kb] (Zippyshare, Mega, Mediafire)
+
+
+Code: Select all | Line number On/Off | Expand/Contract
+http://www24.zippyshare.com/v/28125904/file.html
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 17 Dec 2014, 20:51]
+I downloaded what machine4578 uploaded (thank you man) and it seems it works fine. Do I have to apply the new crackfix from shadowduke?
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 17 Dec 2014, 20:53]
+No, its the same, just other import. Other method than im using since months now. (injecting lumaemu_ceg.dll in binkw32.dll)
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 17 Dec 2014, 21:26]
+ShadowDuke wrote:
+Total.War.ROME.II.Update.16.1.Wrath.of.Sparta.Crackfix Version: v2.2.0-15539.624940 (17.12.2014)
+
+The newest lumaemu_ceg.dll plugin from steam006 breaks the game, so heres the old one which is still working. Thanks for reporting this. I only tested basic stuff which prev. wasnt working when the plugin was bad.
+
+
+Code: Select all | Line number On/Off | Expand/Contract
+ 
+Copy to main rome 2 dir, overwrite
+This is just the old dll, still need the other crack files from up16.1.
+ 
+
+
+Download: [50kb] (Zippyshare, Mega, Mediafire)
+
+
+Code: Select all | Line number On/Off | Expand/Contract
+http://www47.zippyshare.com/v/73195850/file.html
+https://mega.co.nz/#!pU4R2bwD!59qQRsNTO ... IJRtIR7Wks
+http://www.mediafire.com/download/6js95 ... ackfix.rar
+
+
+
+all works fine with all patches till 16.1 here, except for multiplayer (shall I use lan,since it is not steamworks revolt thing?),
+in which I click and the game freezes 
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 17 Dec 2014, 21:37]
+Thanks ShadowDuke. I appreciate that you keep uploading all the patches/DLCs and I love your summary on the first page.
+
+
+keminsky wrote:
+all works fine with all patches till 16.1 here, except for multiplayer (shall I use lan,since it is not steamworks revolt thing?),
+in which I click and the game freezes 
+
+
+There's a Revolt release for 2.0.0 Emperor Edition: ftp://revolt:1234@revolt.loginto.me/Tot ... RVTFiX.rar
+I haven't checked this, but apparently it's possible to use those files for the latest version, but you need to replace the Rome2.dll file with the latest Rome2.dll available.
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 17 Dec 2014, 21:37]
+
+_________________
+Always wanted to get rid of the files that were not listed in the sfv/md5 hash file? Check the QuickSFV plugin I created for this: viewtopic.php?f=10&t=108605 or this: viewtopic.php?p=1273745#p1273745
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 17 Dec 2014, 22:10]
+GUYS READ THIS PLS:
+1)-EMPEROR EDITION 2.0...39.. Update ur version with those files
+15HOTFIX
+15HTGA
+16BLACK
+16HTGA
+After that, put crack.
+2)Ok now put the 2.1 steamfix by REVOLT
+3) download and install 16.1 and the crackfix
+4) Put the 2.1 steamfix by REVOLT,,but not the rome2dll. works fine!!!
+5) I tested it more times, it works good. U can find 2.1 steamfix by revolt at 154.155-156 page posted by a very good guy,howv u can find it on revolt forum.
+steamfix 2.1 that works with this tutorial
+http://www54.zippyshare.com/v/19074760/file.html
+TUNNGLE/ACTIVATE STEAMFIX
+open steam
+open game
+go in multiplayer battles
+lan network
+host a game to activate steamfix (or it says failed to host)
+now open tunngle if u wanna use it
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 17 Dec 2014, 22:13]
+Is there a reason why there is at least 1 line break and often 2 line breaks and cap? Makes the posting huge...
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 17 Dec 2014, 22:30]
+@geisuper007
+please fix your post(remove spaces\caps\etc..). otherwise i will delete it.
+
+thanks
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 17 Dec 2014, 23:00]
+ok
+
+mod edit: thank you
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 17 Dec 2014, 23:18]
+geisuper007 wrote:
+GUYS READ THIS PLS:
+1)-EMPEROR EDITION 2.0...39.. Update ur version with those files
+15HOTFIX
+15HTGA
+16BLACK
+16HTGA
+After that, put crack.
+2)Ok now put the 2.1 steamfix by REVOLT
+3) download and install 16.1 and the crackfix
+4) DONT PUT THE CRACK!! only the crackfix because the 2.1 steamfix by REVOLT works fine!!!
+5) I tested it more times, it works good. U can find 2.1 steamfix by revolt at 154.155-156 page posted by a very good guy,howv u can find it at therevolt forum.
+steamfix 2.1 that works with this tutorial
+http://www54.zippyshare.com/v/19074760/file.html
+TUNNGLE/ACTIVATE STEAMFIX
+open steam
+open game
+go in multiplayer battles
+lan network
+host a game to activate steamfix (or it says failed to host)
+now open tunngle if u wanna use it
+
+
+1- the intention is good but I can confirm that revolt didnt release any other version later than version 2.0 of the game/update 15/emperor edition
+2- supposedly, revolt/steamfake/steamworks method is for "online" mode and not lan.. so what's the point of your instructions?
+2.2- if so,someone can clarify a method for LAN gameplay only please, since we dont have a real steamworks fix"?
+here's the link for the one's who dont know the official work of revolt
+http://revolt.loginto.me/index.php?/top ... d/?hl=rome
+
+thanks
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 17 Dec 2014, 23:48]
+Hi, at 155 page or near...u can find the guy posted it

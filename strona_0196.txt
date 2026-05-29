@@ -1,0 +1,203 @@
+=========================================
+STRONA 196 (URL: https://cs.rin.ru/forum/viewtopic.php?f=10&t=61441&hilit=rome+2&start=2925)
+=========================================
+
+[Data: Thursday, 01 Oct 2015, 20:17]
+Maybe your "LumaEmu_CEG.log" does give some insight? Although usually it's unclear (to me anyway) or too specific in its error logging.
+
+And you're sure your files are ok now? "The only files that should mismatch are Rome2.dll and steam_api.dll (and possibly some useless logs, but nvm them)."
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 01 Oct 2015, 20:17]
+
+_________________
+Always wanted to get rid of the files that were not listed in the sfv/md5 hash file? Check the QuickSFV plugin I created for this: viewtopic.php?f=10&t=108605 or this: viewtopic.php?p=1273745#p1273745
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 01 Oct 2015, 20:21]
+@magnetta23
+
+Those two files (local_ru_rome2.pack, music_ru_rome2.pack) are no longer present after patch 17, so you can delete them. As to why text is missing, i dont know.
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 01 Oct 2015, 21:01]
+Anomaly wrote:
+Maybe your "LumaEmu_CEG.log" does give some insight? Although usually it's unclear (to me anyway) or too specific in its error logging.
+
+And you're sure your files are ok now? "The only files that should mismatch are Rome2.dll and steam_api.dll (and possibly some useless logs, but nvm them)."
+
+
+I don't really see anything in the log file, and yeah I replaced all my files with yours so the only ones that are popping up as corrupt are the two you said would.
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 01 Oct 2015, 21:09]
+sgarner215 wrote:
+Anomaly wrote:
+Maybe your "LumaEmu_CEG.log" does give some insight? Although usually it's unclear (to me anyway) or too specific in its error logging.
+
+And you're sure your files are ok now? "The only files that should mismatch are Rome2.dll and steam_api.dll (and possibly some useless logs, but nvm them)."
+
+
+I don't really see anything in the log file, and yeah I replaced all my files with yours so the only ones that are popping up as corrupt are the two you said would.
+
+
+So, the file is present but empty after you've started the game? That'd be really odd.
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 01 Oct 2015, 21:09]
+
+_________________
+Always wanted to get rid of the files that were not listed in the sfv/md5 hash file? Check the QuickSFV plugin I created for this: viewtopic.php?f=10&t=108605 or this: viewtopic.php?p=1273745#p1273745
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 01 Oct 2015, 21:10]
+Anomaly wrote:
+sgarner215 wrote:
+Anomaly wrote:
+Maybe your "LumaEmu_CEG.log" does give some insight? Although usually it's unclear (to me anyway) or too specific in its error logging.
+
+And you're sure your files are ok now? "The only files that should mismatch are Rome2.dll and steam_api.dll (and possibly some useless logs, but nvm them)."
+
+
+I don't really see anything in the log file, and yeah I replaced all my files with yours so the only ones that are popping up as corrupt are the two you said would.
+
+
+So, the file is present but empty after you've started the game? That'd be really odd.
+
+
+It's not empty, it just doesn't say anything about an error or whatever.
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 01 Oct 2015, 21:24]
+sgarner215 wrote:
+It's not empty, it just doesn't say anything about an error or whatever.
+
+
+I haven't got a clue what it could be. Have you installed the redist files?
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 01 Oct 2015, 21:24]
+
+_________________
+Always wanted to get rid of the files that were not listed in the sfv/md5 hash file? Check the QuickSFV plugin I created for this: viewtopic.php?f=10&t=108605 or this: viewtopic.php?p=1273745#p1273745
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 02 Oct 2015, 15:02]
+testni wrote:
+Patch 17 (v2.2.0 build 16019.718953) - Localization: German, Italian, Polish, Russian, Czech, French, Spanish, Turkish
+
+Link:
+https://mega.nz/#F!F9wECKYB!48NjkPRTYE_7faZ8bQGdvw
+
+Note: use WinRar 5 or higher to extract.
+
+
+today try to open the encyclopedia and displays a black screen, anyone knows how to fix this.?
+
+Ty!
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 02 Oct 2015, 15:40]
+vecino398 wrote:
+testni wrote:
+Patch 17 (v2.2.0 build 16019.718953) - Localization: German, Italian, Polish, Russian, Czech, French, Spanish, Turkish
+
+Link:
+https://mega.nz/#F!F9wECKYB!48NjkPRTYE_7faZ8bQGdvw
+
+Note: use WinRar 5 or higher to extract.
+
+
+today try to open the encyclopedia and displays a black screen, anyone knows how to fix this.?
+
+Ty!
+
+
+The encyclopedia is no longer offline but requires you logged on to Steam. If you want this with the cracked version: log on to your Steam account + using this crack: viewtopic.php?p=1095820#p1095820
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 02 Oct 2015, 15:40]
+
+_________________
+Always wanted to get rid of the files that were not listed in the sfv/md5 hash file? Check the QuickSFV plugin I created for this: viewtopic.php?f=10&t=108605 or this: viewtopic.php?p=1273745#p1273745
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 02 Oct 2015, 20:12]
+Thank you very much for the reply Anomaly, but what sense does add offline encyclopedias uploader for testni with different languages. 
+When we can see more comfortably on the web...  https://dsi0fanyw80ls.cloudfront.net/en/home
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 02 Oct 2015, 20:22]
+vecino398 wrote:
+Thank you very much for the reply Anomaly, but what sense does add offline encyclopedias uploader for testni with different languages. 
+When we can see more comfortably on the web...  https://dsi0fanyw80ls.cloudfront.net/en/home
+
+
+What testni just uploaded are language files for the game itself (maybe audio as well, dunno, as I stick to English anyway) not for the encyclopedia.
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 02 Oct 2015, 20:22]
+
+_________________
+Always wanted to get rid of the files that were not listed in the sfv/md5 hash file? Check the QuickSFV plugin I created for this: viewtopic.php?f=10&t=108605 or this: viewtopic.php?p=1273745#p1273745
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 03 Oct 2015, 13:12]
+excuse me sir,
+I have got
+Total War ROME II Emperor Edition MULTi9-PROPHET
+has it got all patches and fixes,or after I must install them all?
+thanks all
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 03 Oct 2015, 13:22]
+mikevampiro wrote:
+excuse me sir,
+I have got
+Total War ROME II Emperor Edition MULTi9-PROPHET
+has it got all patches and fixes,or after I must install them all?
+thanks all
+
+
+just need the last patch ..
+Total.War.ROME.II.Update.v2.2.0.15666-v2.2.0.16019 (thx machine4578)
+check #1 page for link
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 03 Oct 2015, 14:02]
+only this patch and multiedition prophet?
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 03 Oct 2015, 15:08]
+After the update 17 i found 3 missing files on sfv.
+gaul.pack, greeks.pack, punic.pack
+Can anyone upload these three?
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 03 Oct 2015, 15:15]
+fataltr wrote:
+After the update 17 i found 3 missing files on sfv.
+gaul.pack, greeks.pack, punic.pack
+Can anyone upload these three?
+
+they are the 3 main DLC files.. and are updated in my update 17 patch! so unless you didnt have them the first place that explains why they are missing.
+also the up 17 DLC files were posted on page 187 by testni(so i could make the xdelta update, thanks again testni  )

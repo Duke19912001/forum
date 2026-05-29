@@ -1,0 +1,201 @@
+=========================================
+STRONA 192 (URL: https://cs.rin.ru/forum/viewtopic.php?f=10&t=61441&hilit=rome+2&start=2865)
+=========================================
+
+[Data: Tuesday, 01 Sep 2015, 17:50]
+There was a small 1.4mb update today.
+
+Launcher.exe was updated. Just for info.
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 01 Sep 2015, 17:50]
+
+_________________
+Haters gonna hate!
+My updates are always clean files - no cracks included.
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 02 Sep 2015, 23:06]
+Can someone please reupload or relink Total.War.ROME.II.Update.16.1.Wrath.of.Sparta ? The link has been deleted (https://safelinking.net/0affb5dfcf)
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 06 Sep 2015, 04:14]
+Can someone please please!!! upload the assembly kit for rome 2 i bought ii but i just can´t find it in my library on steam i try to download with steam cracked but it says i have no licenses so please upload it completly
+
+-- Edit --
+
+
+ShadowDuke wrote:
+Total.War.ROME.II.Assembly.Kit.BETA.for.Update.16.1
+
+Info
+
+
+Code: Select all | Line number On/Off | Expand/Contract
+1) Extract all files to your Rome 2 <root> install dir
+2) Start with /binaries/BOB.AssemblyKit.exe & TWeak.AssemblyKit.exe
+
+
+Download: [165mb] (Zippyshare, Mega)
+
+Zippyshare
+Mega
+
+
+r this all the files for the assembly kit?? or this is just for the patch 16.1??
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 06 Sep 2015, 10:51]
+is there someone who can help me put a mod in the game with the tw2 rome manager mod? becuse when i open the mod manager it says an error and it dosen't even regonize my mods
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 14 Sep 2015, 15:57]
+yo guys, patch 17 is out. cant play the latest mod without it. can someone pls send a link. or let me know where i can get the latest version.
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 14 Sep 2015, 16:04]
+^
+viewtopic.php?p=1094582#p1094582
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 14 Sep 2015, 16:04]
+
+_________________
+Haters gonna hate!
+My updates are always clean files - no cracks included.
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 16 Sep 2015, 00:40]
+Can anyone provide me with a link to total war rome 2 with all dlc? A torrent would be best but any link is appreciated
+
+Thanks
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 16 Sep 2015, 01:54]
+akko wrote:
+Can someone please reupload or relink Total.War.ROME.II.Update.16.1.Wrath.of.Sparta ? The link has been deleted (https://safelinking.net/0affb5dfcf)
+Lucky you, i was stuck there too. 
+
+ Spoiler
+Code: Select all | Line number On/Off | Expand/Contract
+https://docs.google.com/uc?id=0BztVNo6M ... t=download
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 16 Sep 2015, 01:54]
+
+_________________
+⇛ The eyes, Chico. They never lie. ⇚
+
+In case you need a re-upload or something of anything i posted, shoot me a PM and i'll get back to ya'll.
+
+Password will always be: cs.rin.ru, if not stated otherwise...
+
+Please refrain from contacting me about stuff i simply posted and not uploaded, usually that stuff is old and possibly no longer in my possession. Thanks!
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 18 Sep 2015, 09:17]
+Hello!
+I have downloaded 3DM TWR:2 Emperor Edition v.2.2.0 15539 and updated it through all the updates posted on this thread, (to 16666 or wtever) to the Patch 17 release. Yet I am still having errors launching Rome, as soon as I launch Rome2.exe I get Client is not responding followed by the message:
+"LumaCEG Crashed (1)"
+I haven't the slightest clue what to do with this and if anyone could point out how to fix this that would be greatly appreciated.
+I have tried deleting AppData files for R2 too no avail and am downloading the PROPHET version atm.
+Thanks.
+
+-- Edit --
+
+Alright as @Anomaly suggested I have ran the Patch17.sfv and discovered that there are three corrupted files (Using RapidCRC).
+
+binkw32.dll
+rome2.dll
+steam_api.dll
+
+These three files are all corrupted, if anyone could upload the working ones for Patch 17 or tell me how to fix them that would be amazing.
+
+-- Edit --
+
+@Anomaly
+Yeah, I can't send PMs yet but the binkw32.dll being corrupted did seem to be the problem, I replaced that with the one you sent and now I can launch into the game fine however there isn't any sound whatsoever, no ingame sound, no menu sounds etc. Haven't the slightest idea why, going to look around and see if theres anything.
+
+-- Edit --
+
+Opened up my sound.log.txt file and discovered this:
+Failed to initalise the Sound Engine at loading initilisation bank
+Error: The bank version is not compatible with the current bank reader
+Anybody?
+
+-- Edit --
+
+Turns out either the 3DM Version of 2.2.0 is broken or I broke it in the multitude of patches applied, PROPHET version has working audio packs with Patch 17!
+Thank you very much @Anomaly for all the help
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 20 Sep 2015, 04:52]
+Can anybody give me a torrent link with all the updates & dlc[complete Game]please...........
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 20 Sep 2015, 17:12]
+steamfix for patch 17?
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 20 Sep 2015, 23:13]
+are there langpacks for Patch17 similarly to how sam is doing for Attila?? (interested in CZ one as that one should be smaller as its subs only)
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 20 Sep 2015, 23:13]
+
+_________________
+mostly inactive until at least half of july 2025
+
+If any of my uploads are outdated or no longer online , the best way to do is to send me a PM and i will add the title to the next batch
+UPLOADS PAUSED (have all requests in queue for when i am back to being more active)
+
+List of recent games with modern DRMs:(updated 01-Mar-2023) - http://cs.rin.ru/forum/viewtopic.php?f=10&t=68151
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 21 Sep 2015, 08:15]
+@KonTrolled, you're welcome. I'm glad you got it working now.
+
+@sanjayraj85,
+machine4578 wrote:
+^^ your best bet is to grab the latest PROPHET release(2.2.0.15666) then patch to the new update 2.2.0.16019(patch 17)
+
+Total.War.ROME.II.Emperor.Edition.MULTi9-PROPHET
+
+
+@geisuper007, keep checking this ftp://revolt:1234@revolt.loginto.me or here http://revolt.loginto.me/index.php?/top ... d/?hl=rome but for the latter you'd need an account to check out.
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 21 Sep 2015, 08:15]
+
+_________________
+Always wanted to get rid of the files that were not listed in the sfv/md5 hash file? Check the QuickSFV plugin I created for this: viewtopic.php?f=10&t=108605 or this: viewtopic.php?p=1273745#p1273745
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 21 Sep 2015, 09:51]
+thx u
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 21 Sep 2015, 13:11]
+prudislav wrote:
+are there langpacks for Patch17 similarly to how sam is doing for Attila?? (interested in CZ one as that one should be smaller as its subs only)
+
++1 did not seen langs for patch17

@@ -1,0 +1,109 @@
+=========================================
+STRONA 163 (URL: https://cs.rin.ru/forum/viewtopic.php?f=10&t=61441&hilit=rome+2&start=2430)
+=========================================
+
+[Data: Monday, 22 Dec 2014, 00:59]
+steamworks fix would great so we can play online with friends without tunngle
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 22 Dec 2014, 15:45]
+Please Turkish language... Thank you
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 22 Dec 2014, 22:55]
+http://www.twcenter.net/forums/showthre ... unit-cards
+
+Wanna share with u guys an in-game unit card mod I made for DeI in case anyone plays it.
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 23 Dec 2014, 01:37]
+wow!nice one!!very very good job!!
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 23 Dec 2014, 03:04]
+hi guys..
+
+any1 here using R2 GEMFX ver 1.0.5 would be kind to upload _gem.pack file.
+dont have any external link for the R2 version, so atm i use the generic version.. so i need the _gem.pack file cuz the old version seems not covered HDR for WOS bm and cm.
+
+thanks.
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 23 Dec 2014, 14:32]
+Could someone please re-up the local_en file that is compatible with the Wrath of Sparta update? Thank you. I can't get Wrath of Sparta update to update that file.
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 24 Dec 2014, 13:58]
+please anyone upload spanish updated files thanks
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 24 Dec 2014, 17:57]
+Can somebody post directions of how to make mods downloaded with steamworkshop downloader to work?THANKS IN ADVANCE!
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 24 Dec 2014, 18:12]
+faniskou wrote:
+Can somebody post directions of how to make mods downloaded with steamworkshop downloader to work?THANKS IN ADVANCE!
+
+
+search few pages back.. there's someone post instruction about it..
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 25 Dec 2014, 10:27]
+doesnt work for me
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 25 Dec 2014, 20:20]
+I have Reloaded Emperor Edition + Reloaded 2.2.0 update.
+Can anyone post the latest patches I need to apply on top of that? Including the cosmetic hotfix.
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 26 Dec 2014, 15:51]
+So, is a steamworks fix to play without tunngle for last dlc ?
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 26 Dec 2014, 21:57]
+leonardusius wrote:
+play without tunngle for last dlc ?
+
+Can you play with tunngle for last dlc?
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 27 Dec 2014, 11:45]
+ziodaddy wrote:
+hi guys..
+
+any1 here using R2 GEMFX ver 1.0.5 would be kind to upload _gem.pack file.
+dont have any external link for the R2 version, so atm i use the generic version.. so i need the _gem.pack file cuz the old version seems not covered HDR for WOS bm and cm.
+
+thanks.
+
+can u get it from here?
+http://www.twcenter.net/forums/showthre ... sion-1-0-5
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 27 Dec 2014, 14:29]
+neoiq5719 wrote:
+can u get it from here?
+http://www.twcenter.net/forums/showthre ... sion-1-0-5
+
+
+the generic version only contain the gemfx shader files for general use, it doesnt include the _gem.pack file for the R2 which mod the HDR effect for BM and CM.. i try to use the older ver _gem.pack but i still got HDR effect on some BM especialy from new WOS campaign.
+i need the _gem.pack file from the R2 version from here http://www.twcenter.net/forums/showthread.php?672483-R2-TW-GEMFX-Version-1-0-5 but no external download link.
+
+i tried download it with workshop downloader but always failed.. maybe cuz it size 611MB.. 
+dont have problem downloading smaller size mods.

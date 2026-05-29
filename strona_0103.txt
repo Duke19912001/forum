@@ -1,0 +1,186 @@
+=========================================
+STRONA 103 (URL: https://cs.rin.ru/forum/viewtopic.php?f=10&t=61441&hilit=rome+2&start=1530)
+=========================================
+
+[Data: Tuesday, 19 Aug 2014, 16:49]
+You answered your own question...you dont have the up2date files so ofc it can crash! Did you even considered to think before posting?
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 19 Aug 2014, 16:50]
+@ShadowDuke:Thanks for the latest update, but where's the Firedrive link on page 100, it says there should be one?
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 20 Aug 2014, 06:35]
+Cos i still have problems with my new hardware (need to wait for the new "working" one) and not really much time, i added it now.
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 20 Aug 2014, 07:12]
+Leaked: Augustus DLC, Family Tree, + more
+http://primalgames.de/product/32246/tot ... edition-pc
+
+The Total War: Rome II Emperor Edition includes all the award-winning main game Rome II the completely new, comprehensive campaign "Emperor Augustus" and all DLCs previously freely available and the previously released patches that provide for an even better gaming experience. Including the various "culture-packs", new campaign maps and graphical improvements in almost every area of ​​the game.
+
+Awaiting you new war units, a revised construction management, new events, and much more! In addition, from previous Total War-parts so popular family tree finds its way back into the game!
+
+Total War: Rome II spans one of the most famous periods of world history, combining a comprehensive, turn-based campaign with the biggest and cinamatic real-time battles that you've ever seen in a strategy game. Become the greatest superpower in the world and command the most incredible and most powerful army in the ancient world. Rule over your enemies using military, economic and political means. Will you suffer under the betrayal of others, or are you the one who first directed against old friends?
+
+
+- Emperor Augustus DLC/expansion
+- Family Tree
+- Revised construction management
+- New events
+- Graphical improvements in almost every area of ​​the game
+- New war units
+
+http://steamcommunity.com/app/214950/di ... 814717088/
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 20 Aug 2014, 09:58]
+Is that another update with expansion ? 
+In fact I was hoping an expansion with the Huns
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 20 Aug 2014, 12:27]
+ShadowDuke wrote:
+Cos i still have problems with my new hardware (need to wait for the new "working" one) and not really much time, i added it now.
+Thanks for adding the link.  I also had hardware problems, I know how frustrating that can be. I actually build a new system because of these problems, placed my old hardware in different PC's and quess what, all my old hardware is suddenly working perfectly fine. Pfff... unbelievable. 
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 20 Aug 2014, 12:44]
+I got a bad mobo and have (bios) freezes and multiple random bsod's, yeah very frustrating, especially when you have to test all (new) hardware components just to confirm that the mobo is bad.
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 20 Aug 2014, 17:16]
+Hi, first of all I want to appreciate Shadowduke for his really hard efforts. Toast to YOU MAN 
+
+I have this problem of update 14.1 which is invalid target xdelta3 for copying gaul.pack.xdpatch and punic.pack
+So I have to restore the update. I haven't had a single problem up to update 14.fix.
+Here is my order :
+
+Rome 2 HATG reloaded
+update 11 hotfix
+update 12 beta
+update 12 beta to final
+update 13 Getae and Pydna
+update 13 Pirate and Raiders
+update 13.1 hotfix...
+update 14 beta
+update 14 beta fixed (the second one Shadowduke uploaded)
+
+Update 14 beta fixed shows 1/15 applying but only applies one file with no error of course, is that ok ?
+By the way I haven't downloaded any english language pack (still the entire game is EN) and tested campaign and battle with update 14 fix and everything works fine.
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 20 Aug 2014, 18:41]
+persian911 wrote:
+Hi, first of all I want to appreciate Shadowduke for his really hard efforts. Toast to YOU MAN 
+
+I have this problem of update 14.1 which is invalid target xdelta3 for copying gaul.pack.xdpatch and punic.pack
+So I have to restore the update. I haven't had a single problem up to update 14.fix.
+Here is my order :
+
+Rome 2 HATG reloaded
+update 11 hotfix
+update 12 beta
+update 12 beta to final
+update 13 Getae and Pydna
+update 13 Pirate and Raiders
+update 13.1 hotfix...
+update 14 beta
+update 14 beta fixed (the second one Shadowduke uploaded)
+
+Update 14 beta fixed shows 1/15 applying but only applies one file with no error of course, is that ok ?
+By the way I haven't downloaded any english language pack (still the entire game is EN) and tested campaign and battle with update 14 fix and everything works fine.
+
+
+You missed out a small patch for hatg cig
+
+viewtopic.php?p=935687#p935687
+
+Install that anytime before 14.1 i think, the rest as normal.
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 20 Aug 2014, 20:58]
+ShadowDuke wrote:
+I got a bad mobo and have (bios) freezes and multiple random bsod's, yeah very frustrating, especially when you have to test all (new) hardware components just to confirm that the mobo is bad.
+A wonder that you actually found the problem! I had a PC once that performed horribly, I never figured out what the problem was until about a month ago. I transferred a hard disk from that PC to another PC and found out that the hard disk was the problem! If all things, a broken hard disk never came to mind. Bleh... 
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 21 Aug 2014, 19:04]
+alvaro1992 wrote:
+I have created a little Greasemonkey/Tampermonkey script that adds a button to download whorkshop mods from the browser.
+Feel free to give me some feedback on its comment section.
+
+
+Thanks for making this, man. I tried downloading the GEM mod, but it doesn't seem to install with the geminstaller.
+
+This is the first time I'm installing this and when I download the mod I only see "mods_gem.pack" no .PNG as it shows in the video tutorial. Then when I run the geminstaller it shows an unhandled exception error. Not sure if it matters, but I moved my game to "E:\Total War Rome II\" and am trying to install the mod from there. Please help.
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 21 Aug 2014, 20:34]
+whatsamatteryou wrote:
+alvaro1992 wrote:
+I have created a little Greasemonkey/Tampermonkey script that adds a button to download whorkshop mods from the browser.
+Feel free to give me some feedback on its comment section.
+
+
+Thanks for making this, man. I tried downloading the GEM mod, but it doesn't seem to install with the geminstaller.
+
+This is the first time I'm installing this and when I download the mod I only see "mods_gem.pack" no .PNG as it shows in the video tutorial. Then when I run the geminstaller it shows an unhandled exception error. Not sure if it matters, but I moved my game to "E:\Total War Rome II\" and am trying to install the mod from there. Please help.
+
+
+Have you followed this instructions?
+
+1: Download the file: (if link is "not working" do the following: right click on the link and use "save as", repeat that until it works -normally like 3 times-)
+<::> GEMSteamInstaller.zip <::> >> (Steam version uses GEMFX)
+2: Unzip the installer file.
+3: Start the installer and point out the location to your Rome Total War II folder (something like D:\STEAM\SteamApps\common\Total War Rome II\).
+4: Subscribe GEM on STEAM to download the latest GEM version (gem.pack).
+
+(ToDo for each update on Steam)
+5.1: Run the R2 launcher to force the gem.pack download/update from Steam.
+5.2: Run GEMSteamInstaller in your Rome Total War II folder to install/update GEM from the new gem.pack.
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 22 Aug 2014, 18:26]
+Afraid so, but it just doesn't want to install correctly. Apparently, it matters how I installed the game since I used Reloaded instead of a steam.
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 23 Aug 2014, 02:22]
+whatsamatteryou wrote:
+Afraid so, but it just doesn't want to install correctly. Apparently, it matters how I installed the game since I used Reloaded instead of a steam.
+
+Has been covered before, not too far back in this thread, use a hex editor to delete the first 4 characters of the file and save use mod manager or just a script file and it will work!
+
+Or you could just go to TWC and find the mediafire or whatever it is link and download that!!!
+
+Its all there you just have to look!
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 23 Aug 2014, 07:46]
+MDS wrote:
+whatsamatteryou wrote:
+Afraid so, but it just doesn't want to install correctly. Apparently, it matters how I installed the game since I used Reloaded instead of a steam.
+
+Has been covered before, not too far back in this thread, use a hex editor to delete the first 4 characters of the file and save use mod manager or just a script file and it will work!
+
+Or you could just go to TWC and find the mediafire or whatever it is link and download that!!!
+
+Its all there you just have to look!
+
+
+I went through the mod thread more carefully and saw that there was an installer. Ugh, I'm so stupid. Sorry for wasting your guys' time. Thanks again for all the help! The people in this forum are awesome!

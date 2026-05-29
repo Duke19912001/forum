@@ -1,0 +1,167 @@
+=========================================
+STRONA 131 (URL: https://cs.rin.ru/forum/viewtopic.php?f=10&t=61441&hilit=rome+2&start=1950)
+=========================================
+
+[Data: Saturday, 20 Sep 2014, 18:21]
+tanauser wrote:
+Did anyone experience a bug in Alesia Historical battle ?
+
+like the gauls don't fire the barricades anymore and stand before them ...
+
+even winning the battle , the game stays without declaring winner
+
+
+Yes, and when you win the battle it still says we have been defeated or something like that.
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 20 Sep 2014, 18:27]
+EXACTLY RIGHT !
+
+is that a bug from the game itself ?
+
+Does everyone experience this ( even with a regular game ) ?
+
+if so , that means there will be an update patch 16 for this version AMAZING !!! 
+
+about the next CA game : I take the bets ; it will be a Barbarian Invasion
+they can't leave it that way
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 20 Sep 2014, 18:40]
+tanauser wrote:
+EXACTLY RIGHT !
+
+is that a bug from the game itself ?
+
+Does everyone experience this ( even with a regular game ) ?
+
+if so , that means there will be an update patch 16 for this version AMAZING !!! 
+
+u r right. I reverted the crack from reloaded to shadowduke´s and is the same story
+http://forums.totalwar.com/showthread.p ... ed-broken!!
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 21 Sep 2014, 10:21]
+Hi guys, i have a question.
+
+I have played TWR2 multiplayer with GreenLuma till update 9. But now (TWR2:EE) GreenLuma dosn't work. Wich program works on steam multi?
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 21 Sep 2014, 10:28]
+Salomon61 wrote:
+Hi guys, i have a question.
+
+I have played TWR2 multiplayer with GreenLuma till update 9. But now (TWR2:EE) GreenLuma dosn't work. Wich program works on steam multi?
+
+viewtopic.php?f=10&t=64521
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 21 Sep 2014, 10:52]
+alvaro1992 wrote:
+Salomon61 wrote:
+Hi guys, i have a question.
+
+I have played TWR2 multiplayer with GreenLuma till update 9. But now (TWR2:EE) GreenLuma dosn't work. Wich program works on steam multi?
+
+viewtopic.php?f=10&t=64521
+
+
+When I used GreenLuma, I didn't do that things. Only copy-paste GreenLuma and it works. Is there any program like GreenLuma?
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 21 Sep 2014, 13:21]
+Can anyone link the website for mods. I think someone did but i cant find it. There are a ton of mods that are only on steam workshop so please if some could link the website.Also is anyone having chrashes when starting with mods. I have to delete the CA rome 2 folder in order for the game to work again
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 21 Sep 2014, 13:24]
+THIS or something? I don't know.
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 21 Sep 2014, 13:32]
+nodi wrote:
+Can anyone link the website for mods. I think someone did but i cant find it. There are a ton of mods that are only on steam workshop so please if some could link the website.Also is anyone having chrashes when starting with mods. I have to delete the CA rome 2 folder in order for the game to work again
+
+http://cs.rin.ru/forum/viewtopic.php?p=939633#p939633 or http://steamworkshopdownloader.com/
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 21 Sep 2014, 17:27]
+alvaro1992 wrote:
+nodi wrote:
+Can anyone link the website for mods. I think someone did but i cant find it. There are a ton of mods that are only on steam workshop so please if some could link the website.Also is anyone having chrashes when starting with mods. I have to delete the CA rome 2 folder in order for the game to work again
+
+http://cs.rin.ru/forum/viewtopic.php?p=939633#p939633 or http://steamworkshopdownloader.com/
+
+Dude if your mods crash is because they are outdated
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 21 Sep 2014, 17:57]
+DEI has been updated so you can play with the emperor
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 21 Sep 2014, 19:51]
+neoiq5719 wrote:
+alvaro1992 wrote:
+nodi wrote:
+Can anyone link the website for mods. I think someone did but i cant find it. There are a ton of mods that are only on steam workshop so please if some could link the website.Also is anyone having chrashes when starting with mods. I have to delete the CA rome 2 folder in order for the game to work again
+
+http://cs.rin.ru/forum/viewtopic.php?p=939633#p939633 or http://steamworkshopdownloader.com/
+
+Dude if your mods crash is because they are outdated
+
+I used mods that are updated. Then when the game chrashes i deleted the mod but it still chrashed completely had to reinstall.
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 22 Sep 2014, 08:07]
+Try deleting the script folder
+
+-- Edit --
+
+http://steamcommunity.com/sharedfiles/f ... =309829016
+could someone upload this mod pls.
+thx
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 22 Sep 2014, 11:34]
+Hello folks.
+i have been trying and trying to make this game work, but for some reason i cant do it on my system.
+First i tried about a 10 months ago, it didnt work so i didnt give to much attention. Thought when some goty-type edition will launch then will get it.
+Now i got the emperor edition. But its the same problem.
+Whenever i start the rome2.exe it gives a memory reference error.
+Screenshot: [ img ]
+
+Solutions i have tried:
+1)Cleaning appdata/Creative assembly.
+2)Using different LumaEmu_Ceg. i tried each one till the way back to update 11.
+3)On total war forums someone said a memory timings might be causing a problem if overclocked.
+So i went back to stock speeds, change XMP profiles back.
+4) change ram slots, tried different combinations.
+5)tried memtest. no errors.
+
+but the game doesnt even show a splash screen.. as soon as i click "Error"
+
+Can some veteran help me here? what should i do?
+
+**Edit**
+I used this release.
+http://thepiratebay.se/torrent/11046854 ... or_Edition
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 22 Sep 2014, 11:59]
+Number 1 did u extract the content of the rar?
+Number 2 do u have all the microsoft redish( not just the one in the folder) and direct x installed?
+Number 3 have u included the Rome 2 folder as an exception in your AV?
+Number 4 in case ( but shouldnt be) delete SweetFX files and folder, the dxgi and eFX files

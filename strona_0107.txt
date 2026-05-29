@@ -1,0 +1,284 @@
+=========================================
+STRONA 107 (URL: https://cs.rin.ru/forum/viewtopic.php?f=10&t=61441&hilit=rome+2&start=1590)
+=========================================
+
+[Data: Friday, 29 Aug 2014, 14:20]
+https://www.youtube.com/watch?v=aukvxuZ ... e=youtu.be
+emperror edition is free for those who have rome 2 shadow you know what to do. Also they integrated everything we wanted except for family tree. CIvil war makes sence yeahhhh. Its not "out" yet but very soon and since you own the game shadow i think this wont be a problem.
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 29 Aug 2014, 14:51]
+nodi wrote:
+emperror edition is free for those who have rome 2 shadow you know what to do. Also they integrated everything we wanted except for family tree. CIvil war makes sence yeahhhh. Its not "out" yet but very soon and since you own the game shadow i think this wont be a problem.
+You could have written your post kinda eh.. differently though. I know you don't mean it that way, but it kinda feels like a personal delivery order to ShadowDuke. 
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 29 Aug 2014, 15:04]
+Of course i didnt mean it like that and he knows it. He doesnt have to do this and we are grateful just wanted to let him know and im really excited.
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 29 Aug 2014, 15:06]
+Sorry, perhaps i exaggerated. I don't know. 
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 29 Aug 2014, 15:22]
+will look into this when its time. 1st im gonna watch the video now. ^^
+
+Should be for beta soon they said. But not that really impressie what you get with this "update", all FLC, which we got already just a new SP Campaign which is ok i think.
+
+Family Tree would be nicer. The new "rep" system, ok, but nothing to get excited about imho.
+
+Ps: I dont see his post as "delivery demand" 
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 29 Aug 2014, 16:08]
+It sucks that the "Family Tree" "would be" addition was fake information, seemed nice from what nodi described earlier. Bleh..
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 29 Aug 2014, 16:47]
+ShadowDuke wrote:
+will look into this when its time. 1st im gonna watch the video now. ^^
+
+Should be for beta soon they said. But not that really impressie what you get with this "update", all FLC, which we got already just a new SP Campaign which is ok i think.
+
+Family Tree would be nicer. The new "rep" system, ok, but nothing to get excited about imho.
+
+Ps: I dont see his post as "delivery demand" 
+
+Im still reserving judgement until its here but for me this is huge. It makes the political system important now with the new civil war mechanic. As you said we have all the dlc so that doesnt matter same goes for the august campaign i dont care. But i do care about the political system and civil war changes. Although they havent yet ruled out a family tree they said on twc they are pondering the idea 
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 29 Aug 2014, 17:20]
+So the game doesn't work anymore -_-
+i click on the icon, the game is running on task manager ( so if i click again it said Rome 2 is already running.. ) but nothing happened, waiting for hours, still running on background ( task manager )
+
+EDIT : SOLVED
+so.. any mod that the Luncher can't detect will cause this problem
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 29 Aug 2014, 17:20]
+
+_________________
+SPECS : Ryzen 7 3800X | RTX 3070 8G | 16Gb DDR4 | 1TB SSD
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 31 Aug 2014, 14:44]
+@Shadow Duke, Can you upload full Polish language pack. (voice + subtitles) ?
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 01 Sep 2014, 15:48]
+Patch 15/ Emperor Edition BETA Live Now! 
+http://forums.totalwar.com/showthread.p ... 4e87873a32
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 01 Sep 2014, 16:09]
+waiting for shadowduke magic again .... 
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 01 Sep 2014, 17:03]
+Yeah, im downloading now and will report back later. 
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 01 Sep 2014, 17:12]
+Hmmpf, I'm pretty sure i don't like THESE Civil war changes. Seems annoying and kinda extreme.
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 01 Sep 2014, 17:55]
+Total.War.ROME.II.Update.15.beta *xdelta* Version: v1.15.0-13595.577747 (01.09.2014)
+
+You need Update 14.1 installed!
+
+Changelog:
+
+
+ Spoiler
+Code: Select all | Line number On/Off | Expand/Contract
+ 
+v1.15.0-13595.577747
+ 
+The headline changes in this beta are:
+ 
+Politics and civil war improvements
+Overhauled building chains
+Special regions
+Campaign balancing changes
+Land battle changes
+Naval battle balancing changes
+Politics and Civil War Improvements
+ 
+Civil wars no longer inevitable, instead they are now based on your level of support. Based on your support you can end up having a high, medium or low chance of a civil war occurring each turn. You’ll get warning messages when you reach those levels (currently a few bugs related to that).
+When a civil war occurs, all the generals and admirals not of your family will go over to the civil war. As will any agents in their armies and the regions their standing in. All other agents and regions then have a chance to join the civil war faction.
+Multiple civil wars can occur through the course of a campaign.
+There are now political support effect bundles. Based on the support for your party you will get an effect bundle that affects your faction. Very low support and you’ll get penalties to morale, public order, research. Very high you’ll get big faction wide bonuses but you’ll also run a higher risk of civil war occurring.
+Political action costs reduced.
+New effect bundles based on your Imperium level that increase political action cost and political incident occurrences, as well as giving your party more support each turn past level 4 Imperium. The effects of technologies that reduce political action cost have been increased.
+Effects of political promotions improved to give gravitas per turn and better bonuses.
+The first level political promotion no longer has any requirements so even basic statesmen can accumulate gravitas and contribute to the political game.
+Core general skills also give gravitas per turn. Want to keep politics balanced? Make sure generals from all the parties are fighting and gaining skills.
+The effects of wives have also been increased.
+New effects from Imperium that increase political action cost and political incident frequency as you gain more power. You will also gain more influence for your party automatically as you get bigger, making it harder and harder to avoid civil wars.
+So now it is perfectly possible to avoid civil wars if you manage politics right. You do that via actions, getting promotions or by having generals win battles and skilling up. But as the game goes on and you expand it will be harder and harder to avoid civil wars.
+ 
+Overhaul Building Changes
+ 
+The Aim
+ 
+The aims for these changes are simple:
+ 
+Provide more building options for all cultures and more interesting building combinations.
+Make resource regions more important.
+Improve the balance of the late game economy.
+Balance food/squalor so buildings can be upgraded further.
+ 
+THESE CHANGES DO NOT APPLY TO EXISTING SAVE GAMES
+ 
+In order to not break/soft-break save games, the new building changes are only available when starting new campaigns.
+ 
+Universal changes
+ 
+These changes affect all cultures.
+ 
+Resource chains – have been renamed and their effects improved to make them more important.
+New amber resource chain – appears in some regions in German. Amber will not be a tradeable resource, but the chain will provide a good amount of income.
+Removal of military equipment chains apart from siege engines. Weapon and armour upgrades now come from iron regions. New horse resource chain added to buff cavalry units which is also exclusive to some regions.
+Universal minor industrial chain now only has mine line of buildings. This change has been made because of other chain changes for each culture that have added more industrial focused buildings.
+Splitting of industry and culture income types into manufacturing/mining and entertainment/learning respectively. This is taken advantage of with many of the new building bonuses. For example Gold resource chain gives mining income, and the Roman goldsmith lines gives manufacturing income and a bonus to mining income for the province.
+Garrison units now come from the core settlement building, ports and military chains only. The core settlement chain garrisons have been improved and all now include at least one good quality unit.
+No longer any difference in port and religious chains in major/minor settlements.
+Coffee machine now works.
+Negative bonuses now apply from level 2 in a small form so you can see what those are earlier
+Food penalties removed from lowest level core settlement buildings.
+Number of religious chains has been reduced for all factions so the remaining ones can provide better bonuses.
+Barbarians
+ 
+Province capital core chain now splits at level 4 into 3 options which allow you to focus the speciality of a province more.
+The minor settlement core chains in non-resource regions now splits into 2 options at level 4 for the same reasons as above.
+New Warrior Lodge chain added for province capitals. The goldsmith building line and tavern building lines have been moved here and a new proving grounds line added. This chain provides income/happiness along with providing buffs for your units.
+Artisan chain split into artisan and craftsmen chain.
+Artisan chain has bronze workshop, new coin maker and new horn maker lines. Bronze workshop line provides recruitment of all melee/spear infantry.
+Craftsmen chain has clay pit, brine distiller and woodworker lines. Woodworker line provides recruitment of all ranged infantry/siege units.
+Both of the above can be built in major and minor settlements. Changes should keep the barbarian flavour of recruiting from diverse chains, but having recruitment focused onto a few lines instead of being so spread out as it was before.
+New minor sanitation chain added, has 2 lines that can be upgraded to level 3.
+Storage pit line now provides a replenishment rate bonus for the province.
+Research chains moved from agriculture to commons chain.
+Eastern
+ 
+Province capital core building splits into 2 at level 2: the Royal and Satrap lines. The Royal will be more expensive once costs are added in.
+The minor settlement core chains in non-resource regions now splits into 2 options at level 2: trade and garrison lines.
+Infantry military chain merged into one line to make infantry recruitment simpler.
+New military buff chain added, with ranged and cavalry upgrade lines which go to level 3.
+Industrial chain adjusted so it has 3 lines: adobe, new weaving, and new mint ones.
+New water chain, using existing windcatcher and fountain lines, available in major settlements only.
+New town centre chain added for minor settlements. It has trade and game field lines.
+New tax chain added for minor settlements. Splits into tax and road lines. Focused on tax and agent bonuses.
+Herding and granary lines added to agriculture chain. Granary line gives replenishment bonuses.
+Greek
+ 
+The minor settlement core chains in non-resource regions now splits into 3 options at level 2: farm, market and civic lines.
+Military buff chain now only goes up to level 3.
+Industrial chain adjusted to the following 3 lines: amphorae, goldsmith, mint.
+Granary line added to agricultural chain, gives replenishment bonuses.
+New town centre chain added for minor settlements. It has trade and gymnasia lines.
+Roman
+ 
+Province capital core building splits into 2 at level 2: the civic and garrison lines.
+The minor settlement core chains in non-resource regions now splits into 3 options at level 2: farm, market and civic lines.
+Military buff chain now only goes up to level 3.
+Industrial chain adjusted to the following 3 lines: amphorae, goldsmith, mint.
+Granary line added to agricultural chain, gives replenishment bonuses.
+New town centre chain added for minor settlements. It has trade and theatre lines.
+Special Regions
+ 
+A new thing that has been introduced are special regions.Effectively regions now have effect bundles that give them certain bonuses. Currently Roma, Carthago, Pella, Pergamon, Antioch and Baktra have these effects. Rome for example gives +2 recruitment slots in that province for owning it and +15% to all income. Carthago has a bonus to commerce income.
+ 
+Other Campaign Changes
+ 
+Alongside the extensive building changes are a bunch of other balance changes for the campaign.
+ 
+Core income for all factions reduced from 3000 to 1500
+Playable factions get different bonuses to core income. Sparta gets 500 for example, Macedon 1000, Rome 1500. So overall Sparta will have 2000 (1500 base + 500 extra) and Rome 3000 (1500 base + 1500 extra).
+Post-battle settlement occupation options rebalanced.
+Iceni, Roman, Eastern and royal Scythian faction traits adjusted. Iceni captive reduction replaced with small negative to morale in enemy territory. Roman experience bonus for infantry replaced with +1 recruitment slot in all regions. Eastern experience bonus for missile units replaced with +25% ammo. Same for Royal Scythians.
+Besieger attrition reduced.
+Replenishment rates reduced.
+Biephi faction renamed to Apulii.
+Fixed inconsistent messages/outcomes for subjects (faction screen dilemmas).
+Fix for not all factions getting missions, subjects, incidents or dilemmas in all campaigns.
+Land Battle Changes
+ 
+Units with precursor weapons can now fire at will when stationary.
+The pace of battles and combat has been reduced, and morale values adjusted so battles last longer and are more dynamic.
+Axe and shield animation set based on existing animations added to the game.
+Balancing changes to almost all units.
+Naval Battle Balancing Changes
+ 
+Speed of all ships reduced.
+Ship artillery accuracy reduced.
+Transport ships ramming damage significantly reduced. 
+ 
+
+
+
+Code: Select all | Line number On/Off | Expand/Contract
+ 
+1) Extract all files to your Rome 2 <root> install dir
+2) Start TWR2_UP15_beta.bat
+3) Copy Crack
+4) Play
+
+
+Download: [30mb] (Zippyshare, Firedrive)
+
+Zippyshare
+Firedrive
+
+Notes: German Update! English lang. files below!
+
+English Language files for Update 15_beta: (188mb)
+
+Zippyshare
+Firedrive
+
+
+Total.War.ROME.II.Assembly.Kit.BETA.15 (01.09.2014)
+
+Info
+
+
+Code: Select all | Line number On/Off | Expand/Contract
+ 
+1) Extract all files to your Rome 2 <root> install dir
+2) Start with /binaries/BOB.AssemblyKit.exe & TWeak.AssemblyKit.exe
+ 
+
+
+Download: [159mb] (Zippyshare, Firedrive)
+
+Zippyshare
+Firedrive
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 01 Sep 2014, 17:56]
+Thx @ShadowDuke
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 01 Sep 2014, 17:56]
+
+_________________
+List of some Computer games CLICK ME

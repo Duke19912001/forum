@@ -1,0 +1,247 @@
+=========================================
+STRONA 137 (URL: https://cs.rin.ru/forum/viewtopic.php?f=10&t=61441&hilit=rome+2&start=2040)
+=========================================
+
+[Data: Wednesday, 01 Oct 2014, 17:46]
+Thx @ShadowDuke and @machine4578 for updating this game...
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 01 Oct 2014, 17:46]
+
+_________________
+List of some Computer games CLICK ME
+
+  
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 01 Oct 2014, 18:12]
+chernysh wrote:
+Thanks for the update, Shadow & machine4578 
+But what about the Assembly Kit ?  He also updated.
+
+
+You sure its updated? I dont see why.
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 01 Oct 2014, 18:54]
+@ShadowDuke
+Not sure, but at some forum today wrote that he updated 
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 01 Oct 2014, 19:27]
+Is Alesia bug fixed in this hotfix ?
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 01 Oct 2014, 22:18]
+leonardusius wrote:
+Is Alesia bug fixed in this hotfix ?
+
+why dont u go back and read the patch notes?
+
+People I have taken the crack from the steamrip and apparently fixes the exiting problem. Must test it further though
+http://speedy.sh/zNAWq/crack.rar
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 02 Oct 2014, 01:55]
+ShadowDuke wrote:
+Total.War.ROME.II.Update.15.Hotfix.Gaul_and_HATG_Update *xdelta* (01.10.2014)
+
+You need this installed!
+
+
+Code: Select all | Line number On/Off | Expand/Contract
+1) Extract all files to your Rome 2 <root> install dir
+2) Start TWR2_UP15_hotfix_Gaul_and_HATG_Update.bat
+3) Play
+
+
+Download: [0,2mb] (Zippyshare, Firedrive)
+
+
+Code: Select all | Line number On/Off | Expand/Contract
+http://www46.zippyshare.com/v/89507084/file.html
+https://www.firedrive.com/file/4F7776C334C15B7B
+
+
+Thanks to machine4578 for providing the files.
+
+
+thanks again ShadowDuke & Machine4578
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 02 Oct 2014, 07:22]
+ShadowDuke wrote:
+I already told you its 2... (gaul.pack & punic.pack), nomadic.pack is already updated by me.
+
+The 2 updated DLC files are coming, ~20 minutes.
+
+
+Total.War.ROME.II.Update.15.Gaul_and_HATG_Update *xdelta* (16.09.2014)
+
+You need this installed!
+
+
+Code: Select all | Line number On/Off | Expand/Contract
+1) Extract all files to your Rome 2 <root> install dir
+2) Start TWR2_UP15_gaul_hatg_update.bat
+3) Play
+
+
+Download: [35mb] (Zippyshare, Firedrive)
+
+
+Code: Select all | Line number On/Off | Expand/Contract
+http://linkcrypt.ws/dir/104c3n7wi54e5j4
+
+pw: cs.rin.ru
+
+
+
+link not working Zippyshare, Firedrive ?
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 02 Oct 2014, 08:04]
+tanauser wrote:
+ShadowDuke wrote:
+I already told you its 2... (gaul.pack & punic.pack), nomadic.pack is already updated by me.
+
+The 2 updated DLC files are coming, ~20 minutes.
+
+
+Total.War.ROME.II.Update.15.Gaul_and_HATG_Update *xdelta* (16.09.2014)
+
+You need this installed!
+
+
+Code: Select all | Line number On/Off | Expand/Contract
+1) Extract all files to your Rome 2 <root> install dir
+2) Start TWR2_UP15_gaul_hatg_update.bat
+3) Play
+
+
+Download: [35mb] (Zippyshare, Firedrive)
+
+
+Code: Select all | Line number On/Off | Expand/Contract
+http://linkcrypt.ws/dir/104c3n7wi54e5j4
+
+pw: cs.rin.ru
+
+
+
+link not working Zippyshare, Firedrive ?
+
+The zippyshare works
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 02 Oct 2014, 08:16]
+no not working ; this is a previous update (16.09.2014) needed to update the last 15 Gaul one 
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 02 Oct 2014, 10:29]
+They are all working! Just tested!
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 02 Oct 2014, 11:39]
+Did you try this ? :
+
+Download: [35mb] (Zippyshare, Firedrive)
+
+Code: Select all | Line number On/Off | Expand/Contract
+
+http://linkcrypt.ws/dir/104c3n7wi54e5j4
+
+Anyway the bug seems to remain on the Alesia ...
+I am trying more ways , if I succeed , will post the solution
+
+EDIT:
+today I have tried all Emperor versions
+
+3DM
+Steamripp
+Dword
+ALI
+
+untill now none of them fix the Alesia bug
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 02 Oct 2014, 12:03]
+tanauser wrote:
+Did you try this ? :
+
+Download: [35mb] (Zippyshare, Firedrive)
+
+Code: Select all | Line number On/Off | Expand/Contract
+
+http://linkcrypt.ws/dir/104c3n7wi54e5j4
+
+Anyway the bug seems to remain on the Alesia ...
+I am trying more ways , if I succeed , will post the solution
+
+EDIT:
+today I have tried all Emperor versions
+
+3DM
+Steamripp
+Dword
+ALI
+
+untill now none of them fix the Alesia bug
+
+
+
+hi tanauser,remembered from legendary shogun 2 topic at tehparadox,how is the mod going?Anyway,pm me anything you want.It's good to see people with a character here.Dont bother communicate with this money hungry fake profile spammer pathetic monkey.He needs more time evolving to a fucking ape.He cant read a wall of text so that's enough now.
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 02 Oct 2014, 12:29]
+hello coplan 
+out of subject
+this was the good old time ... with the Kojiro mod
+I still have this Alamo mod to release to give to the Pirates ...
+https://www.youtube.com/watch?v=Vfgp1_5QLoA
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 02 Oct 2014, 12:32]
+tanauser wrote:
+hello coplan 
+out of subject
+this was the good old time ... with the Kojiro mod
+I still have this Alamo mod to release to give to the Pirates ...
+https://www.youtube.com/watch?v=Vfgp1_5QLoA
+
+DO u read the posts man? told u CA is looking into the ALESIA bug
+http://forums.totalwar.com/showthread.p ... sia-bugged
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 02 Oct 2014, 12:39]
+neoiq5719 wrote:
+tanauser wrote:
+hello coplan 
+out of subject
+this was the good old time ... with the Kojiro mod
+I still have this Alamo mod to release to give to the Pirates ...
+https://www.youtube.com/watch?v=Vfgp1_5QLoA
+
+DO u read the posts man? told u CA is looking into the ALESIA bug
+http://forums.totalwar.com/showthread.p ... sia-bugged
+
+
+yes I red you  , but I though it was updated in this latest release ,
+btw there is another bug in Cannae :
+Roman horse rider remain still if at beginning charge they over pass the Carthaginian lines
+they don't get back in the battle unless you go for them

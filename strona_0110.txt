@@ -1,0 +1,137 @@
+=========================================
+STRONA 110 (URL: https://cs.rin.ru/forum/viewtopic.php?f=10&t=61441&hilit=rome+2&start=1635)
+=========================================
+
+[Data: Thursday, 04 Sep 2014, 18:48]
+Jepp01 wrote:
+Every time when i close game to pc desktop. My game stops working. And i have to use CTRL+ALT+DELETE, task manager, and some handy trick with the button next to the right control key on my keyboard, to be able to close it down completely.
+
+Any solutions?
+
+thanks
+
+
+Im reading this 4 times per week,..read the thread.
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 04 Sep 2014, 19:32]
+Jepp01 wrote:
+Every time when i close game to pc desktop. My game stops working. And i have to use CTRL+ALT+DELETE, task manager, and some handy trick with the button next to the right control key on my keyboard, to be able to close it down completely.
+
+Any solutions?
+
+thanks
+
+
+Common problem, PITA in truth.
+
+When you have task manager open, right click its icon in the taskbar and select pin to taskbar, easy access, single click to start it.
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 06 Sep 2014, 11:43]
+Is there any release that is patched to the latest version and has all the dlc?
+
+All the releases I can find are like on patch 1 and some patches are 12gb from what I've seen.
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 06 Sep 2014, 12:12]
+Im gonna buy the game next week just wanted to say thank you shadow im still gonna keep and update the pirated version because of the dlc. Thank you again shadow
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 06 Sep 2014, 15:27]
+Hi I'm new here. I know someone posted same question earlier but the solution provided didn't seem to work for me.
+
+I installed RTW2 HATG - RELOADED version,
+then I applied patches in this order:
+
+TWR2_UP11_HOTFiX_BUILD_10471_528438
+TWR2_UP12beta
+TWR2_UP12final
+TWR2_UP13_Getae_and_Pydna
+TWR2_UP13_hotfix_plus_Pirates_and_Raiders_DLC
+TWR2_UP13_1_Hotfix_and_Festivals_Update
+TWR2_UP13_1_Gaul_and_HATG_Update
+TWR2_UP14_beta
+TWR2_UP14_Gaul_and_HATG_Update
+TWR2_UP14_beta_fixed <- that's where I hit a brick wall, it applies patch to file 1/15 then it goes on to the question if updates applied with no error, I chosen yes with errors even thou it didn't display any it seemed strange that it updated only 1/15 files.
+How do I fix this, any ideas guys?
+
+P.S. Just a suggestion. Would it be a big problem to compile one big update that updates ie. RTW2HATG-RLD to the latest version or atleast to update 14. It takes an awful amount of time to install all the updates one after another, and is tiny bit confusing specially when you get an error.
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 06 Sep 2014, 15:30]
+And again, its a typo, its only 1 file, so no errors, choose no! If it has more files to patch you'd have seen the skipped ones, keep that in mind!
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 06 Sep 2014, 15:38]
+ShadowDuke wrote:
+And again, its a typo, its only 1 file, so no errors, choose no! If it has more files to patch you'd have seen the skipped ones, keep that in mind!
+
+
+So what you saying is that if it shows only 1/15 with no errors and goes straight to finalizing the patch it's ok, and it means the other 14/15 files don't need updating?
+
+P.S. Well I try what you advice, hope it works, thanks in advance really appreciate a straight, quick answer.
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 06 Sep 2014, 15:43]
+Yes, it would be big problem to do another patch from HATG-RLD to current, cos i dont have the files anymore!
+
+I said, theres only 1 file, why do you ask for other 14!? It doesnt and wont want to patch 15 files, not 14 files but 1 file! Its a typo! viewtopic.php?p=933876#p933876
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 06 Sep 2014, 15:45]
+I got one more question.
+If I update up to 15 does that include any of the following : Imperator Augustus DLC, Dauthers of Mars DLC?
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 06 Sep 2014, 15:47]
+...Augustus DLC issnt out yet, it comes with patch15 final! 16.09! Mars DLC, yes!
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 06 Sep 2014, 16:20]
+ShadowDuke wrote:
+Yes, it would be big problem to do another patch from HATG-RLD to current, cos i dont have the files anymore!
+
+I said, theres only 1 file, why do you ask for other 14!? I dont and wont want to patch 15 files, not 14 files but 1 file! Its a typo!
+
+
+I'm sorry O.K. I'm a simple fellow here and wanted to clarify. No need to get angry. Shame about the big patch thou, but you say you it can't be done then it can't be done. Like I said it was just a suggestion. Thanks for you hard work anyway, appreciate it a lot.
+
+-- Edit --
+
+O.K. I applied the TWR2_UP14_beta_fixed and now when I apply TWR2_UP14_1 on file local_en_rome2.pack 3/18 I get a message xdelta3: source file to short: XD3_invalid_input. Any ideas?
+
+P.S. O.K I think I got it. I need to install update 14 beta language files manually, right?
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 06 Sep 2014, 16:24]
+yes ofc!
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 06 Sep 2014, 22:23]
+I just found a Rome release by Akimo it's Total War: Rome II (2013) 1.14.1 + 2 Expansions + 9 DLC. I applied update 15 with no problem over it after fresh install. Game supposed to be in polish language but after installing your update 15 over it, it runs in English so we're good  I hope it will all work in game with no crashes  I want to try Divide et Impera with it I hope I manage to run it 
+
+Runs fine with Divide et Impera latest patch cool stuff, thank you. 
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 06 Sep 2014, 22:40]
+Then you need 0.95m1
+https://drive.google.com/file/d/0Bx-Uz_ ... sp=sharing
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 07 Sep 2014, 08:39]
+For people who get error when updating, I have noticed that if u get any error that is not mismatch error, u can solve it by doing the update in a portable unit since there´s no OS that can interfere with it and then when it´s done copy all the files back to your computer.

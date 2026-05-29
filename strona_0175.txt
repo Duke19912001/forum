@@ -1,0 +1,253 @@
+=========================================
+STRONA 175 (URL: https://cs.rin.ru/forum/viewtopic.php?f=10&t=61441&hilit=rome+2&start=2610)
+=========================================
+
+[Data: Sunday, 22 Feb 2015, 13:56]
+Have all xdelta-updates from this forum installed(including Total.War.ROME.II.Update.16.1.Wrath.of.Sparta and Crackfix).My build number is v2.2.0.15539 and game works.
+
+When I tried to update it with latest update I got some weird errors.
+
+Here's my FileWithError.txt:
+
+
+Code: Select all | Line number On/Off | Expand/Contract
+This is a list of the files that got some kind of Error during the xdelta patching process.
+  
+-- ERROR --  Patching of the file  "data\data_rome2.pack"  has Failed !!
+-- ERROR --  Patching of the file  "data\gaul.pack"  has Failed !!
+-- ERROR --  Patching of the file  "data\greeks.pack"  has Failed !!
+-- ERROR --  Patching of the file  "data\models2_rome2.pack"  has Failed !!
+-- ERROR --  Patching of the file  "data\models_rome2.pack"  has Failed !!
+-- ERROR --  Patching of the file  "data\movies_rome2.pack"  has Failed !!
+-- ERROR --  Patching of the file  "data\punic.pack"  has Failed !!
+-- ERROR --  Patching of the file  "data\terrain2_rome2.pack"  has Failed !!
+-- ERROR --  Patching of the file  "data\tiles2_rome2.pack"  has Failed !!
+-- ERROR --  Patching of the file  "data\tiles4_rome2.pack"  has Failed !!
+-- ERROR --  Patching of the file  "data\tiles_rome2.pack"  has Failed !!
+
+
+
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 22 Feb 2015, 13:56]
+
+_________________
+01000111 01101000 01101111 01110011 01110100 00100000 01110111 01101000 01100101 01110010 01100101 00100000 01100001 01110010 01100101 00100000 01111001 01101111 01110101 00111111 00100000 01000100 01100101 01101100 01100101 01110100 01100101 00100000 01110100 01101000 01101001 01110011 00100000 01110000 01101111 01110011 01110100 00101100 00100000 01101001 01100110 00100000 01111001 01101111 01110101 00100000 01100100 01100001 01110010 01100101 00101110
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 22 Feb 2015, 14:01]
+Igec35 wrote:
+Have all xdelta-updates from this forum installed(including Total.War.ROME.II.Update.16.1.Wrath.of.Sparta and Crackfix).My build number is v2.2.0.15539 and game works.
+
+When I tried to update it with latest update I got some weird errors.
+
+Here's my FileWithError.txt:
+
+
+ Spoiler
+Code: Select all | Line number On/Off | Expand/Contract
+This is a list of the files that got some kind of Error during the xdelta patching process.
+ 
+-- ERROR --  Patching of the file  "data\data_rome2.pack"  has Failed !!
+-- ERROR --  Patching of the file  "data\gaul.pack"  has Failed !!
+-- ERROR --  Patching of the file  "data\greeks.pack"  has Failed !!
+-- ERROR --  Patching of the file  "data\models2_rome2.pack"  has Failed !!
+-- ERROR --  Patching of the file  "data\models_rome2.pack"  has Failed !!
+-- ERROR --  Patching of the file  "data\movies_rome2.pack"  has Failed !!
+-- ERROR --  Patching of the file  "data\punic.pack"  has Failed !!
+-- ERROR --  Patching of the file  "data\terrain2_rome2.pack"  has Failed !!
+-- ERROR --  Patching of the file  "data\tiles2_rome2.pack"  has Failed !!
+-- ERROR --  Patching of the file  "data\tiles4_rome2.pack"  has Failed !!
+-- ERROR --  Patching of the file  "data\tiles_rome2.pack"  has Failed !!
+
+
+
+
+that sucks.. because i used the last full 3DM release(Total War ROME II Emperor Edition v2.2.0.15539 Incl DLC Cracked-3DM ) to make the xdelta patch, and after updating the sfv posted by testni validated 100%!
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 22 Feb 2015, 14:12]
+Is there any posible solution(except reinstall your version of game)?
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 22 Feb 2015, 14:12]
+
+_________________
+01000111 01101000 01101111 01110011 01110100 00100000 01110111 01101000 01100101 01110010 01100101 00100000 01100001 01110010 01100101 00100000 01111001 01101111 01110101 00111111 00100000 01000100 01100101 01101100 01100101 01110100 01100101 00100000 01110100 01101000 01101001 01110011 00100000 01110000 01101111 01110011 01110100 00101100 00100000 01101001 01100110 00100000 01111001 01101111 01110101 00100000 01100100 01100001 01110010 01100101 00101110
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 22 Feb 2015, 14:28]
+Where is the changelog for v2.2.0.15666 ?
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 22 Feb 2015, 14:43]
+Igec35 wrote:
+Have all xdelta-updates from this forum installed(including Total.War.ROME.II.Update.16.1.Wrath.of.Sparta and Crackfix).My build number is v2.2.0.15539 and game works.
+
+When I tried to update it with latest update I got some weird errors.
+
+Here's my FileWithError.txt:
+
+
+Code: Select all | Line number On/Off | Expand/Contract
+This is a list of the files that got some kind of Error during the xdelta patching process.
+  
+-- ERROR --  Patching of the file  "data\data_rome2.pack"  has Failed !!
+-- ERROR --  Patching of the file  "data\gaul.pack"  has Failed !!
+-- ERROR --  Patching of the file  "data\greeks.pack"  has Failed !!
+-- ERROR --  Patching of the file  "data\models2_rome2.pack"  has Failed !!
+-- ERROR --  Patching of the file  "data\models_rome2.pack"  has Failed !!
+-- ERROR --  Patching of the file  "data\movies_rome2.pack"  has Failed !!
+-- ERROR --  Patching of the file  "data\punic.pack"  has Failed !!
+-- ERROR --  Patching of the file  "data\terrain2_rome2.pack"  has Failed !!
+-- ERROR --  Patching of the file  "data\tiles2_rome2.pack"  has Failed !!
+-- ERROR --  Patching of the file  "data\tiles4_rome2.pack"  has Failed !!
+-- ERROR --  Patching of the file  "data\tiles_rome2.pack"  has Failed !!
+
+
+
+
+
+thats weird .. i also got all my patches till build v2.2.0.15539 from this thread..
+and machine xdelta Update.v2.2.0.15539-v2.2.0.15666 work fine without error for me ..
+
+btw.. thanks machine for the update .. 
+and testni for uploading the R2:GEMFX pack file
+
+bless u guys.. 
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 22 Feb 2015, 14:49]
+ziodaddy wrote:
+thats weird .. i also got all my patches till build v2.2.0.15539 from this thread..
+and machine xdelta Update.v2.2.0.15539-v2.2.0.15666 work fine without error for me ..
+
+btw.. thanks machine for the update .. 
+and testni for uploading the R2:GEMFX pack file
+
+bless u guys.. 
+
+you are welcome! and i am glad to hear it worked for you.. enjoy!
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 22 Feb 2015, 14:57]
+Ok thanks ziodaddy for confirmation. I'll reinstall everything and hope it will then work.
+
+And thanks machine for update.
+
+-- Edit --
+
+Hey ziodaddy which version of game are you using(I mean RELODED,3DM,...)?
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 22 Feb 2015, 14:57]
+
+_________________
+01000111 01101000 01101111 01110011 01110100 00100000 01110111 01101000 01100101 01110010 01100101 00100000 01100001 01110010 01100101 00100000 01111001 01101111 01110101 00111111 00100000 01000100 01100101 01101100 01100101 01110100 01100101 00100000 01110100 01101000 01101001 01110011 00100000 01110000 01101111 01110011 01110100 00101100 00100000 01101001 01100110 00100000 01111001 01101111 01110101 00100000 01100100 01100001 01110010 01100101 00101110
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 22 Feb 2015, 15:04]
+Igec35 wrote:
+Ok thanks ziodaddy for confirmation. I'll reinstall everything and hope it will then work.
+
+And thanks machine for update.
+
+-- Edit --
+
+Hey ziodaddy which version of game are you using(I mean RELODED,3DM,...)?
+
+
+my base game is TW ROME 2 caesar in gaul - RELOADED release.
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 22 Feb 2015, 15:10]
+@machine4578
+thanks for the patch, i've only tried for a while but it works so far
+
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 22 Feb 2015, 15:13]
+Com_J_B_cora wrote:
+Can somebods upload REVOLT wrapper to avtivate all DLCs in a legit game?
+
+
+So can you do this?
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 22 Feb 2015, 15:14]
+Com_J_B_cora wrote:
+Com_J_B_cora wrote:
+Can somebods upload REVOLT wrapper to avtivate all DLCs in a legit game?
+
+
+So can you do this?
+
+just use Brucie's wrapper, you can get it here.
+viewtopic.php?f=10&t=65887
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 22 Feb 2015, 16:28]
+getting CTD during RTW2 logo with new patch, xdelta worked 100% aswell as sfv
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 22 Feb 2015, 16:28]
+
+_________________
+mostly inactive until at least half of july 2025
+
+If any of my uploads are outdated or no longer online , the best way to do is to send me a PM and i will add the title to the next batch
+UPLOADS PAUSED (have all requests in queue for when i am back to being more active)
+
+List of recent games with modern DRMs:(updated 01-Mar-2023) - http://cs.rin.ru/forum/viewtopic.php?f=10&t=68151
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 22 Feb 2015, 16:28]
+prudislav wrote:
+getting CTD during RTW2 logo with new patch, xdelta worked 100%
+
+make sure you remove any old mod and try deleting the AppData\Roaming\The Creative Assembly\Rome2 folder.
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 22 Feb 2015, 16:40]
+oh i see i am dumb today 
+I had the divide et impera mod installed previously and still mentioned in appdata 
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 22 Feb 2015, 16:40]
+
+_________________
+mostly inactive until at least half of july 2025
+
+If any of my uploads are outdated or no longer online , the best way to do is to send me a PM and i will add the title to the next batch
+UPLOADS PAUSED (have all requests in queue for when i am back to being more active)
+
+List of recent games with modern DRMs:(updated 01-Mar-2023) - http://cs.rin.ru/forum/viewtopic.php?f=10&t=68151
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 22 Feb 2015, 16:43]
+prudislav wrote:
+oh i see i am dumb today 
+I had the divide et impera mod installed previously and still mentioned in appdata 
+
+i am glad you figured it out 
+
+enjoy the updated game

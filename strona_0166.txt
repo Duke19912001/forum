@@ -1,0 +1,144 @@
+=========================================
+STRONA 166 (URL: https://cs.rin.ru/forum/viewtopic.php?f=10&t=61441&hilit=rome+2&start=2475)
+=========================================
+
+[Data: Friday, 02 Jan 2015, 01:20]
+@machine4578 hi i need your help, i have legit Total War Rome II with almost complete DLC, only missing Black Sea Colonies Culture Pack (since its still expensive, i'll buy it later) but i want to try it first. Can someone share only that DLC ? and crack only either. plz and thanks before
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 02 Jan 2015, 06:43]
+Use appid_patch! Add appid from the dlc to your packageinfo.vdf, restart steam, done. You dont need extra files!
+
+@vecino398
+
+viewtopic.php?p=991697#p991697 sigh why do i write build numbers if everyone constantly not seeing them!? To prevent such questions. Still people always asking this, why...!?! You need glasses!?
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 02 Jan 2015, 11:59]
+@ShadowDuke wow it works dude, this AppID_Patch.exe can i use it for another game ? and can i get ban from doing this ?
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 02 Jan 2015, 12:19]
+yes u can, as long "dlc" needs no extra files and just a subscription, like all the small dlc for twr2 for example. this wont get you banned, never heard of one but like always with such things, use at your own risk. im doing this since years now.
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 02 Jan 2015, 12:41]
+how about if i inject the extra files from 3DM and use AppID_Patch.exe to unlock game like Shadow of Mordor Lord Of The Hunt DLC ? Does it works ?
+
+SOrry it this OOT but im so curious and since ShadowDuke is here, i need to know
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 02 Jan 2015, 12:53]
+no, like i said not with extra files for the dlc even when you have them...hence there are not so many dlc it works with.
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 02 Jan 2015, 14:41]
+ShadowDuke wrote:
+You need glasses!?
+
+no, sorry for the question...
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 02 Jan 2015, 15:18]
+i want to thank you all for everything you have done for us , fans of RTWII .
+I followed instruction and i managed to update everything from HATG -reloaded to Wrath of Sparta.
+Everything works perfect. 
+
+But i have one question about Assembly kit.
+i know basics about modding , i know how to use Assembly kit and PFM and i was able to mod everything that i wanted.
+only problem is that when i tried to mod new DLC wrath of sparta i couldnt find data in DaVE – the game database editor
+
+i am using Total.War.ROME.II.Assembly.Kit.Update.16 and i noticed that wrath of sparta is 16.1 version ,
+so is there any way to use this version of assembly kit or i have to wait newest version, and will there be any newest version ?
+
+thanks in advance 
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 02 Jan 2015, 15:39]
+Total.War.ROME.II.Assembly.Kit.BETA.for.Update.16.1
+
+Info
+
+
+Code: Select all | Line number On/Off | Expand/Contract
+1) Extract all files to your Rome 2 <root> install dir
+2) Start with /binaries/BOB.AssemblyKit.exe & TWeak.AssemblyKit.exe
+
+
+Download: [165mb] (Zippyshare, Mega)
+
+Zippyshare
+Mega
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 03 Jan 2015, 14:00]
+thanks for fast answer 
+
+-- Edit --
+
+unfortunately after 12 hours of moding and reading trough all database , BOB.AssemblyKit doesnt work.
+after starting it and choosing files , when it tryed to create startpos.esf , instead of running it ,it stop at black screen, and it crashes
+the problem seems to be that BOB.AssemblyKit cant run rome2.exe , there is message of error : Timed out. Couldn't locate launcher and game processes.
+its not my mistake in modding because i try with something simple and still it doesnt work , i even tryed older versions of assembly kit
+and still doesnt work. i dont know where is problem , game runs perfectly without errors so its not launching problems.
+i searched trough net and i find on several places that fixing solution for this problem is to delete some file : steam_appid.txt , i cannot find it because it doesnt exist.
+
+i hope that maybe somebody here know how to fix this.
+
+I would greatly appreciate any help 
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 03 Jan 2015, 21:44]
+can anyone explain how to download sparta dlc i solve captcha and get a message pasword is incorect 
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 05 Jan 2015, 23:44]
+I get a black screen during battles, the sound indicates the battle goes on and I still have the cursor but the screen is completely black. I can access the escape menu and could issue orders. Any solutions?
+
+It happens with the Reloaded as well as the 3DM version.
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 06 Jan 2015, 22:04]
+Hoping someone can help.
+
+I have the HATG - Reloaded release.
+I patched, in the correct order, all the way up to Update 12 - beta to final without issue. After this I used the testni link for Update 13, then when I tried using testni's link for update 14 beta I recieved a xdelta3 mismatch error. Therefore I decided to use the orignal links all the way upto 14 beta and it worked correctly, however the update 14 gamefix link is broken and I used testni's instead. But when I run it it just patches 1/15 and says patching finished. If i attempt to use the next patch in line (update 15 or the update 14 HATG patch) I recieve xdelta mismatch errors again. So I wondering what to do? is it a problem with testni's gamefix link or am i fucking something up?
+
+thanks in advance and great job guys! 
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 07 Jan 2015, 03:11]
+Can someone please upload the language files from patch 16.1. My game is in russian and I can't seem to find any full language files laying around. (e.g. local_en.pack, local_en_rome2.pack)
+Also the encyclopedia if it's not too much trouble.
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 07 Jan 2015, 04:45]
+Hi not sure if anyone can help, scoured the thread and it seems it has been mentioned but no clear fix.
+
+I'm looking to install the latest version of R2:TW GEMFX graphics mod v1.0.6 (I have no other issues with mods etc) but this one is only available via Steam (valid launcher). I have tried the script to allow download directly from the steam workshop page for this mod (the button appears fine - checked in firefox and chrome) but the file will not download, file not found error. I have seen mentioned a few times this could be due to the file size being over 600MB.
+
+But essentially I need the _gem.pack file before I can use the gemlauncher to do it's thing and get the mod to appear in the mod manager. Can anyone help - know a way around this? I cant find any direct downloads for this file anywhere.
+
+I know there is a generic GEMFX version available but the modder has put a lot of work into this version for R2TW and i want it! LOL 
+
+Also if anyone has a valid copy or the file if they could upload it and post link that would also work.
+
+Cheers 
+
+-- Edit --
+
+Side note: tried the launcher 'crack' that's available here and it's somehow broke my game now, get a Rome 2 TW has stopped working in the background and permanent loading screen, don't know if running via steam as opposed to the usual cracked .exe somehow caused this but I did see my other 'working' mods showing in the launcher mod manager, i'll have to do a re install it looks like.

@@ -1,0 +1,115 @@
+=========================================
+STRONA 113 (URL: https://cs.rin.ru/forum/viewtopic.php?f=10&t=61441&hilit=rome+2&start=1680)
+=========================================
+
+[Data: Wednesday, 10 Sep 2014, 00:43]
+Yes, on the main menu. If its a build nr which issnt in my patches than its a different one, if you have pirates you should see the same build and in the next patch theres also written what prev. patch you need.
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 10 Sep 2014, 02:28]
+I must have already done the patch as my build matched the patched 13.1 build/ver number (1.13.1) (11724.548874), From there I followed the list you sent me to on page 1 did the HATG/Gaul update I keep getting an xDelta error 0xc000007b I read the update wasnt necessary so I went ahead to try Patch 14 same error, Iv done this on on both my computers. It also gave me a missing msvcr110.dll error each time befor the problem, I downloaded the file and placed it in the main directory.
+
+Edit-
+
+Is there a download with the patches already applied I continue to run into problems...
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 10 Sep 2014, 02:40]
+msvcr110.dll=install vcredist x86 and x64! You could also google for that error!
+
+Use for patching other xdelta3.exe, browse pages back, machine4578 posted it!
+
+Version up2date, also browse pages back, torrent link there!
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 10 Sep 2014, 02:55]
+ShadowDuke wrote:
+msvcr110.dll=install vcredist x86 and x64! You could also google for that error!
+
+Use for patching other xdelta3.exe, browse pages back, machine4578 posted it!
+
+Version up2date, also browse pages back, torrent link there!
+
+
+Cannot locate Machine's post with the xdelta3, i see a post where he says, "here use this one" But no link...
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 10 Sep 2014, 03:11]
+viewtopic.php?p=939213#p939213
+
+The link is there, its uploaded here!
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 10 Sep 2014, 07:29]
+Meeseeks wrote:
+Alright, I see where the build number is on the post, what should that number match up to know if I have to correct version? Should it match the Rome 2 version/build number thats on the main menu of the game?
+
+yes
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 10 Sep 2014, 17:11]
+@ShadowDuke: (or anyone else) I installed Total War on another PC and updated until "Update.13_1.Hotfix.and.Festivals". I forgot you don't need "Update.13_1_Gaul_and_HATG" and "Update.14_Gaul_and_HATG", but i did start "Update.13_1_Gaul_and_HATG" anyways and of course it failed! I pressed "Y" to restore the previous files, but which files are being restored, my current "Update.13_1.Hotfix.and.Festivals" files right? (just afraid of file change or damage)
+
+Can i just continue with my current "Update.13_1.Hotfix.and.Festivals" and update to "Update.14_beta + gamefix!"?
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 10 Sep 2014, 17:12]
+yes, next update after festivals is 14_beta, as you can see in the OP. ^^
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 10 Sep 2014, 20:21]
+So my files shouldn't be damaged because of my failed "Update.13_1_Gaul_and_HATG" install, right? Thanks, I was afraid i messed things up! 
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 10 Sep 2014, 20:27]
+no, hatg and gaul update only touches gaul.pack and punic.pak
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 10 Sep 2014, 20:44]
+Pfew.. I should know better, I know, but these things make me paranoid. Installing just takes to long for something weird to happen, but fortunately everything went fine. Thanks ShadowDuke, game works great because of all these updates you've uploaded. 
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 10 Sep 2014, 22:54]
+I had the same problem as a previous poster upon updating to version 15.1 beta.
+
+I've used all the previous patches without issue, but for this latest one when I start a new game and try to 'end turn' the program hangs/crashes on me.
+
+Just wanted to post the fix for the issue, which is to delete the entire Rome 2 profile directory.
+
+For me it was located @
+
+C:\Users\*USERNAME*\AppData\Roaming\The Creative Assembly\Rome2
+
+I just deleted everything inside that directory and it is working fine now.
+
+There is probably a way to get it working w/o having to delete everything, but, I took the easy approach.
+
+Thanks for the updates!!!
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 11 Sep 2014, 03:41]
+Mr ShadowDuke, I m confused with this patch "Total.War.ROME.II.Update.14_beta + gamefix! (Beta=Final, nothing changed, fix=typo (1 file))". Must I installed both of them, or just the fixed one? Thanks
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 11 Sep 2014, 04:30]
+both!
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 11 Sep 2014, 11:06]
+ShadowDuke wrote:
+both!
+and u also uploaded "data.rar" in potlocker. what is the function? thanks. I m sorry I ask u more and more, cause I failed on updating rome

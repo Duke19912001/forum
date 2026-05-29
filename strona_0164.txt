@@ -1,0 +1,153 @@
+=========================================
+STRONA 164 (URL: https://cs.rin.ru/forum/viewtopic.php?f=10&t=61441&hilit=rome+2&start=2445)
+=========================================
+
+[Data: Saturday, 27 Dec 2014, 22:11]
+ziodaddy wrote:
+neoiq5719 wrote:
+can u get it from here?
+http://www.twcenter.net/forums/showthre ... sion-1-0-5
+
+
+the generic version only contain the gemfx shader files for general use, it doesnt include the _gem.pack file for the R2 which mod the HDR effect for BM and CM.. i try to use the older ver _gem.pack but i still got HDR effect on some BM especialy from new WOS campaign.
+i need the _gem.pack file from the R2 version from here http://www.twcenter.net/forums/showthread.php?672483-R2-TW-GEMFX-Version-1-0-5 but no external download link.
+
+i tried download it with workshop downloader but always failed.. maybe cuz it size 611MB.. 
+dont have problem downloading smaller size mods.
+
+And the configurator that comes with?
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 28 Dec 2014, 03:58]
+neoiq5719 wrote:
+And the configurator that comes with?
+
+
+the gemfx configurator for both version (generic or R2) are the same, its only UI tools for tuning gemfx and sweetfx shader..
+the _gem.pack file which comes only with the R2 version include the change to ROME 2 weather/enviroment files which control the HDR effect on campaign map and battle maps.
+
+atm im using generic ver 1.0.5 + _gem.pack from v.1.0
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 28 Dec 2014, 16:12]
+Please Turkish language... V.2.2.0
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 28 Dec 2014, 16:52]
+KINGART wrote:
+Please Turkish language... V.2.2.0
+
+all 6 posts of yours are asking for Turkish Lang files  maybe if you contributed to the forum, it give incentive for someone to share. otherwise please stop asking each time the game patches.
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 28 Dec 2014, 16:57]
+ziodaddy wrote:
+neoiq5719 wrote:
+And the configurator that comes with?
+
+
+the gemfx configurator for both version (generic or R2) are the same, its only UI tools for tuning gemfx and sweetfx shader..
+the _gem.pack file which comes only with the R2 version include the change to ROME 2 weather/enviroment files which control the HDR effect on campaign map and battle maps.
+
+atm im using generic ver 1.0.5 + _gem.pack from v.1.0
+
+
+
+Could you put these files for download please ?
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 28 Dec 2014, 20:15]
+hey guys, just joined to ask this
+
+i have a 2.0.0 version, from which patch onwards i have to install? and how do I install them?
+I´ve been looking in google for an answer, I was losing hope lol and found this place 
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 28 Dec 2014, 20:20]
+Check OP. Everything is explained!
+
+Basically its starting with Total.War.ROME.II.Update.15.Hotfix, check the build-nr, then you know!
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 28 Dec 2014, 21:25]
+thanks shadow
+
+but it fails at the installation, says that it cant find the directory, etc. Im placing it in the game folder.
+what do I do?
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 28 Dec 2014, 21:49]
+Just wondering if language packs will be updated to lastest if I dont own two DLC's (Black Sea Colonies Culture and Daughters of Mars Unit)
+
+Just because I want to help a bit in language packs...
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 28 Dec 2014, 21:49]
+
+_________________
+From Mexico with love ^^
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 28 Dec 2014, 22:13]
+figured my problem
+
+thanks for your work shadow
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 28 Dec 2014, 22:25]
+mhcvel wrote:
+Just wondering if language packs will be updated to lastest if I dont own two DLC's (Black Sea Colonies Culture and Daughters of Mars Unit)
+
+Just because I want to help a bit in language packs...
+
+
+Maybe you've missed it but i already said it more than twice that i wont upload any other languages than DE/EN within the update/s.
+
+Maybe some1 else will but i highy doubt it since no other than machine4578 and i were supplying the original ones.
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 28 Dec 2014, 22:49]
+just finished the updating process, now im on 2.2.0
+but when I click to start thr grand campaing the game crashes to the desktop.
+
+any fix or workaround for this?
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 28 Dec 2014, 23:47]
+Check the event viewer in win what dll is causing this, probably rome2.dll. Did you copy all the crack files (+the crack-fix file)?
+
+The problem is def. on your end.
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 29 Dec 2014, 04:22]
+I asked because I own the game on Steam, but I dont have two DLC's (Black Sea and Daughters of Mars).
+
+I can upload languages but I'm wondering if there will be a missing encyclopedia files for ppl with the game provided here (full dlc's)...
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 29 Dec 2014, 04:22]
+
+_________________
+From Mexico with love ^^
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 29 Dec 2014, 04:35]
+I uploaded/updated the latest encyclopedia with the latest update. You dont need DLC for up2date lang files, they're always the same and make no difference if you own a dlc or not.
+
+If you want you can ul and post them in one posting and i'll link it in the OP then.

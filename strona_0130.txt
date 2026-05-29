@@ -1,0 +1,185 @@
+=========================================
+STRONA 130 (URL: https://cs.rin.ru/forum/viewtopic.php?f=10&t=61441&hilit=rome+2&start=1935)
+=========================================
+
+[Data: Friday, 19 Sep 2014, 16:06]
+He´s interested in the 1gb of patch 15 and give him 12gb of the entire game lol
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 19 Sep 2014, 16:21]
+Please Rome II REperor Edition Turkish Language.... 
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 19 Sep 2014, 16:40]
+KINGART wrote:
+Please Rome II REperor Edition Turkish Language.... 
+
+
+viewtopic.php?p=948694#p948694
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 19 Sep 2014, 20:08]
+Yeah, I need just the patch. Has anyone even managed to download it? The transfer is kinda slow and just timeouts after a while for me.
+If someone has, can you reupload it?
+
+@ShadowDuke
+
+I see that you have... care to reupload?
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 19 Sep 2014, 20:41]
+I got it when he uploaded it, first time it didnt work but the second time was alright
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 20 Sep 2014, 03:10]
+amberlamps wrote:
+Yeah, I need just the patch. Has anyone even managed to download it? The transfer is kinda slow and just timeouts after a while for me.
+If someone has, can you reupload it?
+
+@ShadowDuke
+
+I see that you have... care to reupload?
+
+
+Got the same problem... I even tried it on different browsers (google chrome, opera, windows browser) but still no luck...
+
+@ShadowDuke - thank you for all the time & effort you have made for us... 
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 20 Sep 2014, 04:37]
+Use dl-manager dunno, the link is fine and i get 8mb/sec. And for others working, too. Im away this weekend so i def. cant upload it anywhere else.
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 20 Sep 2014, 05:17]
+jaegermyke wrote:
+amberlamps wrote:
+Yeah, I need just the patch. Has anyone even managed to download it? The transfer is kinda slow and just timeouts after a while for me.
+If someone has, can you reupload it?
+
+@ShadowDuke
+
+I see that you have... care to reupload?
+
+
+Got the same problem... I even tried it on different browsers (google chrome, opera, windows browser) but still no luck...
+
+@ShadowDuke - thank you for all the time & effort you have made for us... 
+
+
+try dl using dl manager (i use IDM) + ssh tuneling.. works perfect for me..
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 20 Sep 2014, 07:47]
+amberlamps wrote:
+Yeah, I need just the patch. Has anyone even managed to download it? The transfer is kinda slow and just timeouts after a while for me.
+If someone has, can you reupload it?
+
+@ShadowDuke
+
+I see that you have... care to reupload?
+
+here try this:
+http://speedy.sh/dRckw/Total.War.ROME.I ... .part1.exe
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 20 Sep 2014, 11:51]
+ziodaddy wrote:
+try dl using dl manager (i use IDM) + ssh tuneling.. works perfect for me..
+
+
+Thanks. I didn't think about that for some reason. Works great. I'm downloading it at 3 MB/s right now but what is ssh tunneling? I didn't turn it on, just did a regular download.
+
+
+neoiq5719 wrote:
+here try this:
+http://speedy.sh/dRckw/Total.War.ROME.I ... .part1.exe
+
+
+The Limited download in my browser was slow as hell, it would have takek like 10 hours to finish. Thanks for the effort though, mate.
+
+-- Edit --
+
+Well, fuck me, I updated everything correctly and game crashes on entering custom battles. The new campaign is not showing either. Downloading the full RLD release then...
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 20 Sep 2014, 13:02]
+amberlamps wrote:
+ziodaddy wrote:
+try dl using dl manager (i use IDM) + ssh tuneling.. works perfect for me..
+
+
+Thanks. I didn't think about that for some reason. Works great. I'm downloading it at 3 MB/s right now but what is ssh tunneling? I didn't turn it on, just did a regular download.
+
+
+neoiq5719 wrote:
+here try this:
+http://speedy.sh/dRckw/Total.War.ROME.I ... .part1.exe
+
+
+The Limited download in my browser was slow as hell, it would have takek like 10 hours to finish. Thanks for the effort though, mate.
+
+-- Edit --
+
+Well, fuck me, I updated everything correctly and game crashes on entering custom battles. The new campaign is not showing either. Downloading the full RLD release then...
+
+
+try deleting Rome2 folder in c:user/<your name>/appdata/roaming/the creative assembly ... then run ur game..
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 20 Sep 2014, 14:02]
+Didn't help.
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 20 Sep 2014, 14:33]
+ShadowDuke wrote:
+Total.War.ROME.II.Update.15.encyclopedia.and.language.files (16.09.2014)
+
+Italian: http://www5.zippyshare.com/v/39248700/file.html
+
+
+Link is offline. Can you reupload please? 
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 20 Sep 2014, 15:24]
+ziodaddy wrote:
+jaegermyke wrote:
+amberlamps wrote:
+Yeah, I need just the patch. Has anyone even managed to download it? The transfer is kinda slow and just timeouts after a while for me.
+If someone has, can you reupload it?
+
+@ShadowDuke
+
+I see that you have... care to reupload?
+
+
+Got the same problem... I even tried it on different browsers (google chrome, opera, windows browser) but still no luck...
+
+@ShadowDuke - thank you for all the time & effort you have made for us... 
+
+
+try dl using dl manager (i use IDM) + ssh tuneling.. works perfect for me..
+
+
+thanks for the heads up...  it works for me, just played the game for two hours plus i downloaded radious mod
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 20 Sep 2014, 16:40]
+Did anyone experience a bug in Alesia Historical battle ?
+
+like the gauls don't fire the barricades anymore and stand before them ...
+
+even winning the battle , the game stays without declaring winner

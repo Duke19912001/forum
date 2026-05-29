@@ -1,0 +1,272 @@
+=========================================
+STRONA 122 (URL: https://cs.rin.ru/forum/viewtopic.php?f=10&t=61441&hilit=rome+2&start=1815)
+=========================================
+
+[Data: Wednesday, 17 Sep 2014, 14:15]
+G4U55 wrote:
+prudislav wrote:
+finally after 8 hours of patching i am up to date now  Now the wait for language packs 
+
+
+Can you make a sfv file for me ?
+
+here you go (hopefully i have it updated properly )
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 17 Sep 2014, 14:15]
+
+_________________
+mostly inactive until at least half of july 2025
+
+If any of my uploads are outdated or no longer online , the best way to do is to send me a PM and i will add the title to the next batch
+UPLOADS PAUSED (have all requests in queue for when i am back to being more active)
+
+List of recent games with modern DRMs:(updated 01-Mar-2023) - http://cs.rin.ru/forum/viewtopic.php?f=10&t=68151
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 17 Sep 2014, 14:44]
+pls polish files 
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 17 Sep 2014, 14:50]
+Appreciated again, thanks.
+
+As for the rest, wtf one guys whinging the game wont start cause of the fucked up patches, then it turns out its his mistake, another guy has same problem we`ve all had forever and a day but cant read a page or two to find the answer, another guy rants cause of frustration at a frustrated rant.
+This dosnt work that dosnt work why wont this why wont that, oh sorry it was a problem at my end i missed a bit, i forgot this forgot that, lke a bunch of bitter old women plenty of chat about the bad never a good word to say!
+
+Its easy just download a new pack after every patch then you dont need to look here and wont have all these errors will you. Or will you?
+
+Keep going or stop SD its your call, its appreciated here!
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 17 Sep 2014, 14:50]
+prudislav wrote:
+G4U55 wrote:
+prudislav wrote:
+finally after 8 hours of patching i am up to date now  Now the wait for language packs 
+
+
+Can you make a sfv file for me ?
+
+here you go (hopefully i have it updated properly )
+
+
+Thanks. I have more than 3000 bad files 
+
+@ ShadowDuke can you make a .sfv files for us ? So we will check all files. thanks 
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 17 Sep 2014, 15:15]
+i have a problem
+
+installed Rome 2 GoTy RAF
+
+applied all updates in the correct order and the game crashes right after start
+
+
+Quote:
+Problemereignisname: APPCRASH
+Anwendungsname: Rome2.exe
+Anwendungsversion: 2.0.0.0
+Anwendungszeitstempel: 54172ac9
+Fehlermodulname: Rome2.dll
+Fehlermodulversion: 2.0.0.0
+Fehlermodulzeitstempel: 54172a4d
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 17 Sep 2014, 15:45]
+RAZORLIGHT wrote:
+i have a problem
+
+installed Rome 2 GoTy RAF
+
+applied all updates in the correct order and the game crashes right after start
+
+
+ Spoiler
+Quote:
+Problemereignisname: APPCRASH
+Anwendungsname: Rome2.exe
+Anwendungsversion: 2.0.0.0
+Anwendungszeitstempel: 54172ac9
+Fehlermodulname: Rome2.dll
+Fehlermodulversion: 2.0.0.0
+Fehlermodulzeitstempel: 54172a4d
+
+make sure you remove all mods and also try to delete the AppData\Roaming\The Creative Assembly\Rome2 folder..(make a backup before deleting just in case!!)
+
+@G4U55
+here is my .sfv(from my legit game)... it seems prudislav has many bad files in his encyclopedia!
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 17 Sep 2014, 15:56]
+machine4578 wrote:
+make sure you remove all mods and also try to delete the AppData\Roaming\The Creative Assembly\Rome2 folder..(make a backup before deleting just in case!!)
+
+
+
+worked, thanks!
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 17 Sep 2014, 15:56]
+machine4578 wrote:
+@G4U55
+here is my .sfv(from my legit game)... it seems prudislav has many bad files in his encyclopedia!
+
+
+Thanks machine... so I don't have bad files now .
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 17 Sep 2014, 16:09]
+@machine4578
+With your .sfv file i have a lot of bad/missing files from encyclopedia folder.
+And manifest.txt.
+I don't know is that important or not?
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 17 Sep 2014, 16:09]
+
+_________________
+List of some Computer games CLICK ME
+
+  
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 17 Sep 2014, 16:15]
+RezMar wrote:
+@machine4578
+With your .sfv file i have a lot of bad/missing files from encyclopedia folder.
+And manifest.txt.
+I don't know is that important or not?
+
+here is my complete encyclopedia and mainfest.txt file from the data folder.
+http://www2.zippyshare.com/v/88469191/file.html
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 17 Sep 2014, 16:49]
+thx machine
+i guess those encyclopedia bad files are english ones for HATG and Gaul
+
+now i only need CZ files and CZ encyclopedia
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 17 Sep 2014, 16:49]
+
+_________________
+mostly inactive until at least half of july 2025
+
+If any of my uploads are outdated or no longer online , the best way to do is to send me a PM and i will add the title to the next batch
+UPLOADS PAUSED (have all requests in queue for when i am back to being more active)
+
+List of recent games with modern DRMs:(updated 01-Mar-2023) - http://cs.rin.ru/forum/viewtopic.php?f=10&t=68151
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 17 Sep 2014, 17:49]
+Please help me. I have Rome 2 14.1 version. Tell me what the first sequence to download?
+
+Do I first download and install:
+
+1. Total.War.ROME.II.Update.15.beta
+2. Total.War.ROME.II.Assembly.Kit.BETA.15 (01.09.2014) - did I need this?
+3. Total.War.ROME.II.Update.15.beta_to_final_Emperor_Edition
+4. Total.War.ROME.II.Update.15.beta_to_final_Emperor_Edition.FiX
+5. Total.War.ROME.II.Assembly.Kit.BETA.for.Update.15.final.Emperor
+6 . Total.War.ROME.II.Update.15.Gaul_and_HATG_Update
+
+
+Is this the right order???
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 17 Sep 2014, 18:24]
+wavetw wrote:
+Please help me. I have Rome 2 14.1 version. Tell me what the first sequence to download?
+
+Do I first download and install:
+
+1. Total.War.ROME.II.Update.15.beta
+2. Total.War.ROME.II.Assembly.Kit.BETA.15 (01.09.2014) - did I need this?
+3. Total.War.ROME.II.Update.15.beta_to_final_Emperor_Edition
+4. Total.War.ROME.II.Update.15.beta_to_final_Emperor_Edition.FiX
+5. Total.War.ROME.II.Assembly.Kit.BETA.for.Update.15.final.Emperor
+6 . Total.War.ROME.II.Update.15.Gaul_and_HATG_Update
+
+
+Is this the right order???
+
+
+Download "Total.War.ROME.II.Update.15.encyclopedia.and.language.files" before than "6." .
+
+viewtopic.php?f=10&t=61441&start=1755
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 17 Sep 2014, 18:38]
+G4U55 wrote:
+wavetw wrote:
+Please help me. I have Rome 2 14.1 version. Tell me what the first sequence to download?
+
+Do I first download and install:
+
+1. Total.War.ROME.II.Update.15.beta
+2. Total.War.ROME.II.Assembly.Kit.BETA.15 (01.09.2014) - did I need this?
+3. Total.War.ROME.II.Update.15.beta_to_final_Emperor_Edition
+4. Total.War.ROME.II.Update.15.beta_to_final_Emperor_Edition.FiX
+5. Total.War.ROME.II.Assembly.Kit.BETA.for.Update.15.final.Emperor
+6 . Total.War.ROME.II.Update.15.Gaul_and_HATG_Update
+
+
+Is this the right order???
+
+
+Download "Total.War.ROME.II.Update.15.encyclopedia.and.language.files" before than "6." .
+
+viewtopic.php?f=10&t=61441&start=1755
+
+
+
+
+THX a lot 
+
+When i start download "Total.War.ROME.II.Update.15.beta_to_final_Emperor_Edition" 1GB I just can download 75MB. Why??? 
+
+
+P.S. I have problem when I try to install first update(Total.War.ROME.II.Update.15.beta). I extract 1st file with [30mb] and 2 file with (188mb) and open Start TWR2_UP15_beta.bat. But it show me an error:
+
+Total.War.ROME.II.Update.15.beta_to_final_Emperor_Edition.part1.exe
+Checksum error in patch.exe
+Unexpected end of archive
+Packed data checksum error in patch.exe
+Extracting from Total.War.ROME.II.Update.15.beta_to_final_Emperor_Edition.part2.rar
+Unexpected end of archive
+
+
+What to dooo? (
+Is there one big update that update game from 14.1 to the last patch?
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 17 Sep 2014, 18:49]
+wavetw wrote:
+THX a lot 
+
+When i start download "Total.War.ROME.II.Update.15.beta_to_final_Emperor_Edition" 1GB I just can download 75MB. Why??? 
+
+
+Try to download using your browser.
+
+EDIT: Total.War.ROME.II.Emperor.Edition-RELOADED

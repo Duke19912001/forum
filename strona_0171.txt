@@ -1,0 +1,155 @@
+=========================================
+STRONA 171 (URL: https://cs.rin.ru/forum/viewtopic.php?f=10&t=61441&hilit=rome+2&start=2550)
+=========================================
+
+[Data: Thursday, 12 Feb 2015, 05:20]
+UchihaKuriso wrote:
+Try the files I posted a few posts back (on 169 I think). You'll see the green 3DM torrent text, that's the post. It'll work for multiplayer battles, and for multiplayer campaign use the workaround I posted a couple posts back.
+
+
+Hey, me and a friend installed 3DMGAME-Total.War.ROME.II.Emperor.Edition.v2.0.0.Incl.DLC.Cracked-3DM torrent and put in the rar that you linked and multiplayer works fine campaign and all ; but when we finish and save, then with resume as host it places the host as a random faction and places me as the faction that the host played as. Then it crashes , so we cant play any save games or resume. Does the host need the Reloaded emperors edition or both the 3dm and reloaded one?
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 12 Feb 2015, 11:29]
+How would one make mods from Steam Workshop Downloader work. The rome 2 mod manager does not detect the mods
+
+-- Edit --
+
+How would one make mods from Steam Workshop Downloader work. The rome 2 mod manager does not detect the mods
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 12 Feb 2015, 12:29]
+@ultradudeman:
+
+
+Quote:
+*by Igec35*
+There is a solution for steam mods. Just follow these steps:
+
+1. First you use downloader(http://steamworkshopdownloader.com).
+2. Download wanted mod from steam workshop and name it ->name of the mod(whatever you want)<-.pack.File must have .pack extension.
+3. Open mod with hexa editor and you'll find bytes PFH4. Delete all first bytes untill PFH4. It is important to make sure PFH4 is the very start of your new moded file.
+4. Save it and put it to your RTW2 data folder.
+5. Use user.script to activate the mod and play it.
+
+Cheers. 
+
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 12 Feb 2015, 14:04]
+Can somebody please post here the DLCs Ceasar, Hannibal, Nomadic tribes and Sparta for the latest version?
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 12 Feb 2015, 20:58]
+If i'm not totaly wrong, there is a free weekend for Rome 2 Emperor Edition. I don't know if Sparta DLC is included in the free weekend offer.
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 12 Feb 2015, 21:13]
+the free weekend might be he way to get language packs
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 12 Feb 2015, 21:13]
+
+_________________
+mostly inactive until at least half of july 2025
+
+If any of my uploads are outdated or no longer online , the best way to do is to send me a PM and i will add the title to the next batch
+UPLOADS PAUSED (have all requests in queue for when i am back to being more active)
+
+List of recent games with modern DRMs:(updated 01-Mar-2023) - http://cs.rin.ru/forum/viewtopic.php?f=10&t=68151
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 13 Feb 2015, 14:21]
+lordfool wrote:
+UchihaKuriso wrote:
+Try the files I posted a few posts back (on 169 I think). You'll see the green 3DM torrent text, that's the post. It'll work for multiplayer battles, and for multiplayer campaign use the workaround I posted a couple posts back.
+
+
+Hey, me and a friend installed 3DMGAME-Total.War.ROME.II.Emperor.Edition.v2.0.0.Incl.DLC.Cracked-3DM torrent and put in the rar that you linked and multiplayer works fine campaign and all ; but when we finish and save, then with resume as host it places the host as a random faction and places me as the faction that the host played as. Then it crashes , so we cant play any save games or resume. Does the host need the Reloaded emperors edition or both the 3dm and reloaded one?
+
+
+You must have missed my previous post. Here I'll copy paste it. 
+
+
+Quote:
+Ok we got it completely working. For the host use the files I posted earlier. And for the client use the original files from 3DM version. The client wont be able to host but he'll be able to join and no more loading as the same faction. Everything works great. We're at turn 150 or something.
+
+
+So pretty much just use the files on the host. The one joining should keep the original 3DM files. 
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 13 Feb 2015, 14:57]
+knabberfee wrote:
+If i'm not totaly wrong, there is a free weekend for Rome 2 Emperor Edition. I don't know if Sparta DLC is included in the free weekend offer.
+
+
+No, only baktria faction and seleucid empire faction are included. So this weekend doesn't help me.
+
+
+Com_j_b_007 wrote:
+Can somebody please post here the DLCs Ceasar, Hannibal, Nomadic tribes and Sparta for the latest version?
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 13 Feb 2015, 16:10]
+At least the free weekend version includes full langueages for all DLCs
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 13 Feb 2015, 23:52]
+fatalerror1 wrote:
+At least the free weekend version includes full langueages for all DLCs
+
+
+Yes, but only the language files. I need the fresh DLC (language doesn't matter first) and I haven't found this here yet, so please upload!
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 14 Feb 2015, 14:14]
+fatalerror1 wrote:
+At least the free weekend version includes full langueages for all DLCs
+
+
+Yes!! I'm happy. Update files...
+data_rome2.pack
+models_rome2.pack
+languages and encyclopedia
+
+very good news!! ty.
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 15 Feb 2015, 03:54]
+Can someone give me the gem.pack of the latest version? 1.0.7
+Steam workshop downloader is shitting itself for me if I try it.
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 15 Feb 2015, 15:58]
+@Com_j_b_007:
+
+Are those nomadic.pack, gaul.pack, punic.pack, greeks.pack + those folders under "campaigns" folder?
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 16 Feb 2015, 12:57]
+testni wrote:
+@Com_j_b_007:
+
+Are those nomadic.pack, gaul.pack, punic.pack, greeks.pack + those folders under "campaigns" folder?
+
+
+Yes, they are, but in steam preferences it still says "not installed". Can anybody help me, please?
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 16 Feb 2015, 15:16]
+Did anyone figure out why the Total.War.ROME.II.Emperor.Edition.Update.v2.2.0.Incl.DLC-RELOADED crashes when you click on Grand Campaign ?

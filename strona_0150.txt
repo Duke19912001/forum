@@ -1,0 +1,117 @@
+=========================================
+STRONA 150 (URL: https://cs.rin.ru/forum/viewtopic.php?f=10&t=61441&hilit=rome+2&start=2235)
+=========================================
+
+[Data: Tuesday, 02 Dec 2014, 17:21]
+Pls up polish files for patch 16
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 02 Dec 2014, 17:37]
+ShadowDuke wrote:
+local_en.pack issnt updated since vanilla.
+
+
+ok
+how about the 2 others ?
+and the en folder
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 02 Dec 2014, 18:35]
+ShadowDuke wrote:
+http://steamworkshopdownloader.com/
+
+Mod manager doesnt recognize them am i doing something wrong.
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 02 Dec 2014, 19:04]
+No problems tested a few times.
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 02 Dec 2014, 19:18]
+Do i just download the file and put it in data folder or do i need to modify it with a program gw tool or something sorry for the stupid questions
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 02 Dec 2014, 19:26]
+Put in \data\ and enable with the mod manager.
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 02 Dec 2014, 19:27]
+They are not showing i dont know what it is thank you for your help anyway
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 02 Dec 2014, 19:56]
+From a previous post by Igec35:
+
+There is a solution for steam mods. Just follow these steps:
+
+1. First you use downloader(http://steamworkshopdownloader.com).
+2. Download wanted mod from steam workshop and name it ->name of the mod(whatever you want)<-.pack.File must have .pack extension.
+3. Open mod with hexa editor and you'll find bytes PFH4. Delete all first bytes untill PFH4. It is important to make sure PFH4 is the very start of your new moded file.
+4. Save it and put it to your RTW2 data folder.
+5. Use user.script to activate the mod and play it.
+
+It really works 
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 02 Dec 2014, 20:07]
+It worked thank you soooooo much 
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 03 Dec 2014, 07:13]
+Can someone please Upload a .rar of the English files for this version v2.1.0.15239
+
+that is :
+
+music_en_rome2.pack
+local_en_rome2.pack
+local_en.pack
+
+and in encyclopedia the folder : en
+data\encyclopedia\en
+
+thanks
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 03 Dec 2014, 11:50]
+I'm bit of a latecomer here hehe.....does anyone have patch 11 hotfix? I cant seem to find any working links at all  halp pls 
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 03 Dec 2014, 13:32]
+@tanauser
+Please don't spam your request a third time, two times exactly the same post on two pages succeeding each other is more than enough...
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 03 Dec 2014, 13:32]
+
+_________________
+
+
+The standard password is cs.rin.ru
+Please read the Forum Rules and the F.A.Q.
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 03 Dec 2014, 14:20]
+ok will wait 3 pages next 
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 03 Dec 2014, 14:56]
+THere´s a patch 16 hotfix out
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 03 Dec 2014, 15:31]
+Read the thread (last page) = answer.

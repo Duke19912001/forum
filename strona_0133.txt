@@ -1,0 +1,232 @@
+=========================================
+STRONA 133 (URL: https://cs.rin.ru/forum/viewtopic.php?f=10&t=61441&hilit=rome+2&start=1980)
+=========================================
+
+[Data: Monday, 22 Sep 2014, 21:45]
+The_Exile wrote:
+neoiq5719 wrote:
+The_Exile wrote:
+
+Installed that 1.1 for a very old game.
+
+Can it really be an LumaEmu issue? Is there a release that uses something else than ?
+
+Or perhaps a memory issue? clock timings?
+Can you screenshot your clock timings? I will adjust mine like it if it differs and try
+
+How do u get that?
+
+
+Using CPU-Z and memory tab 
+
+This?
+[ img ]
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 23 Sep 2014, 14:31]
+Yes yes Thanks. My Fsb Dram is a little will try to make it same as yours then try.
+Otherwise i cannot play this game even if i get the thing from steam it self.
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 23 Sep 2014, 17:16]
+The_Exile why not try Rome 2 EE - RELOADED's crack (ShadowDuke files (but not the crack, so you dont have to redownload everything) + Reloaded's crack)? Just to see if it makes a difference.
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 23 Sep 2014, 17:21]
+i hate to be so boring and insistent, but...the patch15 eng lang link??
+
+  
+
+maybe someone else, other than ShadowDuke, could ul it for me. Without leaving to him all the job!
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 23 Sep 2014, 17:36]
+Dear all, I have an issue with update 14.1:
+
+
+
+(Applying patch to local_en_rome2.pack (3/18))
+(xdelta3: source file too short: XD3_Invalid_Input)
+
+My version of the game is Reloaded English, I have installed all the updates until "Update 14 Gaul and HATG" included, without any "xd3 invalid input" error.
+
+I noticed that I can start the game updated to 14.1 even with this error, but the next patch, "update 15 beta" clearly break the game, and crash at startup.
+
+Please note that I met the requirements for update 14.1, as I installed "Update.14.beta (incl. Crackfix and Gamefix) and "Update.14_Gaul_and_HATG_Update", but impossible to install 14.1 without this error.
+
+Many thanks in advance for your help !
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 23 Sep 2014, 17:42]
+testni wrote:
+The_Exile why not try Rome 2 EE - RELOADED's crack (ShadowDuke files (but not the crack, so you dont have to redownload everything) + Reloaded's crack)? Just to see if it makes a difference.
+
+
+Oh just reloaded crack? i tried that.
+That crack has no rome2.exe file just rome2.dll and steamapi.dll
+When i the game it still uses LumaEmu_Ceg. So the same error pops up.
+Or am i supposed to delete the LumaEmu files for reloaded's?
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 23 Sep 2014, 17:56]
+Johan741 wrote:
+Dear all, I have an issue with update 14.1:
+
+
+
+(Applying patch to local_en_rome2.pack (3/18))
+(xdelta3: source file too short: XD3_Invalid_Input)
+
+My version of the game is Reloaded English, I have installed all the updates until "Update 14 Gaul and HATG" included, without any "xd3 invalid input" error.
+
+I noticed that I can start the game updated to 14.1 even with this error, but the next patch, "update 15 beta" clearly break the game, and crash at startup.
+
+Please note that I met the requirements for update 14.1, as I installed "Update.14.beta (incl. Crackfix and Gamefix) and "Update.14_Gaul_and_HATG_Update", but impossible to install 14.1 without this error.
+
+Many thanks in advance for your help !
+
+
+It doesnt matter anyway, cos you only need the latest local_en_rome2.pack! The full file, not just an update..
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 23 Sep 2014, 19:23]
+The_Exile:
+
+Yes, you should delete LumaEmu_CEG.dll, LumaCEG.ini, ALI213.ini, Rome2.dll, steam_api.dll. Then copy/paste Reloaded's crack and see if it works.
+
+The problem with the version you downloaded is that is doesnt say what exactly is installed (since its probably from this site, you cant know if the guy that made the repack included all fixes Shadowduke posted).
+
+A word of advice: if all else fails, redownload the game, but this time download either Total.War.ROME.II.Emperor.Edition-RELOADED (type this into piratebay, cant miss it -> i would recommend this option), or download the game (Total.War.ROME.II.Hannibal.at.the.Gates-RELOADED) + all updates from the opening post on this site (but still use Reloaded's rome 2 EE crack to avoid using LumaEmu). Both sources are complete and tested full versions.
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 23 Sep 2014, 19:46]
+ShadowDuke wrote:
+Johan741 wrote:
+Dear all, I have an issue with update 14.1:
+
+
+
+(Applying patch to local_en_rome2.pack (3/18))
+(xdelta3: source file too short: XD3_Invalid_Input)
+
+My version of the game is Reloaded English, I have installed all the updates until "Update 14 Gaul and HATG" included, without any "xd3 invalid input" error.
+
+I noticed that I can start the game updated to 14.1 even with this error, but the next patch, "update 15 beta" clearly break the game, and crash at startup.
+
+Please note that I met the requirements for update 14.1, as I installed "Update.14.beta (incl. Crackfix and Gamefix) and "Update.14_Gaul_and_HATG_Update", but impossible to install 14.1 without this error.
+
+Many thanks in advance for your help !
+
+
+It doesnt matter anyway, cos you only need the latest local_en_rome2.pack! The full file, not just an update..
+
+
+
+I see, thank you, so do you mean that I need the local_en_rome2.pack from Emperor ? Do you know where I can find it ?
+
+Thanks again
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 23 Sep 2014, 20:31]
+johan741
+
+i would say that you need to copy/paste eng language files for update 14 beta from this post (viewtopic.php?p=933079#p933079) before running patch 14.1 to avoid your xd3_invalid_input error.
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 23 Sep 2014, 21:12]
+testni wrote:
+The_Exile:
+
+Yes, you should delete LumaEmu_CEG.dll, LumaCEG.ini, ALI213.ini, Rome2.dll, steam_api.dll. Then copy/paste Reloaded's crack and see if it works.
+
+The problem with the version you downloaded is that is doesnt say what exactly is installed (since its probably from this site, you cant know if the guy that made the repack included all fixes Shadowduke posted).
+
+A word of advice: if all else fails, redownload the game, but this time download either Total.War.ROME.II.Emperor.Edition-RELOADED (type this into piratebay, cant miss it -> i would recommend this option), or download the game (Total.War.ROME.II.Hannibal.at.the.Gates-RELOADED) + all updates from the opening post on this site (but still use Reloaded's rome 2 EE crack to avoid using LumaEmu). Both sources are complete and tested full versions.
+
+
+Alright i tried deleting all those files and copied Reloaded's crack, Now the rome2.exe says it cant find the LumaEmu_ceg.dll i guess the exe was build on dependence of the .dll file.
+Can you or anyone else give me the .exe in reloaded's release?
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 23 Sep 2014, 21:53]
+The_Exile wrote:
+testni wrote:
+The_Exile:
+
+Yes, you should delete LumaEmu_CEG.dll, LumaCEG.ini, ALI213.ini, Rome2.dll, steam_api.dll. Then copy/paste Reloaded's crack and see if it works.
+
+The problem with the version you downloaded is that is doesnt say what exactly is installed (since its probably from this site, you cant know if the guy that made the repack included all fixes Shadowduke posted).
+
+A word of advice: if all else fails, redownload the game, but this time download either Total.War.ROME.II.Emperor.Edition-RELOADED (type this into piratebay, cant miss it -> i would recommend this option), or download the game (Total.War.ROME.II.Hannibal.at.the.Gates-RELOADED) + all updates from the opening post on this site (but still use Reloaded's rome 2 EE crack to avoid using LumaEmu). Both sources are complete and tested full versions.
+
+
+Alright i tried deleting all those files and copied Reloaded's crack, Now the rome2.exe says it cant find the LumaEmu_ceg.dll i guess the exe was build on dependence of the .dll file.
+Can you or anyone else give me the .exe in reloaded's release?
+
+You already have it in the one u downloaded. The release is reloaded and the updates are from shadowduke. It works for everyone else except u so the culprit is not from any of the files in the rar since they work for everyone else.
+http://speedy.sh/prRae/Rome2.exe
+By the way I installed the stupid Nvidia experience 2.1 and it was giving me an error at launch, I got rid of it and back to normal with no problem. Try uninstalling that one only just to try something new.
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 23 Sep 2014, 22:14]
+The_Exile wrote:
+Alright i tried deleting all those files and copied Reloaded's crack, Now the rome2.exe says it cant find the LumaEmu_ceg.dll i guess the exe was build on dependence of the .dll file.
+Can you or anyone else give me the .exe in reloaded's release?
+
+You also need the untouched binkw32.dll. It was posted some pages before:
+
+download/file.php?id=19064
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 23 Sep 2014, 22:40]
+neoiq5719 wrote:
+You already have it in the one u downloaded. The release is reloaded and the updates are from shadowduke. It works for everyone else except u so the culprit is not from any of the files in the rar since they work for everyone else.
+http://speedy.sh/prRae/Rome2.exe
+By the way I installed the stupid Nvidia experience 2.1 and it was giving me an error at launch, I got rid of it and back to normal with no problem. Try uninstalling that one only just to try something new.
+
+
+
+azikker wrote:
+The_Exile wrote:
+
+You also need the untouched binkw32.dll. It was posted some pages before:
+
+download/file.php?id=19064
+
+
+Bless you guys. Thanks alot mates for helping and sticking with me.
+May you guys/gals(if any) have a cherished happy life 
+
+it finally worked and i quickly checked a prologue it loaded no errors no nothing.
+
+@neoiq5719: When ever i used the one from release it gave the same error so i guess i need a new one? @azikker And untouched bink32, thanks for that.
+LumaEmu doesnt work with my ram settings definitely, is there a way for me to tell the dev ? Submit log or something?
+
+Thanks Alot mates.
+
+-- Edit --
+
+I thought i was destined to play Warhammer mark of chaos for the similar experience just with added magic.
+Finally it worked.
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 23 Sep 2014, 22:48]
+since your game is not legit sending something to the devs would require some subtle lying, dont u think so? lol
+So in the end how did u fix it?
+
+
+Just another satified costumer lol

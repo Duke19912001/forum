@@ -1,0 +1,208 @@
+=========================================
+STRONA 183 (URL: https://cs.rin.ru/forum/viewtopic.php?f=10&t=61441&hilit=rome+2&start=2730)
+=========================================
+
+[Data: Thursday, 21 May 2015, 15:22]
+The password is written there, wtf...
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 26 May 2015, 13:45]
+Hey guys! I have a problem running a mod on Rome 2. here are my details, step by step of what I did:
+
+1) I downloaded this version of R2:TW (Emperor Edition) https://thepiratebay.la/torrent/1119462 ... .Mechanics
+
+2) Installed it, played for a while, no problems.
+
+3) Now I want to install the Divide et Impera mod, here: http://www.twcenter.net/forums/showthread.php?666607
+
+4) Downloaded it, placed it in my "data" folder in the game's directory.
+
+5) Used Mitch's mod manager: http://www.twcenter.net/forums/showthre ... d-25-04-14
+
+6) Followed the instructions, and pressed 'Launch'.
+
+7) Reaches the splash screen, then it crashes, the usual "It stopped working" crash.
+
+8 ) Disabled the mod, trying launching the game again...
+
+9) It gives me the same crash, even with the mod disabled!! Now even Vanilla Rome 2 stopped working!
+
+10) So I try to see what the problem is, after some detective work, I end up in the 'roaming' folder
+
+11) I try deleting the user.script txt file, since it wasn't there before I tried installing the mod.
+
+12) Voila! Vanilla Rome 2 works again!
+
+
+But I couldn't get the mod to work...  
+I assume the reason is the user.script txt file, since when I deleted it the game worked again.
+
+Can somebody help me with this? Please? (Also, sorry for the long post, I made it step-by-step to avoid confusing people, but I may have done the opposite)
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 26 May 2015, 15:39]
+@TangoMikami
+
+I think the reason that the mod doesnt work is because your version of R2:EE is out of date. On the link to the game you provided, it says that the game is version v2.0.0 Build 13903.584483, which got released around 16. September 2014 (check the opening post in this thread, look for "Total.War.ROME.II.Update.15_beta_to_final + gamefix! (Emperor Edition)".
+
+Now the last version of Divide et Impera - 1.04a (from your link) was released on 7. February 2015.
+
+What i would recommend doing is to download the following patches from opening post:
+
+Quote:
+Total.War.ROME.II.Update.15_Gaul_and_HATG_Update (Emperor Edition with Gaul and Hannibal DLC!) - you can probably skip this one, because you already probably have it
+Total.War.ROME.II.Update.15.Hotfix
+Total.War.ROME.II.Update.15_Hotfix_Gaul_and_HATG_Update
+
+Total.War.ROME.II.Update.15.Hotfix.Proper.Crack
+Total.War.ROME.II.Update.16.Black.Sea.Colonies.Culture.Pack
+Total.War.ROME.II.Update.16_Gaul_and_HATG_Update
+
+Total.War.ROME.II.Update.16.1.Wrath.of.Sparta (gaul and hatg update included!)
+Total.War.ROME.II.Update.16.1.Wrath.of.Sparta.Crackfix (newest ceg-plugin from steam006 breaks the game, heres the old one!)
+
+Total.War.ROME.II.Update.v2.2.0.15539-v2.2.0.15666 (thx machine4578)
+
+
+
+After that you will have the latest version of the game. Try using the mod again and see if it works then.
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 26 May 2015, 19:04]
+I downloaded and installed all the patches you specified, but the problem still persists (Crash at splash screen), what's more, it appears the patches corrupted my game as the game crashes when I click on Custom Battle in Vanilla R2:TW. 
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 26 May 2015, 21:12]
+For splash screen crash try this:
+
+Quote:
+Delete your Rome II Roaming folder and it should work after.
+
+C:\Users\WhateverYourPCNameIs\AppData\Roaming\The Creative Assembly
+
+^Substitute the WhateverYourPCNameIs with your PC name.
+
+
+As for the crash at custom battles, i dont know. You can post a sfv file so we see if you have any corrupted files, or better yet i'll post one later so you can check yourself (here: http://www69.zippyshare.com/v/oLAlMn3u/file.html)
+
+Also, i'll post the steam version of the mod, so you can see if perhaps that one will work.
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 27 May 2015, 11:46]
+I re-installed the Vanilla game so I can't post a SFV file (I don't even know what that is ).
+
+So I wanted to make sure if the mod didn't work because of the out-of-date version of R2:TW I had, so I went to download an old mod, specifically a mod dating back to mid Septmeber 2014, found one and downloaded it... Guess what? It worked! So the reason it Crashes on the splash screen was because of my version being out of date (Like you said initially).
+
+However, the patches in the first post of this thread did indeed corrupt my game... So do you know of any other release I can download? One with all the patches already installed? That'd help, a lot!
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 28 May 2015, 00:19]
+Try downloading "Total War ROME II Emperor Edition MULTi9-PROPHET". This one is the latest available.
+
+About the SFV files; they are used to check the integritiy of the files in your game folder, so you can easily see if there are any files missing or are corrupted. To use it, paste the .sfv file into your game folder and open it with QuickSFV program (google it).
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 28 May 2015, 09:48]
+Could someone upload R2:TW GEMFX - Version 1.0.8.1 : http://www.twcenter.net/forums/showthre ... ersion-1-0 / http://steamcommunity.com/sharedfiles/f ... earchtext=
+
+I tried the Rome II Workshop downloader and mworkshopdownloader.com site but I gives me errors as the file is too big. So if someone has it could you upload it? Thank you 
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 28 May 2015, 09:52]
+testni wrote:
+Try downloading "Total War ROME II Emperor Edition MULTi9-PROPHET". This one is the latest available.
+
+About the SFV files; they are used to check the integritiy of the files in your game folder, so you can easily see if there are any files missing or are corrupted. To use it, paste the .sfv file into your game folder and open it with QuickSFV program (google it).
+
+Does that release include the Blood & Gore DLC?
+
+Also, thanks for your help all along! 
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 28 May 2015, 10:36]
+R3in wrote:
+Could someone upload R2:TW GEMFX - Version 1.0.8.1 : http://www.twcenter.net/forums/showthre ... ersion-1-0 / http://steamcommunity.com/sharedfiles/f ... earchtext=
+
+I tried the Rome II Workshop downloader and mworkshopdownloader.com site but I gives me errors as the file is too big. So if someone has it could you upload it? Thank you 
+
+
+please search b4 posting any request, scroll back 1 page to 182 .. u'll find the DL link posted by testni.
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 28 May 2015, 11:26]
+ziodaddy wrote:
+R3in wrote:
+Could someone upload R2:TW GEMFX - Version 1.0.8.1 : http://www.twcenter.net/forums/showthre ... ersion-1-0 / http://steamcommunity.com/sharedfiles/f ... earchtext=
+
+I tried the Rome II Workshop downloader and mworkshopdownloader.com site but I gives me errors as the file is too big. So if someone has it could you upload it? Thank you 
+
+
+please search b4 posting any request, scroll back 1 page to 182 .. u'll find the DL link posted by testni.
+
+
+I serched quite awile actually. I serched for "GEM" but didn't look for "GEMFX" The search egine didn't give me results. Sorry for spamming :/ Also thank you 
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 19 Jun 2015, 15:41]
+machine4578 wrote:
+Total.War.ROME.II.Update.v2.2.0.15539-v2.2.0.15666 XDELTA
+Size: 23MB
+
+Code: Select all | Line number On/Off | Expand/Contract
+http://www50.zippyshare.com/v/lCnscRna/file.html
+
+NOTE:
+*you MUST have v2.2.0.15539 installed
+*english only
+*thanks to bsham for the updated DLC files
+*thanks to Steam006 for the LumaCEG and ALI213 for their steamemu.
+
+and here is the sfv testni posted if anyone wanted to chack their files after updating
+viewtopic.php?p=1016326#p1016326
+
+This don't work for me; it give me data_rome2.pack, local_rome2.pack, gaul.pack errors( mismatch) despite I have 15539 version.
+What's wrong please ? For what release is that xdelta ? I have 3dm.
+Thanks.
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 19 Jun 2015, 16:04]
+^
+did you ever check your files prior to updating. you should not be having issues if your files are correct. so you may have bad files unfortunately.
+also check page 1, you may have missed a hotifx?
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 19 Jun 2015, 20:07]
+machine4578 wrote:
+^
+did you ever check your files prior to updating. you should not be having issues if your files are correct. so you may have bad files unfortunately.
+also check page 1, you may have missed a hotifx?
+
+If files have any issues the game don't work; but I can play it flawless. Already checked page 1 and all updates/hotfix until 15539. I think I have other installed version and the xdelta update is wrong. BTW, how can I check what install I have ?
+Thank you.
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 19 Jun 2015, 23:14]
+leonardusius wrote:
+machine4578 wrote:
+^
+did you ever check your files prior to updating. you should not be having issues if your files are correct. so you may have bad files unfortunately.
+also check page 1, you may have missed a hotifx?
+
+If files have any issues the game don't work; but I can play it flawless. Already checked page 1 and all updates/hotfix until 15539. I think I have other installed version and the xdelta update is wrong. BTW, how can I check what install I have ?
+Thank you.
+
+idk whats wrong to be honest  as i said i validated the files before and after making the patch files, and no one else in ~4 months reported an issue.

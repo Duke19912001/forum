@@ -1,0 +1,157 @@
+=========================================
+STRONA 155 (URL: https://cs.rin.ru/forum/viewtopic.php?f=10&t=61441&hilit=rome+2&start=2310)
+=========================================
+
+[Data: Saturday, 13 Dec 2014, 19:15]
+hey guys i Have emperor edition 2.0 139.... skidrowcrack/rargb.com all dlcs.
+
+
+I have a problem.
+When i INSTALL updates 15hotfix, hatg...16 ecc then i put crack ( ali23.ini..and other all FILES) game crash when i click on local multiplayer, i dont see servers (using tunngle) ...why WHY IT CRASHES?
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 14 Dec 2014, 09:17]
+Thanks for all you've done here ShadowDuke.. I've been looking for these patches forever and couldn't find anything. Much appreciated! 
+
+Edit: Getting this XD3_Invalid_Input error while installing Patch 16. Any solutions?
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 14 Dec 2014, 09:39]
+UnrealAce wrote:
+Thanks for all you've done here ShadowDuke.. I've been looking for these patches forever and couldn't find anything. Much appreciated! 
+
+Edit: Getting this XD3_Invalid_Input error while installing Patch 16. Any solutions?
+
+Disable UAC from Control Panel and Modifying Registri (Regedit)-- I did for W8.1
+
+http://www.eightforums.com/system-secur ... etely.html
+http://techzend.com/disable-user-accoun ... indows-81/
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 14 Dec 2014, 17:59]
+it works online or not? bcz it crash when click on lan network,
+
+-- Edit --
+
+I FOUND STEAM FIX FOR 2.1... AWESOMEEE, I RESOLVED
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 14 Dec 2014, 20:09]
+geisuper007 wrote:
+it works online or not? bcz it crash when click on lan network,
+
+-- Edit --
+
+I FOUND STEAM FIX FOR 2.1... AWESOMEEE, I RESOLVED
+
+Link for steamfix pls.
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 15 Dec 2014, 03:39]
+alduinrym wrote:
+UnrealAce wrote:
+Thanks for all you've done here ShadowDuke.. I've been looking for these patches forever and couldn't find anything. Much appreciated! 
+
+Edit: Getting this XD3_Invalid_Input error while installing Patch 16. Any solutions?
+
+Disable UAC from Control Panel and Modifying Registri (Regedit)-- I did for W8.1
+
+http://www.eightforums.com/system-secur ... etely.html
+http://techzend.com/disable-user-accoun ... indows-81/
+
+
+I'm still getting this error.. Any ideas? I'm on Windows 8.1 if it helps.
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 15 Dec 2014, 15:58]
+https://docviewer.yandex.com/?url=ya-di ... 4cc124ad7a
+
+it was the link of steamfix works for 2.1 too, but is deleted
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 15 Dec 2014, 16:23]
+TWRII SteamFix - Update 16 v2.1.0-15239 by REVOLT
+http://www54.zippyshare.com/v/19074760/file.html
+
+I am using this its from 2.0.0 with new cracked Rome2.dll for last version. I didn't test multiplayer because my friend don't have last version of game...
+
+Have a nice day. 
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 15 Dec 2014, 16:23]
+
+_________________
+List of some Computer games CLICK ME
+
+  
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 15 Dec 2014, 18:20]
+hi, thank you for the link,but ''failed to host'' the first time, after 5 times, it works good.
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 15 Dec 2014, 22:50]
+RezMar wrote:
+TWRII SteamFix - Update 16 v2.1.0-15239 by REVOLT
+http://www54.zippyshare.com/v/19074760/file.html
+
+I am using this its from 2.0.0 with new cracked Rome2.dll for last version. I didn't test multiplayer because my friend don't have last version of game...
+
+Have a nice day. 
+
+Crash after first turn.
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 16 Dec 2014, 06:08]
+Please update to Wrath of Sparta DLC
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 16 Dec 2014, 06:17]
+Plese wait until its released!? Sigh. Check the pre-order offer time! When time up=Release on Steam!
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 16 Dec 2014, 13:31]
+1)start-->%appdata%-> delete creative assembly folder
+")open steam
+'')open the game
+ìì)multiplayer battles
+)LOCAL NETWORK-
+'') HOST A GAME TO ACTIVATE STEAMFIX
+)OPEN TUNNGLE, JOIN ROME SERVER
+)NOW U CAN PLAY CAMPAIGN,NO CRASH.
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 16 Dec 2014, 13:35]
+Thanks for info...
+I don't think u need Tunngle. I played with friend CAMPAIGN MOD with only steam and works... But that was long ago...
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 16 Dec 2014, 13:35]
+
+_________________
+List of some Computer games CLICK ME
+
+  
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 16 Dec 2014, 13:53]
+i wrote it for who use it--- thank you.
+
+
+We wait for Wrath Of Sparta

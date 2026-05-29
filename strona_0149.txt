@@ -1,0 +1,181 @@
+=========================================
+STRONA 149 (URL: https://cs.rin.ru/forum/viewtopic.php?f=10&t=61441&hilit=rome+2&start=2220)
+=========================================
+
+[Data: Saturday, 29 Nov 2014, 14:41]
+thanks for the latest updates. hope they will work on Emperor Edition RLD version.
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 29 Nov 2014, 16:24]
+deliciousorangutan wrote:
+Hi ShadowDuke, Thanks for your handwork posting all these updates.
+
+I have a problem though:
+I am using the Reloded Emperor Edition and have followed the updates in order:
+Total.War.ROME.II.Update.15.Hotfix
+Total.War.ROME.II.Update.15_Hotfix_Gaul_and_HATG_Update
+Total.War.ROME.II.Update.15.Hotfix.Proper.Crack
+Without any problems.
+
+However, when I run the "Total.War.ROME.II.Update.16.Black.Sea.Colonies.Culture.Pack" update,
+I receive errors in the updater:
+
+ Spoiler
+http://image.bayimg.com/b84a47e0ce430bab9d3f5ca2b0f1fd2904f19c52.jpg
+
+Any help would be appreciated. Thank you!
+
+
+"Access is denied" UAC etc. is blocking! (Also mentioned more than once in this thread, so use search or take my answer)
+Also theres no blood_rome2.pack, or gaul.pack update in Total.War.ROME.II.Update.16.rar! So...wheres that coming from..!?
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 29 Nov 2014, 18:24]
+septboyboy wrote:
+after apply patch 16 gaul and hatg
+gaul.pack has error.
+can someone please share their post patch 16 gaul.pack file with me?
+
+here...
+http://BillionUploads.com/9t5736q4xut5
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 29 Nov 2014, 19:19]
+ShadowDuke wrote:
+"Access is denied" UAC etc. is blocking! (Also mentioned more than once in this thread, so use search or take my answer)
+
+UAC was previously on "Never Notify".
+I figured out a solution:
+Administrative Tools > Local Security Policy > Local Policies > Security Options:
+Scroll down and disable all "User Account Control" options except "Virtualize file and registry write failures...".
+
+ Spoiler
+http://image.bayimg.com/bc672aa48344e4c1ee40fc535f3273e23e9f9624.jpg
+
+Restart your computer.
+
+Quote:
+Also theres no blood_rome2.pack, or gaul.pack update in Total.War.ROME.II.Update.16.rar! So...wheres that coming from..!?
+
+No idea! Doesn't show up now after the fix I mentioned and a fresh reinstall.
+
+Everything ran great!
+Thanks again, ShadowDuke!
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 30 Nov 2014, 04:35]
+Shadowduke,
+
+Can you upload newest english encyclopedia? At least post Emperor.
+I install encyclopedia for update 15, but it still show old building only.
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 30 Nov 2014, 16:25]
+ruptawsky wrote:
+Could somebody upload Polish text files (and other lang ofc) from update 16 (Black Sea Colonies, 2.1)?
+I will be very grateful.
+
+
++1
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 30 Nov 2014, 20:49]
+Hey guys, i read almost everything in that topic here but i still has problem with my multiplayer game.
+I have the Emperor Edtion Version 2.0 and everything work fine, instead of one thing:
+Everytime i play with a friend, save the game ( it overwrite always the same save-file - names: "savegame_multiplayer) , and try to load it - the game switch the factions and i can't load the game.
+
+I did not find any Steamwork fix for the Emperor Edition in the .net.
+Does someone has the fix for that problem?
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 01 Dec 2014, 00:05]
+rimex123 wrote:
+Hey guys, i read almost everything in that topic here but i still has problem with my multiplayer game.
+I have the Emperor Edtion Version 2.0 and everything work fine, instead of one thing:
+Everytime i play with a friend, save the game ( it overwrite always the same save-file - names: "savegame_multiplayer) , and try to load it - the game switch the factions and i can't load the game.
+
+I did not find any Steamwork fix for the Emperor Edition in the .net.
+Does someone has the fix for that problem?
+
+
+Hi, I sent you a Private Message.
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 01 Dec 2014, 01:21]
+ruptawsky wrote:
+rimex123 wrote:
+Hey guys, i read almost everything in that topic here but i still has problem with my multiplayer game.
+I have the Emperor Edtion Version 2.0 and everything work fine, instead of one thing:
+Everytime i play with a friend, save the game ( it overwrite always the same save-file - names: "savegame_multiplayer) , and try to load it - the game switch the factions and i can't load the game.
+
+I did not find any Steamwork fix for the Emperor Edition in the .net.
+Does someone has the fix for that problem?
+
+
+Hi, I sent you a Private Message.
+
+
+I got your Message. I can't answer you private , because i am new here.
+Could you upload only the Crack for me.. ? Because i have very slow internet and i dont want to download over 1GB files i dont need. I just need the Crack files there you said.
+
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 01 Dec 2014, 13:38]
+New hotfix, wont release tho for only 1 missing unit, understand, please. 
+
+
+Quote:
+We’ve just released a hotfix for Patch 16 to address the known issue on MAC (Game options will now save and load correctly in the Mac Steam version.) and add the missing Cappadocian Cavalry to Pontus.
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 02 Dec 2014, 08:11]
+Can someone please Upload a .rar of the English files for this version v2.1.0.15239
+It will help many people from the community
+
+that is :
+
+music_en_rome2.pack
+local_en_rome2.pack
+local_en.pack
+
+and in encyclopedia the folder : en
+data\encyclopedia\en
+
+thanks
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 02 Dec 2014, 13:09]
+local_en.pack issnt updated since vanilla.
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 02 Dec 2014, 14:23]
+Please Total War II Emperor edition v2.1.0 Turkish language.... 
+Thank you.
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 02 Dec 2014, 16:06]
+http://steamcommunity.com/sharedfiles/f ... =345063994
+http://steamcommunity.com/sharedfiles/f ... =268682061
+http://steamcommunity.com/sharedfiles/f ... =311519047
+http://steamcommunity.com/sharedfiles/f ... earchtext=
+http://steamcommunity.com/sharedfiles/f ... earchtext=
+http://steamcommunity.com/sharedfiles/f ... earchtext=
+could someone please upload these mods.
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 02 Dec 2014, 16:57]
+http://steamworkshopdownloader.com/

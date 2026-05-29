@@ -1,0 +1,225 @@
+=========================================
+STRONA 173 (URL: https://cs.rin.ru/forum/viewtopic.php?f=10&t=61441&hilit=rome+2&start=2580)
+=========================================
+
+[Data: Saturday, 21 Feb 2015, 13:44]
+@Igec35:
+Total War Rome 2.sfv
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 21 Feb 2015, 15:19]
+Thanks testni.
+
+As I suspect, there are more than 20 files that were updated since version 2.2.0.15539. We definately need another xdelta patch.
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 21 Feb 2015, 15:19]
+
+_________________
+01000111 01101000 01101111 01110011 01110100 00100000 01110111 01101000 01100101 01110010 01100101 00100000 01100001 01110010 01100101 00100000 01111001 01101111 01110101 00111111 00100000 01000100 01100101 01101100 01100101 01110100 01100101 00100000 01110100 01101000 01101001 01110011 00100000 01110000 01101111 01110011 01110100 00101100 00100000 01101001 01100110 00100000 01111001 01101111 01110101 00100000 01100100 01100001 01110010 01100101 00101110
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 21 Feb 2015, 15:40]
+Igec35 wrote:
+Thanks testni.
+
+As I suspect, there are more than 20 files that were updated since version 2.2.0.15539. We definately need another xdelta patch.
+
+if someone uploaded the DLC files, i could make a new xdelta update(2.2.0.15539-2.2.0.15666)
+
+DLC files needed for v2.2.0.15666
+data\blood_rome2.pack
+data\gaul.pack
+data\greeks.pack
+data\nomadic.pack
+data\punic.pack
+
+@testni
+can you upload these 5 files?
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 21 Feb 2015, 15:48]
+jltoga wrote:
+The script adds a "download" button to the workshop, so you don't need to use the old downloader page anymore 
+
+
+I understand how the script works. But it still does not work with GemFX on the workshop.
+
+
+http://steamcommunity.com/sharedfiles/f ... =187199741
+
+It just brings up "This webpage is not available" after clicking the download button.
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 21 Feb 2015, 22:09]
+Hi. Can someone with a legit copy of Rome 2 post this mod in a mediafire link, please?
+
+https://steamcommunity.com/sharedfiles/ ... =232955267
+
+Thanks.
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 21 Feb 2015, 23:29]
+@machine4578
+Sure, i'll post them tomorrow.
+
+@Rellington
+I'll post the gem v1.0.8 mod .pack file tomorrow.
+
+@Kebab_Removal_Unit
+rome_ii_units_icons_mod
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 21 Feb 2015, 23:34]
+testni wrote:
+@machine4578
+Sure, i'll post them tomorrow.
+
+@Rellington
+I'll post the gem v1.0.8 mod .pack file tomorrow.
+
+@Kebab_Removal_Unit
+rome_ii_units_icons_mod
+
+much appreciated testni!
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 21 Feb 2015, 23:46]
+testni wrote:
+@machine4578
+Sure, i'll post them tomorrow.
+
+@Rellington
+I'll post the gem v1.0.8 mod .pack file tomorrow.
+
+@Kebab_Removal_Unit
+rome_ii_units_icons_mod
+
+
+
+Awesome, thanks alot!
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 21 Feb 2015, 23:53]
+testni wrote:
+@machine4578
+Sure, i'll post them tomorrow.
+
+
+
+Thanks mate.
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 21 Feb 2015, 23:53]
+
+_________________
+Always wanted to get rid of the files that were not listed in the sfv/md5 hash file? Check the QuickSFV plugin I created for this: viewtopic.php?f=10&t=108605 or this: viewtopic.php?p=1273745#p1273745
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 21 Feb 2015, 23:59]
+Rellington wrote:
+testni wrote:
+@machine4578
+Sure, i'll post them tomorrow.
+
+@Rellington
+I'll post the gem v1.0.8 mod .pack file tomorrow.
+
+@Kebab_Removal_Unit
+rome_ii_units_icons_mod
+
+
+
+Awesome, thanks alot!
+
+
+
+Exellent. 
+
+Thanks for all.
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 21 Feb 2015, 23:59]
+
+_________________
+01000111 01101000 01101111 01110011 01110100 00100000 01110111 01101000 01100101 01110010 01100101 00100000 01100001 01110010 01100101 00100000 01111001 01101111 01110101 00111111 00100000 01000100 01100101 01101100 01100101 01110100 01100101 00100000 01110100 01101000 01101001 01110011 00100000 01110000 01101111 01110011 01110100 00101100 00100000 01101001 01100110 00100000 01111001 01101111 01110101 00100000 01100100 01100001 01110010 01100101 00101110
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 22 Feb 2015, 01:16]
+If anyone needs certain files I got a legit version with all DLC
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 22 Feb 2015, 01:21]
+machine4578 wrote:
+Igec35 wrote:
+Thanks testni.
+
+As I suspect, there are more than 20 files that were updated since version 2.2.0.15539. We definately need another xdelta patch.
+
+if someone uploaded the DLC files, i could make a new xdelta update(2.2.0.15539-2.2.0.15666)
+
+DLC files needed for v2.2.0.15666
+data\blood_rome2.pack
+data\gaul.pack
+data\greeks.pack
+data\nomadic.pack
+data\punic.pack
+
+@testni
+can you upload these 5 files?
+
+
+This what we need...Thanks.
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 22 Feb 2015, 01:21]
+
+_________________
+01000111 01101000 01101111 01110011 01110100 00100000 01110111 01101000 01100101 01110010 01100101 00100000 01100001 01110010 01100101 00100000 01111001 01101111 01110101 00111111 00100000 01000100 01100101 01101100 01100101 01110100 01100101 00100000 01110100 01101000 01101001 01110011 00100000 01110000 01101111 01110011 01110100 00101100 00100000 01101001 01100110 00100000 01111001 01101111 01110101 00100000 01100100 01100001 01110010 01100101 00101110
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 22 Feb 2015, 01:29]
+Uploading now
+
+-- Edit --
+
+http://www.mediafire.com/download/71szqqr6i6drgqq/blood_rome2.pack
+
+blood pack there. others will take longer due to size
+
+nomadic pack:
+
+http://www.mediafire.com/download/bemnh2m2btka8b0/nomadic.pack
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 22 Feb 2015, 01:39]
+What a great community...Thanks bsham. 
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 22 Feb 2015, 01:39]
+
+_________________
+01000111 01101000 01101111 01110011 01110100 00100000 01110111 01101000 01100101 01110010 01100101 00100000 01100001 01110010 01100101 00100000 01111001 01101111 01110101 00111111 00100000 01000100 01100101 01101100 01100101 01110100 01100101 00100000 01110100 01101000 01101001 01110011 00100000 01110000 01101111 01110011 01110100 00101100 00100000 01101001 01100110 00100000 01111001 01101111 01110101 00100000 01100100 01100001 01110010 01100101 00101110
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 22 Feb 2015, 01:42]
+I'm uploading gaul pack now. Should be an hour or so, my download speed is amazing, but upload not that fast.

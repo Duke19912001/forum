@@ -1,0 +1,165 @@
+=========================================
+STRONA 198 (URL: https://cs.rin.ru/forum/viewtopic.php?f=10&t=61441&hilit=rome+2&start=2955)
+=========================================
+
+[Data: Wednesday, 07 Oct 2015, 15:35]
+Anomaly wrote:
+sergio_sos wrote:
+Hey guys, I want to try this game. I have Linux installed on my pc, so I want to get this game and try to see if it runs with Wine.
+But I could not find in the thread the links to download the full game, I can only see updates. Is there another thread with the links?
+I am not familiar with this site yet, so I apologize if I'm asking something obvious.
+
+
+Total.War.ROME.II.Emperor.Edition.MULTi9-PROPHET + Total.War.ROME.II.Update.v2.2.0.15666-v2.2.0.16019 (here on the forum) and you're good.
+See PM for links to the Prophet release.
+
+Thanks to Machine et al here: viewtopic.php?f=10&t=61441&p=1094582#p1094582
+There's also a Mega link to that patch somewhere on one of last pages.
+
+
+Thank you very much Anomaly! I'll try those links.
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 09 Oct 2015, 13:05]
+a new update was released. game version 2.2.0.16155.
+
+@testni or anyone with all DLC. could you upload just the 5 updated DLC files please.
+i will make a new xdelta for everyone.
+
+thanks!
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 09 Oct 2015, 17:17]
+5 DLC files for v2.2.0 build 16155.736913
+
+https://mega.nz/#F!J0ZkTaaZ!kbFc5DdU4l0pk5A10mBD8w
+
+Note: use winrar 5 to extract
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 09 Oct 2015, 18:21]
+testni wrote:
+5 DLC files for v2.2.0 build 16155.736913
+
+https://mega.nz/#F!J0ZkTaaZ!kbFc5DdU4l0pk5A10mBD8w
+
+Note: use winrar 5 to extract
+
+thanks alot testni!
+
+xdelta coming soon 
+
+-edit-
+
+Total.War.ROME.II.Update.v2.2.0.16155
+Size: 25MB
+
+Code: Select all | Line number On/Off | Expand/Contract
+http://www71.zippyshare.com/v/IO8c6ow4/file.html
+
+NOTE:
+*you must have update 2.2.0.16019 installed
+*thanks to testni for updated DLC files! 
+*if you want the pedia to work, use the alternate crack posted below(requires steam to be running). if you dont care about the pedia, use the crack inlcuded with the update above.
+
+2.2.0.16155 pedia crack
+
+Code: Select all | Line number On/Off | Expand/Contract
+http://www49.zippyshare.com/v/LkaplqwQ/file.html
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 09 Oct 2015, 18:51]
+Wow, a lot of Steam users are complaining their update got stuck.
+
+Thanks again testni, Machine and Steam006.
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 09 Oct 2015, 18:51]
+
+_________________
+Always wanted to get rid of the files that were not listed in the sfv/md5 hash file? Check the QuickSFV plugin I created for this: viewtopic.php?f=10&t=108605 or this: viewtopic.php?p=1273745#p1273745
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 09 Oct 2015, 22:09]
+Thanks! Any idea what's been updated? Or its one of those where even CA doesn't know. 
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 10 Oct 2015, 09:03]
+Language packs updated too? If yes, upload new files from the russian language pack, please.
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 10 Oct 2015, 09:03]
+
+_________________
+Sorry for my English, I use Google translate. 
+CSF - Clean Steam files. Crack not included. If you don't know the password, read the FAQ. If I missed a new update, send a request to the PM.
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 10 Oct 2015, 11:36]
+Thanks so much again for the update and new crack! 
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 11 Oct 2015, 10:09]
+I always get angry to not find any related infos about this minor patches changelogs....
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 11 Oct 2015, 14:09]
+Any lang packs? At least the subtitles - which should have only couple MBs
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 14 Oct 2015, 16:04]
+Could anyone post a .sfv of v16155 with DLCs?
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 14 Oct 2015, 16:04]
+
+_________________
+Always wanted to get rid of the files that were not listed in the sfv/md5 hash file? Check the QuickSFV plugin I created for this: viewtopic.php?f=10&t=108605 or this: viewtopic.php?p=1273745#p1273745
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 14 Oct 2015, 18:22]
+I need link for a pedia crack for v2.2.0.15666
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 14 Oct 2015, 21:14]
+daniel767 wrote:
+I need link for a pedia crack for v2.2.0.15666
+
+you dont need a pedia fix for 2.2.0.15666. only the update after that need it.
+
+Anomaly wrote:
+Could anyone post a .sfv of v16155 with DLCs?
+
+here is the sfv
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 14 Oct 2015, 21:21]
+Thanks machine.
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 14 Oct 2015, 21:21]
+
+_________________
+Always wanted to get rid of the files that were not listed in the sfv/md5 hash file? Check the QuickSFV plugin I created for this: viewtopic.php?f=10&t=108605 or this: viewtopic.php?p=1273745#p1273745
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 14 Oct 2015, 22:35]
+Im playing with v2.2.0.15666 and I get a black screen when opening the encyclopedia.

@@ -1,0 +1,232 @@
+=========================================
+STRONA 132 (URL: https://cs.rin.ru/forum/viewtopic.php?f=10&t=61441&hilit=rome+2&start=1965)
+=========================================
+
+[Data: Monday, 22 Sep 2014, 12:19]
+neoiq5719 wrote:
+Number 1 did u extract the content of the rar?
+Number 2 do u have all the microsoft redish( not just the one in the folder) and direct x installed?
+Number 3 have u included the Rome 2 folder as an exception in your AV?
+Number 4 in case ( but shouldnt be) delete SweetFX files and folder, the dxgi and eFX files
+
+
+1)Well of course everything is extracted.
+2)I got dxfeb 2010, dx june 2010 as suggested by in total war forums, and redis- 2005, 2008, 2010 and 2013 too
+3) Yep Rome 2 is a sub directory in my "Games" folder. The Entire Games folder is exception, i tried even completely turning its protections off. And when i before (10 months ago) i didnt had any AV.
+4) yep i already have deleted those Sweetfx files. Screenshot [ img ]
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 22 Sep 2014, 12:26]
+shader?
+well beats me. nothing comes to mind right now
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 22 Sep 2014, 12:28]
+neoiq5719 wrote:
+shader?
+
+That shader.fx file? i thought it was with sweetfx. so deleted it .
+
+I can get it from the rar again so, did and still the same error.
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 22 Sep 2014, 13:09]
+neoiq5719 wrote:
+
+http://steamcommunity.com/sharedfiles/f ... =309829016
+could someone upload this mod pls.
+thx
+
+
+here u go mate
+https://www.firedrive.com/file/212D10366EA63D66
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 22 Sep 2014, 13:27]
+ziodaddy wrote:
+neoiq5719 wrote:
+
+http://steamcommunity.com/sharedfiles/f ... =309829016
+could someone upload this mod pls.
+thx
+
+
+here u go mate
+https://www.firedrive.com/file/212D10366EA63D66
+
+thx man
+
+-- Edit --
+
+
+The_Exile wrote:
+neoiq5719 wrote:
+shader?
+
+That shader.fx file? i thought it was with sweetfx. so deleted it .
+
+I can get it from the rar again so, did and still the same error.
+
+From what u r saying I get the feeling that is something your system is lacking BUT I cant put my finger on it. Can u give me a list of the programs( screenshot) installed in your system?
+Do u have microsoft net framework 4.5?
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 22 Sep 2014, 18:08]
+Is there any working link for the ENG lang v15? thanks!
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 22 Sep 2014, 19:17]
+neoiq5719 wrote:
+ziodaddy wrote:
+neoiq5719 wrote:
+
+http://steamcommunity.com/sharedfiles/f ... =309829016
+could someone upload this mod pls.
+thx
+
+
+here u go mate
+https://www.firedrive.com/file/212D10366EA63D66
+
+thx man
+
+-- Edit --
+
+
+The_Exile wrote:
+neoiq5719 wrote:
+shader?
+
+That shader.fx file? i thought it was with sweetfx. so deleted it .
+
+I can get it from the rar again so, did and still the same error.
+
+From what u r saying I get the feeling that is something your system is lacking BUT I cant put my finger on it. Can u give me a list of the programs( screenshot) installed in your system?
+Do u have microsoft net framework 4.5?
+
+
+Yes yes. .Net 4.5 is native on a Win 8 environment so its kinda preinstall. You cant run the setup to repair/remove. It doesnt give options.
+Screenshot
+[ img ]
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 22 Sep 2014, 19:45]
+LoneStudent wrote:
+Is there any working link for the ENG lang v15? thanks!
+
+
+Why the fuck Firedrive is deleting those files so quick!? Some1 spreading them in the web or what? Gonna ul them again later or in a few days, i dont have much time atm.
+
+Zippyshare also down...
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 22 Sep 2014, 19:46]
+So why does it say net framework 1.1?
+Anyway I´m all out of ideas man
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 22 Sep 2014, 19:48]
+ShadowDuke wrote:
+LoneStudent wrote:
+Is there any working link for the ENG lang v15? thanks!
+
+
+Why the fuck Firedrive is deleting those files so quick!? Some1 spreading them in the web or what? Gonna ul them again later or in a few days, i dont have much time atm.
+
+Zippyshare also down...
+
+
+
+ShadowDuke? Perhaps you can help me a little? take a look ^
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 22 Sep 2014, 19:51]
+If i could and would happen to know whats going on there i'd answer 
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 22 Sep 2014, 19:58]
+deleted
+
+-- Edit --
+
+
+ShadowDuke wrote:
+If i could and would happen to know whats going on there i'd answer 
+
+HE downloads my game which I uploaded in a rar. It seems to work for people exept him and I dont know why
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 22 Sep 2014, 20:50]
+neoiq5719 wrote:
+deleted
+
+-- Edit --
+
+
+ShadowDuke wrote:
+If i could and would happen to know whats going on there i'd answer 
+
+HE downloads my game which I uploaded in a rar. It seems to work for people exept him and I dont know why
+
+
+Installed that 1.1 for a very old game.
+
+Can it really be an LumaEmu issue? Is there a release that uses something else than ?
+
+Or perhaps a memory issue? clock timings?
+Can you screenshot your clock timings? I will adjust mine like it if it differs and try
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 22 Sep 2014, 20:57]
+The_Exile wrote:
+neoiq5719 wrote:
+deleted
+
+-- Edit --
+
+
+ShadowDuke wrote:
+If i could and would happen to know whats going on there i'd answer 
+
+HE downloads my game which I uploaded in a rar. It seems to work for people exept him and I dont know why
+
+
+Installed that 1.1 for a very old game.
+
+Can it really be an LumaEmu issue? Is there a release that uses something else than ?
+
+Or perhaps a memory issue? clock timings?
+Can you screenshot your clock timings? I will adjust mine like it if it differs and try
+
+How do u get that?
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 22 Sep 2014, 21:28]
+neoiq5719 wrote:
+The_Exile wrote:
+
+Installed that 1.1 for a very old game.
+
+Can it really be an LumaEmu issue? Is there a release that uses something else than ?
+
+Or perhaps a memory issue? clock timings?
+Can you screenshot your clock timings? I will adjust mine like it if it differs and try
+
+How do u get that?
+
+
+Using CPU-Z and memory tab

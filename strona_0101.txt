@@ -1,0 +1,186 @@
+=========================================
+STRONA 101 (URL: https://cs.rin.ru/forum/viewtopic.php?f=10&t=61441&hilit=rome+2&start=1500)
+=========================================
+
+[Data: Friday, 15 Aug 2014, 11:58]
+Update 14.1 Works fine for me ; thanks ShadowDuke
+
+(exept exit to desktop)
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 15 Aug 2014, 12:46]
+TY!! ShadowDuke is very good.
+
+all ok.
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 15 Aug 2014, 12:56]
+xdelta3.exe is not a valid win32 application....
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 15 Aug 2014, 13:06]
+Thanks ShadowDuke .. May Baal Hamond bless u 
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 15 Aug 2014, 13:23]
+leonardusius wrote:
+xdelta3.exe is not a valid win32 application....
+
+here, use this xdelta.exe.. i sent ShadowDuke my custom xdelta.exe(that works for almost everyone  ) with the xdelta patch files..
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 15 Aug 2014, 14:21]
+ShadowDuke wrote:
+Total.War.ROME.II.Update.14.1 - *xdelta* Version: v1.14.1-13180.569980 (14.08.2014) (from beta to final - 31.07.2014)
+
+You need Update 14 and this installed!
+
+Changelog:
+
+
+ Spoiler
+Code: Select all | Line number On/Off | Expand/Contract
+ 
+v1.14.1-13180.569980
+ 
+ 
+ceck yourself, please.
+ 
+
+
+
+
+
+Code: Select all | Line number On/Off | Expand/Contract
+ 
+1) Extract all files to your Rome 2 <root> install dir
+2) Start TWR2_UP14_1.bat
+3) Copy Crack
+4) Play
+
+
+Download: [47mb] (Zippyshare, Firedrive)
+
+Zippyshare
+
+Notes: German & English Update!
+
+
+Thanks !!! Work fine on 7x64 in french language 
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 15 Aug 2014, 14:21]
+
+_________________
+I have certifications EBIOS RM, ISO27005, SECUWEB, PENTESTWEB, PRIM'X (ZED! and Zonecentral), ITIL v3 Foundations & CISCO CCNA1, CCNA2, CCNA3, CCNA4
+Don't hate the hacker, hate the code...
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 16 Aug 2014, 07:53]
+fugen wrote:
+Total.War.Rome.II.v1.14.1.Incl.DLC.Cracked-3DM
+
+
+http://pan.baidu.com/s/1sjLOumD
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 16 Aug 2014, 11:11]
+Total War: Rome 2 (SEGA) (RUS/ENG) [Steam-Rip] (Update 16.08.2014).torrent
+
+Code: Select all | Line number On/Off | Expand/Contract
+http://rghost.net/57497281
+
+NFO:
+
+ Spoiler
+Year: 2013
+Genre: Strategy (Real-time / Turn-based) / 3D
+Developer: The Creative Assembly
+Publisher: SEGA / 1C-SoftKlab
+Platform: PC
+Game Version: v1.14.1.0 build 13180.569980
+Language: English / Russian
+Language: Russian / English
+Publication Type: Steam-Rip
+Medicine: Present (Steam006 / CODEX Steam emulator)
+
+• Steam Application ID: 214950
+• Content loaded 16.08.2014g and is identical to the licensed version of the game distributed in Steam.
+• Game Version - v 1.14.1.0 build 13180.569980
+• DLC:
+
+Hannibal at the Gates
+Baktria Faction
+Beasts of War
+BIood & Gore
+Caesar in Gaul
+Greek States Culture Pack
+Nomadic Tribes Culture Pack
+Pirates & Raiders
+Daughters of Mars
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 16 Aug 2014, 11:11]
+
+_________________
+
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 16 Aug 2014, 12:20]
+Daughters of Mars DLC out today, I hope the update patch will following up. Much appreciate.
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 16 Aug 2014, 13:24]
+50cal wrote:
+Daughters of Mars DLC out today, I hope the update patch will following up. Much appreciate.
+
+
+Really?
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 16 Aug 2014, 18:17]
+There is little app that can download and convert mods from steam workshop with just few clicks  its still litle buggy and need .net Framework 4.5 to work
+http://www64.zippyshare.com/v/13587431/file.html
+
+does anyone know how to enable continue campaign button in launcher?
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 16 Aug 2014, 19:00]
+50cal wrote:
+Daughters of Mars DLC out today, I hope the update patch will following up. Much appreciate.
+
+
+It was already out, is already included in latest patch here so there wont come anything new.
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 16 Aug 2014, 19:17]
+i downloaded Total.War.Rome.II.v1.14.1.Incl.DLC.Cracked-3DM,
+is this latest version or do i need the patch?
+i guess its latest version, but only english, right?
+can someone please give german files if needed?
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 16 Aug 2014, 19:52]
+You have a prev Version with Update14 and still have those german files?! Then patch it with mine, just the *ge* files.
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 16 Aug 2014, 20:34]
+Are you talking to me, ShadowDuke??
+well, i just checked encyclopedia, there is "en" folder only, so no german.
+i also set language to DE in data folder, no success.

@@ -1,0 +1,233 @@
+=========================================
+STRONA 190 (URL: https://cs.rin.ru/forum/viewtopic.php?f=10&t=61441&hilit=rome+2&start=2835)
+=========================================
+
+[Data: Tuesday, 25 Aug 2015, 12:53]
+Infinitexs wrote:
+really frustrating when I get my downloads corrupted after three attempts on the 1.2GB download. They all get 100% finished, but when I extract the .rar it is corrupted. I've tried all kinds of .rar repair applications and they don't make any difference.  Pls help x(
+
+
+Did you try the Mega link from here: viewtopic.php?p=1095012#p1095012
+
+https://mega.nz/#!Z15GmSaB!QLOANAT5hGR8 ... k6n14NFbyk
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 25 Aug 2015, 12:53]
+
+_________________
+Always wanted to get rid of the files that were not listed in the sfv/md5 hash file? Check the QuickSFV plugin I created for this: viewtopic.php?f=10&t=108605 or this: viewtopic.php?p=1273745#p1273745
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 25 Aug 2015, 12:55]
+Infinitexs wrote:
+really frustrating when I get my downloads corrupted after three attempts on the 1.2GB download. They all get 100% finished, but when I extract the .rar it is corrupted. I've tried all kinds of .rar repair applications and they don't make any difference.  Pls help x(
+
+are you also using the newest WinRAR??
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 25 Aug 2015, 14:41]
+machine4578 wrote:
+Infinitexs wrote:
+really frustrating when I get my downloads corrupted after three attempts on the 1.2GB download. They all get 100% finished, but when I extract the .rar it is corrupted. I've tried all kinds of .rar repair applications and they don't make any difference.  Pls help x(
+
+are you also using the newest WinRAR??
+
+
+Yes, I'm using the latest Winrar 5.3.
+
+@Anomaly - The mega link is dead already??
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 25 Aug 2015, 16:06]
+machine4578 wrote:
+Total.War.ROME.II.Update.v2.2.0.16019
+Sixe: 1.15GB
+
+Code: Select all | Line number On/Off | Expand/Contract
+http://hugefiles.net/cvy01jdq50rv
+
+NOTE:
+*you MUST have update 2.2.0.15666 installed!
+*thanks to testni for the updated DLC files!!!
+*thanks to Steam006 for this LumaCEG!
+
+
+New mega mirror:
+
+https://mega.nz/#!RkQHAA6K!e9Bk3vtOMpEE ... 7O4harla7I
+
+Password:cs.rin.ru
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 25 Aug 2015, 16:19]
+Good work testni. I'm a bit reluctant to upload 1.2GB myself with my connection and hoped you'd have a much better upload speed than me.
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 25 Aug 2015, 16:19]
+
+_________________
+Always wanted to get rid of the files that were not listed in the sfv/md5 hash file? Check the QuickSFV plugin I created for this: viewtopic.php?f=10&t=108605 or this: viewtopic.php?p=1273745#p1273745
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 25 Aug 2015, 19:52]
+So, its not possible to get the dlcs for the grand campaign on the legit version of total war?
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 25 Aug 2015, 20:10]
+@blastyblasty Make sure your files match this first: http://www75.zippyshare.com/v/mU5RsRBG/file.html
+
+
+Yes it's possible. Either by using Steamwrapper: viewtopic.php?f=10&t=64521 or Brucie's wrapper.
+
+machine4578 wrote:
+Com_J_B_cora wrote:
+Com_J_B_cora wrote:
+Can somebods upload REVOLT wrapper to avtivate all DLCs in a legit game?
+
+So can you do this?
+
+just use Brucie's wrapper, you can get it here.
+viewtopic.php?f=10&t=65887
+
+
+Or (safer) make a backup of the following files from your legit copy: Rome2.dll, steam_api.dll and Steam_CEG.dll if you even have it; probably not.
+Download Machine's crack: http://www22.zippyshare.com/v/v08h6usU/file.html and paste it in your Rome II directory and play the game.
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 25 Aug 2015, 20:10]
+
+_________________
+Always wanted to get rid of the files that were not listed in the sfv/md5 hash file? Check the QuickSFV plugin I created for this: viewtopic.php?f=10&t=108605 or this: viewtopic.php?p=1273745#p1273745
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 25 Aug 2015, 20:45]
+blastyblasty wrote:
+So, its not possible to get the dlcs for the grand campaign on the legit version of total war?
+
+its too bad the game updated steam_api.dll versions and brucies wrapper no longer works. but you can "crack" steam viewtopic.php?f=10&t=64521
+or even try the "special" online crack i posted on the previous page for the pedia fix. viewtopic.php?p=1095820#p1095820
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 25 Aug 2015, 23:24]
+testni wrote:
+machine4578 wrote:
+Total.War.ROME.II.Update.v2.2.0.16019
+Sixe: 1.15GB
+
+Code: Select all | Line number On/Off | Expand/Contract
+http://hugefiles.net/cvy01jdq50rv
+
+NOTE:
+*you MUST have update 2.2.0.15666 installed!
+*thanks to testni for the updated DLC files!!!
+*thanks to Steam006 for this LumaCEG!
+
+
+New mega mirror:
+
+https://mega.nz/#!RkQHAA6K!e9Bk3vtOMpEE ... 7O4harla7I
+
+Password:cs.rin.ru
+
+
+Thank you so much. I will give it another try.  
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 26 Aug 2015, 07:40]
+Thanks for the latest patch, seems there are problems with LumaCEG though, crashes on startup - before main screen.
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 26 Aug 2015, 09:32]
+Ulvinn wrote:
+Thanks for the latest patch, seems there are problems with LumaCEG though, crashes on startup - before main screen.
+
+
+I have no problems whatsoever. Do your files match the latest .sfv file? Have them checked: http://www75.zippyshare.com/v/mU5RsRBG/file.html
+Are you sure all the crack files are in the directory? AVs may delete them without notice. For the sake of extensive troubleshooting, try starting with admin rights.
+Also, have you tried enabling the log in LumaCEG.ini? Change "LogFile = 0" to "LogFile = 1", start the game and post the content of LumaEmu_CEG.log here (in a spoiler please).
+
+Edit: I just noticed that Machine already enabled LumaCEG logging.
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 26 Aug 2015, 09:32]
+
+_________________
+Always wanted to get rid of the files that were not listed in the sfv/md5 hash file? Check the QuickSFV plugin I created for this: viewtopic.php?f=10&t=108605 or this: viewtopic.php?p=1273745#p1273745
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 28 Aug 2015, 15:50]
+chinese_supermarket wrote:
+Just registered to say a big THANK YOU to all -specially those providing the patches and DLCs- for this. I was able to patch TW: Rome II to the latest version without a hassle and it works flawlesly.
+
+I didn't use the Reloaded version but the R.G. Mechanics one.
+Here is what I did:
+
+
+1. Download the R.G. Mechanics version of TW: Rome II: https://pirateproxy.sx/torrent/11194622 ... .Mechanics
+
+2. Install these patches, sequentially, always respecting the order:
+
+Total.War.ROME.II.Update.15_Gaul_and_HATG_Update (Emperor Edition with Gaul and Hannibal DLC!)
+Total.War.ROME.II.Update.15.Hotfix
+Total.War.ROME.II.Update.15_Hotfix_Gaul_and_HATG_Update
+
+Total.War.ROME.II.Update.15.Hotfix.Proper.Crack
+Total.War.ROME.II.Update.16.Black.Sea.Colonies.Culture.Pack
+
+Total.War.ROME.II.Update.16.1.Wrath.of.Sparta (gaul and hatg update included!)
+Total.War.ROME.II.Update.16.1.Wrath.of.Sparta.Crackfix
+
+Total.War.ROME.II.Update.v2.2.0.15539-v2.2.0.15666 (thx machine4578)
+
+4. Copy the crack from the /crack/ folder to the root folder of your game.
+
+5. Activate any mods using the game launcher or the TWR2 Mod-Manager.
+
+6. Done. Total War: Rome 2 version 2.2.0.15666 (latest available to date), ready to play.
+
+
+In case you feel like sandboxing a bit, download Cheat Engine and use the table correspondent to the game version: http://forum.cheatengine.org/viewtopic.php?t=576285
+
+Thanks, happy hunting!
+
+
+Hi there, i've been looking for patches for total war: rome 2 for a long time and i finally i got here.
+
+I have the same version as ^ (vanilla version from this torrent is 13903.584483, which here is known as "Total.War.ROME.II.Update.15_beta_to_final + gamefix! (Emperor Edition)" i quess? So i think instructions from chineese_supermarket seems reasonable), i tried it to patch it once following these instructions and it was going well until i got into Total.War.ROME.II.Update.16.Black.Sea.Colonies.Culture.Pack and i got my first error between 2/13 and 3/13 part of patch installation which was " xdelta3: source file too short: XD3.Invalid.Input", i though that maybe if i will continue, things will sort out, but they didn't and then when i gone to "Total.War.ROME.II.Update.16.1.Wrath.of.Sparta (gaul and hatg update included!)" i got big wall of errors during instalation and before it even finished installing i closed the patcher (which maybe is the cause of my problem  ). Then i reinstalled the game in diffrent directory to try the same thing again but now i can't install any patch without getting mismatch errors on every corner. Is there any fix to this problem, or maybe i need diffrent version of the game, and someone would like to provide a link to download it? I tried even to use previous patches, but they don't work either, which isn't such a big suprise since my version of the game is more uptodate.
+
+For example, when i try to follow the 1st step of instruction, (install Total.War.ROME.II.Update.15_Gaul_and_HATG_Update (Emperor Edition with Gaul and Hannibal DLC!) on frest installation of the game from torrent) then i get mismatch errors and installers have just two parts like 1/2 and 2/2 (i can't remember if there were more parts before), or the installer goes crazy and go something like this 1/2, 2/2, 3/2, 4/2  .
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 28 Aug 2015, 15:57]
+^^
+your best bet is to grab the latest PROPHET release(2.2.0.15666) then patch to the new update 2.2.0.16019(patch 17)
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 28 Aug 2015, 16:06]
+Okey, thank you very much, i will give it a try, if i will find this "Prophet release"  .
+//EDIT i guess i found it  , it wasn't so hard as i though it would be.
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 28 Aug 2015, 17:39]
+Please help, after updating to Patch 17 some of the sounds aren't working. Specifically, voices from soldiers and the adviser during battle/campaign seem to be missing (For example, when you click on the unit/army and they respond). Voices during diplomacy seem to work fine though. Also, the background music is missing. Sounds from clicking on things and the victory shout at the end of a battle, etc seem to be intact still. I have a Russian version of the game that I imported the English text and voice files from, so it still has files that are named music_ru.pack, music_ru_rome2.pack, local_ru_rome2.pack, and local_ru.pack. It does however have local_en_shared_rome2.pack and music_en_shared_rome2.pack. I updated from some previous version of 16.1 to the 15666 one and from that to Patch 17, ignoring the local_en.pack error both times. I'm unable to find really up to date torrents that are still being seeded, having tried and failed both versions from Skidrow. I'm not sure if these are relevant or anything to my problem, but if anyone can help me with this that'd be great.
+
+Thanks in advance,
+Romspart

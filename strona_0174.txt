@@ -1,0 +1,133 @@
+=========================================
+STRONA 174 (URL: https://cs.rin.ru/forum/viewtopic.php?f=10&t=61441&hilit=rome+2&start=2595)
+=========================================
+
+[Data: Sunday, 22 Feb 2015, 01:45]
+bsham wrote:
+I'm uploading gaul pack now. Should be an hour or so, my download speed is amazing, but upload not that fast.
+
+cool, i am making xdelta now for 2.2.0.15539-2.2.0.15666. just waiting on the last 3 files.
+
+thanks for sharing!
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 22 Feb 2015, 03:17]
+Here's the Gaul file:
+
+http://www.mediafire.com/download/3dbxxtchk63bv0l/gaul.pack
+
+The other 2 files I will have to leave my PC running overnight as they bigger files. Plus gotta sleep lol it's 2am in UK. Will post them as soon as they done uploading.
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 22 Feb 2015, 03:24]
+bsham wrote:
+Here's the Gaul file:
+
+http://www.mediafire.com/download/3dbxxtchk63bv0l/gaul.pack
+
+The other 2 files I will have to leave my PC running overnight as they bigger files. Plus gotta sleep lol it's 2am in UK. Will post them as soon as they done uploading.
+
+thanks again 
+
+and just a fyi, if you compress the files, it could save you upload time. 
+under normal WinRAR compression the punic and greek files compress to 860MB.
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 22 Feb 2015, 04:32]
+ok will try that. the greek one i will upload shortly as its uploading faster than i thought and i will compress the punic one as thats the biggest, so may be able to upload the punic one tonight too
+
+-- Edit --
+
+Greek file:
+
+http://www.mediafire.com/download/cthbxshqaful66w/greeks.pack
+
+Punic file is compressed to 529 so should be done with half hour
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 22 Feb 2015, 04:33]
+^^
+nice!
+and thanks again for staying awake doing this 
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 22 Feb 2015, 05:20]
+if you need anything else after i upload the punic file give us a shout
+
+-- Edit --
+
+All done. Punic file here:
+
+https://www.mediafire.com/?ayea17pyzt497r7
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 22 Feb 2015, 05:22]
+great work bsham!
+and i really appreciate you sharing, have a good night sleep!
+
+i will have the xdelta patch done soon.
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 22 Feb 2015, 05:44]
+My pleasure mate. Hope they help you out and yeah defo gotta sleep lol 
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 22 Feb 2015, 05:57]
+Total.War.ROME.II.Update.v2.2.0.15539-v2.2.0.15666 XDELTA
+Size: 23MB
+
+Code: Select all | Line number On/Off | Expand/Contract
+http://www50.zippyshare.com/v/lCnscRna/file.html
+
+NOTE:
+*you MUST have v2.2.0.15539 installed
+*english only
+*thanks to bsham for the updated DLC files
+*thanks to Steam006 for the LumaCEG and ALI213 for their steamemu.
+
+and here is the sfv testni posted if anyone wanted to chack their files after updating
+viewtopic.php?p=1016326#p1016326
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 22 Feb 2015, 08:12]
+thank you
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 22 Feb 2015, 11:00]
+@Rellington
+
+R2:TW GEMFX - Graphic Enhancement Mod 1.0.8
+
+Note: use FreeArc to extract.
+
+Fun trivia (unimportant since "bsham" doesn't sleep ): FreeArc compressed all 5 dlc files from 2.66Gb to 490Mb on normal compression!!!
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 22 Feb 2015, 11:08]
+lastest update ; exit game with error
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 22 Feb 2015, 11:21]
+Many thanks, testni!
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 22 Feb 2015, 12:32]
+Can someone upload last update's english files? i forgot the game i have only have turkish files, and i update the game without en files. So now game working with a deficient turkish.
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 22 Feb 2015, 12:41]
+Can somebods upload REVOLT wrapper to avtivate all DLCs in a legit game?

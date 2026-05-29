@@ -1,0 +1,175 @@
+=========================================
+STRONA 139 (URL: https://cs.rin.ru/forum/viewtopic.php?f=10&t=61441&hilit=rome+2&start=2070)
+=========================================
+
+[Data: Tuesday, 07 Oct 2014, 05:42]
+ShadowDuke wrote:
+Thats also the case when your game gets async in multiplayer. Could be caused by many things. You played over Tunngle?
+
+
+
+hmm , i didnt notice any async at all , as i even played battle in realtime and my brother was spectator , about Tunngle , no i didnt , bcz its on Lan
+
+thx for help anyway
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 07 Oct 2014, 08:32]
+I had the HATG torrent but for some reason Update 15 beta from Xdelta is no longer available, so I removed it and got Emporer Edition torrent....
+
+However, now I have almost poked my eyes out because I have downloaded two different EE torrents and both crash on startup (no, not installed both at once).
+
+So, my question is......
+
+
+Is the Total.War.ROME.II.Update.15_beta still available somewhere because the Firedrive and Zippyshare links are kaput? As the links says it is needed, or can I go from 'Total.War.ROME.II.Update.14_1' to 'Total.War.ROME.II.Update.15_beta_to_final + gamefix! (Emperor Edition)', skipping the Total.War.ROME.II.Update.15_beta???
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 07 Oct 2014, 08:34]
+@aliasme
+if your game is crashing on startup, did you try removing the AppData\Roaming\The Creative Assembly\Rome2 folder to see if it works?
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 07 Oct 2014, 14:41]
+Hi to everyone! I installed Rome 2 Emperor edition version on my pc..I have follow Igec35's instructions about downloading mods from steamworkshopdownloader.com, cancelling bytes until PF4H and then activating with user.script in the page before... This procedure works great with Rome 2 total realism mod! The problem is that I would like to play with Trajans wars mod and these procedure doesn't works... I tried already to activate it with user.script, cancel TheCreativeAssembly folder in app\data\roaming but my efforts was unsuccesfull...it crush on startup! could you help me please?
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 07 Oct 2014, 14:48]
+MigLeader wrote:
+ShadowDuke wrote:
+Thats also the case when your game gets async in multiplayer. Could be caused by many things. You played over Tunngle?
+
+
+
+hmm , i didnt notice any async at all , as i even played battle in realtime and my brother was spectator , about Tunngle , no i didnt , bcz its on Lan
+
+thx for help anyway
+
+
+The async you think avout is different than it is. THis has othing to do with Realtime or anything you think of right now. Its async between two computers, i nthe connection, even on LAN or real LAN, this can happen, i saw it myself. You can see it for instance, if after a few battles you did, you both have different casualties on your screens for the partys.
+
+So you didnt use Tunngle, which is also LAN, but you used real LAN?!
+
+@articdice
+
+You plan the game in eng? Trajan's Wars needs eng version. ALso do you use the new mod? THe old one has 2 parts. Here is the new one i dl'ed for you. http://www78.zippyshare.com/v/82450502/file.html
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 07 Oct 2014, 17:37]
+ShadowDuke wrote:
+MigLeader wrote:
+ShadowDuke wrote:
+Thats also the case when your game gets async in multiplayer. Could be caused by many things. You played over Tunngle?
+
+
+
+hmm , i didnt notice any async at all , as i even played battle in realtime and my brother was spectator , about Tunngle , no i didnt , bcz its on Lan
+
+thx for help anyway
+
+
+The async you think avout is different than it is. THis has othing to do with Realtime or anything you think of right now. Its async between two computers, i nthe connection, even on LAN or real LAN, this can happen, i saw it myself. You can see it for instance, if after a few battles you did, you both have different casualties on your screens for the partys.
+
+So you didnt use Tunngle, which is also LAN, but you used real LAN?!
+
+
+
+ok , i don't know wt do u mean by real LAN , but here wt i did , i created a host in my computer then my brother just joined me through the menus , we played well.
+
+about the async u described , well i didn't look for these things but i will try it and check it out and report back , just saying is there a workaround for the async problems in case i encountered any.
+
+just a small note , its not the only game i played on LAN with my brother , we played also space engineers and spintires , also stronghold crusader 2.
+
+also thanks a lot for helping me bro , and sorry for being a noob in these problems 
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 07 Oct 2014, 20:48]
+machine4578 wrote:
+@aliasme
+if your game is crashing on startup, did you try removing the AppData\Roaming\The Creative Assembly\Rome2 folder to see if it works?
+
+
+
+Hmmm, thought I got rid of everything but that was still there, dated Dec 2013, my HATG install..... DOH!
+
+Oh my....thankyou machine, all works now. : )
+
+Oh well, serves me right I had to d\l two torrents which took a while.
+
+I can now just use Emporer Edition instead of all those patches, and Total.War.ROME.II.Update.15_beta is not around anyways.....
+
+Thankyou again Machine!
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 07 Oct 2014, 21:19]
+articdice wrote:
+Hi to everyone! I installed Rome 2 Emperor edition version on my pc..I have follow Igec35's instructions about downloading mods from steamworkshopdownloader.com, cancelling bytes until PF4H and then activating with user.script in the page before... This procedure works great with Rome 2 total realism mod! The problem is that I would like to play with Trajans wars mod and these procedure doesn't works... I tried already to activate it with user.script, cancel TheCreativeAssembly folder in app\data\roaming but my efforts was unsuccesfull...it crush on startup! could you help me please?
+
+THe mod has two parts, did u download both of them?
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 07 Oct 2014, 21:50]
+If you had read what i wrote you would know that theres a new Version with 1 part only. The 2 part Mod is outdated! If we talk about Trajans Mod.
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 07 Oct 2014, 22:33]
+ShadowDuke wrote:
+If you had read what i wrote you would know that theres a new Version with 1 part only. The 2 part Mod is outdated! If we talk about Trajans Mod.
+
+Even the new version crashed because the new patch brought about a new building system that I guess they didnt bother to upgrade because is huge. I tried to upgrade it to no avail cos since many buildings are new and there´s no reference for changing values keeping the vanilla ones wont do the trick.
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 08 Oct 2014, 06:56]
+do you have a link to the latest Trajan mod ?
+cheers
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 08 Oct 2014, 07:34]
+tanauser wrote:
+do you have a link to the latest Trajan mod ?
+cheers
+
+http://steamcommunity.com/sharedfiles/f ... =307485099
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 08 Oct 2014, 08:38]
+thanks , but there aren't download links for it
+how do you get this , so I could try the Hexaedition trick to see if it's playable
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 08 Oct 2014, 09:31]
+The "Trayan war mod" wont work with Rome 2 EE (patch 15)
+
+From their description on steam workshop:
+
+Quote:
+--- COMPATIBILITY ---
+
+
+COMPATIBLE:
+
+- Fully compatible with present patch (14).
+
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 08 Oct 2014, 10:25]
+Anyone please make a mirror for this download Pleaseeee..... :
+
+Total.War.ROME.II.Update.14_beta + gamefix!
+Total.War.ROME.II.Update.15.beta *xdelta*
+Total.War.ROME.II.Update.15.beta_to_final_Emperor_Edition *xdelta*
+
+because all link is dead.

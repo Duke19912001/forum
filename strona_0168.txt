@@ -1,0 +1,285 @@
+=========================================
+STRONA 168 (URL: https://cs.rin.ru/forum/viewtopic.php?f=10&t=61441&hilit=rome+2&start=2505)
+=========================================
+
+[Data: Friday, 09 Jan 2015, 12:06]
+TG_ wrote:
+@testni. This was my previous post:
+
+
+TG_ wrote:
+Hoping someone can help.
+
+I have the HATG - Reloaded release.
+I patched, in the correct order, all the way up to Update 12 - beta to final without issue. After this I used the testni link for Update 13, then when I tried using testni's link for update 14 beta I recieved a xdelta3 mismatch error. Therefore I decided to use the orignal links all the way upto 14 beta and it worked correctly, however the update 14 gamefix link is broken and I used testni's instead. But when I run it it just patches 1/15 and says patching finished. If i attempt to use the next patch in line (update 15 or the update 14 HATG patch) I recieve xdelta mismatch errors again. So I wondering what to do? is it a problem with testni's gamefix link or am i fucking something up?
+
+thanks in advance and great job guys! 
+
+
+basically when I apply patch 14 gamefix it says "Patching 1/15" then "Patching finishes, press any key to continue". It doesn't go through 2-15. Is this suppose to happen?
+
+
+Dude, the fix is only 1 file! Its just a typo with /15! Its also saying this in the regarding post! Even on the OP it says its a typo!!!!! Also when you look at the patch files you would see its only 1 file!!!!
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 09 Jan 2015, 13:40]
+Did anyone get Total War ROME II Emperor Edition v2.2.0.15539 Incl DLC Cracked-3DM working in multiplayer? Works perfect without it, not crashing at all, but no multiplayer. https://kickass.so/total-war-rome-ii-emperor-edition-v2-2-0-15539-incl-dlc-cracked-3dm-t9974764.html
+
+Mine just freezes when I click Host in LAN. And Steam is disabled. I also tried applying every single crack I came against and none worked. With the RELOADED one I can host, but if its a campaign it crashes after the first turn, and if its a battle it crashes when units are about to collide. Or moments after.
+
+Same on my friend's PC and laptop.
+
+Thanks!
+
+EDIT: There's a lan fix but only for v2.0. And if my memory serves me correctly it crashes during battle loading, always at the same spot around third. Haven't tried campaign with it.
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 10 Jan 2015, 00:57]
+@ShadowDuke
+Derp. My bad, I thought typo was talking about the fix itself. Okay so now I've patched upto beta 15 without issue. But applying the EE 15 beta to final gives me checksum mismatches in data_rome2.pack and local_en_rome2.pack 
+
+I don't really wanna do this all over again. ugh perhaps I'll get the EE-RLD release
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 10 Jan 2015, 13:23]
+UchihaKuriso wrote:
+Did anyone get Total War ROME II Emperor Edition v2.2.0.15539 Incl DLC Cracked-3DM working in multiplayer? Works perfect without it, not crashing at all, but no multiplayer. https://kickass.so/total-war-rome-ii-emperor-edition-v2-2-0-15539-incl-dlc-cracked-3dm-t9974764.html
+
+Mine just freezes when I click Host in LAN. And Steam is disabled. I also tried applying every single crack I came against and none worked. With the RELOADED one I can host, but if its a campaign it crashes after the first turn, and if its a battle it crashes when units are about to collide. Or moments after.
+
+Same on my friend's PC and laptop.
+
+Thanks!
+
+EDIT: There's a lan fix but only for v2.0. And if my memory serves me correctly it crashes during battle loading, always at the same spot around third. Haven't tried campaign with it.
+
+
+Yes, I think is no way till now to play in multiplayer/lan......sadly enough. If anybody manage to get it working in multiplayer, please tell us how.....
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 11 Jan 2015, 18:22]
+can someone upload this two mods thanks http://steamcommunity.com/sharedfiles/f ... =197334227
+
+http://steamcommunity.com/sharedfiles/f ... =358921596
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 12 Jan 2015, 00:26]
+*achillesmne2006*:
+
+mods.rar
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 12 Jan 2015, 14:15]
+testni wrote:
+*achillesmne2006*:
+
+mods.rar
+
+thank you very much
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 12 Jan 2015, 17:54]
+i have REVOLVER version 2.0.0 emperor edition (work fine) , but with Total War ROME II Emperor Edition Update v2.2.0 Incl DLC-RELOADED crash please share the missing french files.... 
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 12 Jan 2015, 17:54]
+
+_________________
+I have certifications EBIOS RM, ISO27005, SECUWEB, PENTESTWEB, PRIM'X (ZED! and Zonecentral), ITIL v3 Foundations & CISCO CCNA1, CCNA2, CCNA3, CCNA4
+Don't hate the hacker, hate the code...
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 13 Jan 2015, 13:56]
+leonardusius wrote:
+UchihaKuriso wrote:
+Did anyone get Total War ROME II Emperor Edition v2.2.0.15539 Incl DLC Cracked-3DM working in multiplayer? Works perfect without it, not crashing at all, but no multiplayer. https://kickass.so/total-war-rome-ii-emperor-edition-v2-2-0-15539-incl-dlc-cracked-3dm-t9974764.html
+
+Mine just freezes when I click Host in LAN. And Steam is disabled. I also tried applying every single crack I came against and none worked. With the RELOADED one I can host, but if its a campaign it crashes after the first turn, and if its a battle it crashes when units are about to collide. Or moments after.
+
+Same on my friend's PC and laptop.
+
+Thanks!
+
+EDIT: There's a lan fix but only for v2.0. And if my memory serves me correctly it crashes during battle loading, always at the same spot around third. Haven't tried campaign with it.
+
+
+Yes, I think is no way till now to play in multiplayer/lan......sadly enough. If anybody manage to get it working in multiplayer, please tell us how.....
+
+
+For the love of god why does it keep saying web page not available when I try to open these forums. I fixed the game and multiplayer like a day after posting and been trying to open this forum to post what worked for me.
+
+Anyway I have absolutely no idea how I got it to work but it does work now perfectly. Not a single crash, singleplayer or multiplayer. And I have a decade old computer well below the minimum requirements.
+
+I was on my way to bed and didn't expect the page to open so I don't have the files ready. But I'll post tomorrow. Basically once it worked I just took all the game root folder files and copied them to my friends laptop and it worked for him too. We played LAN over Tunngle ever since. So I'll upload the same. You probably don't need all of them, but since I have no idea how I got it working, and copying all of them worked for my friend, that's what I'll upload. 
+
+-- Edit --
+
+Alright here it is. It would be great if someone can actually tell me which part of this fixes it. Because it didn't work before, and now it works. 
+
+It works with the 3DM Emperor Edition 2.2 version I linked above ^
+
+Just copy the files into the game root folder and overwrite everything.
+
+What I also did was:
+
+- Install the following from the game folder, in that exact order.
+1. vcredist_x86-90.exe
+2. vcredist_x86-100-sp1.exe
+3. vcredist_x86-80-sp1.exe
+
+- Add the game folder to exclusion list of your antivirus. NOD32 tends to block stuff and quarantines cracks, as do many others.
+- Go into Rome2.exe properties and if there is an "Unblock" option, unblock it. And in compatibility set it to run as administrator.
+- Delete the scripts file in your appdata/Creative Assembly/scripts (I don't think its necessary, only if your game isn't running at all) itll reset all the settings, so you'll need to set them up again.
+
+Download: https://drive.google.com/file/d/0B59cqpXBPHHxMUtGN2IwT0FpRmc/view?usp=sharing
+
+Backup everything before you experiment! Unless you feel like reinstalling or unpacking all over again. For my relic of a computer that's not an option. 
+
+Tell me if it works for you guys too!
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 13 Jan 2015, 19:22]
+ Spoiler
+RezMar wrote:
+TWRII SteamFix - Update 16 v2.1.0-15239 by REVOLT
+http://www54.zippyshare.com/v/19074760/file.html
+
+I am using this its from 2.0.0 with new cracked Rome2.dll for last version. I didn't test multiplayer because my friend don't have last version of game...
+
+Have a nice day. 
+
+
+As RezMar pointed out, download the latest Revolt Steamfix for this game: Total.War.ROME.II.V2.0.0.Steamworks.Fix-RVTFiX: ftp://revolt:1234@revolt.loginto.me/Tot ... RVTFiX.rar
+and use the latest version of the cracked Rome2.dll. There's your LAN fix. Done.
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 13 Jan 2015, 19:22]
+
+_________________
+Always wanted to get rid of the files that were not listed in the sfv/md5 hash file? Check the QuickSFV plugin I created for this: viewtopic.php?f=10&t=108605 or this: viewtopic.php?p=1273745#p1273745
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 14 Jan 2015, 14:22]
+It works. Good job. Thank you. But only one question, please: in steam hosted online games are only a few factions you can choose; what to do to have more, something like ''all factions playable'' ?
+Cheers.
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 14 Jan 2015, 23:26]
+UchihaKuriso wrote:
+leonardusius wrote:
+UchihaKuriso wrote:
+Did anyone get Total War ROME II Emperor Edition v2.2.0.15539 Incl DLC Cracked-3DM working in multiplayer? Works perfect without it, not crashing at all, but no multiplayer. https://kickass.so/total-war-rome-ii-emperor-edition-v2-2-0-15539-incl-dlc-cracked-3dm-t9974764.html
+
+Mine just freezes when I click Host in LAN. And Steam is disabled. I also tried applying every single crack I came against and none worked. With the RELOADED one I can host, but if its a campaign it crashes after the first turn, and if its a battle it crashes when units are about to collide. Or moments after.
+
+Same on my friend's PC and laptop.
+
+Thanks!
+
+EDIT: There's a lan fix but only for v2.0. And if my memory serves me correctly it crashes during battle loading, always at the same spot around third. Haven't tried campaign with it.
+
+
+Yes, I think is no way till now to play in multiplayer/lan......sadly enough. If anybody manage to get it working in multiplayer, please tell us how.....
+
+
+For the love of god why does it keep saying web page not available when I try to open these forums. I fixed the game and multiplayer like a day after posting and been trying to open this forum to post what worked for me.
+
+Anyway I have absolutely no idea how I got it to work but it does work now perfectly. Not a single crash, singleplayer or multiplayer. And I have a decade old computer well below the minimum requirements.
+
+I was on my way to bed and didn't expect the page to open so I don't have the files ready. But I'll post tomorrow. Basically once it worked I just took all the game root folder files and copied them to my friends laptop and it worked for him too. We played LAN over Tunngle ever since. So I'll upload the same. You probably don't need all of them, but since I have no idea how I got it working, and copying all of them worked for my friend, that's what I'll upload. 
+
+-- Edit --
+
+Alright here it is. It would be great if someone can actually tell me which part of this fixes it. Because it didn't work before, and now it works. 
+
+It works with the 3DM Emperor Edition 2.2 version I linked above ^
+
+Just copy the files into the game root folder and overwrite everything.
+
+What I also did was:
+
+- Install the following from the game folder, in that exact order.
+1. vcredist_x86-90.exe
+2. vcredist_x86-100-sp1.exe
+3. vcredist_x86-80-sp1.exe
+
+- Add the game folder to exclusion list of your antivirus. NOD32 tends to block stuff and quarantines cracks, as do many others.
+- Go into Rome2.exe properties and if there is an "Unblock" option, unblock it. And in compatibility set it to run as administrator.
+- Delete the scripts file in your appdata/Creative Assembly/scripts (I don't think its necessary, only if your game isn't running at all) itll reset all the settings, so you'll need to set them up again.
+
+Download: https://drive.google.com/file/d/0B59cqpXBPHHxMUtGN2IwT0FpRmc/view?usp=sharing
+
+Backup everything before you experiment! Unless you feel like reinstalling or unpacking all over again. For my relic of a computer that's not an option. 
+
+Tell me if it works for you guys too!
+
+
+
+hey man, this worked great, it got us one step closer to playing multiplayer! but just one problem, when i load the game, we both are playing the same faction, instead of the ones we chose, any idea how to fix that?
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 15 Jan 2015, 06:21]
+hey guys noob question I have emperor edition v2.0, in what order i have to update?
+
+i tried :
+
+update 15 hot fix
+update 16
+update 16 Gaul and HATG
+update 16.1 wrath of sparta
+update 16.1 crackfix
+
+but I open the game immediately crashes
+
+pls help
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 15 Jan 2015, 08:39]
+vrigor wrote:
+hey guys noob question I have emperor edition v2.0, in what order i have to update?
+
+i tried :
+
+update 15 hot fix
+update 16
+update 16 Gaul and HATG
+update 16.1 wrath of sparta
+update 16.1 crackfix
+
+but I open the game immediately crashes
+
+pls help
+
+check OP
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 16 Jan 2015, 01:48]
+Quote:
+It works. Good job. Thank you. But only one question, please: in steam hosted online games are only a few factions you can choose; what to do to have more, something like ''all factions playable'' ?
+Cheers.
+
+
+No idea man, I didn't try getting it to work over Steam, we only played LAN, and everything playable in singleplayer works over LAN too. Maybe check that you're looking for only games with your version?
+
+
+Quote:
+hey man, this worked great, it got us one step closer to playing multiplayer! but just one problem, when i load the game, we both are playing the same faction, instead of the ones we chose, any idea how to fix that?
+
+
+Also no idea lol, that's the first I heard of that problem. Is that campaign or battle? Maybe setting it to co-op in campaign makes that happen. We only played against each other and it was fine.

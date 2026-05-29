@@ -1,0 +1,268 @@
+=========================================
+STRONA 127 (URL: https://cs.rin.ru/forum/viewtopic.php?f=10&t=61441&hilit=rome+2&start=1890)
+=========================================
+
+[Data: Thursday, 18 Sep 2014, 10:47]
+how to edit .pack archives?
+
+Spanish files (1´28Gb)
+PASS punchao
+
+ Spoiler
+Code: Select all | Line number On/Off | Expand/Contract
+http://www21.zippyshare.com/v/7572322/file.html
+http://www21.zippyshare.com/v/59048667/file.html
+http://www21.zippyshare.com/v/86829113/file.html
+http://www21.zippyshare.com/v/19795982/file.html
+http://www21.zippyshare.com/v/73804228/file.html
+http://www21.zippyshare.com/v/25240093/file.html
+http://www21.zippyshare.com/v/82688555/file.html
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 18 Sep 2014, 10:47]
+
+_________________
+
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 18 Sep 2014, 10:48]
+Maybe because in past i worked for mentally insufficiently developed (retarded) people when i was civilian soldier. And because i learn to be polite to anyone, and most of because this is just the internet 
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 18 Sep 2014, 10:48]
+
+_________________
+List of some Computer games CLICK ME
+
+  
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 18 Sep 2014, 10:51]
+punchao wrote:
+how to edit .pack archives?
+
+
+http://www.twcenter.net/forums/showthread.php?618353
+
+google ftw.
+
+
+RezMar wrote:
+Maybe because in past i worked for mentally insufficiently developed (retarded) people when i was civilian soldier. And because i learn to be polite to anyone, and most of because this is just the internet 
+
+
+Good attitude. 
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 18 Sep 2014, 10:53]
+prudislav wrote:
+G4U55 wrote:
+You can download your lang pack here
+
+
+Code: Select all | Line number On/Off | Expand/Contract
+https://kickass.to/total-war-rome-ii-em ... .html#main
+
+
+when you add it to torrent client, select only your language in \content\ . I tested italian and works fine.
+
+tried to use CZ one with RLD crack and game crashs on gaul and hannibal campaign 
+
+screen of the problem - i guess its tied to those icons on gaul and hannibal
+
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 18 Sep 2014, 10:53]
+
+_________________
+mostly inactive until at least half of july 2025
+
+If any of my uploads are outdated or no longer online , the best way to do is to send me a PM and i will add the title to the next batch
+UPLOADS PAUSED (have all requests in queue for when i am back to being more active)
+
+List of recent games with modern DRMs:(updated 01-Mar-2023) - http://cs.rin.ru/forum/viewtopic.php?f=10&t=68151
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 18 Sep 2014, 10:54]
+ShadowDuke wrote:
+punchao wrote:
+how to edit .pack archives?
+
+
+http://www.twcenter.net/forums/showthread.php?618353
+
+google ftw.
+
+
+Thanks
+Don´t worry be happy 
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 18 Sep 2014, 10:54]
+
+_________________
+
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 18 Sep 2014, 10:55]
+ShadowDuke wrote:
+RezMar
+Thanks for the kind words.
+
+Whatever.
+https://www.firedrive.com/file/8CF5B65CFB483FEC
+ Weird? I don't care. Thanks! 
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 18 Sep 2014, 10:57]
+I have a request if I can:
+Can someone upload this files:
+
+Code: Select all | Line number On/Off | Expand/Contract
+data\text\default_keys_osx.xml
+data\text\Disclaimers.html
+data\text\default_keys.xml
+data\text\credits.xml
+
+Checksum are not the same with machine and one file is missing (default_keys_osx.xml).
+I think most of them (or all) are not important but i would like to have updated...
+
+Thx in advance...
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 18 Sep 2014, 10:57]
+
+_________________
+List of some Computer games CLICK ME
+
+  
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 18 Sep 2014, 11:07]
+http://www1.zippyshare.com/v/57275647/file.html
+Yes they arent important.
+
+Edit: Sry, the disclaimers.html is on german ^^ my game is atm on german, if i chose eng again its gonna download all files (sound/music) again and just for disclaimers.html thats a bit too much ^^
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 18 Sep 2014, 11:11]
+Thx once again.
+But still not the same checksum like machine have with this 2 files:
+
+Code: Select all | Line number On/Off | Expand/Contract
+data\text\Disclaimers.html
+data\text\default_keys.xml
+But they are not important... But now i have proper credits 
+
+Edit: Its ok... Don't do it. I know its not important...
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 18 Sep 2014, 11:11]
+
+_________________
+List of some Computer games CLICK ME
+
+  
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 18 Sep 2014, 11:18]
+prudislav wrote:
+prudislav wrote:
+G4U55 wrote:
+You can download your lang pack here
+
+
+Code: Select all | Line number On/Off | Expand/Contract
+https://kickass.to/total-war-rome-ii-em ... .html#main
+
+
+when you add it to torrent client, select only your language in \content\ . I tested italian and works fine.
+
+tried to use CZ one with RLD crack and game crashs on gaul and hannibal campaign 
+
+screen of the problem - i guess its tied to those icons on gaul and hannibal
+
+
+
+im using reloaded version with cz pack too and i dont have this icon (DLC work) also i used your .sfv file and it match except cracked files and some encyklopedia files (sfv used before i added cz pack)
+
+There is my sfv i deleted launcher folder and changed name in steam_api.ini
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 18 Sep 2014, 11:19]
+@Sisah thats strange
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 18 Sep 2014, 11:19]
+
+_________________
+mostly inactive until at least half of july 2025
+
+If any of my uploads are outdated or no longer online , the best way to do is to send me a PM and i will add the title to the next batch
+UPLOADS PAUSED (have all requests in queue for when i am back to being more active)
+
+List of recent games with modern DRMs:(updated 01-Mar-2023) - http://cs.rin.ru/forum/viewtopic.php?f=10&t=68151
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 18 Sep 2014, 11:54]
+turkish lang.
+
+http://www.firedrive.com/file/B8317333D04AAC70
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 18 Sep 2014, 12:19]
+After updating to the newest patch, I cant play the imperator augustus dlc while other dlc is fined and the main campaign too. Every time I try to load the new dlc, the game crash. I am really appreciate if some1 could show me how to fix this prob and sry if some1 already ask the same question 
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 18 Sep 2014, 12:29]
+Sisah wrote:
+im using reloaded version with cz pack too and i dont have this icon (DLC work) also i used your .sfv file and it match except cracked files and some encyklopedia files (sfv used before i added cz pack)
+
+There is my sfv i deleted launcher folder and changed name in steam_api.ini
+
+apart from crack it matches 100% , can you upload crack files (Rome2.dll,Steam_api dll and ini)- i guess the RLD crack-only i downloaded couple pages ago is broken
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 18 Sep 2014, 12:29]
+
+_________________
+mostly inactive until at least half of july 2025
+
+If any of my uploads are outdated or no longer online , the best way to do is to send me a PM and i will add the title to the next batch
+UPLOADS PAUSED (have all requests in queue for when i am back to being more active)
+
+List of recent games with modern DRMs:(updated 01-Mar-2023) - http://cs.rin.ru/forum/viewtopic.php?f=10&t=68151
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 18 Sep 2014, 12:31]
+If someone wants SteamFix crack here you go from REVOLT
+ftp://revolt:1234@revolt.loginto.me/Total.War.ROME.II.V2.0.0.Steamworks.Fix-RVTFiX.rar
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 18 Sep 2014, 12:31]
+
+_________________
+List of some Computer games CLICK ME

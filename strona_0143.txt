@@ -1,0 +1,182 @@
+=========================================
+STRONA 143 (URL: https://cs.rin.ru/forum/viewtopic.php?f=10&t=61441&hilit=rome+2&start=2130)
+=========================================
+
+[Data: Saturday, 18 Oct 2014, 15:04]
+https://dsi0fanyw80ls.cloudfront.net/en ... ooperation
+I´m modding the icons in the technology folder BUT one appears in the game which is not in that specific folder.
+
+Does anyone know where it is?
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 18 Oct 2014, 17:22]
+Update 13
+
+http://www.mediafire.com/download/zirnk ... e/up_13.7z
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 18 Oct 2014, 17:45]
+MDS wrote:
+Update 13
+
+http://www.mediafire.com/download/zirnk ... e/up_13.7z
+
+
+Thanks MDS.. Appreciate it.. Now, have you still got patch 14 beat +cracfix and hotfix??
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 18 Oct 2014, 19:20]
+fyi you dont need an old crack when you use a newer release.
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 18 Oct 2014, 22:43]
+ShadowDuke wrote:
+fyi you dont need an old crack when you use a newer release.
+
+
+Umm but im at version 13.1 ... I need to patch it to 14 beta... Then to 14.1 and finally to 15... I buy the game at version 11 when I installed it.
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 19 Oct 2014, 19:56]
+Riki_Stealth wrote:
+ShadowDuke wrote:
+fyi you dont need an old crack when you use a newer release.
+
+
+Umm but im at version 13.1 ... I need to patch it to 14 beta... Then to 14.1 and finally to 15... I buy the game at version 11 when I installed it.
+
+What do u mean u bought the game? if your game is legit why are u here?
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 19 Oct 2014, 23:19]
+It's a long story to tell you ... I just need a patch...   if don't, it's okay.
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 20 Oct 2014, 11:04]
+Rome 2 Patch 14 beta + gamefix.part1.rar
+Rome 2 Patch 14 beta + gamefix.part2.rar
+
+Rome 2 Patch 15 beta.rar
+
+Other links in the opening post should still work.
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 20 Oct 2014, 12:25]
+testni wrote:
+Rome 2 Patch 14 beta + gamefix.part1.rar
+Rome 2 Patch 14 beta + gamefix.part2.rar
+
+Rome 2 Patch 15 beta.rar
+
+Other links in the opening post should still work.
+
+
+
+Thank you so much dude.. Appreciate it
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 22 Oct 2014, 17:39]
+I've been a fellow reader of your forum for a long time now, and i wanted to thank you for all your excellent work.
+
+So, if it hasn't been posted yet, this is the REVOLT lan AND online steamworks fix for rome 2 emperor edition (2.0.0).
+Tested by me and a friend, works like a charm!
+
+You just need a RELOADED release and vanilla steam client.
+https://yadi.sk/d/vj5r9ZjxbbDGw
+
+Enjoy!
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 23 Oct 2014, 10:24]
+I have Total Rome 2 Emperor edition 2.0.0 can I play on steam?
+
+it's a pirate version. I play on tunngle but i wanna play online steam, anyone can share with me?
+
+mettemuqua007@rocketmail.com share with me...
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 23 Oct 2014, 15:43]
+geisuper007 wrote:
+I have Total Rome 2 Emperor edition 2.0.0 can I play on steam?
+
+it's a pirate version. I play on tunngle but i wanna play online steam, anyone can share with me?
+
+mettemuqua007@rocketmail.com share with me...
+
+
+Lol. Read previous post please.
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 23 Oct 2014, 15:43]
+
+_________________
+Always wanted to get rid of the files that were not listed in the sfv/md5 hash file? Check the QuickSFV plugin I created for this: viewtopic.php?f=10&t=108605 or this: viewtopic.php?p=1273745#p1273745
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 25 Oct 2014, 04:25]
+my game crashed while on "ROME TOTAL WAR EMPEROR EDITION" splash screen before SEGA .... anyone know how to fix this damn thing??
+
+Problem signature:
+Problem Event Name: APPCRASH
+Application Name: Rome2.exe
+Application Version: 2.0.0.0
+Application Timestamp: 54172ac9
+Fault Module Name: Rome2.dll
+Fault Module Version: 2.0.0.0
+Fault Module Timestamp: 54172a4d
+Exception Code: 80000003
+Exception Offset: 0081a054
+OS Version: 6.1.7601.2.1.0.256.48
+Locale ID: 1033
+Additional Information 1: 0a9e
+Additional Information 2: 0a9e372d3b4ad19135b953a78882e789
+Additional Information 3: 0a9e
+Additional Information 4: 0a9e372d3b4ad19135b953a78882e789
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 25 Oct 2014, 07:12]
+Riki_Stealth wrote:
+my game crashed while on "ROME TOTAL WAR EMPEROR EDITION" splash screen before SEGA .... anyone know how to fix this damn thing??
+
+Problem signature:
+Problem Event Name: APPCRASH
+Application Name: Rome2.exe
+Application Version: 2.0.0.0
+Application Timestamp: 54172ac9
+Fault Module Name: Rome2.dll
+Fault Module Version: 2.0.0.0
+Fault Module Timestamp: 54172a4d
+Exception Code: 80000003
+Exception Offset: 0081a054
+OS Version: 6.1.7601.2.1.0.256.48
+Locale ID: 1033
+Additional Information 1: 0a9e
+Additional Information 2: 0a9e372d3b4ad19135b953a78882e789
+Additional Information 3: 0a9e
+Additional Information 4: 0a9e372d3b4ad19135b953a78882e789
+
+
+Delete your Rome II Roaming folder and it should work after, if it doesn't reinstall.
+
+C:\Users\WhateverYourPCNameIs\AppData\Roaming\The Creative Assembly
+
+^Substitute the WhateverYourPCNameIs with your PC name.
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 26 Oct 2014, 12:16]
+Can I port my RTWII game installation from one HDD to another ? How ? It's so time consuming to install fresh and to get all mods.....

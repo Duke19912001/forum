@@ -1,0 +1,159 @@
+=========================================
+STRONA 176 (URL: https://cs.rin.ru/forum/viewtopic.php?f=10&t=61441&hilit=rome+2&start=2625)
+=========================================
+
+[Data: Sunday, 22 Feb 2015, 17:02]
+machine4578 wrote:
+Com_J_B_cora wrote:
+Com_J_B_cora wrote:
+Can somebods upload REVOLT wrapper to avtivate all DLCs in a legit game?
+
+
+So can you do this?
+
+just use Brucie's wrapper, you can get it here.
+viewtopic.php?f=10&t=65887
+
+
+Ok, I got it and added some DLC in steam_api.ini (file below). Is it right like this? Steam still says "not installed for th DLC.
+
+Edit: File removed
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 22 Feb 2015, 17:18]
+@Com_J_B_cora
+check your pm.
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 22 Feb 2015, 17:47]
+machine4578 wrote:
+@Com_J_B_cora
+check your pm.
+
+
+Thanks.
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 22 Feb 2015, 22:06]
+testni wrote:
+@Rellington
+
+R2:TW GEMFX - Graphic Enhancement Mod 1.0.8
+
+Note: use FreeArc to extract.
+
+Fun trivia (unimportant since "bsham" doesn't sleep ): FreeArc compressed all 5 dlc files from 2.66Gb to 490Mb on normal compression!!!
+
+
+Thanks, working perfectly!
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 23 Feb 2015, 18:43]
+Have 3DM v2.2.0.15539 installed. 15539 sfv from this thread shows all green, except steam_api.dll.
+It works fine but I still can't update it with latest 15666 x-delta. I can run it with crack included and then ingame shows proper build(15666) but files can't be updated. Same errors like few posts back.
+
+Is included xdelta for 64bit OS? I have win7 32bit, maybe thats the reason why I can't update? 
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 23 Feb 2015, 18:43]
+
+_________________
+01000111 01101000 01101111 01110011 01110100 00100000 01110111 01101000 01100101 01110010 01100101 00100000 01100001 01110010 01100101 00100000 01111001 01101111 01110101 00111111 00100000 01000100 01100101 01101100 01100101 01110100 01100101 00100000 01110100 01101000 01101001 01110011 00100000 01110000 01101111 01110011 01110100 00101100 00100000 01101001 01100110 00100000 01111001 01101111 01110101 00100000 01100100 01100001 01110010 01100101 00101110
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 23 Feb 2015, 19:32]
+Igec35 wrote:
+Have 3DM v2.2.0.15539 installed. 15539 sfv from this thread shows all green, except steam_api.dll.
+It works fine but I still can't update it with latest 15666 x-delta. I can run it with crack included and then ingame shows proper build(15666) but files can't be updated. Same errors like few posts back.
+
+Is included xdelta for 64bit OS? I have win7 32bit, maybe thats the reason why I can't update? 
+
+xdelta.exe is x86 so it will work on any OS.. make sure your game is not installed in the Program Files(x86) dir.. xdelta patches can give issues when istalled there.
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 23 Feb 2015, 22:51]
+Machine can you post your patch without installer? Like it was done in previous updates.
+
+Thanks.
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 23 Feb 2015, 22:51]
+
+_________________
+01000111 01101000 01101111 01110011 01110100 00100000 01110111 01101000 01100101 01110010 01100101 00100000 01100001 01110010 01100101 00100000 01111001 01101111 01110101 00111111 00100000 01000100 01100101 01101100 01100101 01110100 01100101 00100000 01110100 01101000 01101001 01110011 00100000 01110000 01101111 01110011 01110100 00101100 00100000 01101001 01100110 00100000 01111001 01101111 01110101 00100000 01100100 01100001 01110010 01100101 00101110
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 23 Feb 2015, 23:55]
+Igec35 wrote:
+Machine can you post your patch without installer? Like it was done in previous updates.
+
+Thanks.
+
+extract it yourself(install to blank dir and close cmd window).. but to be honest it should make NO difference, the xdelta patch should work either way.
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 24 Feb 2015, 01:58]
+No way I can update this no matter what I do.
+
+There was an update prior to build 15666, from build v2.2.0.15539 to v2.2.0 Build 15558.627558. Is it included in latest x-delta?
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 24 Feb 2015, 01:58]
+
+_________________
+01000111 01101000 01101111 01110011 01110100 00100000 01110111 01101000 01100101 01110010 01100101 00100000 01100001 01110010 01100101 00100000 01111001 01101111 01110101 00111111 00100000 01000100 01100101 01101100 01100101 01110100 01100101 00100000 01110100 01101000 01101001 01110011 00100000 01110000 01101111 01110011 01110100 00101100 00100000 01101001 01100110 00100000 01111001 01101111 01110101 00100000 01100100 01100001 01110010 01100101 00101110
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 24 Feb 2015, 02:10]
+Total.War.ROME.II.Update.v2.2.0.15539-v2.2.0.15666 XDELTA
+Size: 23MB
+Code: Select all | Line number On/Off | Expand/Contract
+http://www50.zippyshare.com/v/lCnscRna/file.html
+
+NOTE:
+*you MUST have v2.2.0.15539 installed
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 24 Feb 2015, 02:18]
+@Igec35
+there was NO update after v2.2.0.15539 posted here or anywhere else i know of. you can even check page 1!
+and since it seems you are the only one having issues, i suggest you reinstall your game and start the updating over.
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 24 Feb 2015, 11:59]
+Guys.
+Can someone tell me how to get mods working with COOP and a cracked game?
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 24 Feb 2015, 12:12]
+iZver wrote:
+Guys.
+Can someone tell me how to get mods working with COOP and a cracked game?
+
+to get mods working for TWR2, you can use the org launcher\Launcher.exe or the TWR2 Mod Manager
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 25 Feb 2015, 15:18]
+can someone upload this mod? http://steamcommunity.com/sharedfiles/filedetails/?id=354928507&searchtext=No+AI+agents thanks
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 25 Feb 2015, 15:27]
+@cowkiller:
+mods_no_ai_agents.rar

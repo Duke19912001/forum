@@ -1,0 +1,249 @@
+=========================================
+STRONA 147 (URL: https://cs.rin.ru/forum/viewtopic.php?f=10&t=61441&hilit=rome+2&start=2190)
+=========================================
+
+[Data: Friday, 21 Nov 2014, 09:25]
+Make sure you have the needed files before updating? Im not gonna repeat that every single patch...im writing each patch what you need to update already.
+
+Im always testing before uploading if theres mismatch errors on prev. Versions, which you need and there weren't.
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 21 Nov 2014, 09:25]
+@Jepp01
+U need to update to 15 hotfix too
+
+@ShadowDuke
+Thx for the updates
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 21 Nov 2014, 09:25]
+
+_________________
+List of some Computer games CLICK ME
+
+  
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 21 Nov 2014, 09:35]
+Ok. I think I updated Patch 15 hotfix and happen to overwrite with Patch 15 Final language file? Gonna update from hotfix again. Let's see if it works!! 
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 21 Nov 2014, 09:42]
+yes that seems very likely.
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 21 Nov 2014, 12:49]
+@ShadowDuke
+Ok. Running smooth and texts showing up now!! Thanks for helping me all the way out 
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 21 Nov 2014, 20:51]
+Hi. I have the Total.War.ROME.II.Emperor.Edition-RELOADED version.
+
+Tried to install the patches in this order:
+1. Total.War.ROME.II.Update.15.Gaul_and_HATG_Update
+2. Total.War.ROME.II.Update.15.Hotfix_Gaul_and_HATG_Update
+3. Total.War.ROME.II.Update.16.Gaul.and.HATG
+
+But now the application crashes. Is there anything else which is needed to be installed?
+Can anyone write me an "install order" with links please?
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 21 Nov 2014, 20:55]
+This -> http://cs.rin.ru/forum/viewtopic.php?p=977976#p977976
+And this if u want it -> http://cs.rin.ru/forum/viewtopic.php?p=977988#p977988
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 21 Nov 2014, 20:55]
+
+_________________
+List of some Computer games CLICK ME
+
+  
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 21 Nov 2014, 21:57]
+Gülredy wrote:
+Hi. I have the Total.War.ROME.II.Emperor.Edition-RELOADED version.
+
+Tried to install the patches in this order:
+1. Total.War.ROME.II.Update.15.Gaul_and_HATG_Update
+2. Total.War.ROME.II.Update.15.Hotfix_Gaul_and_HATG_Update
+3. Total.War.ROME.II.Update.16.Gaul.and.HATG
+
+But now the application crashes. Is there anything else which is needed to be installed?
+Can anyone write me an "install order" with links please?
+
+
+Make sure you used all the patches and don't mix up crack files.
+
+
+ Spoiler
+Go to the first page/post and make sure you have the 5 following updates.
+
+Total.War.ROME.II.Update.15_Gaul_and_HATG_Update
+Total.War.ROME.II.Update.15.Hotfix
+Total.War.ROME.II.Update.15_Hotfix_Gaul_and_HATG_Update
+
+Total.War.ROME.II.Update.16.Black.Sea.Colonies.Culture.Pack
+Total.War.ROME.II.Update.16_Gaul_and_HATG_Update
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 21 Nov 2014, 21:57]
+
+_________________
+Always wanted to get rid of the files that were not listed in the sfv/md5 hash file? Check the QuickSFV plugin I created for this: viewtopic.php?f=10&t=108605 or this: viewtopic.php?p=1273745#p1273745
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 22 Nov 2014, 17:03]
+Anomaly wrote:
+Go to the first page/post and make sure you have the 5 following updates.
+
+Total.War.ROME.II.Update.15_Gaul_and_HATG_Update
+Total.War.ROME.II.Update.15.Hotfix
+Total.War.ROME.II.Update.15_Hotfix_Gaul_and_HATG_Update
+
+Total.War.ROME.II.Update.16.Black.Sea.Colonies.Culture.Pack
+Total.War.ROME.II.Update.16_Gaul_and_HATG_Update
+
+
+Thanks! took me a while browing in all the topics and downloaded the updates you mention as well as the Reloaded Emperor Editions..
+
+
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 23 Nov 2014, 10:28]
+Now I'm doing it in this order, but its still not good:
+
+1_Total.War.ROME.II.Update.15.Hotfix -> okay installed without errors
+2_Total.War.ROME.II.Update.15.Gaul_and_HATG_Update -> xdelta3: target window checksum mismatch: XD3_INVALID_INPUT
+3_Total.War.ROME.II.Update.15.Hotfix_Gaul_and_HATG_Update -> did not reach this
+4_Total.War.ROME.II.Update.16 -> did not reach this
+5_Total.War.ROME.II.Update.16.Gaul.and.HATG. -> did not reach this
+
+The seond patch only tries to install two files but both write the same error.
+I even tried to copy the crack too from the first, but its not better.
+
+Should I download the second patch again, because its corrupted, or what am I missing?
+The install order is wrong?
+
+Is it possible to put all the patches per version into one install file?
+So it could save a lot of time. For example all patch 15 files are in one install file.
+
+-- Edit --
+
+Without the second update, I've installed all other without errors. It seems the game working fine.
+One thing I've noticed, that after insalling upgraded to patch 15, in the main menu top right corner it sait game version 14....
+After installing patch 16 it says version 15....
+
+Is it okay? Shouldn't it be a number starting with 16?
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 23 Nov 2014, 11:20]
+Gülredy wrote:
+Hi. I have the Total.War.ROME.II.Emperor.Edition-RELOADED version.
+
+Tried to install the patches in this order:
+1. Total.War.ROME.II.Update.15.Gaul_and_HATG_Update
+2. Total.War.ROME.II.Update.15.Hotfix_Gaul_and_HATG_Update
+3. Total.War.ROME.II.Update.16.Gaul.and.HATG
+
+But now the application crashes. Is there anything else which is needed to be installed?
+Can anyone write me an "install order" with links please?
+
+
+Did you try to delete the whole "Rome 2" folder from C:\Users\your_username\AppData\Roaming\The Creative Assembly\Rome2 ?
+Do it after applying update number 16, then run the game.
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 23 Nov 2014, 11:20]
+
+_________________
+The owls are not what they seem.
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 23 Nov 2014, 13:08]
+Hi,
+While installing patch 16, it gave me window checksum mismatch XD3_invalid_input error in 1. data_rome2.pack
+2. local_en_rome2
+3. models2_rome2.pack
+I have Total.War.ROME.II.Emperor.Edition-RELOADED, i installed update 15 hotfix successfully before update 16
+
+Thanks
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 24 Nov 2014, 08:13]
+Gülredy wrote:
+Now I'm doing it in this order, but its still not good:
+
+1_Total.War.ROME.II.Update.15.Hotfix -> okay installed without errors
+2_Total.War.ROME.II.Update.15.Gaul_and_HATG_Update -> xdelta3: target window checksum mismatch: XD3_INVALID_INPUT
+3_Total.War.ROME.II.Update.15.Hotfix_Gaul_and_HATG_Update -> did not reach this
+4_Total.War.ROME.II.Update.16 -> did not reach this
+5_Total.War.ROME.II.Update.16.Gaul.and.HATG. -> did not reach this
+
+The seond patch only tries to install two files but both write the same error.
+I even tried to copy the crack too from the first, but its not better.
+
+Should I download the second patch again, because its corrupted, or what am I missing?
+The install order is wrong?
+
+Is it possible to put all the patches per version into one install file?
+So it could save a lot of time. For example all patch 15 files are in one install file.
+
+-- Edit --
+
+Without the second update, I've installed all other without errors. It seems the game working fine.
+One thing I've noticed, that after insalling upgraded to patch 15, in the main menu top right corner it sait game version 14....
+After installing patch 16 it says version 15....
+
+Is it okay? Shouldn't it be a number starting with 16?
+
+
+How about you look at the order and dont mess up like you think its right!? The Order is not just there for fun! Look at the 1st post of this thread! And at each upload postings theres also a link what you need to have installed!
+
+Total.War.ROME.II.Update.15.Gaul_and_HATG_Update not needed for RLD, its already included, stick to order!
+
+It does not have to show 16....and again, how about you look at the upload-postings!? The buildnr. is shown there only to prevent just questions!
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 24 Nov 2014, 16:33]
+ShadowDuke wrote:
+Total.War.ROME.II.Update.15.Gaul_and_HATG_Update not needed for RLD, its already included
+
+
+Was this previously mentioned? It's the first time that I see it (also noticed you changed it today in the summary).
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 24 Nov 2014, 16:33]
+
+_________________
+Always wanted to get rid of the files that were not listed in the sfv/md5 hash file? Check the QuickSFV plugin I created for this: viewtopic.php?f=10&t=108605 or this: viewtopic.php?p=1273745#p1273745
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 24 Nov 2014, 20:04]
+Why do i even have to mention it? Read the rld release nfo, thats what its for! Theres also an order in the op! Besides that its also pretty obvious. And please make me stop to say everything more than twice. I also didnt answer to you cos it seems you know the right oder, etc!
+I changed it and added its also Emperor Edition to prevent further questions! Cos here you need to tell every little tiny detail in more detail, but people will still ask the same questions cos they are either too stupid. too lazy or just dont care.
+
+Edit:
+Total War: Atilla Release Date: 17.02.2015, 40$.
+http://store.steampowered.com/app/325610/

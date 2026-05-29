@@ -1,0 +1,171 @@
+=========================================
+STRONA 161 (URL: https://cs.rin.ru/forum/viewtopic.php?f=10&t=61441&hilit=rome+2&start=2400)
+=========================================
+
+[Data: Thursday, 18 Dec 2014, 18:37]
+ShadowDuke wrote:
+numerno wrote:
+so i had total war emperor edition that had Ceasar at gaul and hannibal at the gate from RLDD version and i haven't been following the thread since that release .. i have tried to update the game from the 1st page and apllied :
+
+Total.War.ROME.II.Update.15_Hotfix_Gaul_and_HATG_Update
+Total.War.ROME.II.Update.16_Gaul_and_HATG_Update
+
+and the x-delta showed miss matches .. so am i doing something wrong ,, and what would be the right sequence of installation in my case ??
+
+
+Cos you dont stick to the order in the OP and only applied gaul and HATG update? Wheres Update.15.Hotfix in your order?? The files you mention only update gaul and HATG, issnt that clear!? Apparently i've to be even more specific in the OP..
+
+
+Yes I need help too I have v1.11 according to my game what exactly do I need to download to make my game compatible with mods and have the latest updates?
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 18 Dec 2014, 18:47]
+Guys, I still have that issue : When in battle whole pc freezes and I get a buzzing sound from the speakers. I hoped it would be fixed after the last patch but today I got the same God damn error again. I have to restart pc manually everytime. Any ideas why does it keep happening? I played Settlers 7 at high graphic setting but I haven't got any error like this.
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 18 Dec 2014, 19:49]
+Alejandro17 wrote:
+ShadowDuke wrote:
+numerno wrote:
+so i had total war emperor edition that had Ceasar at gaul and hannibal at the gate from RLDD version and i haven't been following the thread since that release .. i have tried to update the game from the 1st page and apllied :
+
+Total.War.ROME.II.Update.15_Hotfix_Gaul_and_HATG_Update
+Total.War.ROME.II.Update.16_Gaul_and_HATG_Update
+
+and the x-delta showed miss matches .. so am i doing something wrong ,, and what would be the right sequence of installation in my case ??
+
+
+Cos you dont stick to the order in the OP and only applied gaul and HATG update? Wheres Update.15.Hotfix in your order?? The files you mention only update gaul and HATG, issnt that clear!? Apparently i've to be even more specific in the OP..
+
+
+Yes I need help too I have v1.11 according to my game what exactly do I need to download to make my game compatible with mods and have the latest updates?
+
+
+Check each patch from OP for build-nr, then you know. And afaik theres no v1.11 as you can see. Update11 is BUILD.10471_528438, Update12beta is already Version: v1.12.0.0-10624.531958. So no idea what version you have. Youre better of with Emepror.Edition-RLD and patch you way up from there.
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 18 Dec 2014, 19:50]
+  i i canot see pas for the dlc link can you explaine me how to download thanks
+ShadowDuke wrote:
+numerno wrote:
+so i had total war emperor edition that had Ceasar at gaul and hannibal at the gate from RLDD version and i haven't been following the thread since that release .. i have tried to update the game from the 1st page and apllied :
+
+Total.War.ROME.II.Update.15_Hotfix_Gaul_and_HATG_Update
+Total.War.ROME.II.Update.16_Gaul_and_HATG_Update
+
+and the x-delta showed miss matches .. so am i doing something wrong ,, and what would be the right sequence of installation in my case ??
+
+
+Cos you dont stick to the order in the OP and only applied gaul and HATG update? Wheres Update.15.Hotfix in your order?? The files you mention only update gaul and HATG, issnt that clear!? Apparently i've to be even more specific in the OP..
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 18 Dec 2014, 23:22]
+achillesmne2006 wrote:
+:oops:  i i canot see pas for the dlc link can you explaine me how to download thanks
+
+viewtopic.php?p=991697#p991697 
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 18 Dec 2014, 23:22]
+
+_________________
+Always wanted to get rid of the files that were not listed in the sfv/md5 hash file? Check the QuickSFV plugin I created for this: viewtopic.php?f=10&t=108605 or this: viewtopic.php?p=1273745#p1273745
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 19 Dec 2014, 05:06]
+what files do you copy into the dir. and what file do you copy to "data"
+
+-- Edit --
+
+[quote="ShadowDuke"]Open your eyes, mabye you find it [/quoute]
+i tried everything i thought would work. what is the password
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 19 Dec 2014, 07:56]
+i have a legit Total War Rome 2 - Emperor Edition. with no paid DLC.
+
+Is there anyway I can apply the cracked DLC for my legit version?
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 19 Dec 2014, 08:14]
+agentghost wrote:
+i have a legit Total War Rome 2 - Emperor Edition. with no paid DLC.
+
+Is there anyway I can apply the cracked DLC for my legit version?
+
+get the DLC files and use a REVOLT wrapper.
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 19 Dec 2014, 12:08]
+ i also dont see pasword im new here first time downloading from this site
+
+
+ShadowDuke wrote:
+Open your eyes, mabye you find it [/quoute]
+i tried everything i thought would work. what is the password
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 19 Dec 2014, 12:42]
+it is astounding !
+generation landslide dixit A. Cooper
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 19 Dec 2014, 13:11]
+Can somebody upload this mod http://steamcommunity.com/sharedfiles/f ... =251856845? I would LOVE it please somebody! 
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 19 Dec 2014, 14:42]
+faniskou wrote:
+Can somebody upload this mod http://steamcommunity.com/sharedfiles/f ... =251856845? I would LOVE it please somebody! 
+
+There u go
+
+http://speedy.sh/GZQaM/mods-real-300-armourv2.pack
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 19 Dec 2014, 15:42]
+thanks dude!!!!!!!
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 19 Dec 2014, 16:32]
+saneman wrote:
+what files do you copy into the dir. and what file do you copy to "data"
+
+-- Edit --
+
+
+ShadowDuke wrote:
+Open your eyes, mabye you find it [/quoute]
+i tried everything i thought would work. what is the password
+
+
+
+achillesmne2006 wrote:
+:oops: i also dont see pasword im new here first time downloading from this site
+
+
+ShadowDuke wrote:
+Open your eyes, mabye you find it [/quoute]
+i tried everything i thought would work. what is the password
+
+
+You got to be kidding me...
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 19 Dec 2014, 18:05]
+can somebody post directions of how to make downloaded from steam workshop downloader mods to work?i have deleted all the letters and numbers until pfhsomething with the hex editor...then what should i do next?

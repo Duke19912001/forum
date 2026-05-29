@@ -1,0 +1,199 @@
+=========================================
+STRONA 182 (URL: https://cs.rin.ru/forum/viewtopic.php?f=10&t=61441&hilit=rome+2&start=2715)
+=========================================
+
+[Data: Sunday, 05 Apr 2015, 22:19]
+markfiter wrote:
+Total War: Rome 2 - PROPHET Crack Only
+http://www70.zippyshare.com/v/Yotv03zA/file.html
+https://mega.co.nz/#!TtdjEb7I!F43qfMpw6 ... SBELahN3Ic
+http://rghost.ru/8FWZgMPq2
+http://sendfile.su/1099119
+
+
+is this a good solution to play LAN after I install a repack with sparta dlc (update 161) and after I apply
+the update of page 1 with the name "2.2.0.15539-v2.2.0.15666"? or the crack on the provided update is all we need?
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 09 Apr 2015, 18:38]
+Sisah wrote:
+Radu007 wrote:
+Thanks for the answer Sisah.
+That Workshop Downloader works and I can download some mods but when I try to download GEMFX mod the crash is appearing.
+
+
+This mod can't be downloaded even with http://steamworkshopdownloader.com/ it say Service Unavailable i dont know why
+
+
+From what I understand, it has something to do with size. Mods that big can't be downloaded that way.
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 11 Apr 2015, 12:57]
+Here's latest GEMFX (1.8.0.1) again:
+GEMFXv1081.rar (use WinRar 5 to extract)
+
+Read twcenter.net GEMFX for install instructions.
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 21 Apr 2015, 13:29]
+Hi all,
+
+With the Total War ROME II Emperor Edition MULTi9-PROPHET release, and using testni's SFV for 15666, I am getting these checksum errors:
+
+There were 2 bad files and 2 missing files
+Rome2.dll
+Rome2.exe
+installscript.vdf
+launcher\awesomium.log
+
+Can someone upload the correct files? Thank you in advance.
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 21 Apr 2015, 16:06]
+Hey, First post here, Ill try to be quick about it 
+So, I have installed the 16.1 patch I found in this very topic, Got it working, also got the launcher working, but whenever I use any mods, I select them from the launcher and all, I start the game and it sits on the first frame you see of the game and freezes(Win 8.1 loading symbol)!? And then crashes. How to resolve this!?
+-Thanks in advance to anyone who helps me 
+
+PS. There must be something about it somewhere here, but 180+ pages of topic...
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 29 Apr 2015, 12:47]
+Anomaly wrote:
+iZver wrote:
+I just bought the emperor edition on the steam sale.
+can i somehow unlock the payed dlc for free and use it on coop?
+
+
+You're probably missing the dlc files, so get them and a crack obviously.
+
+And co-op grand campaign doesn't seem to work cracked (loading problems when loading a save game).
+
+
+That's incorrect. It Works, but with a workaround as always.
+
+I registered to explain what i did to play it on co-op grand campaign without corrupt savegames, and i will explain it detailed, i say sorry for my bad english, i will try to explain my best.
+
+The first problem about the savegame corruption it's easy to suppose. The game mixes the faction on loading previous savegames, that happens because the game cannot identify the players id, and that result in a mixing factions and of course no loading.
+
+Steamworks fix that by only letting the game link with your fake steam account, when you ggo to host a game, you can see ur nickname and avatar from the profile of your fake steam. Then the game will work as expected without corruption. But steamworks for this patch is not released... but don't worry. In this patch, no MAJOR changes had made on the game and .dll's resulting in one thing.. we can use previous steamworks to play it anyway.. but a little different from what you will usually do.
+
+Here is the workaround to play co-op multiplayer with no corrupt savegames with the latest Prophet Multi9 build from skidrow & reloaded webpage 2.2.0 15666.640460. The workaround is simple but follow the method exactly as i did (if you get the game working or modified, just uninstall it and reinstall. Feel free to use your own build, but i won't guarantee the game will work)
+
+1) Install the game, when finished patch the game with the contents of prophet folder on the mounted ISO or CD.
+
+2) Create a fake account on steam, put an avatar and a name you want (this is important for the last step), then add the game on the library "non-steam game" then try if the game start, if it do, then quit the game, if not, uninstall and repeat until game startup.
+
+3) Download the Steamworksfix v1.11.0 that was posted on this web on update 11: (https://sites.google.com/site/rome2user ... s/update11), or if you dont want to search it: (https://drive.google.com/uc?export=down ... EZZRDExS1U).
+
+4) Unrar it, and copy all the files EXCEPT the rome2.dll on the game folder (this dll prevent the game from executing resulting in a crash). This method only replaces the .exe and the steam_api.dll for working with steam client).
+
+5) Launch the game from steam, and see if the game version is 1.11.0 (that only shows the compilation of the exe, non the game). If it is, try to host a game Online or LAN, doesn't matter (don't worry, the game got all DLC's and is on the latest version, if you don't believe me, when you host you will see all the factions available). If you can see the image and nickname you put on steam on the step 2, you're almost done, because the link between steam and the game is stablished, and the savegames won't corrupt because the game can now identify every player. Ask a friend to do the same steps, let him join to your host game, and launch it. When you start the game, let the first turn pass quickly, then save the game, quit, and try to host again loading the saved game. It should work.
+
+Again, sorry for my bad english, but as far as i tested it, we are on turn 40 without problems, all working fine, including loading savedgames.
+
+Hope this mini-tutorial Works for everyone and we can enjoy this magnificent game. Of course, if you like the game and Creative Assembly put the full game on a "normal" Price, i pray you to buy it!
+
+Thanks for Reading.
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 01 May 2015, 11:57]
+I just recently started playing RTW2 but I have a cracked version with no updates. The optimization is terrible. I was wondering if anyone could help me out with all of the patches? I really want to be able to play this game. Thanks
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 01 May 2015, 13:59]
+@RisingChaos:
+
+Downlad "Total War ROME II Emperor Edition MULTi9-PROPHET" version. Thats the best/easiest way to get the latest game version.
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 03 May 2015, 09:49]
+Please help me I download the latest patch 16.1 wrath of sparta and tried crack fix too but when I click update and crack nothing opens. I tried to install it manually but when I launch the game it says twitchsdk_32_release.dll is missing.
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 05 May 2015, 02:34]
+Just registered to say a big THANK YOU to all -specially those providing the patches and DLCs- for this. I was able to patch TW: Rome II to the latest version without a hassle and it works flawlesly.
+
+I didn't use the Reloaded version but the R.G. Mechanics one.
+Here is what I did:
+
+
+1. Download the R.G. Mechanics version of TW: Rome II: https://pirateproxy.sx/torrent/11194622 ... .Mechanics
+
+2. Install these patches, sequentially, always respecting the order:
+
+Total.War.ROME.II.Update.15_Gaul_and_HATG_Update (Emperor Edition with Gaul and Hannibal DLC!)
+Total.War.ROME.II.Update.15.Hotfix
+Total.War.ROME.II.Update.15_Hotfix_Gaul_and_HATG_Update
+
+Total.War.ROME.II.Update.15.Hotfix.Proper.Crack
+Total.War.ROME.II.Update.16.Black.Sea.Colonies.Culture.Pack
+
+Total.War.ROME.II.Update.16.1.Wrath.of.Sparta (gaul and hatg update included!)
+Total.War.ROME.II.Update.16.1.Wrath.of.Sparta.Crackfix
+
+Total.War.ROME.II.Update.v2.2.0.15539-v2.2.0.15666 (thx machine4578)
+
+4. Copy the crack from the /crack/ folder to the root folder of your game.
+
+5. Activate any mods using the game launcher or the TWR2 Mod-Manager.
+
+6. Done. Total War: Rome 2 version 2.2.0.15666 (latest available to date), ready to play.
+
+
+In case you feel like sandboxing a bit, download Cheat Engine and use the table correspondent to the game version: http://forum.cheatengine.org/viewtopic.php?t=576285
+
+Thanks, happy hunting!
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 05 May 2015, 09:35]
+Hi,
+
+Total War Attila Assembly Kit is out for almost a week ago, is anybody here knowing how to download without steam ?
+Cheers.
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 17 May 2015, 06:51]
+hey chinese_supermarket u posted rome 2 total war updates. does it include all dlc ???  
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 21 May 2015, 09:44]
+ShadowDuke wrote:
+Open your eyes, mabye you find it 
+
+hello. I know that is an old post but I also need help with downloading the wrath of sparta 16.1.Can anybody help?PLEASE
+
+-- Edit --
+
+Can you please help somebody.I am trying to download the wrath of sparta update 16.1 but I don't have and can't find the password to the link. 
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 21 May 2015, 10:12]
+mik1980 wrote:
+ShadowDuke wrote:
+Open your eyes, mabye you find it 
+
+hello. I know that is an old post but I also need help with downloading the wrath of sparta 16.1.Can anybody help?PLEASE
+
+-- Edit --
+
+Can you please help somebody.I am trying to download the wrath of sparta update 16.1 but I don't have and can't find the password to the link. 
+
+please dont make a new topic asking the same question!.. as for the password, did you try cs.rin.ru???
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 21 May 2015, 10:52]
+YESSSS.It works.The "cs.rin.ru " one.Great thanks.As for creating the new topic I apologise.But again GREAT THANKS

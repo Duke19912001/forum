@@ -1,0 +1,162 @@
+=========================================
+STRONA 185 (URL: https://cs.rin.ru/forum/viewtopic.php?f=10&t=61441&hilit=rome+2&start=2760)
+=========================================
+
+[Data: Tuesday, 07 Jul 2015, 18:32]
+knabberfee wrote:
+here http://www92.zippyshare.com/v/bv885v9c/file.html
+
+Thank you! May I ask how can you get the mod?
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 07 Jul 2015, 18:46]
+I have the original game on steam 
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 07 Jul 2015, 18:46]
+
+_________________
+Haters gonna hate!
+My updates are always clean files - no cracks included.
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 08 Jul 2015, 22:39]
+The most popular mod in the workshop hasn't been uploaded yet. Could someone please share it?
+
+ChampLoo's Gold Unit Compilation
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 08 Jul 2015, 22:45]
+TheHighborne wrote:
+The most popular mod in the workshop hasn't been uploaded yet. Could someone please share it?
+
+ChampLoo's Gold Unit Compilation
+
+and it can easily be downloaded by anyone using SteamWorkshopDownloader.exe!
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 10 Jul 2015, 12:20]
+Guys, do you plan to upload this update? http://wiki.totalwar.com/w/Total_War_ROME_II:_Patch_17_Beta This is new update, i didnt expected this, its good that they still work on this game.
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 10 Jul 2015, 12:24]
+Moravia300 wrote:
+Guys, do you plan to upload this update? http://wiki.totalwar.com/w/Total_War_ROME_II:_Patch_17_Beta This is new update, i didnt expected this, its good that they still work on this game.
+
+imo its best to wait till official patch 17 release
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 12 Jul 2015, 14:23]
+Hey guys, I have a problem downloading update 16.1 wrath of sparta.
+
+The link there ( http://r4dm.com/p/0affb5dfcf ) just redirects me to https://safelinking.net/
+How would I solve this? Is it a problem with the link or with my pc or something?
+
+Thanks in advance and thanks for all these updates, infos, etc, you guys are great!
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 12 Jul 2015, 14:27]
+Luisrah wrote:
+Hey guys, I have a problem downloading update 16.1 wrath of sparta.
+
+The link there ( http://r4dm.com/p/0affb5dfcf ) just redirects me to https://safelinking.net/
+How would I solve this? Is it a problem with the link or with my pc or something?
+
+Thanks in advance and thanks for all these updates, infos, etc, you guys are great!
+
+https://safelinking.net/0affb5dfcf
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 13 Jul 2015, 00:55]
+machine4578 wrote:
+Luisrah wrote:
+Hey guys, I have a problem downloading update 16.1 wrath of sparta.
+
+The link there ( http://r4dm.com/p/0affb5dfcf ) just redirects me to https://safelinking.net/
+How would I solve this? Is it a problem with the link or with my pc or something?
+
+Thanks in advance and thanks for all these updates, infos, etc, you guys are great!
+
+https://safelinking.net/0affb5dfcf
+
+
+Many thanks!!! 
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 13 Jul 2015, 12:13]
+Is an chance to try this 17 beta patch somewhere here ?
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 14 Jul 2015, 06:49]
+so can I presume that PROPHET release can be updated directly with the upcoming patch 17?
+because I don't even know what game version PROPHET release based on, I just downloaded it assuming it was the one with the latest update as usual 
+
+I thought they (CA) wouldn't be updating Rome II anymore, I'm surprised by this patch 17 news
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 14 Jul 2015, 19:03]
+nmlsslbrty wrote:
+so can I presume that PROPHET release can be updated directly with the upcoming patch 17?
+because I don't even know what game version PROPHET release based on, I just downloaded it assuming it was the one with the latest update as usual 
+
+I thought they (CA) wouldn't updating Rome II anymore, I'm surprised by this patch 17 news
+
+
+I think Prophet's release is v2.2.0.15666 but I'm not sure (latest version around here is 2.2.0.15666). You could check in-game (right upper corner) or download and try this .sfv file: viewtopic.php?p=1016326#p1016326
+
+
+.sfv file for v2.2.0.15539: viewtopic.php?p=991984#p991984
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 14 Jul 2015, 19:03]
+
+_________________
+Always wanted to get rid of the files that were not listed in the sfv/md5 hash file? Check the QuickSFV plugin I created for this: viewtopic.php?f=10&t=108605 or this: viewtopic.php?p=1273745#p1273745
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 14 Jul 2015, 19:56]
+Anomaly wrote:
+I think Prophet's release is v2.2.0.15666 but I'm not sure (latest version around here is 2.2.0.15666). You could check in-game (right upper corner) or download and try this .sfv file: viewtopic.php?p=1016326#p1016326
+
+
+.sfv file for v2.2.0.15539: viewtopic.php?p=991984#p991984
+
+
+thanks for your answer
+
+PROPHET release is indeed v2.2.0.15666
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 19 Jul 2015, 15:06]
+How do I use mods from the Steam Workshop? The workshop downloader can download the files, but none of them ever work. They aren't even recognized by the mod manager.
+
+Not all mods are on the forums either, so I cannot get those mods from there.
+
+Can anyone help me? Thank you!
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 19 Jul 2015, 15:26]
+John Felton wrote:
+How do I use mods from the Steam Workshop? The workshop downloader can download the files, but none of them ever work. They aren't even recognized by the mod manager.
+
+Not all mods are on the forums either, so I cannot get those mods from there.
+
+Can anyone help me? Thank you!
+
+the mods do work, but you must remove the first few bytes with a hex editor!

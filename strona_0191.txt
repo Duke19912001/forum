@@ -1,0 +1,189 @@
+=========================================
+STRONA 191 (URL: https://cs.rin.ru/forum/viewtopic.php?f=10&t=61441&hilit=rome+2&start=2850)
+=========================================
+
+[Data: Friday, 28 Aug 2015, 18:05]
+@romspart, why don't you run the latest sfv file and we'll know for sure which files you're missing: http://www75.zippyshare.com/v/mU5RsRBG/file.html (works with QuickSFV / RapidCRC or other checksum programs).
+
+I couldn't find any seeded torrent that has those files you mentioned separately. I could give you links to the Prophet release, but this would mean downloading ~21,5GB. The Prophet release is also available by torrent; it's still being seeded.
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 28 Aug 2015, 18:05]
+
+_________________
+Always wanted to get rid of the files that were not listed in the sfv/md5 hash file? Check the QuickSFV plugin I created for this: viewtopic.php?f=10&t=108605 or this: viewtopic.php?p=1273745#p1273745
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 29 Aug 2015, 04:10]
+Thanks for the prompt response (ironic, I know, considering how fast I responded)! I did what you suggested and ran the sfv file for Patch 17. It seems that the local_en.pack is missing along with the entire redist folder and some awesomium file. There is a CRC mismatch with 2 files that I can't see the full names of in the data\text folder but seem to be default and disclaimer. There's also a CRC mismatch with binkw32.dll, Rome2.dll, and steam_api.dll. I don't really mind downloading the whole game again, but would prefer to solve it without doing so since the problem seems kinda minor, only the sound is kinda off.
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 29 Aug 2015, 11:38]
+Can you post a screenshot with the result from the sfv file? If you still have it in your Rome II directory, it'll super fast as it already checked the files before.
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 29 Aug 2015, 11:38]
+
+_________________
+Always wanted to get rid of the files that were not listed in the sfv/md5 hash file? Check the QuickSFV plugin I created for this: viewtopic.php?f=10&t=108605 or this: viewtopic.php?p=1273745#p1273745
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 29 Aug 2015, 13:38]
+I also get "Rome2.dll" as a mismatch. All other files are ok. Possible to get the correct Rome2.dll from somewhere?
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 29 Aug 2015, 13:55]
+^^The Rome2.dll is CEG protected, which means it's different for each system, and thus there is no "correct" one...! 
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 29 Aug 2015, 13:55]
+
+_________________
+
+
+The standard password is cs.rin.ru
+Please read the Forum Rules and the F.A.Q.
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 29 Aug 2015, 14:48]
+Total.War.ROME.II.Emperor.Edition.MULTi9-PROPHET + Patch 17, works like a charm, not a single error, or missing sound files.
+
+I wonder if someone know if the GEMFX or some other graphic mods are still avaliable somewhere, months ago there was a link to 1.0.8 GEMFX version, it's gone though. I wonder if the current 1.0.9 "standalone version" would work, it doesn't require steam, but i think it's for the atilla and not for rome 2, i'm not sure though, and guys from twcenter would propably wreck me if i would ask them and accuse me like "You filthy pirate, how dare you ask such thing!? Begone! BAN"  .
+
+Anyway thanks again for your hard work, there's no second place on earth where i would find all these precious things (｡◕‿‿◕｡) , and such helpful lads.
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 29 Aug 2015, 15:31]
+Anomaly wrote:
+Can you post a screenshot with the result from the sfv file? If you still have it in your Rome II directory, it'll super fast as it already checked the files before.
+
+Here's the link to the dropbox: https://www.dropbox.com/sh/nhh0ujydlj4e ... c2REa?dl=0
+I could only take screenshots of what went wrong for practical reasons.
+
+
+qamyk wrote:
+Total.War.ROME.II.Emperor.Edition.MULTi9-PROPHET + Patch 17, works like a charm, not a single error, or missing sound files.
+
+Do you know where I could torrent/download that? With the torrent from Skidrow I always get an error along the lines of there not being enough seeders.
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 29 Aug 2015, 15:48]
+romspart wrote:
+Anomaly wrote:
+Can you post a screenshot with the result from the sfv file? If you still have it in your Rome II directory, it'll super fast as it already checked the files before.
+
+Here's the link to the dropbox: https://www.dropbox.com/sh/nhh0ujydlj4e ... c2REa?dl=0
+I could only take screenshots of what went wrong for practical reasons.
+
+
+
+I'll upload my (patch 17) local_en.pack for you. Lemme know if that works.
+Here: http://www40.zippyshare.com/v/GSgX43js/file.html
+
+Also, your binkw32.dll should match the .sfv file. You can download my file here: http://www40.zippyshare.com/v/dutNwVtr/file.html
+
+
+Note: You'll need Winrar 5.
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 29 Aug 2015, 15:48]
+
+_________________
+Always wanted to get rid of the files that were not listed in the sfv/md5 hash file? Check the QuickSFV plugin I created for this: viewtopic.php?f=10&t=108605 or this: viewtopic.php?p=1273745#p1273745
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 29 Aug 2015, 16:46]
+I tried it, but it doesn't seem to do much except now the .sfv file shows that the local_en.pack and binw32.dll match.
+Could you possibly try uploading the local_en_rome2.pack, music_en.pack, and the music_en_rome2.pack as well?
+I think it's also worth noting that the language text document said RU, but I've tried changing it to EN (It says EN right now) and it doesn't seem to have any effect.
+Also, what does the redist folder do?
+
+Thanks again,
+romspart
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 29 Aug 2015, 16:57]
+romspart wrote:
+Also, what does the redist folder do?
+
+Thanks again,
+romspart
+
+
+It contains Microsoft software needed for initial installation (Direct X, e.t.c.). You don't need it after initial install.
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 29 Aug 2015, 17:19]
+romspart wrote:
+Anomaly wrote:
+Can you post a screenshot with the result from the sfv file? If you still have it in your Rome II directory, it'll super fast as it already checked the files before.
+
+Here's the link to the dropbox: https://www.dropbox.com/sh/nhh0ujydlj4e ... c2REa?dl=0
+I could only take screenshots of what went wrong for practical reasons.
+
+
+qamyk wrote:
+Total.War.ROME.II.Emperor.Edition.MULTi9-PROPHET + Patch 17, works like a charm, not a single error, or missing sound files.
+
+Do you know where I could torrent/download that? With the torrent from Skidrow I always get an error along the lines of there not being enough seeders.
+
+
+Hmm i also got it from torrent from skidrow site (first site after google this torrent name) and just downloaded it yesterday and it works flawless, download speed was quite nice, sometimes it was falling down to 50kb/s  just to rise to bigger vaules again and in the middle of the night it really gone fast. Maybe try your luck again and remember to "Force recheck" torrent files (this option is avaliable after you fully download your thing, then you have to pause the torrent and stop seeding, and then right click on it and choose "Force recheck" from the list ...or something simmilar) after download, so any corrupted files would be re-downloaded
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 29 Aug 2015, 17:54]
+romspart wrote:
+I tried it, but it doesn't seem to do much except now the .sfv file shows that the local_en.pack and binw32.dll match.
+Could you possibly try uploading the local_en_rome2.pack, music_en.pack, and the music_en_rome2.pack as well?
+I think it's also worth noting that the language text document said RU, but I've tried changing it to EN (It says EN right now) and it doesn't seem to have any effect.
+Also, what does the redist folder do?
+
+Thanks again,
+romspart
+
+
+If those 3 .pack files match the .sfv there's absolutely no need for me to upload them. If the game worked fine before, then there's no need for the redist folder (includes DirectX and Visual C++ Redistributable).
+
+Torrent would be: https://torrentz.eu/0dfd8a60943bf50a7f0 ... f915a93861
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 29 Aug 2015, 17:54]
+
+_________________
+Always wanted to get rid of the files that were not listed in the sfv/md5 hash file? Check the QuickSFV plugin I created for this: viewtopic.php?f=10&t=108605 or this: viewtopic.php?p=1273745#p1273745
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 29 Aug 2015, 18:15]
+In that case, I'll just download the entire thing again. Many thanks to everyone who helped, especially Anomaly!
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 30 Aug 2015, 12:19]
+@qamyk
+
+GEMFX 1.0.9:
+GEMFX.1.0.9.rar
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 01 Sep 2015, 17:39]
+@testni
+
+Woah, thanks, i will put it to good use  .

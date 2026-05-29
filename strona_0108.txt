@@ -1,0 +1,119 @@
+=========================================
+STRONA 108 (URL: https://cs.rin.ru/forum/viewtopic.php?f=10&t=61441&hilit=rome+2&start=1605)
+=========================================
+
+[Data: Monday, 01 Sep 2014, 18:06]
+Thanks for the Update ShadowDuke, awesome. 
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 01 Sep 2014, 18:09]
+Meh, i forgot to add xdelta3.exe  //done
+
+Will upload again those 2 files.
+
+As far as i can see, the "new" SP Campaign issnt added, yet!?
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 01 Sep 2014, 18:10]
+yea error...
+
+But still thx 
+
+With xdelta3.exe is perfect 
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 01 Sep 2014, 18:10]
+
+_________________
+List of some Computer games CLICK ME
+
+  
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 01 Sep 2014, 18:42]
+Than you 
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 01 Sep 2014, 18:50]
+Thanx for the update it's working fine now. After trying it three times tho. Did you change the files after you put them there for the first time ? Cuz i got errors on the language packs at first and tried to find out which update i missed. But i wasn't missing anything and on the third try after downloading them twice again it worked fine without spitting out any errors like before.
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 01 Sep 2014, 18:54]
+ShadowDuke wrote:
+As far as i can see, the "new" SP Campaign issnt added, yet!?
+Of course not, somewhere later in September!  This is just another update which does add changes in the Civil wars system etc., which is marked as having several bugs related to it.
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 01 Sep 2014, 19:32]
+Much obliged for the update ShadowDuke 
+Please, uploads russian language files for Update 15 [ img link ] [ img ]
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 01 Sep 2014, 19:42]
+i've just tried the new update and i'm stuck in the loading screen
+can anyone help?
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 01 Sep 2014, 19:52]
+M1K4371 wrote:
+Thanx for the update it's working fine now. After trying it three times tho. Did you change the files after you put them there for the first time ? Cuz i got errors on the language packs at first and tried to find out which update i missed. But i wasn't missing anything and on the third try after downloading them twice again it worked fine without spitting out any errors like before.
+
+
+Nope, only added xdelta3.exe.
+
+
+chernysh wrote:
+Much obliged for the update ShadowDuke 
+Please, uploads russian language files for Update 15 [ img link ] [ img ]
+
+
+When final.
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 01 Sep 2014, 20:18]
+goddamnit i was just about to study thankyou shadow.
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 01 Sep 2014, 20:27]
+Thanx anyway of corse dunno what is was, doesn't matter as it works perfectly now 
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 01 Sep 2014, 21:09]
+every building says town in description is it a bug am i the only one
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 01 Sep 2014, 21:21]
+ShadowDuke thanks for update 15 beta 
+
+One question, why rome.exe continue to run after quit the game in the task manager... bug ?
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 01 Sep 2014, 21:21]
+
+_________________
+I have certifications EBIOS RM, ISO27005, SECUWEB, PENTESTWEB, PRIM'X (ZED! and Zonecentral), ITIL v3 Foundations & CISCO CCNA1, CCNA2, CCNA3, CCNA4
+Don't hate the hacker, hate the code...
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 01 Sep 2014, 21:31]
+Also the new buildings dont have descriptions
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 01 Sep 2014, 21:33]
+The patch describes having bugs.

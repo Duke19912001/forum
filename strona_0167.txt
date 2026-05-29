@@ -1,0 +1,147 @@
+=========================================
+STRONA 167 (URL: https://cs.rin.ru/forum/viewtopic.php?f=10&t=61441&hilit=rome+2&start=2490)
+=========================================
+
+[Data: Wednesday, 07 Jan 2015, 08:11]
+http://steamcommunity.com/sharedfiles/f ... =210070083
+
+Can somebody please upload this to file sharing sites? Cant get the mod on steam, and cant play the game with out it...
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 07 Jan 2015, 09:12]
+serajantis wrote:
+http://steamcommunity.com/sharedfiles/filedetails/?id=210070083
+
+Can somebody please upload this to file sharing sites? Cant get the mod on steam, and cant play the game with out it...
+
+
+http://www.twcenter.net/forums/showthre ... gent-usage
+
+Don't know if it's up to date, I use DeI
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 07 Jan 2015, 09:30]
+Hell.o! ill make this short, because i'm really exhausted searching for answers patches and stuff for hours .. no luck..
+i need answers on this extremelysuperultramega noob questions..
+
+1.) How to properly mod rome 2 reloaded? Ive tried using modmanager, Radious MODS but not even a single mod works,
+when i click launch it goes to the very first screen and after a few seconds back to desktop no errors...
+
+2.) Does mod requires an update? or i can just simply mod it.. i manage to update from 1.0 to 1.4 because i want the AI to improve
+but it just got worst now they offer me gold just to trade with me/non aggression pact, its unreal.... they've become pussies at 1.4..
+and that's very hard difficulty for you.. look the reason why i want to mod was because how the AI behaves, Radious AI mod seems
+the only answer, i want the AI to become more aggressive like they don't wanna give to you time to breathe, not some nincompoop behavior..
+either in battle or campaign
+
+3.) If it does require do i need to download all updates from 1.5 to xx? or i can just simply jump to last.. That's all
+
+hope somebody notice, this might be a bit much but.. Thank you! sorry for the troubles, and please don't mind my english, GOOD DAY!
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 07 Jan 2015, 12:11]
+*Ndesta93*
+
+Yes, you need to update the game to the latest version (16 in opening post) for the Radious mods to work (EE edition (update 15) changed the game alot, the mod needed to be remade).
+To update the game to the lastest version, simply follow the links in the OP in the order that they are posted, so yeah i guess you have to download them all  (no "all-in-one" update available).
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 07 Jan 2015, 13:16]
+@testni, there's an AiO update from Reloaded, though: Total War ROME II Emperor Edition Update v2.2.0 Incl DLC-RELOADED
+Note that its size is large compared to the updates here.
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 07 Jan 2015, 13:16]
+
+_________________
+Always wanted to get rid of the files that were not listed in the sfv/md5 hash file? Check the QuickSFV plugin I created for this: viewtopic.php?f=10&t=108605 or this: viewtopic.php?p=1273745#p1273745
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 08 Jan 2015, 01:52]
+is there a mod for this ver that removes stupid unit fade thanks
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 08 Jan 2015, 12:12]
+achillesmne2006 wrote:
+is there a mod for this ver that removes stupid unit fade thanks
+
+
+try this one ..
+http://www.twcenter.net/forums/showthread.php?673113-LOD-increase-no-soldier-fading-and-other-graphic-tweak-(updated-for-v2-2-0-build-15558-627558)
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 08 Jan 2015, 14:06]
+@Shadowduke
+Can you please upload English language pack for 16.1? It would really help a lot. Thanks.
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 08 Jan 2015, 15:32]
+Download Lang for Update15 (still online), then patch your way up to current, only take the 2 regarding eng lang files to update each time, done.
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 08 Jan 2015, 18:55]
+tried that but crashes the game for me it is updated for 15558 thanks for hlp
+
+try this one ..
+http://www.twcenter.net/forums/showthread.php?673113-LOD-increase-no-soldier-fading-and-other-graphic-tweak-(updated-for-v2-2-0-build-15558-627558)[/quote]
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 08 Jan 2015, 21:59]
+But the game here (and so the language) is only updated to 15539!!!
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 09 Jan 2015, 03:37]
+Sorry if total noob at this. I've been reading and I tried this twice already. I get checksum error when patching 15 final at local_en_rome2.pack. Should I apply the language pack before or after I patch? I follow the order at page 1 but I'm not sure when to place the language pack.
+
+Or maybe I'm doing it wrong with the emperor edition patch? Is it correct I copy the .exe and part 2 to my game folder then run the exe (no window shows, but I see the patch files are added to the folder) then I run the .bat file? Or should I redownload the patch?
+
+I only really get checksum errors in local_en_rome2.pack
+
+Thanks in advance.
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 09 Jan 2015, 07:23]
+http://steamworkshopdownloader.com/ after download use Notepad ++ to delete Steam locker code MFH SOH SOH NUL STX NUL before PFH4 in first row you see
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 09 Jan 2015, 08:32]
+@testni. This was my previous post:
+
+
+TG_ wrote:
+Hoping someone can help.
+
+I have the HATG - Reloaded release.
+I patched, in the correct order, all the way up to Update 12 - beta to final without issue. After this I used the testni link for Update 13, then when I tried using testni's link for update 14 beta I recieved a xdelta3 mismatch error. Therefore I decided to use the orignal links all the way upto 14 beta and it worked correctly, however the update 14 gamefix link is broken and I used testni's instead. But when I run it it just patches 1/15 and says patching finished. If i attempt to use the next patch in line (update 15 or the update 14 HATG patch) I recieve xdelta mismatch errors again. So I wondering what to do? is it a problem with testni's gamefix link or am i fucking something up?
+
+thanks in advance and great job guys! 
+
+
+basically when I apply patch 14 gamefix it says "Patching 1/15" then "Patching finishes, press any key to continue". It doesn't go through 2-15. Is this suppose to happen?
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 09 Jan 2015, 11:41]
+*TG_*:
+
+The files i uploaded are the same that Shadowduke provided, i only reuploaded his .rars (so they are the same as in the original links). But do note i did not reupload English language files (since the original links still worked at the time). There's a new laguage file posted after:
+Total.War.ROME.II.Update.13.Getae.and.Pydna
+Total.War.ROME.II.Update.13.pirates
+Total.War.ROME.II.Update.13_1.Hotfix.and.Festivals.Update
+Total.War.ROME.II.Update.14_beta_Fixed
+
+If they arent updated after each patch you get xdelta mismatches on the next patch. Not sure if you still need then since i think only the latest one is relavant (for patch 16), Shadowduke will know that one.
+About that 1/15 patch, there was one update that had only 1/15 (if it was 14 i dont know) but that was a fully working patch.

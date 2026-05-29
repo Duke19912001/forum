@@ -1,0 +1,153 @@
+=========================================
+STRONA 111 (URL: https://cs.rin.ru/forum/viewtopic.php?f=10&t=61441&hilit=rome+2&start=1650)
+=========================================
+
+[Data: Sunday, 07 Sep 2014, 09:04]
+Well this is kinda embarrassing, I thought the game was FUBAR and sounds like the latest patch finally finished/fixed up the things they rushed out like diplomacy and sieges. Unfortunately, this means I wasted time with modding my game and will have to restart all over from a clean copy to get back to that patch 15 good stuff.
+
+When someone finds a patch 15 full version of the game via torrents or whatever, I'm currently looking but it would be lovely if someone already has a link in hand. Let me know, thanks ahead of time. <3
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 07 Sep 2014, 13:49]
+Hmm I found this release. Downloading right now and will apply patch 15.
+
+http://kactusgames.org/total-war-rome-i ... acked-3dm/
+
+EDIT:
+Downloaded from the firedrive links and patched with Shadowduke's update:
+viewtopic.php?f=10&t=61441&p=943167#p943167
+Running perfectly fine!
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 07 Sep 2014, 19:07]
+delv213 wrote:
+Well this is kinda embarrassing, I thought the game was FUBAR and sounds like the latest patch finally finished/fixed up the things they rushed out like diplomacy and sieges. Unfortunately, this means I wasted time with modding my game and will have to restart all over from a clean copy to get back to that patch 15 good stuff.
+
+When someone finds a patch 15 full version of the game via torrents or whatever, I'm currently looking but it would be lovely if someone already has a link in hand. Let me know, thanks ahead of time. <3
+
+
+Patch15 is not final... and also uploading a full version every time a minor patch comes out.....
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 07 Sep 2014, 20:33]
+Can anyone help me?
+I've downloaded this version from piratebay:
+[url]http://thepiratebay.se/torrent/10786630/Total_War__Rome_2_(SEGA)_(RUS_ENG)_[Steam-Rip]_-_DWORD_(Update_1[/url]
+
+I've tried out it works without installing anything on it.
+Then I installed the patch 15 beta from here because that version is already 14.1 - checked it in the game.
+It installed without any errors. The game can start, and it seem to work fine, BUT
+it crashes after I hit the end turn button and it "loads" only until Egypt.
+I'm playing with sparta, and I've even tried out to restart the game and start a new one.
+Downloaded the patch again, installed it again (with the language update too, but without the assemly toolkit), and still it is the same problem.
+
+Can someone possible write me down, which version should I download, and what should I install in order to have it working and functional?
+Because the long story short this is my third version what I've installed. I had the 14.1 patched and working version from here, but I cant get the patch 15 to work without errors!
+
+
+P.S.: If I could, I would buy the game, so I would not have this much of suffering with it, but currently it costs way too much in my country with all the DLC-s! 
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 07 Sep 2014, 20:39]
+I don't know anything about that release, but just download Hannibal at the Gates Reloaded and update from "Update.11.HOTFiX" and up (follow the instructions).
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 07 Sep 2014, 20:51]
+"Installing" a xdelta patch again on the already patched files is rather contra-productive.
+
+Start as admin, disable UAC, disable AV, check if Crack is blocked, etc! The issue you have is a crack issue but the Crack is fine! So something is blocking or you didnt use current crack but 14_1 from torrent one, etc! Issue is 100% on your side, know you now!
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 07 Sep 2014, 23:26]
+Just saw a trick on youtube to increase fps and it worked. Basically you delete everything inside your script folder (preferences etc.). Then you go in game folder find redist and istall the directx. I played a massive battle after that ove 10 000 men. After inicial contact fps was great and the graphics looked much better as if some of the features were not enabled before. I recommend it. It will delete your settings so if you dont want that to happen dont do it.
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 07 Sep 2014, 23:33]
+So basicly just delete preferences, cos redist and dx installing again doesnt change anything...simple is that.
+
+Maybe you had an older preferences.script.txt cos they added and changed a few strings... i dont have any fps problems since patch 8 or so.
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 07 Sep 2014, 23:37]
+I didn't play game long ago. Need to test some stuff. But it will wait tomorrow so sleepy now...
+
+Sent from my Lenovo P780 using Tapatalk
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 07 Sep 2014, 23:37]
+
+_________________
+List of some Computer games CLICK ME
+
+  
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 07 Sep 2014, 23:42]
+ShadowDuke wrote:
+So basicly just delete preferences, cos redist and dx installing again doesnt change anything...simple is that.
+
+Maybe you had an older preferences.script.txt cos they added and changed a few strings... i dont have any fps problems since patch 8 or so.
+
+all i know is it improved for me it might be just deleting preferences dont know. Its a weird game as far as performance goes
+
+-- Edit --
+
+Also my settings dont save after i exit its been a problem since patch 14. If this has been discussed tell me il find it.
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 07 Sep 2014, 23:54]
+..it only saves your settings if you exit the game properly! If you experience same as others, game still in task-man and have to kill it manually, settings wont save! So, either save your settings before loading a game and exit the game or edit the preferences.script.txt manually!
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 08 Sep 2014, 00:00]
+ok thank you
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 08 Sep 2014, 18:49]
+[ img ]
+Imperator Augustus will be the biggest Campaign Pack to date, spanning across the entire Map of the Grand Campaign. The campaign starts in 41 BC at the height of the Second Triumvirate. Above you can see the start positions of all ten playable factions as well as the 65 minor, non-playable factions. Similar to the previous campaign packs Hannibal at The Gates and Caesar in Gaul one year during the campaign will consist of four turns per year.
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 08 Sep 2014, 18:59]
+is this the upcoming DLC map ??
+OMG it look great.. tired of playing some factions against some factions 
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 08 Sep 2014, 18:59]
+
+_________________
+SPECS : Ryzen 7 3800X | RTX 3070 8G | 16Gb DDR4 | 1TB SSD
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 08 Sep 2014, 19:18]
+Octave ( Augustus)
+Tiberius ( Crazy guy )
+Caligula ( Crazy Guy )
+Claudius
+Nero  my favorite dude ( Not at all what you think .... probably not the one who fire Roma)
+Galba - Othon- Vitellus
+Vespasien
+Titus
+Domitien
+Nerva
+Trajan
+Hadrien
+Antonin
+Marcus Aurele
+Commode

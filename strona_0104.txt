@@ -1,0 +1,129 @@
+=========================================
+STRONA 104 (URL: https://cs.rin.ru/forum/viewtopic.php?f=10&t=61441&hilit=rome+2&start=1545)
+=========================================
+
+[Data: Saturday, 23 Aug 2014, 15:53]
+Dear,
+
+I used to have the ALI213 installation of rome 2 total war. It used to update itself. But lately it doesnt update anymore. So mods become useless. So i started looking here for the patches. My version now is V1.13.0 build 11398.543170. So i decided to update : Total.War.ROME.II.Update.13_1.Hotfix.and.Festivals.Update (Version: v1.13.1-11724.548874). My UAC is off (no alerts, lowest point on the slider) and i start the bat file. But i always get an target window chesum mismatch: XD3_invalid_input at the first of the 15 steps: data_rome2.pack. What should i do?
+
+What i tried yet:
+
+1. I started the game. This did work. But when i do the next patch. I get a CTD on startup of the game.
+
+2. I installed Total.War.ROME.II.Update.13.hotfix.plus.Pirates.and.Raiders.DLC (Version: v1.13.0.0-11359.0) but this is a lower version than my version. Again I get an XD3 invalid input.
+
+My game directory is located in C:\games\rome 2 total war (dont know if it is important but i just say it)
+
+I hope you can help me. And i really appreciate your work!
+
+Thanks
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 23 Aug 2014, 18:50]
+Afaik after viewtopic.php?p=917946#p917946 there was another minor update, which i didnt upload cos it wasnt really needed, so i skipped this one cos the next update was already announced very soon back at the time.
+
+So theres no way you can patch from that ali Version! Get a Version which you can update from.
+
+Also theres no need to test and start the game if you get missmatch errors, it simply wont work ever and you will always get CTD!
+
+I also said that theres no support for any other Version than mine or RLD where the updates will work. If they work on any other Version, 3DM, Ali or any crappy Repack, its just luck but not taken for granted.
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 23 Aug 2014, 19:49]
+Thanks for the answer. Where can i find your version? Is it the steam-rip?
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 23 Aug 2014, 21:11]
+My Version=My Patches.
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 23 Aug 2014, 22:31]
+Just wanted to know where i could find the links to download the unpatched game. So i could start patching it with your patches. But I fixed it now using my old installation folder (unpatched) and instead of patching it with the autopatcher. I used all your patches 
+
+The game finally works. Thank you very much for your work and effort!
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 25 Aug 2014, 03:17]
+Hello Mr ShadowDuke, would you mind posting the sfv checksum for patch 14? I tried to apply update 14 Gaul and HATG patch and they was a checksum error with sound_rome2.pack and when I apply update14.1 there were a bunch of checksum errors.
+I really appreciate your work with the cracked game.
+Thank you.
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 25 Aug 2014, 05:25]
+Sorry, my game is up2date on 14.1 so i cant provide you with a sfv file for update 14.
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 25 Aug 2014, 13:25]
+Hey people,
+
+Obviously i kinda get the point, but does anyone know how the "Family Tree" thing worked in previous installments (sounds like a good addition)? 
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 25 Aug 2014, 14:51]
+Whatever. wrote:
+Hey people,
+
+Obviously i kinda get the point, but does anyone know how the "Family Tree" thing worked in previous installments (sounds like a good addition)? 
+
+I see your new to the series. It basically gives you the ability to track you family lineage your generals whose the heir that sort of thing. It gives substance to the campaign because you fight for your family and your family members have meaning as do generals. Hopefully they incorporate it into the civil war mechanic. But to me they need to integrate it with the politics system for an all round better experience
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 25 Aug 2014, 15:14]
+ShadowDuke wrote:
+Sorry, my game is up2date on 14.1 so i cant provide you with a sfv file for update 14.
+
+Can you do it for 14.1 please?
+My game crashes with D-E.Imod in a battle
+not sure the root cause
+It's a null pointer reference somewhere. So I don't know.
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 25 Aug 2014, 15:25]
+Please, lanfix crack.
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 25 Aug 2014, 19:58]
+Quick note on 14.1 patch (im using Reloaded's ROME 2 with Hatg and CiG + all required patches up to 14.1):
+
+Everything ingame works fine.
+
+The only problem i have is with quiting the game. If i use "Quit to Desktop" the game goes into a black screen so i have to open Task Manager and kill the Rome2.exe process.
+If i use "Quit to main menu" and then "Quit to Desktop" the game exits to desktop but i still have to kill the Rome2.exe process in Task Manager.
+
+So im wondering is that normal for the latest crack or is the problem on my end?
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 25 Aug 2014, 20:24]
+nodi wrote:
+I see your new to the series. It basically gives you the ability to track you family lineage your generals whose the heir that sort of thing. It gives substance to the campaign because you fight for your family and your family members have meaning as do generals. Hopefully they incorporate it into the civil war mechanic. But to me they need to integrate it with the politics system for an all round better experience
+Thanks for the information.  I never finished the Campaign mode in both times i played this game. I suppose i'll wait before starting a new Campaign again until this new content gets implemented in the game. 
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 25 Aug 2014, 21:55]
+Whatever. wrote:
+nodi wrote:
+I see your new to the series. It basically gives you the ability to track you family lineage your generals whose the heir that sort of thing. It gives substance to the campaign because you fight for your family and your family members have meaning as do generals. Hopefully they incorporate it into the civil war mechanic. But to me they need to integrate it with the politics system for an all round better experience
+Thanks for the information.  I never finished the Campaign mode in both times i played this game. I suppose i'll wait before starting a new Campaign again until this new content gets implemented in the game. 
+
+Sadly ca just said it isnt in the plans for the near future maybe later down the line. If you cant finish a campaign just use mods i use about 15 mods and it makes the campaign great.
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 25 Aug 2014, 23:07]
+nodi wrote:
+Sadly ca just said it isnt in the plans for the near future maybe later down the line. If you cant finish a campaign just use mods i use about 15 mods and it makes the campaign great.
+It's dated for a release on September the 16th. Didn't you check out the previous page?  I don't really want to wait a month though, perhaps i'm just going to start earlier. I couldn't finish my Campaigns because of problems not related to the game. I became sick the first time, apparently i can't make use of a PC anymore without wearing glasses. The second time the game fried my graphic card.

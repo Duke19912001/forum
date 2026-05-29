@@ -1,0 +1,154 @@
+=========================================
+STRONA 109 (URL: https://cs.rin.ru/forum/viewtopic.php?f=10&t=61441&hilit=rome+2&start=1620)
+=========================================
+
+[Data: Monday, 01 Sep 2014, 22:19]
+It says that xdelta 3 is not compatible to my Windows. Is this file 64bit?
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 01 Sep 2014, 22:54]
+if they fix diplomacy (trade and relations with allies) and add a family tree and fix the pathfinding this just might be my favorite total war game hahah. still a lot to fix
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 02 Sep 2014, 13:56]
+Hi,
+
+Recently moved to windows 7 and the twr2_up15_beta.bat after resolving all 15/15 files when entering N to continue updating give me ''acces denied''. What to do ?
+Thank a lot....
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 02 Sep 2014, 17:16]
+A note for those having problems with game not exiting properly (black screen or/and Rome2.exe still running after exit).
+
+I started having exit problems with patch 14.1, had no problems before (i am using Rome 2 Hatg & Cig RELOADED's release and all patches starting with update 11 hotfix). The problem remained even with latest 15 beta update.
+
+So i decided to uninstall the game and make a fresh install. I also had to reinstall Visual C++ Redistributable for Visual Studio 2013 which was strange.
+
+Anyway, i tested and run each individual patch as i installed them. This time the exit function worked properly for all of them (including 14.1 and 15 beta).
+
+Hope that helps someone.
+
+-->EDIT<--
+
+A quick update: if i start a new campaign/load a save game/start a custom battle the game exit nicely (before pressing "End Turn"). But after pressing "End Turn" the game no longer exits properly .
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 03 Sep 2014, 10:48]
+leonardusius wrote:
+Hi,
+
+Recently moved to windows 7 and the twr2_up15_beta.bat after resolving all 15/15 files when entering N to continue updating give me ''acces denied''. What to do ?
+Thank a lot....
+
+Already fix it. Disabling the windows uac....
+
+-- Edit --
+
+Is any Total.War.Rome.II.v1.15.Incl.DLC.Cracked-3DM out there ?
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 03 Sep 2014, 12:08]
+Thanks again Shadow, just a small nothing, the manifest file is extracted to Rome root should that not be in data? Insignificant.
+Appreciated, all the same.
+
+leonardusius wrote:
+leonardusius wrote:
+Is any Total.War.Rome.II.v1.15.Incl.DLC.Cracked-3DM out there ?
+
+
+Update the game from here, then create your own image using this guide here http://fileforums.com/showthread.php?t=95122
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 03 Sep 2014, 15:47]
+Yes, should be \data\ but is only minor.
+
+Theres was another small update today, changes are in blue.
+
+http://wiki.totalwar.com/index.php?titl ... ldid=17181
+
+We might see a few small beta-patches until final. Gonna skip those and wait for final i guess.
+
+New build is: 13639.579436
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 03 Sep 2014, 17:23]
+03/09/14 - 13639.579436
+
+The headline changes in this beta are:
+
+Politics and civil war improvements
+Overhauled building chains
+Special regions
+Campaign balancing changes
+Land battle changes
+Naval battle balancing changes
+
+
+General Improvements:
+
+Adjusted pike balancing.
+Tweaked mercenary and auxiliary unit multiplayer caps.
+Fix for Hoplite wall exploit.
+Added mercenary Dacian spears to Odrysian multiplayer roster.
+Halved based political action costs, but doubled the increases from Imperium.
+Armies on ships will now join civil wars.
+When deploying troops on a land battle with snow, the markers indicating where individual soldiers will stand are now displayed correctly in yellow instead of white.
+Increased melee cavalry attack.
+Light Peltasts and Bactrian Peltasts morale changed to 50.
+Removed happiness bonus from military recruitment buildings.
+Adjusted the stats for the branches of the Roman city, Eastern city and Eastern generic town chains to give more clear differentiation between the choices.
+Fix for Epona religious chain for Iberians giving the wrong culture type.
+Fixed an issue related to politics that could cause an end turn crash.
+Improved Campaign AI army management and recruitment.
+
+
+
+Do not want to miss it 
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 04 Sep 2014, 12:47]
+there seems to have been a small update.
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 04 Sep 2014, 14:11]
+No there issnt, the last one is from yesterday!
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 04 Sep 2014, 14:31]
+ok sorry. did you upload it or are just gonna upload the final version
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 04 Sep 2014, 14:40]
+uhm... viewtopic.php?p=943886#p943886
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 04 Sep 2014, 15:49]
+Total War: ROME II - Imperator Augustus Campaign Pack - Official Trailer.
+
+
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 04 Sep 2014, 16:57]
+Every time when i close game to pc desktop. My game stops working. And i have to use CTRL+ALT+DELETE, task manager, and some handy trick with the button next to the right control key on my keyboard, to be able to close it down completely.
+
+Any solutions?
+
+thanks
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 04 Sep 2014, 17:20]
+Emperor Edition released on September 16.

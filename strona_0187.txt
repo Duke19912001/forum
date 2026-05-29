@@ -1,0 +1,207 @@
+=========================================
+STRONA 187 (URL: https://cs.rin.ru/forum/viewtopic.php?f=10&t=61441&hilit=rome+2&start=2790)
+=========================================
+
+[Data: Tuesday, 04 Aug 2015, 10:24]
+Anomaly wrote:
+alvaro1992 wrote:
+Someone managed to get 15666.640460 to work multiplayer using the latest exe?
+
+EDIT:
+Nvm was a port issue, the game works fine.
+
+
+What was the problem?
+
+Port forwarding issue on my friend's router.
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 18 Aug 2015, 22:26]
+Anyone got the patch 17 beta?
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 20 Aug 2015, 07:25]
+fister wrote:
+Anyone got the patch 17 beta?
+
+No way, little interest by now.
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 20 Aug 2015, 07:35]
+if someone can supply the 5 DLC .pack files(also need the 5 DLC startpos.esf for each) updated for beta patch 17. i can make the xdelta update for all.
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 20 Aug 2015, 16:53]
+Patch 17 has just gone live. 
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 20 Aug 2015, 17:30]
+Downloading patch 17 now, will post updated DLCs when done.
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 20 Aug 2015, 18:06]
+testni wrote:
+Downloading patch 17 now, will post updated DLCs when done.
+
+thanks!!!
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 20 Aug 2015, 19:19]
+R2TWEE Patch 17 (v2.2.0 Build 16019.718953) DLCs:
+
+TWR2EE.5.DLC.Patch.17.part01.rar
+TWR2EE.5.DLC.Patch.17.part02.rar
+TWR2EE.5.DLC.Patch.17.part03.rar
+TWR2EE.5.DLC.Patch.17.part04.rar
+TWR2EE.5.DLC.Patch.17.part05.rar
+TWR2EE.5.DLC.Patch.17.part06.rar
+
+note: use winrar 5+ to extract
+
+edit:
+TWR2EE patch 17 sfv:
+Total War Rome II Patch 17.sfv
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 20 Aug 2015, 20:31]
+So I went from Machine's v15666 to this patch 17 (testni's files) and yet I'm getting mismatches on files that weren't even updated (or not included?) in his patch. What's going on here?
+
+
+ Spoiler
+CALibsWinExt.zIntelUnityRelease.dll
+Rome2.dll
+Rome2.exe
+steam_api.dll
+data\boot.pack
+data\data_rome2.pack
+data\local_en.pack
+data\manifest.txt
+data\models2_rome2.pack
+data\models_rome2.pack
+data\movies_rome2.pack
+data\music_rome2.pack
+data\sound_rome2.pack
+data\terrain2_rome2.pack
+data\terrain_rome2.pack
+data\tiles2_rome2.pack
+data\tiles3_rome2.pack
+data\tiles4_rome2.pack
+data\tiles_rome2.pack
+data\text\credits.xml
+launcher\launcher.exe
+launcher\steam_api.dll
+data\local_en_shared_rome2.pack
+data\music_en_shared_rome2.pack
+launcher\awesomium.log
+
+Got mismatches on all of these files, except the last three, which are missing. The executable and dll libraries are mismatched of course but those .pack files shouldn't be.
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 20 Aug 2015, 20:31]
+
+_________________
+Always wanted to get rid of the files that were not listed in the sfv/md5 hash file? Check the QuickSFV plugin I created for this: viewtopic.php?f=10&t=108605 or this: viewtopic.php?p=1273745#p1273745
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 20 Aug 2015, 20:37]
+@Anomaly: Those DLC files are for machine4578, so he can prepare a new update (because he don't have the dlc files, only vanilla game i presume). So just wait for machine's update.
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 20 Aug 2015, 20:37]
+
+_________________
+Haters gonna hate!
+My updates are always clean files - no cracks included.
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 20 Aug 2015, 20:42]
+knabberfee wrote:
+@Anomaly: Those DLC files are for machine4578, so he can prepare a new update (because he don't have the dlc files, only vanilla game i presume). So just wait for machine's update.
+
+
+Damn, my bad. I thought it was patch 17 + DLCs. Nothing to worry about then.
+
+Edit: Lol, an Xdelta patch for these DLC files is not even 14MB. I just made one to see how big it would be.
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 20 Aug 2015, 20:42]
+
+_________________
+Always wanted to get rid of the files that were not listed in the sfv/md5 hash file? Check the QuickSFV plugin I created for this: viewtopic.php?f=10&t=108605 or this: viewtopic.php?p=1273745#p1273745
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 21 Aug 2015, 03:36]
+i will make an xdelta patch tonight. thanks testni for the DLC files 
+
+-edit-
+
+xdelta update done to update from v2.2.0.15666-v2.2.0.16019.
+unfortunately the devs added 2 new files which makes the patch a little over 1GB. uploading now and will post soon.
+
+-edit-
+Total.War.ROME.II.Update.v2.2.0.16019
+Sixe: 1.15GB
+
+Code: Select all | Line number On/Off | Expand/Contract
+http://hugefiles.net/cvy01jdq50rv
+
+NOTE:
+*you MUST have update 2.2.0.15666 installed!
+*thanks to testni for the updated DLC files!!!
+*thanks to Steam006 for this LumaCEG!
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 21 Aug 2015, 08:58]
+
+
+TYVM
+
+Edit: Hummm Nuts. I have the legit version and all is working great. I have the cracked version on another machine (laptop) that I patch with TWR2EE.Update.v2.2.0.16019 with no error and the files match my legit.
+
+On my cracked version 16019 the encyclopedia is now black screen, the encyclopedia is working on the old cracked build 15666... is anyone else affected? I can browse the broken encyclopedia offline just fine in my browser.
+
+I did try to use the Steam_CEG.dll / LumaCEG.ini from my working build 15666 and the game looks to run fine with it, but the encyclopedia is still broked. I have also deleted any registry references, the ALI emu profile folder, and the "..\AppData\Roaming\The Creative Assembly\Rome2" folder for good measure while I was trouble shooting.
+
+Strange issue that is likely my systems problem but I wonder if it could be the fix?
+
+If I jump ingame and open the encyclopedia to a black screen then exit the game ... this is the LumaEmu_CEG.log I get.
+
+Code: Select all | Line number On/Off | Expand/Contract
+LumaCEG Started, Patching...
+LumaCEG_CreateEventA --> CEG --> STEAM_START_ACK_EVENT_5388_1665994069
+LumaCEG_CreateEventA --> CEG --> STEAM_TERM_EVENT_5388_1665994069
+LumaCEG_CloseHandle --> CEG
+Shutting down LumaCEG...
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 21 Aug 2015, 09:10]
+gringosan wrote:
+On my cracked version 16019 the encyclopedia is now black screen, the encyclopedia is working on the old cracked build 15666... is anyone else affected? I can browse the broken encyclopedia offline just fine in my browser.
+
+I did try to use the Steam_CEG.dll / LumaCEG.ini from my working build 15666 and the game looks to run fine with it, but the encyclopedia is still broked. I have also deleted any registry references, the ALI emu profile folder, and the "..\AppData\Roaming\The Creative Assembly\Rome2" folder for good measure while I was trouble shooting.
+
+Strange issue that is likely my systems problem but I wounder if it could be the fix?
+
+Maybe we need a new crack. Having encyclopedia issue like you said.
+CA must have changed the encyclopedia like Attila.
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 21 Aug 2015, 11:14]
+oh! download size shows up to be 786kb. I'm expecting a 1.2GB update. Did I miss something. o.O

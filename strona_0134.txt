@@ -1,0 +1,133 @@
+=========================================
+STRONA 134 (URL: https://cs.rin.ru/forum/viewtopic.php?f=10&t=61441&hilit=rome+2&start=1995)
+=========================================
+
+[Data: Tuesday, 23 Sep 2014, 23:16]
+neoiq5719 wrote:
+since your game is not legit sending something to the devs would require some subtle lying, dont u think so? lol
+So in the end how did u fix it?
+
+
+Just another satified costumer lol
+
+
+Oh not the game devs. The dev of the LumaEmu.
+I just copied pasted both your exe and bink32 file from him, viola! 
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 24 Sep 2014, 11:34]
+...
+viewtopic.php?f=29&t=64354
+
+encyclopedia links fixed, languages currently re-uploading (the ones i uploaded before)!
+
+All links have been updated!
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 24 Sep 2014, 14:05]
+@ShadowDuke: I wanted to start updating again today to Update.14.1 and a few weird things happend. Between 2/18 and 3/18 I got a message saying: XDELTA3: Target Window Checksum Mismatch: XD3_INVALID_INPUT, I got this message again between 12/18 and 13/18 and a final weird thing happened 19/18? I left the update window open because I don't know how bad this problem might be. What should I do, restore files, finish the update, after that anything else to solve this problem?
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 24 Sep 2014, 14:08]
+No idea, check the version and build nr which is req. for each update. As you know these errors say your prev. file issnt matching..
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 24 Sep 2014, 14:19]
+I remember I went from Update.14, Update.14 Fix (this only changed 1/15 1 file), I copied Update.14 ENG-Lang, I still had Update.14 crack applied when I went to Update.14_1, can that be the problem?
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 24 Sep 2014, 14:19]
+No, that doesnt matter.
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 24 Sep 2014, 16:39]
+I know, desperate move there.  Strange.. I don't know, everything matches, I wrote everything I did down last time I updated. The ony thing in between is the Gaul_and_HATG_Update14, but I don't need these from what I understand. I don't get it, some people mention you need the Gaul_and_HATG_Update13_1 and Gaul_and_HATG_Update14 and some people say you don't. Bleh..  
+
+EDIT: Yeah, It seems like that might be the problem, Gaul and Punic Packs seem to cause these errors. I'll check this out tomorrow though, I'm to tired right now. Thanks for responding ShadowDuke. 
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 24 Sep 2014, 19:33]
+LoneStudent wrote:
+i hate to be so boring and insistent, but...the patch15 eng lang link??
+
+  
+
+maybe someone else, other than ShadowDuke, could ul it for me. Without leaving to him all the job!
+
+
+
+Thanks again ShadowDuke, im dl it right now
+
+-- Edit --
+
+Noob Question 
+
+"Patch 15 fix" before or after "patch 15 beta to final"?
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 24 Sep 2014, 19:39]
+What do you think if its in the order below beta_to_final and saying (you need to dl this as well, cos theres 1 mismatch error in data_rome2.pack)...
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 24 Sep 2014, 19:48]
+ShadowDuke wrote:
+What do you think if its in the order below beta_to_final and saying (you need to dl this as well, cos theres 1 mismatch error in data_rome2.pack)...
+
+
+you right, i asked cause my first try was like you say but the game doesn't start...but maybe i've messed up something else
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 25 Sep 2014, 13:39]
+Nooo! No more!  D3DCompiler.42.dll is missing! This happens when I try to launch Rome.exe. Noo..  Aaah..! Annoying.
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 25 Sep 2014, 13:41]
+Thats a directX error! Download newest dx and re-install.
+http://www.microsoft.com/en-us/download ... aspx?id=35
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 25 Sep 2014, 13:48]
+I thought things were good enough when I installed Watch Dogs (which I'm not playing  ), It started DirectX updating, but apparently it's not good enough. Thanks ShadowDuke, I'll run to my own PC now and install newer DirectX, I need to play, I can't wait anymore! 
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 25 Sep 2014, 17:15]
+thanks for your awesome work shadowduke...ive been following the updates since update 12 and the result was very awesome
+
+keep up the great work!!!   
+
+-- Edit --
+
+
+
+
+next total war
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 25 Sep 2014, 17:35]
+good they are going Napoleon's route. Looks cool
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 25 Sep 2014, 17:35]
+
+_________________
+mostly inactive until at least half of july 2025
+
+If any of my uploads are outdated or no longer online , the best way to do is to send me a PM and i will add the title to the next batch
+UPLOADS PAUSED (have all requests in queue for when i am back to being more active)
+
+List of recent games with modern DRMs:(updated 01-Mar-2023) - http://cs.rin.ru/forum/viewtopic.php?f=10&t=68151

@@ -1,0 +1,171 @@
+=========================================
+STRONA 188 (URL: https://cs.rin.ru/forum/viewtopic.php?f=10&t=61441&hilit=rome+2&start=2805)
+=========================================
+
+[Data: Friday, 21 Aug 2015, 11:21]
+Infinitexs wrote:
+oh! download size shows up to be 786kb. I'm expecting a 1.2GB update. Did I miss something. o.O
+
+uncheck the download manager!!!!
+
+__
+
+as for the encyclpodedia issue.. i am working on it now.
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 21 Aug 2015, 13:25]
+I unchecked download accelerator, but it repeatedly show up 'webpage not available/ connection time out' 
+
+edit - finally got it!!! after I use another internet connection.  
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 21 Aug 2015, 13:59]
+For some reason I can't get Brucie's wrapper to work. Rome 2 throws "Entry Point Not Found" error.
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 21 Aug 2015, 17:07]
+Very disappointed with this cosmetic patch 17. Galleries use AI bug still there.
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 21 Aug 2015, 18:37]
+Could anyone possibly upload Machine's latest patch on another hosting site? Zippyshare, Uptobox, Mega or Baidu would be preferred. I cannot download a single file from Hugefiles as I'm always getting "Wrong IP".
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 21 Aug 2015, 18:37]
+
+_________________
+Always wanted to get rid of the files that were not listed in the sfv/md5 hash file? Check the QuickSFV plugin I created for this: viewtopic.php?f=10&t=108605 or this: viewtopic.php?p=1273745#p1273745
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 21 Aug 2015, 20:10]
+testni wrote:
+R2TWEE Patch 17 (v2.2.0 Build 16019.718953) DLCs:
+
+TWR2EE.5.DLC.Patch.17.part01.rar
+TWR2EE.5.DLC.Patch.17.part02.rar
+TWR2EE.5.DLC.Patch.17.part03.rar
+TWR2EE.5.DLC.Patch.17.part04.rar
+TWR2EE.5.DLC.Patch.17.part05.rar
+TWR2EE.5.DLC.Patch.17.part06.rar
+
+note: use winrar 5+ to extract
+
+edit:
+TWR2EE patch 17 sfv:
+Total War Rome II Patch 17.sfv
+
+
+
+Hi, I'm trying to add these DLCS to my legit Steam version (on patch 17) but when I go ingame the DLCs are not playable, does anyone know how to do this?
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 21 Aug 2015, 20:57]
+@Anomaly
+
+
+machine4578 wrote:
+i will make an xdelta patch tonight. thanks testni for the DLC files 
+
+-edit-
+
+xdelta update done to update from v2.2.0.15666-v2.2.0.16019.
+unfortunately the devs added 2 new files which makes the patch a little over 1GB. uploading now and will post soon.
+
+-edit-
+Total.War.ROME.II.Update.v2.2.0.16019
+Sixe: 1.15GB
+
+Code: Select all | Line number On/Off | Expand/Contract
+http://hugefiles.net/cvy01jdq50rv
+
+NOTE:
+*you MUST have update 2.2.0.15666 installed!
+*thanks to testni for the updated DLC files!!!
+*thanks to Steam006 for this LumaCEG!
+
+
+Mega mirror:
+https://mega.nz/#!Z15GmSaB!QLOANAT5hGR8 ... k6n14NFbyk
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 22 Aug 2015, 00:57]
+Ok, so i've been looking everywhere but i seriously could NOT download this:
+Total.War.ROME.II.Update.16.1.Wrath.of.Sparta (gaul and hatg update included!)
+Whenever i put in the pw, may it be the "cs.rin.ru" or the stupid captcha it ALWAYS says invalid pw! It also says on the site that it's "broken". What the hell is that about? Please. Please can anyone help me? Like post a link from a different download site or something. Seriously, it's driving me fucking crazy!
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 22 Aug 2015, 01:21]
+^ Just download Total.War.ROME.II.Emperor.Edition.MULTi9-PROPHET, that was the latest version until yesterdays patch.
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 22 Aug 2015, 01:22]
+omerta0414 wrote:
+Ok, so i've been looking everywhere but i seriously could NOT download this:
+Total.War.ROME.II.Update.16.1.Wrath.of.Sparta (gaul and hatg update included!)
+Whenever i put in the pw, may it be the "cs.rin.ru" or the stupid captcha it ALWAYS says invalid pw! It also says on the site that it's "broken". What the hell is that about? Please. Please can anyone help me? Like post a link from a different download site or something. Seriously, it's driving me fucking crazy!
+
+you need to enter cs.rin.ru in the password section and answer the captcha, then click the "unlock protection & access the links"
+
+ Spoiler
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 22 Aug 2015, 01:42]
+@machine4578 Thank you for replying, but that's the thing. It doesn't feature an input box where you put the password. It's weird. I've been clicking for like a minute now and still, nothing. Is there anything i'm missing here?
+
+@mister pinball:
+Wat? Download the WHOLE game again? But i already have it. What's the point of downloading the whole thing again?
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 22 Aug 2015, 02:08]
+omerta0414 wrote:
+@machine4578 Thank you for replying, but that's the thing. It doesn't feature an input box where you put the password. It's weird. I've been clicking for like a minute now and still, nothing. Is there anything i'm missing here?
+
+@mister pinball:
+Wat? Download the WHOLE game again? But i already have it. What's the point of downloading the whole thing again?
+
+very weird dude.. i never had an issue with safelinking. anyways, try this link.
+https://drive.google.com/file/d/0BztVNo ... 1FenM/edit
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 22 Aug 2015, 11:11]
+I have the following error
+
+LumaCeg crashed (1).
+What this mean?
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 23 Aug 2015, 03:50]
+daimler wrote:
+I have the following error
+
+LumaCeg crashed (1).
+What this mean?
+
+yeah I'm getting this too
+
+Uploaded Luma dump
+Code: Select all | Line number On/Off | Expand/Contract
+https://mega.nz/#!SFIDWABT!r7G1vZ7m_Ika ... gDL8ZrZFKI
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 23 Aug 2015, 11:47]
+is the game CTD before main menu with this LumaCEG error?
+
+____
+
+as for the encyclopedia issue, unfortunately it seems they implemeted a steam check like Attila. and without using the org steam_api.dll and haiving steam running. the pedia doesnt work.

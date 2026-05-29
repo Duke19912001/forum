@@ -1,0 +1,275 @@
+=========================================
+STRONA 145 (URL: https://cs.rin.ru/forum/viewtopic.php?f=10&t=61441&hilit=rome+2&start=2160)
+=========================================
+
+[Data: Monday, 10 Nov 2014, 04:52]
+Someone got Assembly Kit download link?? My connection went low for computer.. I'm using mobile.. It's impossible to download a file at Mega from phone right?? Did anyone got some new link for Assembly Kit??
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 10 Nov 2014, 05:26]
+Its because the file is no longer available, but its still in my Account. Im gonna re-upload it.
+
+//done
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 10 Nov 2014, 05:42]
+Umm ca you upload it at Zippy?? Sorry for troubling you mr Duke
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 10 Nov 2014, 05:51]
+Yeah, gimme 5 minutes. Didnt make zippy mirror this time cos they delete the files very fast now.
+
+here http://www35.zippyshare.com/v/28770292/file.html
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 10 Nov 2014, 06:39]
+ShadowDuke wrote:
+Yeah, gimme 5 minutes. Didnt make zippy mirror this time cos they delete the files very fast now.
+
+here http://www35.zippyshare.com/v/28770292/file.html
+
+
+Thanks a lot mr Duke... I'm so sorry for troubling you from patch things until this kit hehehe.. Very much thanks for you friend!!:)
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 13 Nov 2014, 17:48]
+Something new here http://www.gamersgate.com/DLC-TWR2BSCCP ... lture-pack
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 13 Nov 2014, 20:14]
+Black Sea Colonies Culture Pack and Massilia Free-LC announced.
+forums.totalwar.com/showthread.php/141239
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 13 Nov 2014, 20:14]
+
+_________________
+⇛ The eyes, Chico. They never lie. ⇚
+
+In case you need a re-upload or something of anything i posted, shoot me a PM and i'll get back to ya'll.
+
+Password will always be: cs.rin.ru, if not stated otherwise...
+
+Please refrain from contacting me about stuff i simply posted and not uploaded, usually that stuff is old and possibly no longer in my possession. Thanks!
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 14 Nov 2014, 06:45]
+Mr ShadowDuke, I try to update from My Rome 2 TW eemperoe edition to Total.War.ROME.II.Update.15.Gaul_and_HATG_Update *xdelta* (16.09.2014), but there was an error message target window checksum mismatch ..... How can I fix it? thank you
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 15 Nov 2014, 02:11]
+Please... Add Black Sea Colonies update Mr. Duke... I wanna play as Colchisss:(:(
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 15 Nov 2014, 10:06]
+Riki_Stealth wrote:
+Please... Add Black Sea Colonies update Mr. Duke... I wanna play as Colchisss:(:(
+
+not out yet - releasing next thursday
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 15 Nov 2014, 10:06]
+
+_________________
+mostly inactive until at least half of july 2025
+
+If any of my uploads are outdated or no longer online , the best way to do is to send me a PM and i will add the title to the next batch
+UPLOADS PAUSED (have all requests in queue for when i am back to being more active)
+
+List of recent games with modern DRMs:(updated 01-Mar-2023) - http://cs.rin.ru/forum/viewtopic.php?f=10&t=68151
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 20 Nov 2014, 18:12]
+Any news about it yet ?
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 20 Nov 2014, 19:24]
+http://store.steampowered.com/app/297831/
+
+I guess 3DM will release it and hopefully also someone here, Shadowduke for instance.
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 20 Nov 2014, 19:24]
+
+_________________
+Always wanted to get rid of the files that were not listed in the sfv/md5 hash file? Check the QuickSFV plugin I created for this: viewtopic.php?f=10&t=108605 or this: viewtopic.php?p=1273745#p1273745
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 20 Nov 2014, 22:43]
+Total.War.ROME.II.Update.16.Black.Sea.Colonies.Culture.Pack *xdelta* Version: v2.1.0-15239.611152 (20.11.2014)
+
+You need Update 15 with Hotfix installed!
+
+Changelog:
+
+
+ Spoiler
+Code: Select all | Line number On/Off | Expand/Contract
+ 
+v2.1.0-15239.611152
+ 
+Technical and performance improvements
+ 
+Battle
+ 
+Fixed a rare projectile crash in battles.
+Campaign AI improvements
+ 
+Adjustment to Campaign AI to force factions that have just become known / discovered to take on the current attitude towards the player, rather than be neutral.
+General battle improvements
+ 
+Fixed bug with Celtic Linothorax armour on units in battle.
+Fixed misaligned settlement walls in Tigranocerta city battle map.
+Stopped infantry user triggering "riders into wedge" voiceover during battles.
+Armies moving from a settlement will no longer trigger "move completed" dialogue lines before their move has begun.
+Armenia can no longer use large onagers when defending in a custom siege battles.
+General Campaign improvements
+ 
+Fixes for seasonal effects and adjustments to income types and amounts from buildings in the campaign so subsistence is more favoured.
+Diplomatic scores have been lowered in general, and It is now harder to make client states.
+Usability Improvements
+ 
+Battle
+ 
+Factions are now listed in 2 columns in the Custom Battle and Multiplayer *Lobbies, to prevent the faction list going off the bottom of the screen.
+Fixed a Roman minor port coastal battle map, where units could disembark on an out-crop of land at the edge of the map, and therefore would get stuck and no longer be able to fight the navies in the battle.
+Fix for broken deployment area on port tile near the Dolmens in France.
+Campaign
+ 
+Faction Trait Icons fix - adjust to newer Emperor Edition colour scheme.
+Balancing Changes
+ 
+Unit Stats
+ 
+Increased armour of Foot Companions.
+Increased melee attack of Thracian Slingers, Bowmen, Skirmishers.
+Increased charge bonus of Carthaginian Noble Cavalry.
+Increased damage of longbows but reduced reload rate.
+Increased health of First Cohort and Eagle Cohort.
+Removed square from noble Spearmen and Persian Hoplites.
+Increased range of Nubian Bowmen to 150.
+Increased the health, attack and melee defence of Egyptian Cavalry.
+Increased the health of Thureos Spears by 5.
+Karian Axemen ranged weapon swapped for the same javelins as used by Thureos Spears.
+Increased the attack, armour and health of Mercenary Leopard Warriors.
+Increased the morale and armour of Camel Spearmen.
+Increased the morale of Camel Archers.
+Attack and charge bonus increased for Agrianian Axemen.
+Increased the armour of Thessalian Cavalry.
+Changed weapon of Hippeus Lancers so they do more damage.
+Increased the morale and health of Elite Persian Archers.
+Increased the armour, charge and melee defence of Etruscan Hoplites.
+Increased the morale of Light Hoplites.
+Increased the health of Heroes of Sparta.
+Increased the range of Gallic Hunters.
+Increased the health of Celtic Skirmishers.
+Increased the melee attack, charge bonus and melee defence of Celtiberian Cavalry.
+Increased the melee attack and charge bonus of Iberian Noble Cavalry
+Cantabrian Cavalry have been given higher damage javelins..
+Increased the armour of Veteran Riders.
+Increased the hit points of Horse Runners.
+Increased the armour of Bloodsworn.
+Increased the armour and morale of Spear Wall.
+Increased the morale and melee defence of Night Hunters.
+Increased the melee attack and melee defence of Fierce Swords.
+Increased the range of Dacian Heavy Bowmen.
+Increased the health and melee attack of Dacian Heavy Skirmishers.
+Increased the armour of Thracian Peltasts.
+Increased the morale of Thracian Warriors.
+Increased the health of Tribal Warriors and reduced speed.
+Increased the morale and melee defence of Illyrian Cavalry.
+Increased the morale of Parthian Foot Archers.
+Swapped the shield type of Scythian Royal Skirmishers and Sarmatian Horsemen to one with more armour.
+Increased armour and health of Sarmatian Royal Lancers.
+Reduced the mass of chariots.
+Increased the mass of elephants.
+Increased the attack of Briton Scout Riders to 38*
+Decreased the attack of Hastati to 35
+Unit Abilities and Attributes
+ 
+Added hoplite wall to Persian Hoplites.
+Rapid Advance for Gorgo's Skirmishers replaced with Rapid Reload.
+Added Frenzied Charge to Mighty Horse.
+Added Frenzied Charge to Illyrian Cavalry.
+Added Hoplite Wall for Noble Spearmen.
+Added Drago to Saka Noble Armoured Lancers.
+All camel units have gained the resistant to fatigue attribute.
+Unit Costs and Caps
+ 
+Thureos Hoplites cost decreased to 600.
+Illyrian Thureos Spears cost increased to 380.
+Iberian Swordsmen cost increased to 350.
+Thureos Spears cost increased to 560.
+Riders of the Hunt cost decreased to 570.
+(Mercenary) Rhodian Slingers cost decrease to 590.
+Evocati Cohort cost increased to 890.
+Triarii cost decreased to 790.
+Steppe Archers cost increased to 330
+Nubian Bowmen, Hippeus Lancers, Dacian Heavy Bowmen, Mercenary Thracian *Warriors and Illyrian Cavalry cost increased
+Steppe Archers cost increased to 330
+Egyptian cavalry increased to 600.
+Celtic Warhounds cost reduced by 50
+Increased the custom/multiplayer battle cap of Mercenary Axe Warriors to 4.
+Unit Availability
+ 
+Mercenary Thracian Warriors added to custom/multiplayer battle roster for *Macedon and Athens.
+Mercenary Samnite Warriors added to custom/multiplayer battle roster for Epirus.
+Mercenary Italian Cavalry added to custom/multiplayer battle roster for Syracuse.
+Mercenary Cappadocian Cavalry, Mercenary Skirmisher Cavalry and Mercenary *Syrian Archers added to custom/multiplayer roster for Galatia.
+Mercenary Germanic Scout Riders added to custom/multiplayer battle roster for Nervii.
+Mercenary Veteran Hoplites added to custom/multiplayer battle roster for the Odrysian Kingdom.
+Factional mercenaries for Tylis swapped from Dacian to Celtic units.
+Mercenary Tarantine Cavalry added to custom/multiplayer roster for Ardiaei.
+Mercenary Persian Cavalry added to custom/multiplayer roster for Pontus.
+Cappadocian Cavalry added to campaign and battle roster for Pontus.
+Mercenary Naked Swords added to custom/multiplayer battle roster for Pontus.
+Mercenary Amazonian Riders added to custom/multiplayer battle roster for *Roxolani and Massagetae.
+Known Issue
+ 
+In the Mac Steam version of the game, some changes to the games options during play will not be kept once the game is restarted.
+ 
+
+
+
+Code: Select all | Line number On/Off | Expand/Contract
+1) Extract all files to your Rome 2 <root> install dir
+2) Start TWR2_UP16.bat
+3) Copy Crack
+4) Play
+
+
+Download: [140 mb] (Zippyshare, Mega, Mediafire)
+
+
+Code: Select all | Line number On/Off | Expand/Contract
+http://www33.zippyshare.com/v/16262649/file.html
+http://www.mediafire.com/download/w583l ... ate.16.rar
+
+
+Notes: German & English Update!
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 20 Nov 2014, 22:48]
+Thank you, sir!
+Can you upload Assembly Kit, please?
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 20 Nov 2014, 22:51]
+Thanks for the update. Was there any change to the gaul and hatg files ?

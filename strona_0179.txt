@@ -1,0 +1,158 @@
+=========================================
+STRONA 179 (URL: https://cs.rin.ru/forum/viewtopic.php?f=10&t=61441&hilit=rome+2&start=2670)
+=========================================
+
+[Data: Sunday, 15 Mar 2015, 13:23]
+ Spoiler
+ShadowDuke wrote:
+Alby1666 wrote:
+I own the original game, is there a way to play wrath of sparta dlc without buying it?
+
+
+No! Use a Crack then yes ofc!
+
+
+Destapeman wrote:
+Hello and gracias first of all, and for his work.  ...
+
+Total.War.ROME.II.Wrath.of.Sparta, Massilia Faction, and Black Sea Colonies Culture Pack are in Spanish?
+
+Or at least subtitles?
+
+Subtítulos in Spanish, and more languages for them........
+
+http://www.mediafire.com/folder/2d43qd860yllp
+
+Credits: Swiss Halberdier, Radious, and DramaBelli.
+
+
+UPC is for mods not for the main game!
+
+
+This is something, logically files must be in English for vocals. 
+
+[ img link ] [ img ]
+
+[ img link ] [ img ]
+
+[ img link ] [ img ]
+
+[ img link ] [ img ]
+
+If you have something better, I'm all ears.
+
+Saludos.
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 15 Mar 2015, 16:35]
+can someone upload this mod please? http://steamcommunity.com/sharedfiles/filedetails/?id=357175740
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 16 Mar 2015, 16:58]
+Hello,
+
+Just a quick question, just bought a nice and cheap second hand PC and Rome 2 is installed (rld version) so even if the game is a mess I'll give the game a chance since it's already installed.
+But the game is in 1.8.0 version (I think it was the Caesar in Gaul Reloaded release) and I have no clue of which updates I need to apply to 1.8.0.
+If by chance someone knows I would be glad to be helped 
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 16 Mar 2015, 17:04]
+Check OP and open eyes for build nr!
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 16 Mar 2015, 17:48]
+Hi guys, I'm not used to this forums yet and I want to download and install Rome II.
+In OP there are several links for updates, but there is no explanation on which ones you need to download or how you need to install them (I think you only need latest, but I'm not really sure).
+Also I don't see a link for the game itself.
+
+I am on Linux and it's been a couple of years since I play any games (at all). I want to go back to the old Total War saga, but I'm rusty and I need some tutorial to install and test this game. I don't know if it will run at all in Linux.
+
+Thanx in advance.
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 16 Mar 2015, 21:55]
+Hello! Can someone share, please, crack for the latest version 2.2.0.1566.640460?
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 16 Mar 2015, 22:14]
+sergio_sos wrote:
+there is no explanation on which ones you need to download or how you need to install them
+
+
+Yes there is, even for each update! What a service...
+viewtopic.php?p=1026453#p1026453
+
+
+markfiter wrote:
+Hello! Can someone share, please, crack for the latest version 2.2.0.1566.640460?
+
+
+viewtopic.php?p=1016670#p1016670
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 16 Mar 2015, 22:16]
+Tnx, ShadowDuke, I'll test it!
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 17 Mar 2015, 17:50]
+@cowkiller:
+mods_a_more_aggressive_ai.rar
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 17 Mar 2015, 19:42]
+ShadowDuke wrote:
+sergio_sos wrote:
+there is no explanation on which ones you need to download or how you need to install them
+
+
+Yes there is, even for each update! What a service...
+viewtopic.php?p=1026453#p1026453
+
+
+markfiter wrote:
+Hello! Can someone share, please, crack for the latest version 2.2.0.1566.640460?
+
+
+viewtopic.php?p=1016670#p1016670
+
+
+Oh I see now, thank you ShadowDuke.
+
+But I must confess that I'm still lost regarding which is the full game and which patches/updates should I install to have the lastest full version with all DLC.
+Feeling like a true noob here, it's been a lot of time since I last tried to install and play a game. And now I'm even on Linux so it might be a bit harder 
+
+Could you point me to the links I should download? Game and updates/patches for latest full game?
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 17 Mar 2015, 19:53]
+Download RLD Emperor Edition and patch up from hotfix15.
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 17 Mar 2015, 23:39]
+Thanks a lot for the hint ShadowDuke, patching from Caesar in Gaul was a full day job I decided to avoid !
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 17 Mar 2015, 23:59]
+Hello does anyone know where game store preview images of mods downloaded from workshop? or method how to show mods in launcher with picture
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 18 Mar 2015, 00:02]
+(If you own the game) its downloading the picture as well and puts it altogether in \data\ with the pack file of the mod. The file name is the same. Afaik its a png file.
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 18 Mar 2015, 00:17]
+Thanks it work

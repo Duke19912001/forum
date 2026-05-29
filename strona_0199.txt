@@ -1,0 +1,186 @@
+=========================================
+STRONA 199 (URL: https://cs.rin.ru/forum/viewtopic.php?f=10&t=61441&hilit=rome+2&start=2970)
+=========================================
+
+[Data: Wednesday, 14 Oct 2015, 23:02]
+daniel767 wrote:
+Im playing with v2.2.0.15666 and I get a black screen when opening the encyclopedia.
+
+then i suggest you update.
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 15 Oct 2015, 11:57]
+Hi. Can someone please share this unit icons mod via Mediafire or something like that?
+
+http://steamcommunity.com/sharedfiles/f ... =232955267
+
+Thanks.
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 15 Oct 2015, 12:19]
+Kebab_Removal_Unit wrote:
+Hi. Can someone please share this unit icons mod via Mediafire or something like that?
+
+http://steamcommunity.com/sharedfiles/f ... =232955267
+
+Thanks.
+
+here you are
+http://www51.zippyshare.com/v/of7ESsn4/file.html
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 15 Oct 2015, 13:13]
+machine4578 wrote:
+Kebab_Removal_Unit wrote:
+Hi. Can someone please share this unit icons mod via Mediafire or something like that?
+
+http://steamcommunity.com/sharedfiles/f ... =232955267
+
+Thanks.
+
+here you are
+http://www51.zippyshare.com/v/of7ESsn4/file.html
+
+
+Many thanks for the quick answer friend!
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 15 Oct 2015, 14:33]
+fatalerror1 wrote:
+Any lang packs? At least the subtitles - which should have only couple MBs
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 15 Oct 2015, 14:46]
+machine4578 wrote:
+daniel767 wrote:
+Im playing with v2.2.0.15666 and I get a black screen when opening the encyclopedia.
+
+then i suggest you update.
+
+
+I play non-english, so I can't update right now. Any idea how I can fix it?
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 15 Oct 2015, 15:07]
+daniel767 wrote:
+machine4578 wrote:
+daniel767 wrote:
+Im playing with v2.2.0.15666 and I get a black screen when opening the encyclopedia.
+
+then i suggest you update.
+
+
+I play non-english, so I can't update right now. Any idea how I can fix it?
+
+what crack are you using? if you are using the PPT release\crack, try the crack i posted for 15666 using LumaCEG and ALI213 emu.
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 15 Oct 2015, 15:22]
+Hi I have a legit copy of TW:RII on steam, how can I install pirated dlcs?
+
+I have the .pack files and the campaign folders, but I can't activate them.
+I'm sorry if this has been asked before but I couldn't find any solution.
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 15 Oct 2015, 15:42]
+Sirdart wrote:
+Hi I have a legit copy of TW:RII on steam, how can I install pirated dlcs?
+
+I have the .pack files and the campaign folders, but I can't activate them.
+I'm sorry if this has been asked before but I couldn't find any solution.
+
+viewtopic.php?f=10&t=64521. grab the appid patcher v2. then add the DLC appid's to your packageinfo.vdf file. next edit your acf file and add the depot for each DLC. restart steam and the DLC should be listed and show "installed".
+(this is the same method used for most steam games)
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 15 Oct 2015, 15:58]
+Quote:
+what crack are you using? if you are using the PPT release\crack, try the crack i posted for 15666 using LumaCEG and ALI213 emu.
+
+
+I use LumaCEG and ALI213 emu
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 15 Oct 2015, 16:02]
+daniel767 wrote:
+Quote:
+what crack are you using? if you are using the PPT release\crack, try the crack i posted for 15666 using LumaCEG and ALI213 emu.
+
+
+I use LumaCEG and ALI213 emu
+
+idk then, because the pedia worked just fine on v2.2.0.15666. only the last 2 updates disabled the pedia offline. if i get time later i will reinstall the 15666 version to see whats going on.
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 15 Oct 2015, 16:14]
+Quote:
+grab the appid patcher v2. then add the DLC appid's to your packageinfo.vdf file. next edit your acf file and add the depot for each DLC. restart steam and the DLC should be listed and show "installed".
+(this is the same method used for most steam games)
+
+
+Sorry but what have I to write on the acf file? Apparently the dlc works if I use only the appid patcher
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 15 Oct 2015, 16:18]
+machine4578 wrote:
+daniel767 wrote:
+Quote:
+what crack are you using? if you are using the PPT release\crack, try the crack i posted for 15666 using LumaCEG and ALI213 emu.
+
+
+I use LumaCEG and ALI213 emu
+
+idk then, because the pedia worked just fine on v2.2.0.15666. only the last 2 updates disabled the pedia offline. if i get time later i will reinstall the 15666 version to see whats going on.
+
+
+oops, sorry, now I see my game version is 2.2.0.16019
+
+Does your Total.War.ROME.II.Update.v2.2.0.16155 affect any language files? If not, I can update.
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 15 Oct 2015, 16:23]
+daniel767 wrote:
+oops, sorry, now I see my game version is 2.2.0.16019
+
+Does your Total.War.ROME.II.Update.v2.2.0.16155 affect any language files? If not, I can update.
+
+lol, no wonder you pedia wasnt working.... here is the pedia fix i posted for 16019
+viewtopic.php?p=1095820#p1095820
+you must have steam running and add Rome2.exe as a non steam game just like Attila for the pedia to work.
+
+yes the lang files updated again with 16155.
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 15 Oct 2015, 16:38]
+machine4578 wrote:
+daniel767 wrote:
+oops, sorry, now I see my game version is 2.2.0.16019
+
+Does your Total.War.ROME.II.Update.v2.2.0.16155 affect any language files? If not, I can update.
+
+lol, no wonder you pedia wasnt working.... here is the pedia fix i posted for 16019
+viewtopic.php?p=1095820#p1095820
+you must have steam running and add Rome2.exe as a non steam game just like Attila for the pedia to work.
+
+yes the lang files updated again with 16155.
+
+
+Nope, not working for me, game crashing
+
+Better I forget about the pedia for a while...
+
+Do you have the (non-pedia) crack for Total.War.ROME.II.Update.v2.2.0.16019 incl binkw32.dll, so I can reset my game

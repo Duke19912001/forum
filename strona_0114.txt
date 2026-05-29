@@ -1,0 +1,150 @@
+=========================================
+STRONA 114 (URL: https://cs.rin.ru/forum/viewtopic.php?f=10&t=61441&hilit=rome+2&start=1695)
+=========================================
+
+[Data: Thursday, 11 Sep 2014, 22:02]
+I feel sorry for you ShadowDuke, sorry were such noobs and need your help! 
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 12 Sep 2014, 10:30]
+How can I run Radious mod? Doesn't work with the latest patch here (15b). Anyone got a working version for any of the previous patches?
+Why even bother with installing all these patches if you can't run the most important mod?
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 12 Sep 2014, 11:28]
+Here you can follow Radious reporting his progres with his mods and patch 15 beta:
+http://www.twcenter.net/forums/showthread.php?664800-Patch-15-Emperor-Edition-info
+
+Edit: (tried Radious mod for version 1.14 with game version 1.14 and ModManager v1.4 and the mod works perfectly)
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 12 Sep 2014, 11:50]
+Thanks. I guess I'll be giving Divide et Imperia a try instead.
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 12 Sep 2014, 17:16]
+DeI is better anyway..
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 13 Sep 2014, 10:17]
+DeI is good. The problem is, I've tried to load other mods and submods along with it and they don't show up in the Mod Manager tool I've downloaded. I fucking hate that program. Adding them to the script file just crashes my game on launch. Maybe I'm doing it wrong. I have a feeling that they would work normally if I could open the native launcher but it's not cracked, unfortunately. Or is it? It gives me the Steam not launched error or something.
+Here's a list of mods that some folks on 4chan are using, apparently with the original version of the game so they don't have to use external tools, just the native mod manager:
+">More towns and cities
+>Public order nightmare (regular)
+>Magnar's politics overhaul
+>Advisor be gone
+>Divide et Impera (patch 15 beta)
+>most of the Authentic Ancient World pack
+>GBJ Blood Mod: The Revolution
+>Special Effects Enhancement
+>Better Water III HD
+>DeI Submod (Unofficial) - Strategic Edict Governance with new Sell Food edict
+>DeI Javelin fix
+>DeI Historical Merc Recruitment
+>DeI Historical Naval Overhaul
+>Arcade Graphical Effects Removal
+>Meerkat's DeI Combat Rebalance mod
+>Bullgod's unit icons for DeI
+>Pdguru's grass mod"
+
+What I really want to try is the combat rebalance in a Roman playthrough (it's actually the only one that shows up in Mod Manager but still crashes), Merc Recruitment, politics overhaul and Strategic Edicts. And perhaps the blood mod but I've read it disables fire/smoke effects.
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 13 Sep 2014, 11:30]
+amberlamps wrote:
+DeI is good. The problem is, I've tried to load other mods and submods along with it and they don't show up in the Mod Manager tool I've downloaded. I fucking hate that program. Adding them to the script file just crashes my game on launch. Maybe I'm doing it wrong. I have a feeling that they would work normally if I could open the native launcher but it's not cracked, unfortunately. Or is it? It gives me the Steam not launched error or something.
+Here's a list of mods that some folks on 4chan are using, apparently with the original version of the game so they don't have to use external tools, just the native mod manager:
+">More towns and cities
+>Public order nightmare (regular)
+>Magnar's politics overhaul
+>Advisor be gone
+>Divide et Impera (patch 15 beta)
+>most of the Authentic Ancient World pack
+>GBJ Blood Mod: The Revolution
+>Special Effects Enhancement
+>Better Water III HD
+>DeI Submod (Unofficial) - Strategic Edict Governance with new Sell Food edict
+>DeI Javelin fix
+>DeI Historical Merc Recruitment
+>DeI Historical Naval Overhaul
+>Arcade Graphical Effects Removal
+>Meerkat's DeI Combat Rebalance mod
+>Bullgod's unit icons for DeI
+>Pdguru's grass mod"
+
+What I really want to try is the combat rebalance in a Roman playthrough (it's actually the only one that shows up in Mod Manager but still crashes), Merc Recruitment, politics overhaul and Strategic Edicts. And perhaps the blood mod but I've read it disables fire/smoke effects.
+
+
+
+machine4578 released crack file for official launcher;search it in this topic.I'm using it with toons aio with two submods without a problem.I didn't try dei and submods but ! dont see a reason them not to work.
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 13 Sep 2014, 11:41]
+Thanks, man. This might save me some trouble. But these mods seem outdated and still don't show up anyway. No matter... all I really need is actually just a working blood/gore mod in addition to DeI or AiO... but I don't see one being included in the AiO mod. Has anyone managed to run one with 15 beta patch? Or does AiO actually have better blood textures? I hate how there's no blood on the ground in native.
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 13 Sep 2014, 12:02]
+amberlamps wrote:
+Thanks, man. This might save me some trouble. But these mods seem outdated and still don't show up anyway. No matter... all I really need is actually just a working blood/gore mod in addition to DeI or AiO... but I don't see one being included in the AiO mod. Has anyone managed to run one with 15 beta patch? Or does AiO actually have better blood textures? I hate how there's no blood on the ground in native.
+
+I have played DeI with other mods in patch 15 and they work.By the way if your game crashed is ´cos some of the mods might be outdated.
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 13 Sep 2014, 12:59]
+amberlamps wrote:
+Thanks, man. This might save me some trouble. But these mods seem outdated and still don't show up anyway. No matter... all I really need is actually just a working blood/gore mod in addition to DeI or AiO... but I don't see one being included in the AiO mod. Has anyone managed to run one with 15 beta patch? Or does AiO actually have better blood textures? I hate how there's no blood on the ground in native.
+
+
+Did you check the enable out-of-date mod option in the launcher?I didn't install 15 beta so i cant say anything about that.For blood mod there's 3 mod from GBJ at this link:
+
+http://www.twcenter.net/forums/forumdis ... eous/page2
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 13 Sep 2014, 17:27]
+Anyone else hating Microsoft Visual 2008 Redistributable v9.0.21022 which is included with Total War? I can't get this program to install on my main C: hard disk. It actually installed twice on two different external hard disks, even when i remove these it installs to another hard disk. Sigh.. 
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 13 Sep 2014, 17:59]
+coplan wrote:
+amberlamps wrote:
+Thanks, man. This might save me some trouble. But these mods seem outdated and still don't show up anyway. No matter... all I really need is actually just a working blood/gore mod in addition to DeI or AiO... but I don't see one being included in the AiO mod. Has anyone managed to run one with 15 beta patch? Or does AiO actually have better blood textures? I hate how there's no blood on the ground in native.
+
+
+Did you check the enable out-of-date mod option in the launcher?I didn't install 15 beta so i cant say anything about that.For blood mod there's 3 mod from GBJ at this link:
+
+http://www.twcenter.net/forums/forumdis ... eous/page2
+
+
+None of these show up for 15 beta unfortunately. With or without out-of-date mod option.
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 13 Sep 2014, 18:33]
+Whatever. wrote:
+Anyone else hating Microsoft Visual 2008 Redistributable v9.0.21022 which is included with Total War? I can't get this program to install on my main C: hard disk. It actually installed twice on two different external hard disks, even when i remove these it installs to another hard disk. Sigh.. 
+
+Why the 2008? why dont u installed the 2012 or 2013?
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 13 Sep 2014, 18:50]
+I didn't know there were 2012 and 2013.  I basically only install "additionals" included with certain games, you know, just the things you need to install.
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 13 Sep 2014, 19:14]
+Whatever. wrote:
+I didn't know there were 2012 and 2013.  I basically only install "additionals" included with certain games, you know, just the things you need to install.
+
+Didnt u need the 2012 in order the get past update 12?

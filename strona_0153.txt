@@ -1,0 +1,159 @@
+=========================================
+STRONA 153 (URL: https://cs.rin.ru/forum/viewtopic.php?f=10&t=61441&hilit=rome+2&start=2280)
+=========================================
+
+[Data: Sunday, 07 Dec 2014, 14:22]
+so no one knows what should i do with that mismatch or... maybe only way to fix it is waiting for the hotfix??
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 07 Dec 2014, 21:21]
+Arghh...had to uninstall the game after your botched patch, ShadowDuke!
+
+Keep up posting new patches but working only 
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 08 Dec 2014, 06:57]
+hello  
+
+has anyone been able to win Alesia historical battle ?
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 08 Dec 2014, 07:09]
+Please help me with this mismatch firstt then I will win it:(:(:( hahaha
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 08 Dec 2014, 07:35]
+use the Xatab torrent ( latest version) there are about 500 seeders and you should have the full game with all dlc's in 30 minutes
+Than replace the russian files by the english one with the proper torrent I made
+you're done in less than an hour
+
+I can't win Alesia ; never with the new update ; I use too with the previous version of the game ; but now ; I am beaten at medium ; will try easy 
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 08 Dec 2014, 09:07]
+link my friend?? hehehe  
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 08 Dec 2014, 09:48]
+Code: Select all | Line number On/Off | Expand/Contract
+http://rustorka.com/forum/viewtopic.php ... &start=260
+
+
+
+Code: Select all | Line number On/Off | Expand/Contract
+http://thepiratebay.se/torrent/11650193 ... yclopiedia
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 08 Dec 2014, 21:53]
+tanauser wrote:
+Code: Select all | Line number On/Off | Expand/Contract
+http://rustorka.com/forum/viewtopic.php ... &start=260
+
+
+
+Code: Select all | Line number On/Off | Expand/Contract
+http://thepiratebay.se/torrent/11650193 ... yclopiedia
+
+
+Maybe I installed it wrong. But I got the torrent off page one, looks like the latest. Replaced the russian files with yours that you have...
+
+And maybe it is because the installer is all in russian and sadly can't read it. But...I don't have any of the DLCs at all. I do have grand campaign and the imperator augustus campaign (so I assume I did something right), but none of the DLCs show up properly. Nor can I play Ceaser in Gaul or the other one.
+
+
+(edit: I am going to attempt it again in case I did something wrong. I DID just wake up, so it is likely I did something by accident. I'm not much of a morning person. )
+
+(edit: Well, the DLCs show up as buyable (don't do anything obviously when I click on them. But, I can still choose them in the campaign. So maybe the DLCs DO work? But, I can't play Ceaser in gaul or the hannibal at the gates. They have a green moneybag icon next to them.)
+
+Must be doing something wrong...
+
+(final edit: I fixed it, I had to open codex.ini and set unlock all dc to = 1. It is at 0 (off) by default)
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 09 Dec 2014, 00:53]
+tanauser wrote:
+Code: Select all | Line number On/Off | Expand/Contract
+http://rustorka.com/forum/viewtopic.php ... &start=260
+
+
+
+Code: Select all | Line number On/Off | Expand/Contract
+http://thepiratebay.se/torrent/11650193 ... yclopiedia
+
+
+Is this file include complete english encyclopedia?
+
+Can you update eng encyclo only somewhere else. Like zippy, mega or mediafire. Thanks in advance
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 09 Dec 2014, 04:28]
+hello every one
+
+thanks for all the great world u are doing
+
+i just downloaded the torrent with the english pack
+and i was wondering how can i play mods like radius
+there is no mod manger in this torrent i looked for it put could not find one even google didn't help
+
+can u guys help with this ?
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 09 Dec 2014, 07:34]
+the Xatab installer is in russian , but than you can see on top there are 2 arrows one is for back and the other is for forward
+so you just pass your mouse on the forward sign ( looks like arrow >>>>>)
+
+You need a clean installation : not over the other one or your 2 ALi.ini and CODEX.ini will cause mistakes if they stay together BTW you can chose one or the other ; they just do about the same job , but not together .
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 09 Dec 2014, 13:49]
+yep i did a clean instal and deleted the older versions
+but no mod manager
+and the games and dlc's work great
+still
+how to run mods with this version ?
+i have already copied the mod files to the data folder put it says u have to activate them using the game launcher
+which it does not work
+only the game exe
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 09 Dec 2014, 14:09]
+I did my part , so now , you play Alesia and tell me if you can win ... any strengh you like 
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 10 Dec 2014, 05:13]
+mrplaya199 wrote:
+yep i did a clean instal and deleted the older versions
+but no mod manager
+and the games and dlc's work great
+still
+how to run mods with this version ?
+i have already copied the mod files to the data folder put it says u have to activate them using the game launcher
+which it does not work
+only the game exe
+
+
+have u try launch with mitch mod manager .. http://www.twcenter.net/forums/showthread.php?618536-Mod-Manager-Updated-25-04-14
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 10 Dec 2014, 06:56]
+So "Gaul.pack" is the Patch 16? Do I just paste it in some directory? Or is there a real Patch 16 download somewhere? I can't find any links...
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 10 Dec 2014, 06:56]
+
+_________________
+i7 8700K @ 4.8Ghz @ 1.36v | Cryorig R1 Universal Dual Tower | Arctic Silver 5 | ASUS Hero X Z370 | Corsair Dominator Platinum 16GB @ 3200Mhz @ XMP 1T | EVGA GeForce GTX 1080 Ti Kingpin @ 2025Mhz / 1100Mhz | ASUS Xonar DGX | Logitech Z-680 Dolby Digital 5.1 | Samsung NVMe - 970 250GB EVO, SATA - 850 EVO 500GB & 830 256GB | WD Black 2TB | LG WH12LS39 12x | Corsair Gold AX 850W | Corsair Graphite 760T | 4x Noctua NF-A14 140mm | Eizo Foris FG2421 24" 1080p Turbo 240Hz MVA | Samsung LN40B550 40" 1080p SPVA | Logitech G903 | QcK | Corsair K70 RGM MK.2 | Windows 10 Pro 1607-14393 x64

@@ -1,0 +1,261 @@
+=========================================
+STRONA 129 (URL: https://cs.rin.ru/forum/viewtopic.php?f=10&t=61441&hilit=rome+2&start=1920)
+=========================================
+
+[Data: Thursday, 18 Sep 2014, 17:45]
+Please stick to the topic's original purpose.
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 18 Sep 2014, 17:45]
+
+_________________
+I used to moderate this forum. 
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 18 Sep 2014, 18:40]
+Here is the complete DLC-List (14) for the INI entries...
+
+Emperior Edition Upd 15.0
+
+DLC001=212301
+DLC002=258270
+DLC003=258580
+DLC004=259800
+DLC005=261050
+DLC006=261620
+DLC007=267630
+DLC008=273380
+DLC009=273381
+DLC010=273382
+DLC011=267180
+DLC012=297830
+DLC013=297831
+DLC014=311380
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 18 Sep 2014, 20:23]
+Xrozar wrote:
+Here is the complete DLC-List (14) for the INI entries...
+
+Emperior Edition Upd 15.0
+
+DLC001=212301
+DLC002=258270
+DLC003=258580
+DLC004=259800
+DLC005=261050
+DLC006=261620
+DLC007=267630
+DLC008=273380
+DLC009=273381
+DLC010=273382
+DLC011=267180
+DLC012=297830
+DLC013=297831
+DLC014=311380
+
+
+Why is Reloaded's .ini different? What does it miss?
+
+
+ Spoiler
+[Steam]
+AppId=214950
+AppName="Total War: ROME II - Emperor Edition"
+DLC001=212301
+DLCName001="Total War: ROME II - Greek States Culture Pack"
+DLC002=258270
+DLCName002="Total War: ROME II - Nomadic Tribes Culture Pack"
+DLC003=258580
+DLCName003="Total War: ROME II - Seleucid Empire Faction Pack"
+DLC004=259800
+DLCName004="Total War: ROME II - Blood & Gore"
+DLC005=261050
+DLCName005="Total War: ROME II - Caesar in Gaul"
+DLC006=261620
+DLCName006="Total War: ROME II - Baktria Faction"
+DLC007=267180
+DLCName007="Total War: ROME II - Assembly Kit BETA"
+DLC008=267630
+DLCName008="Total War: ROME II - Beasts of War"
+DLC009=273380
+DLCName009="Total War: ROME II - Hannibal at the Gates"
+DLC010=273381
+DLCName010="Total War: ROME II - Pirates & Raiders"
+DLC011=297830
+DLCName011="Total War: ROME II - Daughters of Mars"
+DLCCount=11
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 18 Sep 2014, 20:31]
+Nothing Xrozar just posted all ID's weird thing is that on steamdb is only 13 entries also assembly kit in reloaded .ini file is useless
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 18 Sep 2014, 20:33]
+This is from steamdb.info - Rome 2 EE (http://steamdb.info/app/214950/dlc/)
+
+214950 Total War: ROME II - Emperor Edition
+212301 Total War: ROME II - Greek States Culture Pack
+258270 Total War: ROME II - Nomadic Tribes Culture Pack
+258580 Total War: ROME II - Seleucid Empire Faction Pack
+259800 Total War: ROME II - Blood & Gore
+261050 Total War: ROME II - Caesar in Gaul
+261620 Total War: ROME II - Baktria Faction
+267630 Total War: ROME II - Beasts of War
+273380 Total War: ROME II – Hannibal at the Gates
+273381 Total War: ROME II - Pirates & Raiders
+273382 SteamDB Unknown App 273382
+297830 Total War: ROME II - Daughters of Mars
+297831 SteamDB Unknown App 297831
+311380 SteamDB Unknown App 311380
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 18 Sep 2014, 23:29]
+Please Patch 15 Turkish Language.... 
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 19 Sep 2014, 06:21]
+Hi
+How many DLC are they in the Emperor Edition
+I count 13 DLC + the Emperor program 214940
+so what is the n° DLC011=267180 ???
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 19 Sep 2014, 06:33]
+http://steamdb.info/app/267180/
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 19 Sep 2014, 09:54]
+ShadowDuke wrote:
+http://steamdb.info/app/267180/
+
+please ShadowDuke which is the correct order of the list...
+
+DLC001=212301
+DLC002=258270
+DLC003=258580
+DLC004=259800
+DLC005=261050
+DLC006=261620
+DLC007=267630
+DLC008=273380
+DLC009=273381
+DLC010=273382
+DLC011=297830
+DLC012=297831
+DLC013=311380
+
+or...
+
+
+Xrozar wrote:
+Here is the complete DLC-List (14) for the INI entries...
+
+Emperior Edition Upd 15.0
+
+DLC001=212301
+DLC002=258270
+DLC003=258580
+DLC004=259800
+DLC005=261050
+DLC006=261620
+DLC007=267630
+DLC008=273380
+DLC009=273381
+DLC010=273382
+DLC011=267180
+DLC012=297830
+DLC013=297831
+DLC014=311380
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 19 Sep 2014, 10:05]
+I think those ID are useless with reloaded crack i deleted every entry and DLC's are still unlocked
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 19 Sep 2014, 10:15]
+I don't have
+DLC011=267180
+Does anyone can tell which are the DLC specific to Emperor Edition ?
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 19 Sep 2014, 11:24]
+tanauser wrote:
+I don't have
+DLC011=267180
+Does anyone can tell which are the DLC specific to Emperor Edition ?
+
+AppId=214950
+AppName="Total War: ROME II - Emperor Edition"
+DLC001=212301
+DLCName001="Total War: ROME II - Greek States Culture Pack"
+DLC002=258270
+DLCName002="Total War: ROME II - Nomadic Tribes Culture Pack"
+DLC003=258580
+DLCName003="Total War: ROME II - Seleucid Empire Faction Pack"
+DLC004=259800
+DLCName004="Total War: ROME II - Blood & Gore"
+DLC005=261050
+DLCName005="Total War: ROME II - Caesar in Gaul"
+DLC006=261620
+DLCName006="Total War: ROME II - Baktria Faction"
+DLC007=267180
+DLCName007="Total War: ROME II - Assembly Kit BETA"
+DLC008=267630
+DLCName008="Total War: ROME II - Beasts of War"
+DLC009=273380
+DLCName009="Total War: ROME II - Hannibal at the Gates"
+DLC010=273381
+DLCName010="Total War: ROME II - Pirates & Raiders"
+DLC011=297830
+DLCName011="Total War: ROME II - Daughters of Mars"
+DLCCount=11
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 19 Sep 2014, 12:16]
+Ok thanks ;
+
+I got them all so
+
+I just made 50 turns or so with the 3DM ... no problem at all
+
+if you need a trainer ask me
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 19 Sep 2014, 15:52]
+This filedrive shit sucks, can't download part 1 of the patch. Can you please make torrents instead?
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 19 Sep 2014, 16:03]
+there are 2 torrents about it
+
+the emperor edition reloaded .iso
+
+Code: Select all | Line number On/Off | Expand/Contract
+https://kickass.to/total-war-rome-ii-em ... 91701.html
+
+
+and this one Cracked 3DM which is the one I am currently playing with
+
+Working 100% so far (with a false positive)
+
+Code: Select all | Line number On/Off | Expand/Contract
+https://kickass.to/3dmgame-total-war-ro ... 86692.html
+
+
+I do not know if there is a difference between those 2

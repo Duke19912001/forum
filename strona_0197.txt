@@ -1,0 +1,174 @@
+=========================================
+STRONA 197 (URL: https://cs.rin.ru/forum/viewtopic.php?f=10&t=61441&hilit=rome+2&start=2940)
+=========================================
+
+[Data: Saturday, 03 Oct 2015, 16:21]
+mikevampiro wrote:
+only this patch and multiedition prophet?
+
+
+Can't you read the answer you got? YES, the Prophet release + Total.War.ROME.II.Update.v2.2.0.15666-v2.2.0.16019 and you're good.
+
+Thanks to Machine et al here: viewtopic.php?f=10&t=61441&p=1094582#p1094582
+There's also a Mega link to that patch somewhere on one of last pages.
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 03 Oct 2015, 16:21]
+
+_________________
+Always wanted to get rid of the files that were not listed in the sfv/md5 hash file? Check the QuickSFV plugin I created for this: viewtopic.php?f=10&t=108605 or this: viewtopic.php?p=1273745#p1273745
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 03 Oct 2015, 16:53]
+@testni, your german language pack is incomplete, no voice for example
+
+these depots are needed, even if not all files are displayed on this site:
+
+https://steamdb.info/depot/214961/
+https://steamdb.info/depot/214962/
+
+at the end, it says: This depot is big! We're only displaying first 2,500 files.
+
+thanks for your effort anyway!
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 03 Oct 2015, 19:03]
+viewtopic.php?f=14&t=69149 check this guys, for all rome 2 players who own game...
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 03 Oct 2015, 20:22]
+@daniel767
+
+I just redownloaded german language from steam, did a "validate files" via steam, but those 2 files (local_ge_rome2.pack and music_ge_rome2.pack) are not present.
+
+I did also test the game, the only thing that seems to be missing is the advisor during the game (cant be clicked - was it present before?). The advisor that gives you instructions at the beginning of the game, he works/talks/appears. Also all units (generals, agents, and units in battle) as well as all videos, are in german and present.
+
+So now i really dont know, am i missing something, is there an alternative way to download/update game language other that from steam?
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 03 Oct 2015, 21:36]
+Yep, those are the two missing files, I guess. What a pity, you can't get them downloaded. It's not game breaking but no voice, no army shouts and so on...
+
+I own Rome 2 but without DLC, I will redownload the game to get those two files and let's see if it also works with all the DLCs in the pirated version.
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 04 Oct 2015, 11:13]
+machine4578 wrote:
+fataltr wrote:
+After the update 17 i found 3 missing files on sfv.
+gaul.pack, greeks.pack, punic.pack
+Can anyone upload these three?
+
+they are the 3 main DLC files.. and are updated in my update 17 patch! so unless you didnt have them the first place that explains why they are missing.
+also the up 17 DLC files were posted on page 187 by testni(so i could make the xdelta update, thanks again testni  )
+
+I had all dlc's but i don't know how that files gone missing. Once i attempt to delete my backup rome2 files, probably i deleted game files containing dlc's by mistake. Anyway i downloaded @testni's dlc files.
+It works greate. Thanks you guys.
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 04 Oct 2015, 21:41]
+The mega link for patch 17 doesn't work anymore and the other link requires a premium account, can someone repost it?
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 04 Oct 2015, 22:43]
+Jewinzius wrote:
+The mega link for patch 17 doesn't work anymore and the other link requires a premium account, can someone repost it?
+
+NO, you DONT need a premium acct! register a FREE acct and download!
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 05 Oct 2015, 08:11]
+Jewinzius wrote:
+The mega link for patch 17 doesn't work anymore and the other link requires a premium account, can someone repost it?
+
+
+https://mega.nz/#!RkQHAA6K!e9Bk3vtOMpEE ... 7O4harla7I The original MEGA link was taken down, but testni was kind enough to reupload it.
+A simple search would've gotten you there.
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 05 Oct 2015, 08:11]
+
+_________________
+Always wanted to get rid of the files that were not listed in the sfv/md5 hash file? Check the QuickSFV plugin I created for this: viewtopic.php?f=10&t=108605 or this: viewtopic.php?p=1273745#p1273745
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 05 Oct 2015, 16:57]
+@ machine4578, do you have a crack for the launcher.exe? Ingame encyclopedia doesn't work when the game isn't started from the launcher.
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 05 Oct 2015, 18:11]
+daniel767 wrote:
+@ machine4578, do you have a crack for the launcher.exe? Ingame encyclopedia doesn't work when the game isn't started from the launcher.
+
+you dont need the launcher, add the Rome2.exe as a non steam game using the online crack i posted some pages back and the pedia will work just fine(and all DLC will be unlocked too)
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 05 Oct 2015, 20:47]
+Hey guys, I want to try this game. I have Linux installed on my pc, so I want to get this game and try to see if it runs with Wine.
+But I could not find in the thread the links to download the full game, I can only see updates. Is there another thread with the links?
+I am not familiar with this site yet, so I apologize if I'm asking something obvious.
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 06 Oct 2015, 04:10]
+Hey guys i have updated my game to the latest patch but whenever i start my game it gives me lumaceg.dll crash.i have excluded in AV list.ran the game in administrator mode.using windows 10.tried compatability mode.out of 5 times i works once.its more of a luck.i have moved the game to another folder but no avail.help me.i have uploaded my luma log
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 07 Oct 2015, 09:01]
+sergio_sos wrote:
+Hey guys, I want to try this game. I have Linux installed on my pc, so I want to get this game and try to see if it runs with Wine.
+But I could not find in the thread the links to download the full game, I can only see updates. Is there another thread with the links?
+I am not familiar with this site yet, so I apologize if I'm asking something obvious.
+
+
+Total.War.ROME.II.Emperor.Edition.MULTi9-PROPHET + Total.War.ROME.II.Update.v2.2.0.15666-v2.2.0.16019 (here on the forum) and you're good.
+See PM for links to the Prophet release.
+
+Thanks to Machine et al here: viewtopic.php?f=10&t=61441&p=1094582#p1094582
+There's also a Mega link to that patch somewhere on one of last pages.
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 07 Oct 2015, 09:01]
+
+_________________
+Always wanted to get rid of the files that were not listed in the sfv/md5 hash file? Check the QuickSFV plugin I created for this: viewtopic.php?f=10&t=108605 or this: viewtopic.php?p=1273745#p1273745
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 07 Oct 2015, 10:19]
+Regarding localizations for patch 17:
+
+I did a some testing; installed Total.War.ROME.II.Emperor.Edition.MULTi9-PROPHET and then compared german language with legit german Rome 2. I tested and compared pretty much every aspect of the game to see whats in german and if there is anything missing. So far both versions are the same.
+
+So then i updated the game using Total.War.ROME.II.Update.v2.2.0.15666-v2.2.0.16019 (patch 17), and copy pasted the german localization for patch 17. Now when i start the game i get missing text and missing sounds. Then i deleted the old files (local_ge_rome2.pack and music_ge_rome2.pack), which are obsolete and arent present in legit Rome 2 anymore. (I also deleted local_en.pack, local_en_shared_rome2.pack, music_en_shared_rome2.pack, created during the update, since im not using english language).
+
+Tried running the game again and now everything works as it should.
+
+So to summarize:
+1.) Install Total.War.ROME.II.Emperor.Edition.MULTi9-PROPHET (any language) + Total.War.ROME.II.Update.v2.2.0.15666-v2.2.0.16019
+2.) Select desired language pack from https://mega.nz/#F!F9wECKYB!48NjkPRTYE_7faZ8bQGdvw
+3.) Extract it into your Rome 2 directory and overwrite
+4.) IMPORTANT: Delete local_ge_rome2.pack, music_ge_rome2.pack, local_en.pack, local_en_shared_rome2.pack, music_en_shared_rome2.pack - ( "ge" represents your desired language, ("tr", "fr", etc..))
+5.) Play
+
+Alternative way (better):
+1.) Install Total.War.ROME.II.Emperor.Edition.MULTi9-PROPHET (any language) + Total.War.ROME.II.Update.v2.2.0.15666-v2.2.0.16019
+2.) Go to Rome 2/data and delete all language files. You will recognise then by having .._de.. or .._en.. or .._tr.., or .._fr.. etc., in their name
+3.) Select desired language pack from https://mega.nz/#F!F9wECKYB!48NjkPRTYE_7faZ8bQGdvw
+4.) Extract it into your Rome 2 directory and overwrite
+5.) Play

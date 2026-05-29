@@ -1,0 +1,153 @@
+=========================================
+STRONA 181 (URL: https://cs.rin.ru/forum/viewtopic.php?f=10&t=61441&hilit=rome+2&start=2700)
+=========================================
+
+[Data: Monday, 23 Mar 2015, 20:57]
+hi all, with the last release emperor Edition PROPHET (Multi 9)
+
+What's the real version of game ???? (The game is updated to the latest version....but...[ img ])
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 23 Mar 2015, 20:57]
+
+_________________
+I have certifications EBIOS RM, ISO27005, SECUWEB, PENTESTWEB, PRIM'X (ZED! and Zonecentral), ITIL v3 Foundations & CISCO CCNA1, CCNA2, CCNA3, CCNA4
+Don't hate the hacker, hate the code...
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 24 Mar 2015, 20:32]
+Hello people, i would like to ask for help, and i will explain my problem thoroughly, so i have downloaded this torrent recently ''http://kickass.to/total-war-rome-ii-repack-by-r-g-revolution-t9982241.html'' i only came upon the knowledge that it had been taken down three weeks ago and because of my very very slow internet, it almost took a month to be completed, when i am installing the game, i noticed that it's only in russian but i did looked around the interface if i could change the language, but no, there was nothing. i then looked around the comments for help on torrent's link and saw glimmer of hope as others also had the problem, someone had explained what to do and gave a link, unfortunately, the link was already taken down ''Removed by the request of copyright owner and not available for download''. I have searched and searched google until i found this site, my beacon of hope. I just hope that you people will see this message and try to help me, if you have any questions feel free to ask.
+
+Thanks, please help.
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 24 Mar 2015, 21:43]
+install your game in russian
+be sure the game loads properly (browse your interface even in russian)
+than change your selected files into english with this torrent
+
+Code: Select all | Line number On/Off | Expand/Contract
+https://thepiratebay.se/torrent/1176953 ... d_15666_En
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 25 Mar 2015, 09:43]
+hi there. im new in this forum. which one should i download first?
+
+i have downloaded the emperor edition from Multi9/Prophet yesterday but i cant get it to work. Been doing everything on the instruction. But everytime i start the .exe it shows "...stopped working". Tried to reinstall the game and updating all my drivers and framework, but still cant work. Please someone, kindly help me with this thing.
+
+Thank you. Regards from my son. *He loves previous Rome Total War. 
+
+-- Edit --
+
+what a foolish, myself. im sorry. i did not read the previous pages. #179 now im downloading emperor edition from Reloaded and patchin up from hotfix15. thanks ! really sorry
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 26 Mar 2015, 08:00]
+Hi can someone upload A/R2:TW GEMFX - Version 1.0.8.1 ?
+
+http://steamcommunity.com/sharedfiles/f ... =187199741
+
+Thank you in advance
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 26 Mar 2015, 14:56]
+Having trouble when launching your .exe with Emperor-Prophet edition? Just figured it this morning. Update everything on your system, your graphic card, your frameworks, service pack, everything using your windows update. Now mine works perfectly. Thank you.
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 26 Mar 2015, 16:15]
+my binkw32.dll and data\campaigns\main_punic\startpos.esf are corrupt
+can anyone upload them for me please?
+greatly appreciate any help!
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 26 Mar 2015, 16:28]
+lampuiho wrote:
+my binkw32.dll and data\campaigns\main_punic\startpos.esf are corrupt
+can anyone upload them for me please?
+greatly appreciate any help!
+
+here you are
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 26 Mar 2015, 16:36]
+machine4578 wrote:
+lampuiho wrote:
+my binkw32.dll and data\campaigns\main_punic\startpos.esf are corrupt
+can anyone upload them for me please?
+greatly appreciate any help!
+
+here you are
+
+wish there was a thanks button! 
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 26 Mar 2015, 17:06]
+Radu007 wrote:
+Hi can someone upload A/R2:TW GEMFX - Version 1.0.8.1 ?
+
+http://steamcommunity.com/sharedfiles/f ... =187199741
+
+Thank you in advance
+
+
+There is simple tool for downloading workshop mods
+http://www90.zippyshare.com/v/LXYVXx6e/file.html
+unpack it to game folder and launch Total War Rome II Workshop Downloader.exe, then activate your mod via launcher.exe
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 26 Mar 2015, 17:52]
+@tanauser, Thank you for your prompt reply and also my sincere apologies for not replying hastily, First i thought there was no hope, as the fire of my hope is dimming and i will never get help here, but then you sir, Tanauser proved me wrong, for you lighted the fire and it has spread like wildfire! at first i had some speculations and anxiety that it will not work, but then after i downloaded it and a few trial and error i made it work. again, tanauser, My sincerest gratitude for you and for this website, i say thee farewell and goodluck.
+
+Merci beaucoup pour votre aide!
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 28 Mar 2015, 12:55]
+I just bought the emperor edition on the steam sale.
+can i somehow unlock the payed dlc for free and use it on coop?
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 28 Mar 2015, 17:39]
+iZver wrote:
+I just bought the emperor edition on the steam sale.
+can i somehow unlock the payed dlc for free and use it on coop?
+
+
+You're probably missing the dlc files, so get them and a crack obviously.
+
+And co-op grand campaign doesn't seem to work cracked (loading problems when loading a save game).
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 28 Mar 2015, 17:39]
+
+_________________
+Always wanted to get rid of the files that were not listed in the sfv/md5 hash file? Check the QuickSFV plugin I created for this: viewtopic.php?f=10&t=108605 or this: viewtopic.php?p=1273745#p1273745
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 03 Apr 2015, 08:10]
+Thanks for the answer Sisah.
+That Workshop Downloader works and I can download some mods but when I try to download GEMFX mod the crash is appearing.
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 03 Apr 2015, 10:19]
+Radu007 wrote:
+Thanks for the answer Sisah.
+That Workshop Downloader works and I can download some mods but when I try to download GEMFX mod the crash is appearing.
+
+
+This mod can't be downloaded even with http://steamworkshopdownloader.com/ it say Service Unavailable i dont know why

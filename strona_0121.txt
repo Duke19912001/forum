@@ -1,0 +1,226 @@
+=========================================
+STRONA 121 (URL: https://cs.rin.ru/forum/viewtopic.php?f=10&t=61441&hilit=rome+2&start=1800)
+=========================================
+
+[Data: Wednesday, 17 Sep 2014, 06:25]
+Then it will also work. As soon as a game is started and its in the RAM, you see if its working or not.
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 17 Sep 2014, 06:25]
+u15 - final:
+
+ Spoiler
+[ img link ] [ img ]
+
+
+u15 - fix:
+
+ Spoiler
+[ img link ] [ img ]
+
+
+u15 - Gaul & HutG:
+
+ Spoiler
+[ img link ] [ img ]
+
+
+Shadow 
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 17 Sep 2014, 08:11]
+just started the new campaign 
+
+thank you ShadowDuke!!!
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 17 Sep 2014, 08:34]
+seems like the whole patching thing will take a while
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 17 Sep 2014, 08:34]
+
+_________________
+mostly inactive until at least half of july 2025
+
+If any of my uploads are outdated or no longer online , the best way to do is to send me a PM and i will add the title to the next batch
+UPLOADS PAUSED (have all requests in queue for when i am back to being more active)
+
+List of recent games with modern DRMs:(updated 01-Mar-2023) - http://cs.rin.ru/forum/viewtopic.php?f=10&t=68151
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 17 Sep 2014, 08:36]
+chernysh wrote:
+u15 - final:
+
+ Spoiler
+[ img link ] [ img ]
+
+
+u15 - fix:
+
+ Spoiler
+[ img link ] [ img ]
+
+
+u15 - Gaul & HutG:
+
+ Spoiler
+[ img link ] [ img ]
+
+
+Shadow 
+
+I go thru all those steps but the game wont start
+NEver mind, had to delete the aapdata/rome 2 folder to get started
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 17 Sep 2014, 08:42]
+ShadowDuke wrote:
+Then it will also work. As soon as a game is started and its in the RAM, you see if its working or not.
+
+it got stuck again when i'm exiting from the main menu after playing in gc for a while
+i'll try again later
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 17 Sep 2014, 11:12]
+"Total.War.ROME.II.Emperor.Edition.v2.0.0.Incl.DLC.Cracked-3DM" has some problem... when I click on caesar in gaul campaign the game loads and crashes. 
+
+Anyone has the same problem with it ?
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 17 Sep 2014, 11:46]
+almost finished with all this patching, but got strange error 
+
+
+but i guess its no big deal since the problematic file can be downloaded separately in ENG lang pack for Patch14
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 17 Sep 2014, 11:46]
+
+_________________
+mostly inactive until at least half of july 2025
+
+If any of my uploads are outdated or no longer online , the best way to do is to send me a PM and i will add the title to the next batch
+UPLOADS PAUSED (have all requests in queue for when i am back to being more active)
+
+List of recent games with modern DRMs:(updated 01-Mar-2023) - http://cs.rin.ru/forum/viewtopic.php?f=10&t=68151
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 17 Sep 2014, 11:46]
+G4U55 wrote:
+"Total.War.ROME.II.Emperor.Edition.v2.0.0.Incl.DLC.Cracked-3DM" has some problem... when I click on caesar in gaul campaign the game loads and crashes. 
+
+Anyone has the same problem with it ?
+
+no issues\crashes here.. try replacing the LumaEmu_CEG.dll(renamed to 3DM_CEG.dll) with the newest LumaCEG plugin since the 3DM release is using an old plugin.. hopefully that fixes the crash for you.
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 17 Sep 2014, 12:27]
+ShadowDuke wrote:
+neoiq5719 wrote:
+Sorry to put it this way but this is one shitty messed up patch. Is corrupt, separated which add more burden to the situation and in the end....wont work.
+Why is the first part an executable and the second a rar? makes no sense
+
+
+1st its not corrupt! You see other people complaining!? I also told you, i dl'ed the file and its not corrupt! Separated!? What, cos of a fix and gaul & hatg update (like it was before!?) and also extra eng language (also like before). And i rather supply a small "fix" instead of doing and uploading 1,4gb again... i keep spending enough time with the updating stuff etc!
+2nd it works
+3rd makes sense (winrar makes 1st part exe, 2nd+ part rar when sfx is chosen!)
+
+If you dont like how it is, dont download or use it! Thats everything i have to say to this. You people can feel lucky that im still updating this game, its my time i waste for you guys...maybe i should save this time next time or some1 else like to keep this game up2date, anymoremaybe machine4578 will but i heard he also doesnt have so much time !
+
+@ikyu828
+Then use the prev. lumaemu_ceg.dll and see if its like before when you only needed to close rome2.exe. Some1 also said that any overlay can cause the same problem, RTSS, fraps, etc.
+
+
+
+Absolutely yes,you should save your time for another thing and dont waste your precious time with us.Who do you think you are to threat us,we are not your boys;mind your manners.
+
+Why the hell i feel 'LUCKY'? Because you are upping the game!!!!
+
+machine4578 updates the game or not,he knows better then everybody what he wants to do or not.I never seem this kind of manners from him despite lots of people asks for helping.
+
+I understand some people doesn't look first post or doesn't use search button or asking same questions over and over,this can make you angry but these are not excuse or tolarete these:
+
+You're lucky or waste my time or what will you do if ı dont update or machine4578 isn't updating anymore so you all addicted to me
+
+Instead of reading this unrespectfull 'you are lucky,you need me,if ı dont update the game what will you do' bullshit i download 3dm or ali213 or a repack groups release.Yes they're bigger in size,much more gb but choosing this road nobody will try to humiliate me...
+
+Thanks for your 'time' until now but i think you owe us an apology
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 17 Sep 2014, 12:34]
+please upload spanish lang file update thanks!
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 17 Sep 2014, 12:40]
+machine4578 wrote:
+G4U55 wrote:
+"Total.War.ROME.II.Emperor.Edition.v2.0.0.Incl.DLC.Cracked-3DM" has some problem... when I click on caesar in gaul campaign the game loads and crashes. 
+
+Anyone has the same problem with it ?
+
+no issues\crashes here.. try replacing the LumaEmu_CEG.dll(renamed to 3DM_CEG.dll) with the newest LumaCEG plugin since the 3DM release is using an old plugin.. hopefully that fixes the crash for you.
+
+
+Thanks demde, the problem was that !! 
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 17 Sep 2014, 13:11]
+finally after 8 hours of patching i am up to date now  Now the wait for language packs 
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 17 Sep 2014, 13:11]
+
+_________________
+mostly inactive until at least half of july 2025
+
+If any of my uploads are outdated or no longer online , the best way to do is to send me a PM and i will add the title to the next batch
+UPLOADS PAUSED (have all requests in queue for when i am back to being more active)
+
+List of recent games with modern DRMs:(updated 01-Mar-2023) - http://cs.rin.ru/forum/viewtopic.php?f=10&t=68151
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 17 Sep 2014, 13:54]
+prudislav wrote:
+finally after 8 hours of patching i am up to date now  Now the wait for language packs 
+
+
+Can you make a sfv file for me ?
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 17 Sep 2014, 13:56]
+thank you very much ShadowDuke, but please you can upload the encyclopedia in Spanish, thanks.
+
+
+ShadowDuke wrote:
+Total.War.ROME.II.Update.15.encyclopedia.and.language.files (16.09.2014)
+
+Will add step-by-step encyclopedia & Languages for Update.15.final...
+
+
+Encyclopedia (Zippyshare)
+
+Languages
+
+
+Code: Select all | Line number On/Off | Expand/Contract
+1) Extract all files to your Rome 2 \data\ dir
+2) Play

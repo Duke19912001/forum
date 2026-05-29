@@ -1,0 +1,114 @@
+=========================================
+STRONA 106 (URL: https://cs.rin.ru/forum/viewtopic.php?f=10&t=61441&hilit=rome+2&start=1575)
+=========================================
+
+[Data: Wednesday, 27 Aug 2014, 10:52]
+So did i download the right :/ (Update 16.08.2014)? This is too much GB and i need to wait two days. My download is now 25%.
+Is that update ok? Did game turns off when you play? An how to install it when i finish the download? THX again to you all!!! Thx a lot!
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 27 Aug 2014, 11:17]
+tanauser wrote:
+I am very sorry ... ( I praise you) ... but you are wrong
+This solution didn't wok ( for me and others)
+
+The crack ( Included in the Steam Rip version ) replacing the one "" that create the bug"" solve the problem
+the crack is different
+and so far any mod compatible
+
+I have no problem with that
+Thank you for helping the Pirate community and I still remain your faithful dude 
+
+
+The Emu is different (codex) not the crack!
+
+@shrine
+
+And this also had a few ppl (last 20 pages or so, you can also use search) cos they dont have the rights, so do you! It cant create dirs and files cos you need the right to. Try as admin! And/or remove your blocking AV, etc! And for gods sake! Dont install games in programs folder! Sigh..
+
+And its german cos i created it with german winrar! Its also silent so you shouldnt see the window anway. Extract update.exe in some other dir and move files to your rome2 dir for instance!
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 27 Aug 2014, 11:18]
+@ShadowDuke;
+
+So where should i install it to?
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 27 Aug 2014, 11:23]
+...not to a folder where you need admin rights for instance...
+
+The rest is already explained in the thread and i dont want to repeat it everytime, now for the 5th time. Maybe some1 is so kind and will repeat it again for you..but im sick of repeating it every week or so, sorry.
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 27 Aug 2014, 11:35]
+@ShadowDuke;
+that's alright, like I said im nu here, n maybe i don't know where to look or what to look (keyword search).
+sorry i've bothered u
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 27 Aug 2014, 18:29]
+Fix for rome2.exe still runs in task manager after exit.
+
+The problem is your on-screen-display program which displays info such as fps or gpu temp.
+For those who uses rivatuner, you need to create an application profile for Rome2.exe and then turn on Stealth mode in that profile. otherwise, you can just disable the on-screen-display program.
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 27 Aug 2014, 21:37]
+the assembly kit wont works for me for some reason ... I click Start in BOB and then what seemed to happen next was that it loaded up Rome 2 but then crashed. So after closing Rome 2 from the failed boot up screen, I waited just a little bit as BOB was still processing and then it failed. Everything was green except "Process start pos (main_rome)", which is the very last one so that tells me this last step failed. Anyone seen this ?
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 27 Aug 2014, 23:32]
+THX again for TWR2 v1.14 
+
+Which mod did you recommended? And did you know how to increase fps?
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 28 Aug 2014, 03:04]
+Hi,
+
+When downloading the fix for patch 14 I get the following message whenever I attempt to extract the files.
+
+'Checksum error in patch.exe. The file is corrupt'
+
+I have tried redownloading the fix several times and each time I get this error. I have also searched this thread and can't seem to find any solutions to the problem but I may have just missed something. Any help would be appreciated, thanks.
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 28 Aug 2014, 09:15]
+DL with dl-manager or other browser. File is fine, checked it. ANd update your winrar, could also sound like youre using an too old winrar Version!
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 28 Aug 2014, 10:36]
+Hi!
+I found this site yesterday while i searched for patch 12. First i want to say thanks to all of those, who worked hard to make these patches available. I have currently the hannibal at the gates reloaded version, and it has a bug, that annoys me a lot, and CA told they fixed it in 12. So i downloaded all patches from 11 hotfix, until 12 final, and istalled them the way it was told, but if i end the turn in grand campaign, the music stops playing, and the whole thing freezes. It doesn't matter if its 11 hotfix is installed, or 12. The reloaded version works fine though. Someone met with this kind of issue before? A solution would make my day 
+with regards: gyorm
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 28 Aug 2014, 10:45]
+Just use Hannibal at the Gates Reloaded and go to Page 1 and download all the updates from "Update.11.HOTFiX" and up (follow the instructions). Perhaps the problem will just simply disappear. 
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 28 Aug 2014, 10:46]
+Both DLC are updated here only with Total.War.ROME.II.Update.13_1_Gaul_and_HATG_Update. Patch until last patch!
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 28 Aug 2014, 11:24]
+Copying the files LumaEmu_CEG.dll, LumaCEG.ini, and ALI213.ini from the last patch's crack seems to did the thing for the 11 hotfix. Trying the same for 12 now. Probably i'll patch it to 14 as you guys wrote. Thanks for the fast answers 
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 28 Aug 2014, 11:28]
+You're just better off that way, these updates fix a good amount of possible problems.

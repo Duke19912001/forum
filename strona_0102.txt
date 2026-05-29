@@ -1,0 +1,188 @@
+=========================================
+STRONA 102 (URL: https://cs.rin.ru/forum/viewtopic.php?f=10&t=61441&hilit=rome+2&start=1515)
+=========================================
+
+[Data: Saturday, 16 Aug 2014, 21:31]
+What about latest The August Warriors Update ?
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 16 Aug 2014, 21:46]
+Its all in there! See also changelog.txt!
+
+-- Edit --
+
+
+Dawe80 wrote:
+Are you talking to me, ShadowDuke??
+well, i just checked encyclopedia, there is "en" folder only, so no german.
+i also set language to DE in data folder, no success.
+
+
+Thats not an answer to my questions. The en folder there is always empty cos for english version it uses the web, german for example will get a de dir with all the ~450mb encyclopedia files.
+
+So you dont have any previuos Versions!? You also need the vanilla Release with all major languages and the updated ones are only ~200mb, each time game gets an update, it will only patch those 2 files. So you also need the initial ones ~1gb.
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 16 Aug 2014, 22:10]
+i only downloaded Total.War.Rome.II.v1.14.1.Incl.DLC.Cracked-3DM so i dont have the language files. 
+i am able to download the initial files, 1190 mb, can you help me with the 2 updated ones, please?
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 16 Aug 2014, 22:24]
+Please upload Polish language pack v1.14.1?
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 16 Aug 2014, 23:05]
+leonardusius wrote:
+What about latest The August Warriors Update ?
+
+Really?
+I said that last time!
+Seriously?
+
+
+
+Its all here just read.
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 17 Aug 2014, 04:47]
+ok ShadowDuke, i put the initial german files in my game folder, i tried to use xdelta for local_ge_rome2.pack but it did not update, the source file was too short. also suprising was that it actually updated like half the files, even tho they should have been updated already.
+anyway, i need new local_ge_rome2.pack now, can you please upload it?
+
+edit: i think local_ge.pack got updated too, mine is from 19.05.2013, but local_en.pack is from 03.06.2014.
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 17 Aug 2014, 10:32]
+I have created a little Greasemonkey/Tampermonkey script that adds a button to download whorkshop mods from the browser.
+Feel free to give me some feedback on its comment section.
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 17 Aug 2014, 14:51]
+alvaro1992 wrote:
+I have created a little Greasemonkey/Tampermonkey script that adds a button to download whorkshop mods from the browser.
+Feel free to give me some feedback on its comment section.
+
+
+Dont want to sound like a noob, which i am.
+How would i use this?
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 17 Aug 2014, 14:57]
+MDS wrote:
+alvaro1992 wrote:
+I have created a little Greasemonkey/Tampermonkey script that adds a button to download whorkshop mods from the browser.
+Feel free to give me some feedback on its comment section.
+
+
+Dont want to sound like a noob, which i am.
+How would i use this?
+
+
+You need to install greasemonkey for ff or tampermonkey for chrome, then install the script.
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 17 Aug 2014, 15:15]
+alvaro1992 wrote:
+MDS wrote:
+alvaro1992 wrote:
+I have created a little Greasemonkey/Tampermonkey script that adds a button to download whorkshop mods from the browser.
+Feel free to give me some feedback on its comment section.
+
+
+Dont want to sound like a noob, which i am.
+How would i use this?
+
+
+You need to install greasemonkey for ff or tampermonkey for chrome, then install the script.
+
+
+Ok, Cheers.
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 17 Aug 2014, 17:25]
+I really enjoy playing with a friend... Have a steam multiplayer crack on v1.14.1.0?
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 17 Aug 2014, 18:48]
+http://steamcommunity.com/sharedfiles/f ... xt=pyrrhus
+
+Someone can upload me this mod please ? (which works with non steam game)
+I successfully downloaded it from steam but i dont know how to make it functional.
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 17 Aug 2014, 19:54]
+nikko999 wrote:
+http://steamcommunity.com/sharedfiles/filedetails/?id=294986454&searchtext=pyrrhus
+
+Someone can upload me this mod please ? (which works with non steam game)
+I successfully downloaded it from steam but i dont know how to make it functional.
+
+
+here is it copy this file to "data" folder and use launcher or mod manager to activate him
+http://www24.zippyshare.com/v/14033760/file.html
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 18 Aug 2014, 21:21]
+punchao wrote:
+Total War: Rome 2 (SEGA) (RUS/ENG) [Steam-Rip] (Update 16.08.2014).torrent
+
+Code: Select all | Line number On/Off | Expand/Contract
+http://rghost.net/57497281
+
+NFO:
+
+ Spoiler
+Year: 2013
+Genre: Strategy (Real-time / Turn-based) / 3D
+Developer: The Creative Assembly
+Publisher: SEGA / 1C-SoftKlab
+Platform: PC
+Game Version: v1.14.1.0 build 13180.569980
+Language: English / Russian
+Language: Russian / English
+Publication Type: Steam-Rip
+Medicine: Present (Steam006 / CODEX Steam emulator)
+
+• Steam Application ID: 214950
+• Content loaded 16.08.2014g and is identical to the licensed version of the game distributed in Steam.
+• Game Version - v 1.14.1.0 build 13180.569980
+• DLC:
+
+Hannibal at the Gates
+Baktria Faction
+Beasts of War
+BIood & Gore
+Caesar in Gaul
+Greek States Culture Pack
+Nomadic Tribes Culture Pack
+Pirates & Raiders
+Daughters of Mars
+
+
+I registered to say thanks.  And not to be so much a leacher lol...
+
+I can confirm, this works great. I have a lot less crashes with this particular version than another one I downloaded and was using.
+
+And on top of that...it is in a nice folder where all I had to do was copy/paste...no annoying setup.exe to use. I love it when all I need to do is move the game folder(s) without worrying about any .exe program. So kudos on that. 
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 19 Aug 2014, 15:29]
+Thanks Sisah for the mod.
+
+---
+
+I installed all the patches except the ''Total.War.ROME.II.Update.13_1_Gaul_and_HATG_Update'' not and the game works fine only except when i want to attack a settlement in hatg the game crashes .. what should I do ?

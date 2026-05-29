@@ -1,0 +1,154 @@
+=========================================
+STRONA 119 (URL: https://cs.rin.ru/forum/viewtopic.php?f=10&t=61441&hilit=rome+2&start=1770)
+=========================================
+
+[Data: Tuesday, 16 Sep 2014, 23:26]
+Update 1 is corrupt for me. I mean part 1.
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 16 Sep 2014, 23:42]
+@punchao
+information took Rustorki?
+
+Code: Select all | Line number On/Off | Expand/Contract
+http://rustorka.com/forum/viewtopic.php?t=169806
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 16 Sep 2014, 23:48]
+nodi wrote:
+Update 1 is corrupt for me. I mean part 1.
+
+
+Im downloading part1 now and will check if its the same for me.
+
+Edit: Its fine for me, so it issnt corrupt.
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 16 Sep 2014, 23:51]
+downloads via filedrive of 3dm version are slow as hell, extraction wents fine, but ingame menus of augustus campaign are missing. how shall we fix this issue?
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 16 Sep 2014, 23:55]
+You can add this line in ali213.ini
+
+DLC012=311380
+
+Tho, i "forgot" it, but as always i tested the "cracked" Release before uploading and since i didnt add this entry yet, it still shows Augustus Campaign, i also tested the new DLC. So i dont think you need the extra DLC entry.
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 16 Sep 2014, 23:58]
+shadowduke, this is my dlc section of ali file:
+
+DLC001=212301
+DLC002=258270
+DLC003=258580
+DLC004=259800
+DLC005=261050
+DLC006=261620
+DLC007=267630
+DLC008=273380
+DLC009=273381
+DLC010=273382
+DLC011=297830
+DLC012=297831
+DLC013=311380
+
+is it ok in terms of showing augustus campaign text correct or not? sorry the noobiness..
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 17 Sep 2014, 00:02]
+Like i said i and i think you too dont need the entry 311380, also in your ini, 297831 is no valid appid/entry.
+
+If you dont have text, i assume you dont play on eng or ger!?
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 17 Sep 2014, 00:04]
+ShadowDuke wrote:
+Yes,..i just wanted to know if gaul and hatg is updated by them, as we need the 2 updated files again.
+
+So, everything's up now.
+
+
+According to the updated patch notes we need the updated dlc files.
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 17 Sep 2014, 00:06]
+....you need the 2 updated dlc files (gaul and hatg) if you want to play them! Yes ofc...tho the old dlc files still work with latest update, just tested!
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 17 Sep 2014, 00:07]
+alright this is the image of my error:
+https://imageshack.com/i/id6KV74Rp
+
+and this one of my data folder, of 3dm edition
+https://imageshack.com/i/iqOrOapnp
+
+I only extracted and didn't apply nothing to the game. any thoughts please?
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 17 Sep 2014, 00:14]
+What says your language.txt!? So this is the 3DM Release, not mine...so i cant give you any support.
+
+And why is there no version + build-nr. in the upper right corner?
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 17 Sep 2014, 00:20]
+in my language.txt of data folder it says "EN"
+in this menu of Augustus Campaign it doesnt say the version, only on main menu, which I can confirm, build 2.0.0
+
+at the moment I am trying at all costs to get part 1 of update 15 to try apply on my 14.1 version of the game
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 17 Sep 2014, 00:23]
+keminsky wrote:
+in my language.txt of data folder it says "EN"
+in this menu of Augustus Campaign it doesnt say the version, only on may menu, which I can confirm, build 2.0.0
+
+at the moment I am trying at all costs to get part 1 of update 15 to try apply on my 14.1 version of the game
+
+
+before that you need patch 15 beta.By the way can anybody upload the updated dlc files?If i'm not mistaken the needed files are gaul.pack,nomadic.pack and punic.pack thanks.
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 17 Sep 2014, 02:09]
+I already told you its 2... (gaul.pack & punic.pack), nomadic.pack is already updated by me.
+
+The 2 updated DLC files are coming, ~20 minutes.
+
+
+Total.War.ROME.II.Update.15.Gaul_and_HATG_Update *xdelta* (16.09.2014)
+
+You need this installed!
+
+
+Code: Select all | Line number On/Off | Expand/Contract
+1) Extract all files to your Rome 2 <root> install dir
+2) Start TWR2_UP15_gaul_hatg_update.bat
+3) Play
+
+
+Download: [35mb] (Zippyshare, Firedrive)
+
+
+Code: Select all | Line number On/Off | Expand/Contract
+http://linkcrypt.ws/dir/104c3n7wi54e5j4
+
+pw: cs.rin.ru
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 17 Sep 2014, 02:10]
+Could you upload the full "local_en_rome2.pack", please? Mine got corrupted when updating somehow, even though it was the beta 15 version.

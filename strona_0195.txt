@@ -1,0 +1,194 @@
+=========================================
+STRONA 195 (URL: https://cs.rin.ru/forum/viewtopic.php?f=10&t=61441&hilit=rome+2&start=2910)
+=========================================
+
+[Data: Wednesday, 30 Sep 2015, 20:35]
+Patch 17 (v2.2.0 build 16019.718953) - Localization: German, Italian, Polish, Russian, Czech, French, Spanish, Turkish
+
+Link:
+https://mega.nz/#F!F9wECKYB!48NjkPRTYE_7faZ8bQGdvw
+
+Note: use WinRar 5 or higher to extract.
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 30 Sep 2015, 20:55]
+testni wrote:
+Patch 17 (v2.2.0 build 16019.718953) - Localization: German, Italian, Polish, Russian, Czech, French, Spanish, Turkish
+
+Link:
+https://mega.nz/#F!F9wECKYB!48NjkPRTYE_7faZ8bQGdvw
+
+Note: use WinRar 5 or higher to extract.
+
+
+Russian localization not working 
+
+http://pixs.ru/showimage/Jh6wHK62WD_789 ... 980538.jpg
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 30 Sep 2015, 23:22]
+@magnetta:
+
+check you instalation with this .sfv for russian language: rome 2 russian.sfv
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 01 Oct 2015, 03:29]
+Can someone PLEASE help me? I keep getting the LUMACEG CRASHED (1) error no matter what I do, can someone please help me
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 01 Oct 2015, 06:55]
+@anomaly
+thanks for the reply buddy.dont take my questions in the wrong way.i know sometimes its annoying to reply to some questions but bear with me i am pretty new to this forum
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 01 Oct 2015, 07:51]
+testni wrote:
+@magnetta:
+
+check you instalation with this .sfv for russian language: rome 2 russian.sfv
+
+
+[ img link ] [ img ]
+
+[ img link ] [ img ]
+
+Bad - local_ru_rome2.pack, music_ru_rome2.pack 
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 01 Oct 2015, 09:34]
+sgarner215 wrote:
+Can someone PLEASE help me? I keep getting the LUMACEG CRASHED (1) error no matter what I do, can someone please help me
+
+
+What version do you have? If you're using patch 17, check your files with this: http://www75.zippyshare.com/v/mU5RsRBG/file.html and post a screenshot if you got any files missing or mismatched/corrupt.
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 01 Oct 2015, 09:34]
+
+_________________
+Always wanted to get rid of the files that were not listed in the sfv/md5 hash file? Check the QuickSFV plugin I created for this: viewtopic.php?f=10&t=108605 or this: viewtopic.php?p=1273745#p1273745
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 01 Oct 2015, 15:16]
+Anomaly wrote:
+sgarner215 wrote:
+Can someone PLEASE help me? I keep getting the LUMACEG CRASHED (1) error no matter what I do, can someone please help me
+
+
+What version do you have? If you're using patch 17, check your files with this: http://www75.zippyshare.com/v/mU5RsRBG/file.html and post a screenshot if you got any files missing or mismatched/corrupt.
+
+
+It seems that all my cracked files are corrupt. I'm using the ones from the patch 17 update. I downloaded it from the mega link.
+
+
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 01 Oct 2015, 16:22]
+testni wrote:
+Patch 17 (v2.2.0 build 16019.718953) - Localization: German, Italian, Polish, Russian, Czech, French, Spanish, Turkish
+
+Link:
+https://mega.nz/#F!F9wECKYB!48NjkPRTYE_7faZ8bQGdvw
+
+Note: use WinRar 5 or higher to extract.
+
+
+Many, many thanks, testni!
+
+Somebody knows how to get the launcher started? I used a launcher crack posted by machine but it's not working with the new version.
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 01 Oct 2015, 17:00]
+sgarner215 wrote:
+ Spoiler
+Anomaly wrote:
+sgarner215 wrote:
+Can someone PLEASE help me? I keep getting the LUMACEG CRASHED (1) error no matter what I do, can someone please help me
+
+
+What version do you have? If you're using patch 17, check your files with this: http://www75.zippyshare.com/v/mU5RsRBG/file.html and post a screenshot if you got any files missing or mismatched/corrupt.
+
+
+It seems that all my cracked files are corrupt. I'm using the ones from the patch 17 update. I downloaded it from the mega link.
+
+
+
+Are these 10 files the only files that are corrupt/missing? If so, I'll upload these files for you.
+
+FIY: Even if you already copied over the crack, the only files that should mismatch are Rome2.dll and steam_api.dll (and possibly some useless logs, but nvm them).
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 01 Oct 2015, 17:00]
+
+_________________
+Always wanted to get rid of the files that were not listed in the sfv/md5 hash file? Check the QuickSFV plugin I created for this: viewtopic.php?f=10&t=108605 or this: viewtopic.php?p=1273745#p1273745
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 01 Oct 2015, 17:08]
+Yeah, these are the only files corrupt. I don't know why it's doing this. But many thanks if you can upload yours.
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 01 Oct 2015, 19:17]
+sgarner215 wrote:
+Yeah, these are the only files corrupt. I don't know why it's doing this. But many thanks if you can upload yours.
+
+
+See PM.
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 01 Oct 2015, 19:17]
+
+_________________
+Always wanted to get rid of the files that were not listed in the sfv/md5 hash file? Check the QuickSFV plugin I created for this: viewtopic.php?f=10&t=108605 or this: viewtopic.php?p=1273745#p1273745
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 01 Oct 2015, 19:56]
+Anomaly wrote:
+sgarner215 wrote:
+Yeah, these are the only files corrupt. I don't know why it's doing this. But many thanks if you can upload yours.
+
+
+See PM.
+
+
+Hey man, downloaded your thing and replaced all of the files with yours, but it still crashes and gives me the lumaceg crashed error. Could it be something to do with the lumaceg dll or whatever?
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 01 Oct 2015, 19:57]
+sgarner215 wrote:
+Hey man, downloaded your thing and replaced all of the files with yours, but it still crashes and gives me the lumaceg crashed error.
+
+where did you install the game? if you install to Program Files (x86), move it! also did you exclude the game folder from your AV and Windows Defender. did you run the game as admin??
+
+please always include as much info as you can when looking for help!
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 01 Oct 2015, 20:02]
+machine4578 wrote:
+sgarner215 wrote:
+Hey man, downloaded your thing and replaced all of the files with yours, but it still crashes and gives me the lumaceg crashed error.
+
+where did you install the game? if you install to Program Files (x86), move it! also did you exclude the game folder from your AV and Windows Defender. did you run the game as admin??
+
+please always include as much info as you can when looking for help!
+
+
+
+Sorry about that, and yeah I installed it to the program files folder but I moved it and it still gives me the error. My AV isn't affecting it as I turn it off before running the game, and I do run it as admin.

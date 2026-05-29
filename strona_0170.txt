@@ -1,0 +1,131 @@
+=========================================
+STRONA 170 (URL: https://cs.rin.ru/forum/viewtopic.php?f=10&t=61441&hilit=rome+2&start=2535)
+=========================================
+
+[Data: Wednesday, 28 Jan 2015, 14:57]
+neoiq5719 wrote:
+ziodaddy
+is this what u were looking for?
+
+http://www.mediafire.com/download/mq181 ... v1_0_6.exe
+
+
+which version is it? generic or R2:TW?
+
+anyway thanks for the link 
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 29 Jan 2015, 13:43]
+Hello guys, sorry if I'm a noob but I tried everything with different torrent version and I still can't play.
+
+I got the 3DM version with all the DLC you guys were talking about a couple of pages ago, but when I launch it I get the 3DM_CEG.dll crash, can someone be so kind to help me out?
+
+I actually got it working with some files, I don't remember which ones, but it's unplayable because I get always a crash because of the twitchsdk_32_release.dll
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 31 Jan 2015, 22:20]
+Try the files I posted a few posts back (on 169 I think). You'll see the green 3DM torrent text, that's the post. It'll work for multiplayer battles, and for multiplayer campaign use the workaround I posted a couple posts back.
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 01 Feb 2015, 17:03]
+Noob question, how can I take a screenshot in game?, i have tried greenshot and lightshot with no results
+thanks guys
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 02 Feb 2015, 14:29]
+Many ways: Steam f12
+''''''''''''' Mirillis action
+''''''''''''''''''''''''' Fraps
+'''''''''''''''''''''''' gamez
+and other programs.
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 04 Feb 2015, 16:49]
+Any info on whether is another update planned or not? And any info on updated langs fo Sparta dlc - dont need the base 1gb cz+pl packs just the +-200mb patch ones which should include dlc strings
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 08 Feb 2015, 20:51]
+Guys what do I have to do after I download mods from steam workshop downloader?
+
+I get the .pack files, but the Mod Manager refuses to detect them. Why?
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 09 Feb 2015, 02:41]
+ionuttzu wrote:
+Guys what do I have to do after I download mods from steam workshop downloader?
+
+I get the .pack files, but the Mod Manager refuses to detect them. Why?
+
+
+u need to edit it with hex editor .. scroll few pages back theres instruction how to do it.
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 10 Feb 2015, 10:50]
+could someone post download link for champloo's gold unit pack please ?
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 10 Feb 2015, 12:27]
+Hello,
+I am trying to play with the DEI mod however it crashes if I start a Grand Campaign.
+
+I have installed all of the updates listed in the first post and the base game works normally.
+
+Could you kindly provide any assistance in this matter?
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 10 Feb 2015, 15:21]
+Can someone please reupload the 3DMGAME 2.20 Update? RELOADED isn't working for me and all 3DM links are down. Thanks!
+
+edit: nvm, just found all the links in the first post, trying it with those now!
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 10 Feb 2015, 15:36]
+Giangiotto wrote:
+Hello,
+I am trying to play with the DEI mod however it crashes if I start a Grand Campaign.
+
+I have installed all of the updates listed in the first post and the base game works normally.
+
+Could you kindly provide any assistance in this matter?
+
+might be becase of that one small hotfix which is not cracked
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 10 Feb 2015, 15:36]
+
+_________________
+mostly inactive until at least half of july 2025
+
+If any of my uploads are outdated or no longer online , the best way to do is to send me a PM and i will add the title to the next batch
+UPLOADS PAUSED (have all requests in queue for when i am back to being more active)
+
+List of recent games with modern DRMs:(updated 01-Mar-2023) - http://cs.rin.ru/forum/viewtopic.php?f=10&t=68151
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 11 Feb 2015, 15:24]
+20mb update, no changelog yet!
+
+Just some Valentines update with also added 3 new Archivements.
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 11 Feb 2015, 21:04]
+I've got the legit version (german) and activated all the DLC with appid_patch. But I can't install Hannibal, Caesar... (the ones that need download). Can I get them anyhow?
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 11 Feb 2015, 23:16]
+Download a release and use Crack, then yes! But i already explained this more than once...and since you mention appid_patch, you might read that, too!

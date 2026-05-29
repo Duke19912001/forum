@@ -1,0 +1,188 @@
+=========================================
+STRONA 154 (URL: https://cs.rin.ru/forum/viewtopic.php?f=10&t=61441&hilit=rome+2&start=2295)
+=========================================
+
+[Data: Wednesday, 10 Dec 2014, 09:34]
+There´s mod called GEMFX that improves game´s graphics a lot, but it is available on Steam Workshop only ? Is there a way how to use it with cracked Rome 2 ???
+
+
+Code: Select all | Line number On/Off | Expand/Contract
+http://steamcommunity.com/sharedfiles/filedetails/?id=187199741
+
+
+
+[ img ]
+
+THANKS
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 10 Dec 2014, 18:08]
+TW: ROME II Update 16 (20.11.14) links please??? I got the Gaul.pack file, but that cannot be the update itself. I can't find a link to Patch 16 anywhere...
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 10 Dec 2014, 18:08]
+
+_________________
+i7 8700K @ 4.8Ghz @ 1.36v | Cryorig R1 Universal Dual Tower | Arctic Silver 5 | ASUS Hero X Z370 | Corsair Dominator Platinum 16GB @ 3200Mhz @ XMP 1T | EVGA GeForce GTX 1080 Ti Kingpin @ 2025Mhz / 1100Mhz | ASUS Xonar DGX | Logitech Z-680 Dolby Digital 5.1 | Samsung NVMe - 970 250GB EVO, SATA - 850 EVO 500GB & 830 256GB | WD Black 2TB | LG WH12LS39 12x | Corsair Gold AX 850W | Corsair Graphite 760T | 4x Noctua NF-A14 140mm | Eizo Foris FG2421 24" 1080p Turbo 240Hz MVA | Samsung LN40B550 40" 1080p SPVA | Logitech G903 | QcK | Corsair K70 RGM MK.2 | Windows 10 Pro 1607-14393 x64
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 10 Dec 2014, 18:23]
+ what ?
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 10 Dec 2014, 19:14]
+MonarchX wrote:
+TW: ROME II Update 16 (20.11.14) links please??? I got the Gaul.pack file, but that cannot be the update itself. I can't find a link to Patch 16 anywhere...
+
+
+You cant be serious!? Check the op! And stop spaming only cos you're too restricted!
+
+@dan92---
+
+Same for you! Read the last pages, sigh!
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 10 Dec 2014, 19:53]
+ShadowDuke wrote:
+MonarchX wrote:
+TW: ROME II Update 16 (20.11.14) links please??? I got the Gaul.pack file, but that cannot be the update itself. I can't find a link to Patch 16 anywhere...
+
+
+You cant be serious!? Check the op! And stop spaming only cos you're too restricted!
+
+@dan92---
+
+Same for you! Read the last pages, sigh!
+
+
+Well, this is the first time I am in a thread that posts all the updates in the OP. Sorry!
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 10 Dec 2014, 19:53]
+
+_________________
+i7 8700K @ 4.8Ghz @ 1.36v | Cryorig R1 Universal Dual Tower | Arctic Silver 5 | ASUS Hero X Z370 | Corsair Dominator Platinum 16GB @ 3200Mhz @ XMP 1T | EVGA GeForce GTX 1080 Ti Kingpin @ 2025Mhz / 1100Mhz | ASUS Xonar DGX | Logitech Z-680 Dolby Digital 5.1 | Samsung NVMe - 970 250GB EVO, SATA - 850 EVO 500GB & 830 256GB | WD Black 2TB | LG WH12LS39 12x | Corsair Gold AX 850W | Corsair Graphite 760T | 4x Noctua NF-A14 140mm | Eizo Foris FG2421 24" 1080p Turbo 240Hz MVA | Samsung LN40B550 40" 1080p SPVA | Logitech G903 | QcK | Corsair K70 RGM MK.2 | Windows 10 Pro 1607-14393 x64
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 10 Dec 2014, 19:59]
+Even if not, you're too lazy to use search or browse a few pages back, then you'd also know.
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 10 Dec 2014, 23:57]
+Sadly it doesn´t work. The file is too big I guess
+
+
+Code: Select all | Line number On/Off | Expand/Contract
+http://steamworkshopdownloader.com/view/187199741
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 11 Dec 2014, 01:28]
+GEM is pretty much SweetFX anyway.
+
+I got a better look (but sort of similar) through my custom SweetFX I use. Literally, does the same thing as GEM. Maybe GEM does some extra stuff...but...I like my SweetFX I use more.
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 11 Dec 2014, 05:43]
+dan92--- wrote:
+Sadly it doesn´t work. The file is too big I guess
+
+
+Code: Select all | Line number On/Off | Expand/Contract
+http://steamworkshopdownloader.com/view/187199741
+
+why dont u try the generic version of GEM .. it has external download link, mediafire if im not mistaken.
+it's not very diferent with the TWR2 version.. i'm using it atm.. and work nicely on my game.
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 11 Dec 2014, 16:14]
+Hai,
+
+I downloaded: Total War: Rome 2 [v 2.0.0.0] (2013) PC | RePack By R.G Mechanics from Kickass.to
+Since I can't find any useful info in torrent desc. / comments:
+
+Does anyone know which update do I need to download ?
+I haz no idea which Update #? is applied to that R.G release.
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 11 Dec 2014, 16:14]
+
+_________________
+
+SCS - Help Revive / Every upload of mine in SCS contains files only for Windows, don't ask for Linux/MAC.
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 11 Dec 2014, 17:27]
+No support for Repacks!!! ALso, 2.0.0.0 is Emperor Edition, Patch 15!
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 11 Dec 2014, 19:50]
+IE33 wrote:
+Hai,
+
+I downloaded: Total War: Rome 2 [v 2.0.0.0] (2013) PC | RePack By R.G Mechanics from Kickass.to
+Since I can't find any useful info in torrent desc. / comments:
+
+Does anyone know which update do I need to download ?
+I haz no idea which Update #? is applied to that R.G release.
+
+
+Did you even look at the torrent summary and the first page of this thread? *Sigh* You need the 4 latest patches.
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 11 Dec 2014, 19:50]
+
+_________________
+Always wanted to get rid of the files that were not listed in the sfv/md5 hash file? Check the QuickSFV plugin I created for this: viewtopic.php?f=10&t=108605 or this: viewtopic.php?p=1273745#p1273745
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 11 Dec 2014, 21:46]
+cheers    
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 12 Dec 2014, 06:15]
+for those who were unable to install patch 16 and beyond having the Reloaded Emperor Edition DISABLE COMPLETLY THE UAC as ShadowDuke says...
+
+It took me more than an hour reading posts and reinstalled 2 times the game. The tricky part is that usually we disable the UAC from the Control Panel user interface.. but there's another way that helped me that is modifing the registry..
+
+http://www.eightforums.com/system-secur ... etely.html
+http://techzend.com/disable-user-accoun ... indows-81/
+
+Follow the first link, I did that, and that solved the issue with the missmatch on patch 16. and also I think, it patches other patch 15 correctly since it takes now more time (usually like 3 secs morele ss)
+
+Soo, here is again.
+
+1) Installed Relodaded Empeeror Edition
+2) Disable UAC from Control Panel and Modifying Registri (Regedit)-- I did for W8.1
+3) Reboot
+4) Patch 15 Hotfix
+5) Patch 15 HATG Hotfix
+6) Patch 16
+7) Patch 16 HATG Hotfix
+ Crack witht he crack from Patch 16
+9) Double check that you have on main camppaing the Black Sea factions and doesn't crash.
+10) Modify again Registry and UAC to its original state (if you want)
+11) Reboot.
+12) ENJOY THE GAME
+12.1) WAIT FOR THE NEW DLC 
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 13 Dec 2014, 00:04]
+Hello.im new to the community and i love rome 2...so i want to say a big big thanks to shadowduke..
