@@ -1,0 +1,185 @@
+=========================================
+STRONA 309 (URL: https://cs.rin.ru/forum/viewtopic.php?f=10&t=61441&hilit=rome+2&start=4620)
+=========================================
+
+[Data: Sunday, 06 Dec 2020, 22:39]
+I have troubles with API (unable to locate original valve API)
+
+cream_
+
+ Spoiler
+[steam]
+; Application ID (http://store.steampowered.com/app/%appid%/)
+appid = 214950
+; Current game language.
+; Uncomment this option to turn it on.
+; Default is "english".
+;language = german
+; Enable/disable automatic DLC unlock. Default option is set to "false".
+; Keep in mind that this option WON'T work properly if the "[dlc]" section is NOT empty
+unlockall = false
+; Original Valve's steam_api.dll.
+; Default is "steam_api_o.dll".
+orgapi = steam_api_o.dll
+; Original Valve's steam_api64.dll.
+; Default is "steam_api64_o.dll".
+orgapi64 = steam_api64_o.dll
+; Enable/disable extra protection bypasser.
+; Default is "false".
+extraprotection = true
+; The game will think that you're offline (supported by some games).
+; Default is "false".
+forceoffline = false
+; Some games are checking for the low violence presence.
+; Default is "false".
+;lowviolence = true
+; Purchase timestamp for the DLC (http://www.onlineconversion.com/unix_time.htm).
+; Default is "0" (1970/01/01).
+;purchasetimestamp = 0
+
+[steam_misc]
+; Disables the internal SteamUser interface handler.
+; Does have an effect on the games that are using the license check for the DLC/application.
+; Default is "false".
+disableuserinterface = false
+
+[dlc]
+; DLC handling.
+; Format: <dlc_id> = <dlc_description>
+; e.g. : 247295 = Saints Row IV - GAT V Pack
+; If the DLC is not specified in this section
+; then it won't be unlocked
+273380 = Total War: ROME II - Hannibal at the Gates
+311380 = Total War: ROME II - Augustus Campaign Pack
+261050 = Total War: ROME II - Caesar in Gaul
+327280 = Total War: ROME II - Wrath of Sparta DLC
+
+
+I renamed original api to api_0 and api64 to api64_o
+idk what's wrong
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 07 Dec 2020, 00:50]
+^^It's simple: "0" and "o" are different characters. 
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 07 Dec 2020, 00:50]
+
+_________________
+
+
+The standard password is cs.rin.ru
+Please read the Forum Rules and the F.A.Q.
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 25 Dec 2020, 17:24]
+The download link for all rome 2 dlcs is dead for the people like me who have a legit copy but wants all dlcs can someone reupload them I have been searching for a long time thanks
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 26 Dec 2020, 13:41]
+See this post.
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 26 Dec 2020, 13:41]
+
+_________________
+Frequently Asked Questions
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 07 Feb 2021, 01:20]
+When applying the steamfix, my friend and I cant join each other. It says we have different version even though we checked or deleted all the mods also deleted the rome 2 file in appdata. Please help! thanks!
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 09 Feb 2021, 18:35]
+deleted.
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 09 Feb 2021, 18:35]
+
+_________________
+1337x Profile
+Setup Guide
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 17 Feb 2021, 14:32]
+I downloaded cream_api with DLC and put it on the base version, but the achievements do not work, is this normal?
+UPD: Everything works as it should. Achievements work. The game is just slow to trigger achievements.
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 01 Mar 2021, 11:21]
+Hi, can anyone please provide language packs for this game? The old links are dead, thanks!
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 06 Mar 2021, 16:40]
+I have only emperor edition game can I open DLC s for free?
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 07 Mar 2021, 09:55]
+You can, by getting the DLC files and using CreamAPI. Just search the topic and have a look at the first post to find out more.
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 07 Mar 2021, 09:55]
+
+_________________
+Frequently Asked Questions
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 07 Mar 2021, 12:35]
+ASDF wrote:
+You can, by getting the DLC files and using CreamAPI. Just search the topic and have a look at the first post to find out more.
+
+Thanks I was think like creamapı didnt get any update. He is too update right?
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 07 Mar 2021, 19:40]
+Sorry, what do you mean? CreamAPI was last updated in January, but older version of CreamAPI should also work for this game.
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 07 Mar 2021, 19:40]
+
+_________________
+Frequently Asked Questions
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 08 Mar 2021, 05:22]
+ASDF wrote:
+Sorry, what do you mean? CreamAPI was last updated in January, but older version of CreamAPI should also work for this game.
+
+Ah oKay Thanks again.
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 21 Mar 2021, 21:21]
+Been going at this for over 12 hours now, i've got the base game, as well as the 3 updates needed. I've installed the base game first, as well as copying over the codex files. Then i start with Update 1 and codex, goes perfectly fine. Update 2 and codex are the same, perfectly fine. Update 3 and codex goes good also. Game runs perfectly fine. Except multiplayer. i've watched videos and went through this entire thread and i cannot figure out why multiplayer wont work. I've tried both included steamworks fixes in OP but they either crash my game at launch or somehow downgrade my game version to base game version. Any help would be appreciated. it's really doing my head in
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 22 Mar 2021, 04:47]
+^^Make sure you are logged into a valid account on your legit steam client when using a steamworks fix and also do not forget to delete the CDX crack files, esp. steamclient.dll, from your game folder when switching to the fix.
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 22 Mar 2021, 04:47]
+
+_________________
+
+
+The standard password is cs.rin.ru
+Please read the Forum Rules and the F.A.Q.

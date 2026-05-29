@@ -1,0 +1,173 @@
+=========================================
+STRONA 311 (URL: https://cs.rin.ru/forum/viewtopic.php?f=10&t=61441&hilit=rome+2&start=4650)
+=========================================
+
+[Data: Wednesday, 05 May 2021, 14:40]
+Hi can someone send me the game V.2.4.0 19728 with dlcs please principally the full gameis what I am search cause I think that with the steam fix I will be able to play MP
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 05 May 2021, 17:11]
+martigames08
+See this. Or find the latest clean Steam files here, then you'd only need the Codex crack.
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 05 May 2021, 17:11]
+
+_________________
+Frequently Asked Questions
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 11 May 2021, 23:19]
+Hi everyone i own a original copy of the game on steam and i want to unlock all of the dlcs with cream api but i am having problems with it. So i downloaded all of the dlcs and i renamed steam_api.dll to steam_api_o.dll then i pasted the cream api but when i do that the game won't launch. I did this in the past and it worked but i can't find the post that explained everything so i coud really use some help thanks!
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 12 May 2021, 11:12]
+Are you using the launcher to start the game? Because the "launcher" folder also contains a steam_api.dll that you probably have to rename as well, and copy the CreamAPI files there.
+Some users also had issues with newer CreamAPI versions for this game, but v3.4.1.0 apparently works fine. You can find it here.
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 12 May 2021, 11:12]
+
+_________________
+Frequently Asked Questions
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 15 May 2021, 20:59]
+May I request a reupload of the German language depots? 214961 and 214962
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 17 Aug 2021, 00:16]
+Hi, could the Czech language files for Update.v2.4.0.19728 be reloaded. Thank you very much in advance.
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 17 Aug 2021, 03:49]
+^^Here you go mate, the full Czech language pack, current public branch version:
+
+https://pixeldrain.com/u/wmrcQ9sX
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 17 Aug 2021, 03:49]
+
+_________________
+
+
+The standard password is cs.rin.ru
+Please read the Forum Rules and the F.A.Q.
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 17 Aug 2021, 08:08]
+sp3ctral wrote:
+May I request a reupload of the German language depots? 214961 and 214962
+
+The depot 214961 is actually an empty depot / folder once downloaded, so here it is anyway, better late than never:
+https://www.filecrypt.cc/Container/8BE32E5341.html [May link to unsafe filehosters]
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 17 Aug 2021, 08:08]
+
+_________________
+The FAQ are you waiting for?
+
+A wild PASSWORD appeared for protected archives & files on RIN! Member used cs.rin.ru ...it's super effective!
+
+Having problems downloading from Google Drive? Click here.
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 17 Aug 2021, 12:54]
+Christsnatcher wrote:
+^^Here you go mate, the full Czech language pack, current public branch version:
+
+https://pixeldrain.com/u/wmrcQ9sX
+
+Thank you very much. You are the best.
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 17 Aug 2021, 13:43]
+^^You're most welcome mate!
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 17 Aug 2021, 13:43]
+
+_________________
+
+
+The standard password is cs.rin.ru
+Please read the Forum Rules and the F.A.Q.
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 05 Oct 2021, 18:53]
+Could some kind soul upload the acf/manifest for this game
+
+thank you
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 05 Oct 2021, 23:09]
+Can someone post a new download link for the clear game? the old ones are not valid anymore. Thanks
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 06 Oct 2021, 11:07]
+The 1fichier links here are still working. Although you may have to use a VPN/proxy if 1fichier is blocked in your country.
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 06 Oct 2021, 11:07]
+
+_________________
+Frequently Asked Questions
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 08 Oct 2021, 23:36]
+Total War: Rome II - Emperor Edition (SEGA) [v.2.4.0.19728 + DLC] (RUS\ENG) [RePack] ~By Xatab~
+⇨⇨TOPIC⇦⇦~Rustorka~
+
+<EDIT>
+Does anyone know how to change the language?
+I've checked "steam_emu.ini" and it's in English also for the launcher.
+I also changed "language.txt" in the data folder from "RU" to "ENG" but it still doesn't work.
+I tried to download the language pack in Italian, but it tells me that the requested file does not exist.
+<EDIT 12/11/21>
+▼▼Now I have never downloaded FitGirlRepack but thanks for the help.
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 08 Oct 2021, 23:36]
+
+_________________
+Lasciate ogni speranza, o voi ch'entrate. sk ✝
+RULES - FAQ
+How to crack Clean Steam files: Goldberg_Steam_Emu - Steamless
+PixelDrain Limit Bypass - Super Steam Packer - RIN SteamInternals
+If you want a post of yours to be deleted report it.
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 11 Nov 2021, 20:27]
+skaider wrote:
+Total War: Rome II - Emperor Edition (SEGA) [v.2.4.0.19728 + DLC] (RUS\ENG) [RePack] ~By Xatab~
+⇨⇨TOPIC⇦⇦~Rustorka~
+
+<EDIT>
+Does anyone know how to change the language?
+I've checked "steam_emu.ini" and it's in English also for the launcher.
+I also changed "language.txt" in the data folder from "RU" to "ENG" but it still doesn't work.
+I tried to download the language pack in Italian, but it tells me that the requested file does not exist.
+
+https://www.youtube.com/watch?v=I_B593s1Vc0 0:50 select language

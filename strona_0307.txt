@@ -1,0 +1,138 @@
+=========================================
+STRONA 307 (URL: https://cs.rin.ru/forum/viewtopic.php?f=10&t=61441&hilit=rome+2&start=4590)
+=========================================
+
+[Data: Tuesday, 28 Jul 2020, 20:21]
+The rome 2 19728 steamfix does not work. It displays the white rome 2 screen then crash. :c
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 01 Aug 2020, 12:36]
+Yeah. the google drive link is dead, can I get the DLC files please?
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 05 Aug 2020, 15:04]
+yeah links for dlc files are dead please replace them
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 07 Aug 2020, 07:24]
+search for and download Total War Rome II Rise of the Republic-CODEX on your favorite torrent etc site and install it, copy the dlc folder and paste it into your steam install folder of the game and then uninstall the CODEX installation.
+
+CreamAPI should be as straightforward as copy/pasting the DLC numbers and names into the .ini.
+
+I attached the creamapi ini file, use with latest creamapi.
+
+1. Install game in steam
+2. Download and install Total War Rome II Rise of the Republic-CODEX, don't install crack...
+3. copy /data folder from Codex installation to steam installation
+4 uninstall Codex installation
+5.use creamapi files as per usual (rename original steam_api to _o.dll etc.
+That's it.
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 07 Aug 2020, 08:45]
+Holy shit I must be retarded and illiterate. So I downloaded Rome II from fitgirl via qtorrent, then mounted the .iso file and installed the game onto my computer from the 'codex' menu. But whenever I try to exe as admin nothing happens. Please help a retarded romaboo 
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 07 Aug 2020, 11:00]
+^^The first thing I'd do if I were you would be a full scan with your favorite AV and heuristics set to normal. Why? Because FitGirl's repacks are never released in .iso format. Good luck.
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 07 Aug 2020, 11:00]
+
+_________________
+
+
+The standard password is cs.rin.ru
+Please read the Forum Rules and the F.A.Q.
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 14 Aug 2020, 17:53]
+You guys are great, RESPECT for the 1202002042 time!
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 18 Aug 2020, 15:38]
+hey folks, anyone by chance has polish language pack and fonts ?
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 11 Sep 2020, 22:42]
+Hi, I'm searching for french language pack, all the links are dead. Could someone reupload it please ?
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 13 Sep 2020, 15:37]
+^^Here you go. 
+
+https://pixeldrain.com/u/xxmY6wnw
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 13 Sep 2020, 15:37]
+
+_________________
+
+
+The standard password is cs.rin.ru
+Please read the Forum Rules and the F.A.Q.
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 14 Sep 2020, 02:41]
+Christsnatcher wrote:
+^^Here you go. 
+
+https://pixeldrain.com/u/xxmY6wnw
+
+
+Thank you very much ! 
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 14 Sep 2020, 12:40]
+ASDF wrote:
+Hi matu077,
+
+these updates should work on the FitGirl repack, at least if you installed all languages:
+
+
+1. Total.War.Rome.II.Rise.of.the.Republic.Update.v2.4.0.19581-CODEX
+2. Total.War.Rome.II.Rise.of.the.Republic.Update.v2.4.0.19683-CODEX
+3. Total.War.Rome.II.Rise.of.the.Republic.Update.v2.4.0.19728-CODEX
+
+You can look for them here.
+
+
+Can confirm^^, the CODEX updates above installed correctly direct onto a fresh FitGirl install. Worked fine even though I had no language packs, only english.
+
+Tips:
+
+- They're small but they rewrite a huge amount of data, >150GB. So you may want to update away from your SSD
+- Make sure you give it the correct path, default given by CODEX is wrong for FitGirl installs
+- Make sure to install in the correct chronological order
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 15 Sep 2020, 00:44]
+does someone have a link for the creamAPI? the one on the 1st page links to a harmful site. thanks
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 15 Sep 2020, 01:24]
+You can download a clean CreamAPI - A Legit DLC Unlocker & it is edited in less than 5 minutes......everything is described what you have to do  AppID's are on the Steam games pages address bar or https://steamdb.info/
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 15 Sep 2020, 02:28]
+Teil wrote:
+You can download a clean CreamAPI - A Legit DLC Unlocker & it is edited in less than 5 minutes......everything is described what you have to do  AppID's are on the Steam games pages address bar or https://steamdb.info/
+
+
+Thanks, been a rough week and sorry for asking

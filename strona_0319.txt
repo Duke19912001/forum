@@ -1,0 +1,281 @@
+=========================================
+STRONA 319 (URL: https://cs.rin.ru/forum/viewtopic.php?f=10&t=61441&hilit=rome+2&start=4770)
+=========================================
+
+[Data: Friday, 06 Dec 2024, 06:46]
+Can someone tell me how to use the launcher on a cracked game, I installed it through ElAmigos and I downloaded the DEI mod but I have not been able to activate it and launcher is not cracked.
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 06 Dec 2024, 10:23]
+^
+mods via the launcher unfortunately dont work. only works via user.script.txt...
+
+
+1. start the game, go to option -> mods and activate both. close game
+
+2. copy the mod (.pack file) into the "Total War Rome II\data" folder
+
+3. go to %AppData%\The Creative Assembly\Rome2\scripts
+
+4. open "user.script.txt" | if it doesn't exist create it
+
+5. add the mod you want to activate
+
+
+ example
+mod "toonsrome2aio1.pack";
+mod "toonsrome2aio2.pack";
+
+6. save "user.script.txt" and start the game
+
+There is also a mod manager but I never tried it.
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 06 Dec 2024, 10:23]
+
+_________________
+password-protected file? Try cs.rin.ru
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 07 Dec 2024, 11:38]
+damn i missed the 90% discount..
+does someone have the latest build?
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 08 Dec 2024, 01:26]
+com1100 wrote:
+^
+mods via the launcher unfortunately dont work. only works via user.script.txt...
+
+
+1. start the game, go to option -> mods and activate both. close game
+
+2. copy the mod (.pack file) into the "Total War Rome II\data" folder
+
+3. go to %AppData%\The Creative Assembly\Rome2\scripts
+
+4. open "user.script.txt" | if it doesn't exist create it
+
+5. add the mod you want to activate
+
+
+ example
+mod "toonsrome2aio1.pack";
+mod "toonsrome2aio2.pack";
+
+6. save "user.script.txt" and start the game
+
+There is also a mod manager but I never tried it.
+
+
+
+Hello, I downloaded Divide et Impera through their website. May I know how to do the load order? Should I put Part 2 as the first line or part 1? I am asking cause do not know how load order works when using a txt file
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 08 Dec 2024, 10:52]
+^
+
+It actually loads from top to bottom.
+so first line part 1
+
+
+eytchdi wrote:
+damn i missed the 90% discount..
+does someone have the latest build?
+
+viewtopic.php?p=3137783#p3137783
+
+gofile is still online
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 08 Dec 2024, 10:52]
+
+_________________
+password-protected file? Try cs.rin.ru
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 14 Dec 2024, 19:19]
+minerovy wrote:
+creamapi crack for dlc unlock
+
+!!!MAKE SURE TO PUT IN BOTH THE MAIN AND THE "launcher" FOLDER!!!
+
+(the dlc files themselfs can be obtained by downloading a cracked version of the game and copying them from the "data" folder to your main game, or by downloading seprately)
+
+crack file:
+
+ Spoiler
+https://drive.google.com/file/d/1e5s9JxNREresnRYhvi5L7bvu0Tg4RCIB/view?usp=drive_link
+
+
+dlc names for copying over from a cracked version of the game:
+
+ Spoiler
+punic.pack
+greeks.pack
+gaul.pack
+blood_rome2.pack
+divided.pack
+invasion.pack
+
+
+
+How did you get the all the dlc names? my post I did this using my own made script from steam api, but seems you got more dlc then my script found?
+
+Also do we need newer steam_api cracks for newer dlc or can I use old steam api dll cream api and only need new .ini file for unlocking more?
+
+
+can someone share the dlc files for:
+
+
+Code: Select all | Line number On/Off | Expand/Contract
+ 
+212301 = Total War: ROME II - Greek States Culture Pack
+258270 = Total War: ROME II - Nomadic Tribes Culture Pack
+258580 = Total War: ROME II - Seleucid Empire Faction Pack
+259800 = Total War: ROME II - Blood & Gore
+261050 = Total War: ROME II - Caesar in Gaul (Total War: ROME II - Caesar in Gaul Campaign Pack)
+261620 = Total War: ROME II - Baktria Faction (Total War: ROME II - Coat Rack)
+267630 = Total War: ROME II - Beasts of War (Total War: ROME II - Beasts of War Unit Pack)
+273380 = Total War: ROME II - Hannibal at the Gates
+273381 = Total War: ROME II - Pirates & Raiders (Total War: ROME II - Pirates and Raiders Culture Pack)
+297830 = Total War: ROME II - Daughters of Mars (Total War: ROME II - Daughters of Mars Unit Pack)
+297831 = Total War: ROME II - Black Sea Colonies Culture Pack
+311380 = Total War: ROME II - Augustus Campaign Pack
+327280 = Total War: ROME II - Wrath of Sparta DLC (Total War: ROME II - Wrath of Sparta Campaign Pack)
+330340 = Total War: Rome II - Massilia Faction
+694880 = Total War: ROME II - Empire Divided Campaign Pack
+792520 = Total War: ROME II - Desert Kingdoms Culture Pack
+850010 = Total War: ROME II - Rise of the Republic Campaign Pack
+ 
+
+
+I see this one missing: from my cream api:
+330340 Total War: Rome II - Massilia Faction
+261620 Total War: ROME II - Baktria Faction (Total War: ROME II - Coat Rack)
+
+So if I have a cracked version I dont want to download a full new cracked release.
+
+how this creamapi works does it require newer steamapi.dll or can I use a very old one and only need updated ini files?
+
+Cause I want to automate this for free in a browser addon for all your guys.
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 08 Jan 2025, 10:31]
+com1100 wrote:
+^
+
+It actually loads from top to bottom.
+so first line part 1
+
+
+eytchdi wrote:
+damn i missed the 90% discount..
+does someone have the latest build?
+
+viewtopic.php?p=3137783#p3137783
+
+gofile is still online
+
+
+Hello, the links are all dead now. Can someone fix them thanks
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 08 Jan 2025, 12:47]
+^
+reup
+viewtopic.php?p=3137783#p3137783
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 08 Jan 2025, 12:47]
+
+_________________
+password-protected file? Try cs.rin.ru
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 22 Jan 2025, 15:42]
+com1100 wrote:
+^
+reup
+viewtopic.php?p=3137783#p3137783
+
+
+Goat! long live
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 22 Jan 2025, 15:42]
+
+_________________
+ Support Developers You Respect  Never Harm the Gaming Experience  Respect Scene Group  Keep it underground.
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 04 Feb 2025, 08:00]
+Does anyone know how to manually install mods? I've tried the user.script.text but it doesn't seem to work. The modmanager option in the launcher is greyed out.
+
+Also does have a copy and can anyone upload the 1100 AD Mod?
+Part 1 - https://steamcommunity.com/sharedfiles/ ... 2280460874
+Part 2 - https://steamcommunity.com/sharedfiles/ ... 1655284279
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 12 Feb 2025, 02:18]
+just download ModManager 2.0 for Attila and Rome 2
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 20 Feb 2025, 15:20]
+hey guys having issue launching the game with dlc files and cream api installed.
+
+I own the game legit but when I used Total War Rome II DLCs only 2020.03.25.7z and Total War Rome II cream_api v4.4.0.0.rar
+
+the game wont launch. It either tries to launch and nothing happens or steam thinks I don't own the game from the total war launch and tries to get me to buy the game again lol.
+
+Am I better off just downloading the cracked version with everything that trying to get this to work?
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 10 Mar 2025, 08:03]
+com1100 wrote:
+^
+
+I don't know what kind of emu you're using but the DLCs have to be unlocked in the emu.
+
+And as I remember, Creamapi is only for people who have the main game on steam.
+
+But here is an emu where everything is already set up.
+The language can be changed in the configs.user.ini, it's in the steam_settings folder
+
+Attachment:
+Rome2_Emu.7z
+
+
+Which emu do you recommend using for this particular game?
+Thanks in advance!
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 16 Mar 2025, 17:40]
+DLC files aren't working , can someone send Full DLC folder
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 25 Mar 2025, 03:47]
+Would anyone upload a couple of submods for Divide et Impera please?
+
+Divide et Impera - No PO Garrison Negative Submod https://steamcommunity.com/sharedfiles/ ... 2761835852
+Better Children https://steamcommunity.com/sharedfiles/ ... 1546527182
+War and Peace https://steamcommunity.com/sharedfiles/ ... 2559221690
+Vox Populi (DeI & Vanilla) https://steamcommunity.com/sharedfiles/ ... 2785761300

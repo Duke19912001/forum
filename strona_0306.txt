@@ -1,0 +1,150 @@
+=========================================
+STRONA 306 (URL: https://cs.rin.ru/forum/viewtopic.php?f=10&t=61441&hilit=rome+2&start=4575)
+=========================================
+
+[Data: Wednesday, 10 Jun 2020, 01:31]
+^^Sure.
+
+https://pixeldrain.com/u/v7pyhf2e
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 10 Jun 2020, 01:31]
+
+_________________
+
+
+The standard password is cs.rin.ru
+Please read the Forum Rules and the F.A.Q.
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 10 Jun 2020, 08:40]
+Works perfectly ! Thx a lot 
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 10 Jun 2020, 14:44]
+Total War Rome II v2.4.0 (2020.06.10) ALL DLC files (435 MB) for base game legit owners (use with cream_api) MEGA LINK attached.
+Download from MEGA and unpack to main game folder (highly compressed 7zip archive with usual password).
+
+Also attached latest cream_api 4.4.0.0 (thanks CS) with all existing DLCs activated.
+
+For convenience I've attached a full md5/sfv verification file for the latest clean steam install plus all DLCs (english version):
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 10 Jun 2020, 18:53]
+Lobuno wrote:
+Total War Rome II v2.4.0 (2020.06.10) ALL DLC files (435 MB) for base game legit owners (use with cream_api) MEGA LINK attached.
+Download from MEGA and unpack to main game folder (highly compressed 7zip archive with usual password).
+
+Also attached latest cream_api 4.4.0.0 (thanks CS) with all existing DLCs activated.
+
+For convenience I've attached a full md5/sfv verification file for the latest clean steam install plus all DLCs (english version):
+
+
+Hi friend, should we update to this new version? I play from time to time (like 6 months between games lol) and my game works fine, but I always try to keep it up to date.
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 10 Jun 2020, 20:06]
+sergio_sos wrote:
+Hi friend, should we update to this new version? I play from time to time (like 6 months between games lol) and my game works fine, but I always try to keep it up to date.
+
+Just check with the attached sfv if your files are up to date. If they do, you don't have to do anything.
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 13 Jun 2020, 00:53]
+Hi there, im new and im still figuring everything out. I downloaded the game V2.4.0.19534 from fitgirl, how can i update it? I want to in order to use the newest Steamworks fix. Hope everyones great.
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 14 Jun 2020, 18:17]
+Hi matu077,
+
+these updates should work on the FitGirl repack, at least if you installed all languages:
+
+
+1. Total.War.Rome.II.Rise.of.the.Republic.Update.v2.4.0.19581-CODEX
+2. Total.War.Rome.II.Rise.of.the.Republic.Update.v2.4.0.19683-CODEX
+3. Total.War.Rome.II.Rise.of.the.Republic.Update.v2.4.0.19728-CODEX
+
+You can look for them here.
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 14 Jun 2020, 18:17]
+
+_________________
+Frequently Asked Questions
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 23 Jun 2020, 15:48]
+How to use mods on pirated rome 2?
+
+When i use mod manager it turns on my steam instead of the game
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 03 Jul 2020, 23:59]
+Hello,
+I wanted to ask if anyone has the german and spanish language packs for the game and the latest DLC ?
+
+Thank you very much for your extraordinary work!!! 
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 16 Jul 2020, 19:01]
+Can someone upload DLC pack to use with CreampieAPI? The GD link is dead. Thank you!
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 21 Jul 2020, 02:48]
+I did not understand how can I use mods.
+
+-- Edit --
+
+I download latest with patches then I download divide et impera from their site and try to use it with mod manager I don't know what went wrong.
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 21 Jul 2020, 03:26]
+romav you can do it manually. Place the mod folder into the "mods" folder where you installed the game. Then right click on the shortcut of the exe file on your desktop > properties, at the end of Target add this command -mod:(mod name same as mod folder)
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 21 Jul 2020, 03:26]
+
+_________________
+Short List of Highest Paying Apps & Reward Sites
+(Paypal, Steam Wallet, & Amazon Giftcards)
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 21 Jul 2020, 03:59]
+MarYo wrote:
+romav you can do it manually. Place the mod folder into the "mods" folder where you installed the game. Then right click on the shortcut of the exe file on your desktop > properties, at the end of Target add this command -mod:(mod name same as mod folder)
+
+
+So, I need to make empty mods folder and put those :
+_divide_et_impera_release_12_Part1
+_divide_et_impera_release_12_Part2
+files in that folder, right ?
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 21 Jul 2020, 04:06]
+^ you put mods (in your case _divide_et_impera_release_12_Part1 and 2) in your install drive:\Total War Rome 2 - Emperor Edition\data
+There's no mod folder for TW games.
+
+And you can use this mod manager:
+https://www82.zippyshare.com/v/z6Ar7tci/file.html
+unzip and place it where you have your game installed.
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 22 Jul 2020, 16:45]
+Thanks.

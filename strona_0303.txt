@@ -1,0 +1,201 @@
+=========================================
+STRONA 303 (URL: https://cs.rin.ru/forum/viewtopic.php?f=10&t=61441&hilit=rome+2&start=4530)
+=========================================
+
+[Data: Wednesday, 26 Feb 2020, 20:26]
+hachiko76 wrote:
+Hello guys. I want to play some multiplayer (codex release) and i have the latest patch installed.
+
+I've put this one on data folder, Total.War.Rome.II.Rise.of.the.Republic.Update.v2.4.0.19728-CreamAPI.SteamWorks.Fix.7z
+
+Then added the game on Steam. I am able to see the current games but all of them are saying ''different versions''. And whenever i start a new game, nobody joins.
+
+I don't have any mods installed btw and i have all the DLC's.
+
+I'd also really like to play with my friend who also has the same game with a same version.
+
+Can somebody help me please? Thank you so much! 
+
+
+Perhaps removing your Rome II folder "%AppData%\The Creative assembly\Rome2" might help. It did for me at some point, even though I hadn't been using mods.
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 26 Feb 2020, 20:26]
+
+_________________
+Always wanted to get rid of the files that were not listed in the sfv/md5 hash file? Check the QuickSFV plugin I created for this: viewtopic.php?f=10&t=108605 or this: viewtopic.php?p=1273745#p1273745
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 28 Feb 2020, 18:56]
+Anomaly wrote:
+hachiko76 wrote:
+Hello guys. I want to play some multiplayer (codex release) and i have the latest patch installed.
+
+I've put this one on data folder, Total.War.Rome.II.Rise.of.the.Republic.Update.v2.4.0.19728-CreamAPI.SteamWorks.Fix.7z
+
+Then added the game on Steam. I am able to see the current games but all of them are saying ''different versions''. And whenever i start a new game, nobody joins.
+
+I don't have any mods installed btw and i have all the DLC's.
+
+I'd also really like to play with my friend who also has the same game with a same version.
+
+Can somebody help me please? Thank you so much! 
+
+
+Perhaps removing your Rome II folder "%AppData%\The Creative assembly\Rome2" might help. It did for me at some point, even though I hadn't been using mods.
+
+
+Tried that, but didn't worked out unfortunately.
+Thank you for your suggestion though.
+Maybe i'm just unlucky and everybody plays on the previous patch(es). 
+
+Edit: We had successfully played a game with my friend who added me on Steam.
+Maybe that's the problem, you need to be friends on Steam before being able to play a game.
+If anyone wants to try play on latest patch, please send me your friend request links with PM for Steam ''_nehalennia_''
+
+Cheers!
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 29 Feb 2020, 21:22]
+Anyone happen to have the DLC files laying around? Old HDD with all the old dlc files and various other game dlc files died and can't seem to restore it's data.
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 03 Mar 2020, 12:12]
+Hi,
+
+I have hard time to find working link for Total.War.Rome.II.Rise.of.the.Republic-CODEX torrent and update files:
+Total.War.Rome.II.Rise.of.the.Republic.Update.v2.4.0.19581-CODEX
+Total.War.Rome.II.Rise.of.the.Republic.Update.v2.4.0.19683-CODEX
+Total.War.Rome.II.Rise.of.the.Republic.Update.v2.4.0.19728-CODEX
+
+Can someone help.
+
+Edit
+I had links, thanks 
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 03 Mar 2020, 18:08]
+use qbittorent with built-in search engine , find working torrents
+or
+
+mega, google
+base game
+REMOVED
+patches
+REMOVED
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 07 Mar 2020, 13:45]
+Hi i unlocked all dlcs with creamapi.
+When i open rome II all dlcs work fine but when i open empire divided i have a problem.
+This is my problem...
+If i press start campaign the game crashes.
+
+Can you help me? please
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 07 Mar 2020, 15:54]
+Fabio92 wrote:
+Hi i unlocked all dlcs with creamapi.
+When i open rome II all dlcs work fine but when i open empire divided i have a problem.
+This is my problem...
+If i press start campaign the game crashes.
+
+Can you help me? please
+
+
+Most likely have outdated DLC files.
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 07 Mar 2020, 20:25]
+MasterDMFour wrote:
+Fabio92 wrote:
+Hi i unlocked all dlcs with creamapi.
+When i open rome II all dlcs work fine but when i open empire divided i have a problem.
+This is my problem...
+If i press start campaign the game crashes.
+
+Can you help me? please
+
+
+Most likely have outdated DLC files.
+
+
+Yes, i downloaded codex version and replaced dlcs files, now rome II works well.
+
+thank you for answer.
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 08 Mar 2020, 02:36]
+Could anyone reupload links on DLC files and english language pack? It`s error 404 on cannot find on google drive everywhere. Thank you
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 11 Mar 2020, 00:54]
+elrat500 wrote:
+Could anyone reupload links on DLC files and english language pack? It`s error 404 on cannot find on google drive everywhere. Thank you
+
+
+If you have a decent connection / no data limit, you can always download the Codex release & updates 
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 11 Mar 2020, 00:54]
+
+_________________
+Always wanted to get rid of the files that were not listed in the sfv/md5 hash file? Check the QuickSFV plugin I created for this: viewtopic.php?f=10&t=108605 or this: viewtopic.php?p=1273745#p1273745
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 12 Mar 2020, 09:22]
+Anomaly wrote:
+If you have a decent connection / no data limit, you can always download the Codex release & updates 
+
+
+Work with legal version ?
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 12 Mar 2020, 15:03]
+Skarime wrote:
+Anomaly wrote:
+If you have a decent connection / no data limit, you can always download the Codex release & updates 
+
+
+Work with legal version ?
+
+
+You can use the DLC files from those releases, of course ^^
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 12 Mar 2020, 15:03]
+
+_________________
+Always wanted to get rid of the files that were not listed in the sfv/md5 hash file? Check the QuickSFV plugin I created for this: viewtopic.php?f=10&t=108605 or this: viewtopic.php?p=1273745#p1273745
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 13 Mar 2020, 12:29]
+DLC work thanks
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 22 Mar 2020, 02:39]
+can someone reupload the dlcs
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 26 Mar 2020, 11:55]
+There you have DLCs (all campings files since didn't know which were needed) + CreamApi files, just drop it on the steam Rome2 folder
+
+https://yadi.sk/d/W8FMzKwNdFcbUA

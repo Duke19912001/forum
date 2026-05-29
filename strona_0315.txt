@@ -1,0 +1,139 @@
+=========================================
+STRONA 315 (URL: https://cs.rin.ru/forum/viewtopic.php?f=10&t=61441&hilit=rome+2&start=4710)
+=========================================
+
+[Data: Thursday, 22 Jun 2023, 18:19]
+ROME 2 Received a update today, nothing is working.
+
+The game doesn't open with imported files.
+
+Please take a look 
+
+Thank you 
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 22 Jun 2023, 20:55]
+https://store.steampowered.com/news/app ... 7473242697
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 22 Jun 2023, 20:55]
+
+_________________
+Haters gonna hate!
+My updates are always clean files - no cracks included.
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 23 Jun 2023, 13:55]
+Yep, the new update came out and crack isn't working anymore.
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 24 Jun 2023, 00:43]
+I don't ordinarily post, mostly lurk, but yes: the creamAPI is non-functional. I used the autocreamapi software and the game no longer functions, fixed only via verification with steam. Anybody know of any fixes?
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 24 Jun 2023, 02:16]
+can anyone post the new creamapi
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 24 Jun 2023, 04:53]
+CreamAPI breaks for me too. But I tried also applying it to the launcher too and the game seems to works.
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 24 Jun 2023, 06:54]
+GPortalADV wrote:
+CreamAPI breaks for me too. But I tried also applying it to the launcher too and the game seems to works.
+
+But does it still activate the DLCs? If so, can you go a little more into detail about the exact process I.E. What boxes did you tick, untick, etcetera. The game still works when I apply it to the launcher dll but none of the DLCs are unlocked and attempting to do the same for the main DLL in the game folder breaks it.
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 24 Jun 2023, 07:45]
+skyrimlegion wrote:
+GPortalADV wrote:
+CreamAPI breaks for me too. But I tried also applying it to the launcher too and the game seems to works.
+
+But does it still activate the DLCs? If so, can you go a little more into detail about the exact process I.E. What boxes did you tick, untick, etcetera. The game still works when I apply it to the launcher dll but none of the DLCs are unlocked and attempting to do the same for the main DLL in the game folder breaks it.
+
+
+DLCs are activated. I used auto-creamapi and tick only "Additionally use SteamDB for DLCs" and filling in dlc list using DLCs' appid just like what I also do with the game.
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 24 Jun 2023, 10:15]
+GPortalADV wrote:
+skyrimlegion wrote:
+GPortalADV wrote:
+CreamAPI breaks for me too. But I tried also applying it to the launcher too and the game seems to works.
+
+But does it still activate the DLCs? If so, can you go a little more into detail about the exact process I.E. What boxes did you tick, untick, etcetera. The game still works when I apply it to the launcher dll but none of the DLCs are unlocked and attempting to do the same for the main DLL in the game folder breaks it.
+
+
+DLCs are activated. I used auto-creamapi and tick only "Additionally use SteamDB for DLCs" and filling in dlc list using DLCs' appid just like what I also do with the game.
+
+
+I tried doing that. Perhaps it has to be done in a certain order? I have the latest DLC files from this thread and prior to the update, auto-creamapi worked. I'm testing uninstalling the game and reinstalling and doing it all again to see if that fixes it.
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 24 Jun 2023, 12:44]
+skyrimlegion wrote:
+GPortalADV wrote:
+skyrimlegion wrote:
+But does it still activate the DLCs? If so, can you go a little more into detail about the exact process I.E. What boxes did you tick, untick, etcetera. The game still works when I apply it to the launcher dll but none of the DLCs are unlocked and attempting to do the same for the main DLL in the game folder breaks it.
+
+
+DLCs are activated. I used auto-creamapi and tick only "Additionally use SteamDB for DLCs" and filling in dlc list using DLCs' appid just like what I also do with the game.
+
+
+I tried doing that. Perhaps it has to be done in a certain order? I have the latest DLC files from this thread and prior to the update, auto-creamapi worked. I'm testing uninstalling the game and reinstalling and doing it all again to see if that fixes it.
+
+
+My friend just tried and it also broken at first. But he tried delete all file in the game folder then verify to re-download it after auto-creamapi both dll he can launch the game that stated he got all dlc. He forgot to put in DLCs files but after he put them in it can play normally with all DLCs.
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 24 Jun 2023, 16:02]
+Quote:
+My friend just tried and it also broken at first. But he tried delete all file in the game folder then verify to re-download it after auto-creamapi both dll he can launch the game that stated he got all dlc. He forgot to put in DLCs files but after he put them in it can play normally with all DLCs.
+
+
+Thanks, however I got it working without doing that. I had to do it manually basically, using the creamAPI provided by venom in this thread as well as the DLC files I downloaded prior - also from this thread. If your method works then mine is just an additional way of making it function again.
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 26 Jun 2023, 01:10]
+skyrimlegion wrote:
+Quote:
+My friend just tried and it also broken at first. But he tried delete all file in the game folder then verify to re-download it after auto-creamapi both dll he can launch the game that stated he got all dlc. He forgot to put in DLCs files but after he put them in it can play normally with all DLCs.
+
+
+Thanks, however I got it working without doing that. I had to do it manually basically, using the creamAPI provided by venom in this thread as well as the DLC files I downloaded prior - also from this thread. If your method works then mine is just an additional way of making it function again.
+
+Can you upload the patch,to test if it improves performance especially with mods ?
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 29 Jun 2023, 04:07]
+So is there a working cream.api now? Ive tried downloading one above and its still the same?
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 29 Jun 2023, 22:09]
+Derrick Rose wrote:
+So is there a working cream.api now? Ive tried downloading one above and its still the same?
+
+
+Same, the game still crash on start up after using cream.api
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 01 Jul 2023, 13:18]
+cream + updated dlc files
+https://pixeldrain.com/u/Di5pC9hm

@@ -1,0 +1,212 @@
+=========================================
+STRONA 305 (URL: https://cs.rin.ru/forum/viewtopic.php?f=10&t=61441&hilit=rome+2&start=4560)
+=========================================
+
+[Data: Monday, 20 Apr 2020, 20:31]
+Thank you for clarifying
+
+
+ASDF wrote:
+vudu wrote:
+Rui wrote:
+Total War: ROME II - Emperor Edition (Clean Steam Files)
+Version: March 17, 2020 – 11:40:01 UTC [Build 4390417]
+
+Looks like there was an update to the live launcher recently.
+
+
+Are there changes to german localisation files too?
+No, they were last updated in December 2018.
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 28 Apr 2020, 18:38]
+Dont want to spam, sorry but, does the creamapi here work like in warhammer 2? Like download dlc files, extract them, apply the creamapi in the directory of the game and then you can play the game with all dlc plus any mod that requires dlc? I mean, if I have the original game, I've been searching in the topic but I dont find anything about it
+
+Thanks
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 28 Apr 2020, 18:38]
+
+_________________
+Trying to be polite, since english isn't my native language sometimes I can sound rude, sorry for that, it is not my intention.
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 28 Apr 2020, 20:50]
+necromenta wrote:
+Dont want to spam, sorry but, does the creamapi here work like in warhammer 2? Like download dlc files, extract them, apply the creamapi in the directory of the game and then you can play the game with all dlc plus any mod that requires dlc? I mean, if I have the original game, I've been searching in the topic but I dont find anything about it
+
+Thanks
+
+
+Yes, CreamAPI works fine for this game ^^
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 28 Apr 2020, 20:50]
+
+_________________
+Always wanted to get rid of the files that were not listed in the sfv/md5 hash file? Check the QuickSFV plugin I created for this: viewtopic.php?f=10&t=108605 or this: viewtopic.php?p=1273745#p1273745
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 28 Apr 2020, 22:01]
+Venom wrote:
+shima_momy wrote:
+@Venom
+knabberfee links are down (zippyshare offline I guess)
+Can you please upload all DLCs for steam base legit version all in 1 package please?
+
+https://drive.google.com/open?id=1Pv3WohUCge75smHSmvM6vQ9hTQUBDwXv
+
+
+
+This link is now broken. Can anyone update?
+
+To clarify; I have legit base game, looking for DLC files for Steam.
+
+---
+
+Edit: I'm now trying the link posted by muniategui, I will update the request soon.
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 05 May 2020, 10:22]
+enkeladam wrote:
+Venom wrote:
+shima_momy wrote:
+@Venom
+knabberfee links are down (zippyshare offline I guess)
+Can you please upload all DLCs for steam base legit version all in 1 package please?
+
+https://drive.google.com/open?id=1Pv3WohUCge75smHSmvM6vQ9hTQUBDwXv
+
+
+
+This link is now broken. Can anyone update?
+
+To clarify; I have legit base game, looking for DLC files for Steam.
+
+---
+
+Edit: I'm now trying the link posted by muniategui, I will update the request soon.
+
+I tried it and it works more or less, it's written in the game that I own all dlcs, but when i click on Campaign, as an example "Wrath of Sparta", there's nothing written in the faction selection screen, and there are no faction icons. Every texts are replaced by "dy". When I launch it, it shuts down. Anyone had this issue ?
+
+Edit : Ok i found the solution, I had to copy/paste the "startpos" files for each campaign in the games original "campaign" folder. I've got the texts and faction selection now. However, its freezing in loading screen when I launch a dlc campaign :/
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 21 May 2020, 04:25]
+CreamAPI is not working anymore on this game for me, for some reason when I launch the game the launcher goes through but it does not load the game and it deletes the steam_api.dll from the game's folder.
+Weird thing is that it works fine on Shogun 2 and Warhammer 2.
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 21 May 2020, 16:31]
+MushroomHead wrote:
+CreamAPI is not working anymore on this game for me, for some reason when I launch the game the launcher goes through but it does not load the game and it deletes the steam_api.dll from the game's folder.
+Weird thing is that it works fine on Shogun 2 and Warhammer 2.
+
+
+Still works fine for me with version CreamAPI v3.4.1.0 ^^
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 21 May 2020, 16:31]
+
+_________________
+Always wanted to get rid of the files that were not listed in the sfv/md5 hash file? Check the QuickSFV plugin I created for this: viewtopic.php?f=10&t=108605 or this: viewtopic.php?p=1273745#p1273745
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 22 May 2020, 09:39]
+Anomaly wrote:
+MushroomHead wrote:
+CreamAPI is not working anymore on this game for me, for some reason when I launch the game the launcher goes through but it does not load the game and it deletes the steam_api.dll from the game's folder.
+Weird thing is that it works fine on Shogun 2 and Warhammer 2.
+
+
+Still works fine for me with version CreamAPI v3.4.1.0 ^^
+
+
+welp, just tried with that version of CreamAPI and it works. No idea why the latest one was having that issue.
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 01 Jun 2020, 16:48]
+I have an older version I got from fitgirl (v2.2.0 build 17561) is there any way to update and avoid downloading the whole thing again?
+Also if I get the codex rise of the republic one does it have the dlcs included?
+
+Thanks for the amazing people that helped with this!
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 01 Jun 2020, 17:29]
+dunklunk wrote:
+I have an older version I got from fitgirl (v2.2.0 build 17561) is there any way to update and avoid downloading the whole thing again?
+
+No, unless Fitgirl provided an update for that specific version. Maybe if you find a torrent with loose files you can avoid downloading everything, although most files will have been updated.
+
+
+dunklunk wrote:
+Also if I get the codex rise of the republic one does it have the dlcs included?
+
+It does. Scene releases pretty much always do ^^
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 01 Jun 2020, 17:29]
+
+_________________
+Always wanted to get rid of the files that were not listed in the sfv/md5 hash file? Check the QuickSFV plugin I created for this: viewtopic.php?f=10&t=108605 or this: viewtopic.php?p=1273745#p1273745
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 08 Jun 2020, 11:21]
+by any chance do you have the english pack for this? i've been looking everywhere but im unable to get it. im about to give up on this one
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 08 Jun 2020, 15:16]
+^^Here you go:
+
+https://pixeldrain.com/u/EeWeeSHx
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 08 Jun 2020, 15:16]
+
+_________________
+
+
+The standard password is cs.rin.ru
+Please read the Forum Rules and the F.A.Q.
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 09 Jun 2020, 08:49]
+I installed the game but it keeps crashing. Log: "music_en_shared_rome2.pack missing"...... I need to change from russian to english, but the game doesnt run even in russian. So I downloaded english language pack, which is below. Also I need "music_en.pack" to run it properly. May someone provide me these file? Thanks
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 09 Jun 2020, 09:40]
+^^Âre you blind? I posted the full English language pack RIGHT ABOVE your post - the second file you mentioned doesn't exist in the game btw.
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 09 Jun 2020, 09:40]
+
+_________________
+
+
+The standard password is cs.rin.ru
+Please read the Forum Rules and the F.A.Q.
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 09 Jun 2020, 15:38]
+Hi,
+I was wondering if anyone has the french language pack for the game and the DLC ? Thanks for your work !

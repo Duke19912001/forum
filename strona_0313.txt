@@ -1,0 +1,150 @@
+=========================================
+STRONA 313 (URL: https://cs.rin.ru/forum/viewtopic.php?f=10&t=61441&hilit=rome+2&start=4680)
+=========================================
+
+[Data: Tuesday, 21 Jun 2022, 23:37]
+Thanks for the Steam files, I need the DLCs 
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 21 Jun 2022, 23:37]
+
+_________________
+Thank you for all the links and help!
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 11 Jul 2022, 17:02]
+The CreamAPI link is dead
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 11 Jul 2022, 18:16]
+Here
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 11 Jul 2022, 18:16]
+
+_________________
+Thank you for all the links and help!
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 14 Jul 2022, 12:30]
+Buddilson wrote:
+Here
+
+Fors some reason the unlocked campaigns look like this
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 16 Jul 2022, 14:49]
+And the DLC files are also present in your game folder?
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 16 Jul 2022, 14:49]
+
+_________________
+Frequently Asked Questions
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 18 Jul 2022, 18:53]
+Can someone please upload the Para Bellum collection ? https://steamcommunity.com/sharedfiles/ ... 1388048681
+
+Thanks in advance
+steamcmd doesnt work for this game
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 21 Jul 2022, 19:43]
+ASDF wrote:
+And the DLC files are also present in your game folder?
+
+
+
+No, I don´t have this files
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 21 Jul 2022, 20:01]
+Then it doesn't work, you need the DLC files, you can find links to them in the OP.
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 21 Jul 2022, 20:01]
+
+_________________
+Thank you for all the links and help!
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 15 Aug 2022, 15:50]
+Hi, some of my ingame texts are missing and I can't find a working link for the french language pack, is it possible to upload it ? thx
+
+ps: can't download from this one and don't know why https://pixeldrain.com/u/xxmY6wnw (Christsnatcher post sept 2020)
+
+I found a fix by deleting other language packs
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 26 Aug 2022, 08:33]
+Red Papas wrote:
+Buddilson wrote:
+Here
+
+Fors some reason the unlocked campaigns look like this
+
+
+For all the problem like this, just check and see if you have all the "startpos.esf" files in every folder like "main_3c" from inside the "campaigns" folder, 'cuz the text problems arise from the lack of these files
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 26 Sep 2022, 05:49]
+Google Drive link for DLC files is dead. Can anyone reupload, please?
+
+https://drive.google.com/open?id=1Pv3Wo ... 9hTQUBDwXv
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 17 Oct 2022, 20:34]
+Venom wrote:
+Pissysus wrote:
+Could anyone post the english language pack for TW Rome 2? I've installed it through online-fix.me but it's all in russian.
+
+https://www.filecrypt.cc/Container/419D149DDE.html [May link to unsafe filehosters]
+
+
+Big thanks my man!
+Edit: After applying the game's still in Russian
+I edited my .inis as well.
+
+EDIT 2: I got it to be in English. To get it from Russian to English, after putting the English language pack into the data folder under the game, you also need to delete "music_ru.pack" and "local_ru.pack" as well. After that, the game defaults to using the English files that you put in.
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 17 Oct 2022, 20:34]
+
+_________________
+R.I.P. KING TUNNGLE, LONG HAD IT REIGNED
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 31 Oct 2022, 06:04]
+Zakrath wrote:
+Google Drive link for DLC files is dead. Can anyone reupload, please?
+https://drive.google.com/open?id=1Pv3Wo ... 9hTQUBDwXv
+
+Lobuno has all DLC files attached -> viewtopic.php?p=2147379#p2147379
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 05 Dec 2022, 18:14]
+Hello, could anybody please reupload czech language pack? thanks in advance! 
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 27 Jan 2023, 14:26]
+Can anyone re-upload the latest TWR2 Assembly kit? The multiup link is not working.

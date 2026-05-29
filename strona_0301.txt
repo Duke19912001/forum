@@ -1,0 +1,237 @@
+=========================================
+STRONA 301 (URL: https://cs.rin.ru/forum/viewtopic.php?f=10&t=61441&hilit=rome+2&start=4500)
+=========================================
+
+[Data: Sunday, 10 Nov 2019, 07:19]
+@Venom Mate, I cannot download the file. It says that too many people have downloaded it. Can you upload some mirrors/alternative download links please?
+
+Also, can these be installed on macOS? Are there any specific instructions for mac? Thanks!!
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 10 Nov 2019, 07:23]
+^^Check FAQ entry A06.
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 10 Nov 2019, 07:23]
+
+_________________
+
+
+The standard password is cs.rin.ru
+Please read the Forum Rules and the F.A.Q.
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 12 Nov 2019, 19:34]
+Hello, could some good samaritan upload this files?;
+
+data\local_en.pack File not found!
+data\local_en_shared_rome2.pack File not found!
+data\music_en_shared_rome2.pack File not found!
+
+I download Rome 2 from fitgirl and i can´t update it without those files, and the download link that posted venom with them isn´t aviable anymore  
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 12 Nov 2019, 20:08]
+SargeSkillz wrote:
+@Venom Mate, I cannot download the file. It says that too many people have downloaded it. Can you upload some mirrors/alternative download links please?
+
+Also, can these be installed on macOS? Are there any specific instructions for mac? Thanks!!
+
+
+If do a copy of those files into your unit in google drive, that copy will be aviable to download
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 12 Nov 2019, 23:21]
+SoulessWolf wrote:
+Hello, could some good samaritan upload this files?;
+
+data\local_en.pack File not found!
+data\local_en_shared_rome2.pack File not found!
+data\music_en_shared_rome2.pack File not found!
+
+I download Rome 2 from fitgirl and i can´t update it without those files, and the download link that posted venom with them isn´t aviable anymore  
+
+Sure, here you are:
+
+https://drive.google.com/file/d/1w4Yjgh ... sp=sharing
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 12 Nov 2019, 23:21]
+
+_________________
+
+
+The standard password is cs.rin.ru
+Please read the Forum Rules and the F.A.Q.
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 26 Nov 2019, 01:03]
+Is it possible to unlock dlcs on steam with the creamAPI?
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 26 Nov 2019, 12:26]
+koluj666 wrote:
+Is it possible to unlock dlcs on steam with the creamAPI?
+
+Yes, as long as you've some the DLC files in your game folder. There are some you can unlock without any additional files. I've posted the DLC files you need in the past, so please read back.
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 26 Nov 2019, 12:26]
+
+_________________
+The FAQ are you waiting for?
+
+A wild PASSWORD appeared for protected archives & files on RIN! Member used cs.rin.ru ...it's super effective!
+
+Having problems downloading from Google Drive? Click here.
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 27 Nov 2019, 00:10]
+Rui wrote:
+bigbluetrongt wrote:
+@ Rui: Thank you very much for the upload. Would you be so kind as to upload the Spanish files?. I would greatly appreciate it. Cheers.
+
+Depot IDs:
+214963 spanish_shared 959.43 MiB Spanish
+214964 spanish_rome2 1.74 GiB Spanish
+
+Sure!
+
+In fact, I uploaded ALL language packs instead 
+
+
+ ALL LANGUAGE PACKS
+Code: Select all | Line number On/Off | Expand/Contract
+https://privatebin.rinuploads.org/?0bc0 ... kUJOIxc1g= [May link to unsafe filehosters]
+
+
+
+It was apparently deleted 
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 28 Nov 2019, 20:39]
+Hey guys, am I doing the CreamAPI wrong
+
+
+Quote:
+[dlc]
+; DLC handling.
+; Format: <dlc_id> = <dlc_description>
+; e.g. : 247295 = Saints Row IV - GAT V Pack
+; If the DLC is not specified in this section
+; then it won't be unlocked
+850010 - Total War: ROME II - Rise of the Republic Campaign Pack
+792520 - Total War: ROME II - Desert Kingdoms Culture Pack
+694880 - Total War: ROME II - Empire Divided
+330340 - Total War: Rome II - Massilia Faction
+311380 - Total War: ROME II - Augustus Campaign Pack
+297831 - Total War: ROME II - Black Sea Colonies Culture Pack
+297830 - Total War: ROME II - Daughters of Mars
+273381 - Total War: ROME II - Pirates & Raiders
+273380 - Total War: ROME II - Hannibal at the Gates
+267630 - Total War: ROME II - Beasts of War
+267180 - Total War: ROME II - Assembly Kit BETA
+261620 - Total War: ROME II - Baktria Faction
+261050 - Total War: ROME II - Caesar in Gaul
+259800 - Total War: ROME II - Blood & Gore
+258580 - Total War: ROME II - Seleucid Empire Faction Pack
+258270 - Total War: ROME II - Nomadic Tribes Culture Pack
+212301 - Total War: ROME II - Greek States Culture Pack
+
+
+
+EDIT: I Just saw its =
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 08 Dec 2019, 11:52]
+AchillesLacedaemon wrote:
+How can I have the crack only to play offline? I dont want stamfix.
+
+I don't see any reason for that,just run steam in offline mode.
+but if you want offline crack, last version from codex
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 24 Dec 2019, 20:48]
+Can anyone upload Sebidee's All units overhaul?No steam downloader seems to be able to download it.
+
+https://steamcommunity.com/sharedfiles/ ... =501005092
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 25 Dec 2019, 06:55]
+SvenSki wrote:
+Can anyone upload Sebidee's All units overhaul?No steam downloader seems to be able to download it.
+
+https://steamcommunity.com/sharedfiles/ ... =501005092
+
+https://letsupload.co/2Oyex/item_501005092.7z
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 25 Dec 2019, 06:55]
+
+_________________
+The FAQ are you waiting for?
+
+A wild PASSWORD appeared for protected archives & files on RIN! Member used cs.rin.ru ...it's super effective!
+
+Having problems downloading from Google Drive? Click here.
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 26 Dec 2019, 11:17]
+fenavidades wrote:
+Rui wrote:
+bigbluetrongt wrote:
+@ Rui: Thank you very much for the upload. Would you be so kind as to upload the Spanish files?. I would greatly appreciate it. Cheers.
+
+Depot IDs:
+214963 spanish_shared 959.43 MiB Spanish
+214964 spanish_rome2 1.74 GiB Spanish
+
+Sure!
+
+In fact, I uploaded ALL language packs instead 
+
+
+ ALL LANGUAGE PACKS
+Code: Select all | Line number On/Off | Expand/Contract
+https://privatebin.rinuploads.org/?0bc0 ... kUJOIxc1g= [May link to unsafe filehosters]
+
+
+
+It was apparently deleted 
+
+
+-- Edit --
+
+Can someone upload the full Spanish language pack,thank you very much
+
+-- Edit --
+
+Can someone upload the full Spanish language pack,thank you very much
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 28 Dec 2019, 06:21]
+thank you very very much for this
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 05 Jan 2020, 02:37]
+whenever i try open the openload link to the creamAPI files, it says it cant connect to the server
+
+whats the issue?

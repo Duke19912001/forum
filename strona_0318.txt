@@ -1,0 +1,418 @@
+=========================================
+STRONA 318 (URL: https://cs.rin.ru/forum/viewtopic.php?f=10&t=61441&hilit=rome+2&start=4755)
+=========================================
+
+[Data: Wednesday, 14 Aug 2024, 20:30]
+can anyone help with DEI problem? it was working fine until a few days ago when the reforms started disappearing. I would have one unit listed under the reform, and then after loading the save file nothing is listed anymore. furthermore, even if I reached the reform and researched I could not get the units that come with it.
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 24 Sep 2024, 11:51]
+Rui wrote:
+Here are the goodies.
+
+Total War: ROME II - Emperor Edition (Clean Steam Files)
+Version: June 22, 2023 – 13:57:50 UTC [Build 11535779]
+
+
+ Depots & Manifests
+Code: Select all | Line number On/Off | Expand/Contract
+228985 - VC 2013 Redist [Manifest 3966345552745568756]
+228986 - VC 2015 Redist [Manifest 8782296191957114623]
+214951 - launcher [Manifest 4663563745481420713]
+214952 - exe_rome2 [Manifest 785467126386024053]
+214953 - data_shared [Manifest 530666364908176165]
+214954 - data_rome2 [Manifest 5255561179348145785]
+214955 - english_shared [Manifest 8099281786087946432]
+214956 - english_rome2 [Manifest 4041548678330785776]
+243665 - redist_shared [Manifest 5900761351392481546]
+258270 - Total War: ROME II - Nomadic Tribes Culture Pack [Manifest 8741985695548163254]
+261050 - Total War: ROME II - Caesar in Gaul [Manifest 8824870157919960975]
+273380 - Total War: ROME II - Hannibal at the Gates [Manifest 3665056002651076027]
+259800 - Total War: ROME II - Blood & Gore [Manifest 3062140772173179235]
+327280 - Total War: ROME II - Wrath of Sparta DLC [Manifest 7886653306044405709]
+694880 - Total War: ROME II - Empire Divided Campaign Pack [Manifest 2114284949770732584]
+850010 - Total War: ROME II - Rise of the Republic Campaign Pack [Manifest 9114621701386178753]
+372531 - win [Manifest 7342639219383735308]
+Uploaded version: June 22, 2023 – 13:57:50 UTC [Build 11535779]
+
+Total War Rome II_Full DLC Pack_build 11535779
+
+ Spoiler
+Part 1
+https://1fichier.com/?ktjlvvhlynre44e1pz37
+https://multiup.org/download/1c17b8cda0 ... .part1.rar
+https://anonfiles.com/hai6o603z7
+https://doodrive.com/f/8exg2m
+https://megaup.net/1fnzr/Total_War_Rome ... .part1.rar
+
+Part 2
+https://1fichier.com/?o6lc17sf9wu87wdxeowu
+https://multiup.org/download/cba939655c ... .part2.rar
+https://anonfiles.com/48g0o802z7
+https://doodrive.com/f/gen6mo
+https://megaup.net/1fnzi/Total_War_Rome ... .part2.rar
+
+
+Total War Rome II_Language Pack_build 11535779
+
+ Spoiler
+https://privatebin.rinuploads.org/?595d46d2f8fe1387#6sDVRZLuh1KZLiEPNAr6KYrQ4fays5sAK1igTNni7EPg
+
+
+
+
+
+
+Hi, all links for the CSF are dead. Anyway, to fix all these links? Thanks
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 03 Oct 2024, 22:20]
+Total War ROME II - Emperor Edition + all DLCs [Win64] [Branch: Public] (Clean Steam Files)
+Version: 2.4.0.20027 [Build 11535779]
+
+
+ Depots & Manifests
+Code: Select all | Line number On/Off | Expand/Contract
+214952 - exe_rome2 [Manifest 785467126386024053]
+214953 - data_shared [Manifest 530666364908176165]
+214954 - data_rome2 [Manifest 5255561179348145785]
+214955 - english_shared [Manifest 8099281786087946432]
+214956 - english_rome2 [Manifest 4041548678330785776]
+243665 - redist_shared [Manifest 5900761351392481546]
+258270 - Total War: ROME II - Nomadic Tribes Culture Pack [Manifest 8741985695548163254]
+261050 - Total War: ROME II - Caesar in Gaul (Total War: ROME II - Caesar in Gaul Campaign Pack) [Manifest 8824870157919960975]
+273380 - Total War: ROME II - Hannibal at the Gates [Manifest 3665056002651076027]
+259800 - Total War: ROME II - Blood & Gore [Manifest 3062140772173179235]
+327280 - Total War: ROME II - Wrath of Sparta DLC (Total War: ROME II - Wrath of Sparta Campaign Pack) [Manifest 7886653306044405709]
+694880 - Total War: ROME II - Empire Divided Campaign Pack [Manifest 2114284949770732584]
+850010 - Total War: ROME II - Rise of the Republic Campaign Pack [Manifest 9114621701386178753]
+372531 - Depot=from=372530 [Manifest 7717326305582676318]
+228985 - VC 2013 Redist [Manifest 3966345552745568756]
+228986 - VC 2015 Redist [Manifest 8782296191957114623]
+Uploaded version: [Build 11535779]
+
+
+ Download
+https://gofile.io/d/HsYj4i
+https://1fichier.com/?vq7q08jnjhe1jz384ynq
+https://bowfile.com/kOZ4 [FIRST CLICK OPENS MALWARE POPUP!]
+
+
+
+
+ DLCs Build 11535779
+already included in the game
+https://1fichier.com/?do0omcqty8wgzonfc4c4
+https://vikingfile.com/f/FdTK4bnYsE [FIRST CLICK OPENS MALWARE POPUP!]
+https://gofile.io/d/S8VSeP
+
+
+
+
+ Language Pack Build 11535779
+ Spoiler
+
+
+
+ Czech
+https://1fichier.com/?qu615pcvtjalw0753lct
+https://vikingfile.com/f/hsaCjbMmX5 [FIRST CLICK OPENS MALWARE POPUP!]
+https://gofile.io/d/eBj2eK
+
+
+
+ French
+https://1fichier.com/?08i363dboqdc63kjqrvb
+https://vikingfile.com/f/jtKYnINAe8 [FIRST CLICK OPENS MALWARE POPUP!]
+https://gofile.io/d/VKLky3
+
+
+
+ German
+https://1fichier.com/?egtuw7gaghywsf6b7m5f
+https://vikingfile.com/f/NMiLnOmDv7 [FIRST CLICK OPENS MALWARE POPUP!]
+https://gofile.io/d/nOxnA0
+
+
+
+ Italian
+https://1fichier.com/?vbbwsp24k2uynb9xpteu
+https://vikingfile.com/f/4GLavDQrbh [FIRST CLICK OPENS MALWARE POPUP!]
+https://gofile.io/d/Hj9fAt
+
+
+
+ Polish
+https://1fichier.com/?73yivpmbiimmxkyai2vb
+https://vikingfile.com/f/7pYhRId2Iy [FIRST CLICK OPENS MALWARE POPUP!]
+https://gofile.io/d/KRBQva
+
+
+
+ Russian
+https://1fichier.com/?qslzcy21tgrj6z6i10zd
+https://vikingfile.com/f/kUmLZTq7JJ [FIRST CLICK OPENS MALWARE POPUP!]
+https://gofile.io/d/ND6huQ
+
+
+
+ Spanish
+https://1fichier.com/?kx7gbjbv680xr7b0cb93
+https://vikingfile.com/f/fftTvy879N [FIRST CLICK OPENS MALWARE POPUP!]
+https://gofile.io/d/QK8Q0D
+
+
+
+ Turkish
+https://1fichier.com/?7uau87vx927ud2421zqt
+https://vikingfile.com/f/Vv2Lgyeata [FIRST CLICK OPENS MALWARE POPUP!]
+https://gofile.io/d/1wWCTU
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 03 Oct 2024, 22:20]
+
+_________________
+password-protected file? Try cs.rin.ru
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 21 Oct 2024, 00:11]
+would anyone upload Wars Of The Gods - Ancient Wars Mod version 10.8 from steam workshop please,thanks.i checked official site,moddb,catalogue.smods.ru and other sites to find the 10.8 version but couldn't find it.
+
+steam workshop link:https://steamcommunity.com/workshop/filedetails/?id=193736354
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 21 Oct 2024, 09:59]
+Paganlord_ wrote:
+New creamapi files for latest version.
+Total War Rome II creamapi files v2.4.0
+
+ Spoiler
+https://uploadfile.pl/pokaz/2311332---6akc.html
+
+
+
+link is dead, can someone please post one that is working?
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 29 Oct 2024, 21:27]
+com1100 wrote:
+Total War ROME II - Emperor Edition + all DLCs [Win64] [Branch: Public] (Clean Steam Files)
+Version: 2.4.0.20027 [Build 11535779]
+
+
+
+Thanks for the clean Steam files. Could you please let me know what I need to do to unlock the DLCs? The game loads fine, but the DLC campaigns crash the game when I click on them. I know I need to use a crack but this is an old topic and I don't know where to find the latest Cream API, any help is appreciated.
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 30 Oct 2024, 10:13]
+^
+
+I don't know what kind of emu you're using but the DLCs have to be unlocked in the emu.
+
+And as I remember, Creamapi is only for people who have the main game on steam.
+
+But here is an emu where everything is already set up.
+The language can be changed in the configs.user.ini, it's in the steam_settings folder
+
+Attachment:
+ Rome2_Emu.7z [6.13 MiB]
+Downloaded 616 times
+
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 30 Oct 2024, 10:13]
+
+_________________
+password-protected file? Try cs.rin.ru
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 30 Oct 2024, 15:40]
+Hi,
+
+Can anyone upload rome 2 1100 ad mod 1-2 packs to the cloud ? Please 
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 30 Oct 2024, 19:50]
+com1100 wrote:
+^
+
+I don't know what kind of emu you're using but the DLCs have to be unlocked in the emu.
+
+And as I remember, Creamapi is only for people who have the main game on steam.
+
+But here is an emu where everything is already set up.
+The language can be changed in the configs.user.ini, it's in the steam_settings folder
+
+Attachment:
+Rome2_Emu.7z
+
+
+Thanks, that did the trick!
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 30 Oct 2024, 20:05]
+fuckthenazis wrote:
+would anyone upload Wars Of The Gods - Ancient Wars Mod version 10.8 from steam workshop please,thanks.i checked official site,moddb,catalogue.smods.ru and other sites to find the 10.8 version but couldn't find it.
+
+steam workshop link:https://steamcommunity.com/workshop/filedetails/?id=193736354
+
+
+ Wars Of The Gods - Ancient Wars Mod - Download
+https://gofile.io/d/WS0yOI
+https://1fichier.com/?tu3b99z7u0jz0zaw9gse
+
+
+
+pckopat542 wrote:
+Hi,
+
+Can anyone upload rome 2 1100 ad mod 1-2 packs to the cloud ? Please 
+
+
+ Medieval 1100 AD Campaign Mod - Download
+https://gofile.io/d/EWWMVt
+https://1fichier.com/?zcpmwl5cv1gniizcbypp
+
+
+
+I have no idea how to activate the mods.
+I've tried a few things but, no...
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 30 Oct 2024, 20:05]
+
+_________________
+password-protected file? Try cs.rin.ru
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 31 Oct 2024, 01:30]
+thanks so much com1100,much appreciated.to activate mods generally editing user.script.txt works.
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 23 Nov 2024, 22:33]
+I have the main game, does anyone have a working link for the creamAPI for me to unlock the DLC's?
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 29 Nov 2024, 06:24]
+Can someone share latest creamapi ?
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 01 Dec 2024, 19:04]
+Yes please latest cream api for this game where to get?
+
+I see in steam total war rome II ultimate edition?
+
+This included 13 dlcs availbe all for 42,-
+
+If I buy total war rome II emperor edition and get cream api does this unlock ultimate?
+
+-- Edit --
+
+
+Paganlord_ wrote:
+New creamapi files for latest version.
+Total War Rome II creamapi files v2.4.0
+
+ Spoiler
+https://uploadfile.pl/pokaz/2311332---6akc.html
+
+
+
+this one is offline
+
+-- Edit --
+
+
+GPortalADV wrote:
+skyrimlegion wrote:
+GPortalADV wrote:
+CreamAPI breaks for me too. But I tried also applying it to the launcher too and the game seems to works.
+
+But does it still activate the DLCs? If so, can you go a little more into detail about the exact process I.E. What boxes did you tick, untick, etcetera. The game still works when I apply it to the launcher dll but none of the DLCs are unlocked and attempting to do the same for the main DLL in the game folder breaks it.
+
+
+DLCs are activated. I used auto-creamapi and tick only "Additionally use SteamDB for DLCs" and filling in dlc list using DLCs' appid just like what I also do with the game.
+
+
+
+Maybe we can do it with auto-creamapi?
+
+-- Edit --
+
+People who have total ware legal on steam try this creamapi.ini
+
+
+Code: Select all | Line number On/Off | Expand/Contract
+ 
+ 
+[steam]
+    appid = 214950
+    unlockall = false
+    orgapi = steam_api_o.dll
+    orgapi64 = steam_api64_o.dll
+    extraprotection = false
+    forceoffline = false
+ 
+[steam_misc]
+    disableuserinterface = false
+ 
+[dlc]
+    850010 = Total War: ROME II - Rise of the Republic Campaign Pack
+    792520 = Total War: ROME II - Desert Kingdoms Culture Pack
+    694880 = Total War: ROME II - Empire Divided Campaign Pack
+    327280 = Total War: ROME II - Wrath of Sparta Campaign Pack
+    297831 = Total War: ROME II -  Black Sea Colonies Culture Pack
+    297830 = Total War: ROME II - Daughters of Mars Unit Pack
+    311380 = Total War: ROME II - Imperator Augustus Campaign Pack
+    267630 = Total War: ROME II - Beasts of War Unit Pack
+    273381 = Total War: ROME II - Pirates and Raiders Culture Pack
+    261050 = Total War: ROME II - Caesar in Gaul Campaign Pack
+    273380 = Total War: ROME II - Hannibal at the Gates Campaign Pack
+    212301 = Total War: ROME II - Greek States Culture Pack
+    258270 = Total War: ROME II - Nomadic Tribes Culture Pack
+    259800 = Total War: ROME II - Blood & Gore
+ 
+ 
+ 
+ 
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 04 Dec 2024, 15:20]
+creamapi crack for dlc unlock
+
+!!!MAKE SURE TO PUT IN BOTH THE MAIN AND THE "launcher" FOLDER!!!
+
+(the dlc files themselfs can be obtained by downloading a cracked version of the game and copying them from the "data" folder to your main game, or by downloading seprately)
+
+crack file:
+
+ Spoiler
+https://drive.google.com/file/d/1e5s9JxNREresnRYhvi5L7bvu0Tg4RCIB/view?usp=drive_link
+
+
+dlc names for copying over from a cracked version of the game:
+
+ Spoiler
+punic.pack
+greeks.pack
+gaul.pack
+blood_rome2.pack
+divided.pack
+invasion.pack

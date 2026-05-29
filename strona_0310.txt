@@ -1,0 +1,188 @@
+=========================================
+STRONA 310 (URL: https://cs.rin.ru/forum/viewtopic.php?f=10&t=61441&hilit=rome+2&start=4635)
+=========================================
+
+[Data: Monday, 22 Mar 2021, 06:17]
+Christsnatcher wrote:
+^^Make sure you are logged into a valid account on your legit steam client when using a steamworks fix and also do not forget to delete the CDX crack files, esp. steamclient.dll, from your game folder when switching to the fix.
+
+
+Yes i'm logged into steam, and which CDX files exactly do i delete?
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 22 Mar 2021, 17:11]
+Like he said, all the Codex crack files:
+ Spoiler
+codex.dll
+GameOverlayRenderer.dll
+steam_api.cdx
+steam_api.dll
+steam_emu.ini
+steamclient.dll
+
+launcher\codex.dll
+launcher\GameOverlayRenderer.dll
+launcher\steam_api.cdx
+launcher\steam_api.dll
+launcher\steam_emu.ini
+launcher\steamclient.dll
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 22 Mar 2021, 17:11]
+
+_________________
+Frequently Asked Questions
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 23 Mar 2021, 16:42]
+ASDF wrote:
+Like he said, all the Codex crack files:
+ Spoiler
+codex.dll
+GameOverlayRenderer.dll
+steam_api.cdx
+steam_api.dll
+steam_emu.ini
+steamclient.dll
+
+launcher\codex.dll
+launcher\GameOverlayRenderer.dll
+launcher\steam_api.cdx
+launcher\steam_api.dll
+launcher\steam_emu.ini
+launcher\steamclient.dll
+
+
+Which steamworks fix would i apply after i delete them? I've tried the Generic and the CreamAPI based but neither seem to work (I will try them both again after i delete the codex crack files)
+Sorry if i ask a lot of questions, i'm new to SU and only created an account to figure out how to get this working. Appreciating the help a ton!
+
+UPDATE: I've managed to get the steamworks fix included in the Fitgirl repack to work with the latest update from codex. I installed the codex base game without installing the codex files to directory, same goes for the updates, applied the noCD fix included with the Fitgirl Repack and I managed to get it to boot as well as have steam recognize it. Only issue now is theres no servers popping up, and I can see my friends names and invite them, but it invites them to some game called SpaceWar. They can invite me but accepting it only takes me to the steam store page for the game. Been going at this for what feels like forever. Anything that can help me figure out what im doing wrong would be appreciated!
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 24 Mar 2021, 20:23]
+ChefBoyRD
+Install Spacewar, it's the app the Steamworks fix uses to allow multiplayer via Steam.
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 24 Mar 2021, 20:23]
+
+_________________
+Frequently Asked Questions
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 29 Mar 2021, 12:07]
+Does anyone have these files updated to the latest version of the game?
+
+https://steamdb.info/depot/214959/
+https://steamdb.info/depot/214960/
+
+Unfortunately the language pack in op has all the links offline.
+Thanks.
+
+Edit: Thank you very much arthurclg17! For those interested look in the topic of steam content sharing.
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 30 Mar 2021, 02:56]
+I've installed spacewar but nothing has changed. I still can't see any servers and my friends aren't able to join. (They've tried their full versions as well as the cracked version installed exactly the same as mine) I don't know why it seems easier for others but so difficult for me. Any help is appreciated. Thanks!
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 03 Apr 2021, 15:33]
+Where can i download patches?
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 03 Apr 2021, 18:40]
+way8
+If you mean the updates by Codex, check these sites.
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 03 Apr 2021, 18:40]
+
+_________________
+Frequently Asked Questions
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 21 Apr 2021, 08:39]
+Can I unlock every tech from cheat engine ?
+
+Are there such cheat engine table ?
+
+Also, what is the best cheat engine table for codex's last version ?
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 21 Apr 2021, 14:49]
+romavatandasi wrote:
+Can I unlock every tech from cheat engine ?
+
+Are there such cheat engine table ?
+
+Also, what is the best cheat engine table for codex's last version ?
+
+
+This might help you: https://fearlessrevolution.com/viewtopic.php?f=4&t=123
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 21 Apr 2021, 14:49]
+
+_________________
+Always wanted to get rid of the files that were not listed in the sfv/md5 hash file? Check the QuickSFV plugin I created for this: viewtopic.php?f=10&t=108605 or this: viewtopic.php?p=1273745#p1273745
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 25 Apr 2021, 07:58]
+Are there any trainer for divide et impera ?
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 01 May 2021, 10:07]
+Hi, I'm searching for spanish language pack, all the links are dead  . Could someone reupload it please ?
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 02 May 2021, 02:55]
+piopio wrote:
+Hi, I'm searching for spanish language pack, all the links are dead  . Could someone reupload it please ?
+
+https://mirrorace.org/m/12as8
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 02 May 2021, 02:55]
+
+_________________
+The FAQ are you waiting for?
+
+A wild PASSWORD appeared for protected archives & files on RIN! Member used cs.rin.ru ...it's super effective!
+
+Having problems downloading from Google Drive? Click here.
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 02 May 2021, 08:23]
+Thanks a lot.  I didn't find v2.4.0.19728 Spanish language pack anywhere 
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 05 May 2021, 11:18]
+Venom wrote:
+piopio wrote:
+Hi, I'm searching for spanish language pack, all the links are dead  . Could someone reupload it please ?
+
+https://mirrorace.org/m/12as8
+
+
+Hi, Have you also the italian language for v19728 (codex)?
+Edit:
+Ok, found it

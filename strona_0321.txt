@@ -1,0 +1,260 @@
+=========================================
+STRONA 321 (URL: https://cs.rin.ru/forum/viewtopic.php?f=10&t=61441&hilit=rome+2&start=4800)
+=========================================
+
+[Data: Thursday, 08 May 2025, 23:08]
+littlebigeater wrote:
+eli486888 wrote:
+I have a question, I have steam legit game and crack game, how can i download from workshop and use it on my cracked version game?
+
+
+
+in steam right click game and click properties->installed filed->browse. This opens the game folder where steam installed the game. Then go UP in the folder structure two times. You are now in the folder Steam\steamapps.
+
+Look for the "workshop" folder. It contains a bunch of folders with numbers. Figure out which one is the total war rome II one: Inside here you will find every mod you downloaded.
+
+Now go to page 1, first post of this thread. It has a link to a mod launcher.
+
+
+However are you sure this is the best thing to do? I assume you want to use the cracked version because you have not bought DLC and you want your DLC and you want to use them with your prefered mods? If this is true, it seems from looking at the first post that you can just crack the DLC on your steam copy easily.
+
+
+yes you are right I have a legit copy and not the DLCs, also there is new update and the DLC here are not compatible, as for mods I found the file Steam install mods but the file are .bin and not .pack
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 09 May 2025, 12:40]
+Hello, I have an issue with missing intro cutscenes in campaigns, the game starts at the map immediately after the loading screen with no advisor explaining the current context of the faction and no initial mission, also the advisor icon is greyed out and doesn't work at all.
+
+I tried deleting the folder in AppData, reinstalling the game after deleting it, applying all 3 updates from codex and even tried DODIrepack's version but without succes.
+
+Can someone please help me, I just wanted to enjoy this game again after so many years but this very frustrating.
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 23 May 2025, 19:39]
+can anybody upload this mod, cant seem to find it on skymods.ru;
+
+https://steamcommunity.com/sharedfiles/ ... 1531455737
+
+
+thanks in advance
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 26 May 2025, 21:30]
+Thanks, com1100. CSF working well with goldberg emu. Although I apparently ran into the battle load screen freeze bug in the tutorial.. great. Will try this next time to see if it helps. https://old.reddit.com/r/totalwar/comme ... n/m4ma2b6/
+
+Bad for a 12 year old game that still cannot be purchased for under 30 bucks on sale...
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 27 May 2025, 02:14]
+gtzn wrote:
+Thanks, com1100. CSF working well with goldberg emu. Although I apparently ran into the battle load screen freeze bug in the tutorial.. great. Will try this next time to see if it helps. https://old.reddit.com/r/totalwar/comme ... n/m4ma2b6/
+
+Bad for a 12 year old game that still cannot be purchased for under 30 bucks on sale...
+
+
+you can get the game for like $5 on key sites with all the dlc
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 27 May 2025, 04:52]
+mekal wrote:
+gtzn wrote:
+Thanks, com1100. CSF working well with goldberg emu. Although I apparently ran into the battle load screen freeze bug in the tutorial.. great. Will try this next time to see if it helps. https://old.reddit.com/r/totalwar/comme ... n/m4ma2b6/
+
+Bad for a 12 year old game that still cannot be purchased for under 30 bucks on sale...
+
+
+you can get the game for like $5 on key sites with all the dlc
+
+
+could you provide me with a link please
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 13 Jun 2025, 23:11]
+Cream-API not working for me, I copy-pasted the DLCs into the data folder and the campaigns into the campaign folder and applied the patch, but everytime i click the DLC campaigns in game it takes me to the steam store page, any help would be greatly appreciated
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 15 Jun 2025, 06:49]
+It works for me. You sure you pasted them in the right path?
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 17 Jun 2025, 03:47]
+Can anyone help with links/ sources to download the following updates?
+
+v2.4.0.19581
+v2.4.0.19683
+v2.4.0.19728
+
+I try to find them on 1337x.to but there are only two uploaders. One untrusted, IGGGamesCOM, & another, mercs213.
+Even if I try to download, the seeds are not uploading anything so I am stuck at 0 kb/s.
+I am doing this to get the latest version so I can also use DEI v134.
+
+I also downloaded the original fitgirl torrent one, so I just need these 3 small updates, but not sure where to find them with actual seeders/ filehosts.
+
+Really appreciate any help on this! Thanks!
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 17 Jul 2025, 05:25]
+Can you all help me? I have Total War Rome II - Emperor Edition on steam. I tried using CreamAPI. I used CreamInstaller to generate the CreamAPI file and downloaded this DLC pack, viewtopic.php?p=2147379#p2147379 and then pasted them inside Rome II's folder. The game doesn't start up at all.
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 29 Jul 2025, 21:22]
+https://steamcommunity.com/workshop/fil ... 3066114504
+can someone upload this mod,the skymod download say's file empty
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 03 Aug 2025, 09:46]
+Can someone please upload latest creamapie, all links are down!
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 09 Aug 2025, 20:03]
+com1100 wrote:
+Total War ROME II - Emperor Edition + all DLCs [Win64] [Branch: Public] (Clean Steam Files)
+Version: 2.4.0.20027 [Build 11535779]
+
+
+ Depots & Manifests
+Code: Select all | Line number On/Off | Expand/Contract
+214952 - exe_rome2 [Manifest 785467126386024053]
+214953 - data_shared [Manifest 530666364908176165]
+214954 - data_rome2 [Manifest 5255561179348145785]
+214955 - english_shared [Manifest 8099281786087946432]
+214956 - english_rome2 [Manifest 4041548678330785776]
+243665 - redist_shared [Manifest 5900761351392481546]
+258270 - Total War: ROME II - Nomadic Tribes Culture Pack [Manifest 8741985695548163254]
+261050 - Total War: ROME II - Caesar in Gaul (Total War: ROME II - Caesar in Gaul Campaign Pack) [Manifest 8824870157919960975]
+273380 - Total War: ROME II - Hannibal at the Gates [Manifest 3665056002651076027]
+259800 - Total War: ROME II - Blood & Gore [Manifest 3062140772173179235]
+327280 - Total War: ROME II - Wrath of Sparta DLC (Total War: ROME II - Wrath of Sparta Campaign Pack) [Manifest 7886653306044405709]
+694880 - Total War: ROME II - Empire Divided Campaign Pack [Manifest 2114284949770732584]
+850010 - Total War: ROME II - Rise of the Republic Campaign Pack [Manifest 9114621701386178753]
+372531 - Depot=from=372530 [Manifest 7717326305582676318]
+228985 - VC 2013 Redist [Manifest 3966345552745568756]
+228986 - VC 2015 Redist [Manifest 8782296191957114623]
+Uploaded version: [Build 11535779]
+
+
+ Download
+https://gofile.io/d/HsYj4i
+https://1fichier.com/?vq7q08jnjhe1jz384ynq
+https://bowfile.com/kOZ4 [FIRST CLICK OPENS MALWARE POPUP!]
+
+
+
+
+ DLCs Build 11535779
+already included in the game
+https://gofile.io/d/dUBzEU
+https://1fichier.com/?nexnay720sw2u3noni94
+https://bowfile.com/k3K5 [FIRST CLICK OPENS MALWARE POPUP!]
+https://hexload.com/unpl4gt5rbsz
+https://uploadfile.pl/pokaz/2321811---t5ck.html
+
+
+
+
+ Language Pack Build 11535779
+ Spoiler
+Czech
+https://gofile.io/d/6qcXpu
+https://1fichier.com/?gewk9scia0tq33d64n7n
+https://bowfile.com/7tho [FIRST CLICK OPENS MALWARE POPUP!]
+https://hexload.com/ppc6xgb7oml3
+https://uploadfile.pl/pokaz/2321788---qetk.html
+
+
+
+ French
+https://gofile.io/d/6qcXpu
+https://1fichier.com/?66cnhsr07xtzv66ji1iw
+https://bowfile.com/7thy [FIRST CLICK OPENS MALWARE POPUP!]
+https://hexload.com/cq9lj6yhueyg
+https://uploadfile.pl/pokaz/2321792---iu4n.html
+
+
+
+ German
+https://gofile.io/d/6qcXpu
+https://1fichier.com/?kj70czgzw4h3lheduqlu
+https://bowfile.com/7thz [FIRST CLICK OPENS MALWARE POPUP!]
+https://hexload.com/7fsatkdjmm70
+https://uploadfile.pl/pokaz/2321796---uywl.html
+
+
+
+ Italian
+https://gofile.io/d/6qcXpu
+https://1fichier.com/?8enky8cgsfbfyxqewjse
+https://bowfile.com/7tiq [FIRST CLICK OPENS MALWARE POPUP!]
+https://hexload.com/0peckj08rq57
+https://uploadfile.pl/pokaz/2321808---aacd.html
+
+
+
+ Polish
+https://gofile.io/d/6qcXpu
+https://1fichier.com/?zcso9ujwzi3r3s7cywju
+https://bowfile.com/ofV2 [FIRST CLICK OPENS MALWARE POPUP!]
+https://hexload.com/lans44wq3l3d
+https://uploadfile.pl/pokaz/2321814---zz2h.html
+
+
+
+ Russian
+https://gofile.io/d/6qcXpu
+https://1fichier.com/?z0bl6co9ocok87jyh3em
+https://bowfile.com/ofV3 [FIRST CLICK OPENS MALWARE POPUP!]
+https://hexload.com/kqi054i77vul
+https://uploadfile.pl/pokaz/2321815---ruzi.html
+
+
+
+ Spanish
+https://gofile.io/d/6qcXpu
+https://1fichier.com/?oe5n0o1df4du6pbakqnf
+https://bowfile.com/k3M5 [FIRST CLICK OPENS MALWARE POPUP!]
+https://hexload.com/2vt4ttszh21e
+https://uploadfile.pl/pokaz/2321816---hobe.html
+
+
+
+ Turkish
+https://gofile.io/d/6qcXpu
+https://1fichier.com/?tjov4ud8akh4wheqckme
+https://bowfile.com/7tl1 [FIRST CLICK OPENS MALWARE POPUP!]
+https://hexload.com/9snexlfbrqix
+https://uploadfile.pl/pokaz/2321818---mfwt.html
+
+Hi, game is working just fine, only the Czech language link is offline. Can someone reupload it? Thx
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 10 Aug 2025, 09:57]
+^
+Czech language reuped
+viewtopic.php?p=3137783#p3137783
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 10 Aug 2025, 09:57]
+
+_________________
+password-protected file? Try cs.rin.ru
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 27 Aug 2025, 19:55]
+Can someone please upload this mod:
+
+https://steamcommunity.com/sharedfiles/ ... 3119565074

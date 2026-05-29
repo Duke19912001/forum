@@ -1,0 +1,147 @@
+=========================================
+STRONA 317 (URL: https://cs.rin.ru/forum/viewtopic.php?f=10&t=61441&hilit=rome+2&start=4740)
+=========================================
+
+[Data: Saturday, 28 Oct 2023, 22:56]
+gerula666 wrote:
+Red Papas wrote:
+Buddilson wrote:
+Here
+
+Fors some reason the unlocked campaigns look like this
+
+
+For all the problem like this, just check and see if you have all the "startpos.esf" files in every folder like "main_3c" from inside the "campaigns" folder, 'cuz the text problems arise from the lack of these files
+
+
+And if the startpos.esf is missing in one of these, what should we do? I used CreamInstaller, it gave me other DLC's but only one is missing
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 30 Oct 2023, 03:56]
+Venom wrote:
+Pissysus wrote:
+Could anyone post the english language pack for TW Rome 2? I've installed it through online-fix.me but it's all in russian.
+
+https://www.filecrypt.cc/Container/419D149DDE.html [May link to unsafe filehosters]
+
+
+Edit 1: Don't remember my exact words, was asking for English loc files.
+Edit 2: Found the link above and removed the request.
+Edit 3: Realized link is dead, google drive is dead, other link goes to "freediscussions.com".
+Edit 4: Did it myself.
+
+https://pixeldrain.com/u/MCUXz6b4
+
+English music and localization data above. Password is the usual.
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 30 Oct 2023, 03:56]
+
+_________________
+R.I.P. KING TUNNGLE, LONG HAD IT REIGNED
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 02 Nov 2023, 23:15]
+Reuploaded some stuff to SCS: viewtopic.php?p=2856505#p2856505
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 02 Nov 2023, 23:15]
+
+_________________
+I've received multiple messages in which people expressed their desire to support my work in RIN; I appreciate your care, but I have all support I need; consider instead to support the developers of the games you actually enjoy. Rui
+
+
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 14 Nov 2023, 00:21]
+Hello could someone upload Part 1 and 2 of the 1100 AD mod? Im having difficulty downloading from skymods with the very slow download speeds.
+
+== Edit ==
+
+https://steamcommunity.com/sharedfiles/ ... 1655284279
+https://steamcommunity.com/sharedfiles/ ... 2280460874
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 14 Nov 2023, 05:24]
+cant get steamworks to work.
+anyone successfully got it to work? :O
+running it with 2.4.0.20027
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 15 Nov 2023, 11:36]
+codex-total.war.rome.ii.rise.of.the.republic.update.v2.4.0.19683
+is reallly hard to find.. most links are dead.. can someone help/ pm me ?
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 17 Dec 2023, 13:13]
+If anyone could share this mod I would greatly appreciate it.
+
+Thanks in advance
+
+https://steamcommunity.com/sharedfiles/ ... 1316022491
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 14 Jan 2024, 23:23]
+Noobozadrot wrote:
+cream + updated dlc files
+https://pixeldrain.com/u/Di5pC9hm
+
+
+
+working for me now after hours of crashes with old files
+
+do we know what changed exactly?
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 02 Feb 2024, 19:30]
+It looks like links for polish language pack are not working, i tried every one of them  Can i as for reupload?
+I tried to find them somewhere else but with no result :/
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 08 Feb 2024, 07:04]
+Can anyone re-upload the latest TWR2 Assembly kit?
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 17 Mar 2024, 23:31]
+Someone has a link that isn't 1Fichier for the CSF? It's impossible to download from there because it restricts you after you downloadd a gigabyte more or less.
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 24 Mar 2024, 18:02]
+Does anyone have 2.2.0.Steamworks.Fix- RVTFiX .rar
+link all death
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 25 Mar 2024, 10:44]
+Tullow wrote:
+Does anyone have 2.2.0.Steamworks.Fix- RVTFiX .rar
+link all death
+
+Use online-fix.me.
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 04 Jun 2024, 14:31]
+does anyone have the update link for 2.4.0.20027?
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 26 Jun 2024, 15:27]
+New creamapi files for latest version.
+Total War Rome II creamapi files v2.4.0
+
+ Spoiler
+https://uploadfile.pl/pokaz/2311332---6akc.html
