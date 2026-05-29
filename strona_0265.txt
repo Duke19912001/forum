@@ -1,0 +1,206 @@
+=========================================
+STRONA 265 (URL: https://cs.rin.ru/forum/viewtopic.php?f=10&t=61441&hilit=rome+2&start=3960)
+=========================================
+
+[Data: Friday, 13 Jul 2018, 20:09]
+Guys, what is the latest version? my game have 2.2.0: Build 17561
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 13 Jul 2018, 20:17]
+Bodhi wrote:
+Guys, what is the latest version? my game have 2.2.0: Build 17561
+
+Latest (stable) version is v2.3.0 Build 18513
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 13 Jul 2018, 20:23]
+knabberfee wrote:
+Beta is out
+
+Family Tree 
+
+https://steamcommunity.com/games/214950 ... 0704205536
+
+Will share a patch soon
+
+Edit:
+Bigger than expected... ~8GB unpacked.
+
+You will need latest CODEX release + Updates
+
+ Spoiler
+https://drive.google.com/open?id=1l-Emjz37r8HTZnMm3fEWQtfqbZ7dvDZI
+
+Only english language!
+
+
+
+Sry because of the stupid question but could you tell me the password for the beta update?
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 14 Jul 2018, 00:03]
+Here's the DLC + CreamAPI
+
+
+Code: Select all | Line number On/Off | Expand/Contract
+https://mega.nz/#!bw1U1Q7A!vQepLv5mjrph ... rC6lrWuCIE
+
+
+Edit: Updated, forgot to include the original dll
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 14 Jul 2018, 00:27]
+Bodhi wrote:
+Sry because of the stupid question but could you tell me the password for the beta update?
+
+cs.rin.ru
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 14 Jul 2018, 00:27]
+
+_________________
+Haters gonna hate!
+My updates are always clean files - no cracks included.
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 14 Jul 2018, 03:58]
+knabberfee wrote:
+Bodhi wrote:
+Sry because of the stupid question but could you tell me the password for the beta update?
+
+cs.rin.ru
+
+
+thx
+
+PS: It seems like you can't play battles or campaigns anymore. Everything works in the main menu but if you choose a campaign, it will crash.
+
+PPS: If you start the game as an administrator, a "Steamstart-file" will be created in the folder. No idea what that means.
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 14 Jul 2018, 10:24]
+Infinitexs wrote:
+Altan wrote:
+knabberfee wrote:
+Beta is out
+
+
+ Spoiler
+Family Tree 
+
+https://steamcommunity.com/games/214950 ... 0704205536
+
+Will share a patch soon
+
+Edit:
+Bigger than expected... ~8GB unpacked.
+
+You will need latest CODEX release + Updates
+https://drive.google.com/open?id=1l-Emj ... fqbZ7dvDZI
+Only english language!
+
+
+Thanks that was fast.
+Speaking of fast, for those who play DeI they already have a fix for the new beta. Check on their forum it's pretty easy to find 
+
+@Infinitixs : update 2.3.0 build 18513 I think
+
+edit : the beta doesn't seem to be very stable though (that was to be expected I guess)
+
+
+Got it. I figured, custom battles always crash though. Did it happen to you too?
+
+
+Haven't tried custom battles but the campaign crashes pretty often.
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 14 Jul 2018, 13:25]
+Update is crashing game.
+Crack is needed
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 14 Jul 2018, 13:54]
+NOSteam wrote:
+Update is crashing game.
+Crack is needed
+
+yes you MUST wait for a proper crack to the new beta(or wait for scene release when out of beta). the game still uses CEG!!
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 14 Jul 2018, 14:08]
+If it helps here are the binaries for the beta
+
+https://www103.zippyshare.com/v/sWHOOHtG/file.html
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 14 Jul 2018, 14:08]
+
+_________________
+Haters gonna hate!
+My updates are always clean files - no cracks included.
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 15 Jul 2018, 21:19]
+Dumm question but how do you run mods now? What does a mod option in the game do? I can't run mods with the mod manager now because it tries to open up the steam.
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 16 Jul 2018, 23:13]
+Download mod manager 1.3 (should work) or 1.4.
+Or use script . Google to learn how to use script to load mods. (in game enable script and movie mods in Settings > mods)
+
+Find
+C:\Users\YourPC\AppData\Roaming\The Creative Assembly\Rome2\scripts
+Create file with normal notepad called user.script.txt
+In that you should be able to add mods
+Correct syntax
+
+in user.script.txt add lines to load mods (their names)
+
+
+mod "_divide_et_impera_release_12_Part1.pack";
+mod "_divide_et_impera_release_12_Part2.pack";
+mod "mods_better_siege_weapons_equipments_&_walls_hq.pack";
+mod "copy full mod name ";
+
+Mod must be put in data folder of Rome 2
+
+Steam mods - editing with notepad ++ is required
+Open mod with notepad ++
+Delete all letters before PFH4 .
+It is now converted to script load. If you use normal notepad you will just break the mod
+
+Load order - mod on top of the list wins
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 17 Jul 2018, 01:09]
+Thanks for the help I got it to work downloading an older version.
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 17 Jul 2018, 09:47]
+
+https://www.reddit.com/r/totalwar/comments/8ymc6s/datamine_of_the_campaign_map_for_the_next_rome_ii/e2choe6/
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 17 Jul 2018, 18:12]
+fatalerror1 wrote:
+
+https://www.reddit.com/r/totalwar/comments/8ymc6s/datamine_of_the_campaign_map_for_the_next_rome_ii/e2choe6/
+
+
+new DLC?

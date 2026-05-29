@@ -1,0 +1,198 @@
+=========================================
+STRONA 217 (URL: https://cs.rin.ru/forum/viewtopic.php?f=10&t=61441&hilit=rome+2&start=3240)
+=========================================
+
+[Data: Thursday, 18 Aug 2016, 18:29]
+knabberfee wrote:
+^Use this. Make sure to delete all language files before replacing
+
+viewtopic.php?p=1123055#p1123055
+
+
+Knabberfee & testni, Sole Mio, you are the savior for Rome II and the rest of the world 
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 19 Aug 2016, 01:24]
+Eladin wrote:
+Just one question guys, is there any way to play Divide et Impera mod with the latest patch posted in this page?. In the past I used the launcher emu to activate the outdated mod (TWC DEI is marked as that for some reason), but right now I don`t know how to achieve the same result using Mod manager or by Manually editing files such as User.Ini, I tried but it doesn't work because the game with the mod just get stuck in the first loading screen, with the emperor edition logo. I would deeply appreciate if you could help me with this because I really want to play Rome 2, but I can't play whithout DEI right now. To me it's something similar to play Skyrim without mods nowadays. xD
+
+I have searched in the topic but the only solution I had read is about editing HEX files (i just discovered that they exist) and I don't even know if I have to follow that road for my problem. Sorry for the trouble and my bad english, and thank you beforehand.
+
+
+https://www.reddit.com/r/Piracy/comment ... total_war/ Read this it work for me.
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 23 Aug 2016, 01:56]
+Having the cracked DLC's enabled seems to crash the game if you leave it on the main/custom battle screen for about 5 minutes. What's up? I have the legit Steam version.
+
+EDIT: It seems it doesn't crash with the pedia crack.
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 23 Aug 2016, 20:29]
+Hello all, I have downloaded everything up until Massilia Pack, what should I do now and which update should I install next? Thanks in advance!
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 25 Aug 2016, 19:01]
+PalmanusBraht wrote:
+Hello all, I have downloaded everything up until Massilia Pack, what should I do now and which update should I install next? Thanks in advance!
+
+
+Anomaly wrote:
+Follow the list in the OP. Version numbers are in the actual posts themselves.
+viewtopic.php?f=10&t=61441
+
+But if you don't have metered Internet, it may be easier to get these releases or an up to date repack right away:
+Total.War.ROME.II.Emperor.Edition.MULTi9-PROPHET
+Total.War.ROME.II.Update.v2.2.0.15666-v2.2.0.16019
+Total.War.ROME.II.Update.v2.2.0.16019-v2.2.0.16155 viewtopic.php?p=1213034#p1213034
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 25 Aug 2016, 19:01]
+
+_________________
+Always wanted to get rid of the files that were not listed in the sfv/md5 hash file? Check the QuickSFV plugin I created for this: viewtopic.php?f=10&t=108605 or this: viewtopic.php?p=1273745#p1273745
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 26 Aug 2016, 18:11]
+Hello, does anyone have a steam fix for version 1.5666?
+
+I tried searching for it but found nothing.
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 26 Aug 2016, 19:39]
+Jewinzius wrote:
+Hello, does anyone have a steam fix for version 1.5666?
+
+I tried searching for it but found nothing.
+
+
+This? Total.War.ROME.II.Emperor.Edition.V2.2.0.Steamworks.Fix-RVTFiX: ftp://revolt:1234@revolt.loginto.me/Tot ... RVTFiX.rar
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 26 Aug 2016, 19:39]
+
+_________________
+Always wanted to get rid of the files that were not listed in the sfv/md5 hash file? Check the QuickSFV plugin I created for this: viewtopic.php?f=10&t=108605 or this: viewtopic.php?p=1273745#p1273745
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 27 Aug 2016, 20:06]
+hello, I installed the all the updates up to v2.2.0.16155
+
+my base game is not the prophet version, is actually the RELOADED version from this site: http://pcgames-download.net/2014/11/pc- ... -turbobit/
+
+I installed everything from there, then started updating with the updates from here... and now I can't play the DLC's... I used to be able to play said DLC's before updating to v2.2.0.16155... could it be I just need to update the DLC's or I need the PROPHET version of the game to make it all work?
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 27 Aug 2016, 22:26]
+Malleus wrote:
+hello, I installed the all the updates up to v2.2.0.16155
+
+my base game is not the prophet version, is actually the RELOADED version from this site: http://pcgames-download.net/2014/11/pc- ... -turbobit/
+
+I installed everything from there, then started updating with the updates from here... and now I can't play the DLC's... I used to be able to play said DLC's before updating to v2.2.0.16155... could it be I just need to update the DLC's or I need the PROPHET version of the game to make it all work?
+
+check you files with the sfv i posted
+download/file.php?id=27055
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 27 Aug 2016, 22:41]
+machine4578 wrote:
+Malleus wrote:
+hello, I installed the all the updates up to v2.2.0.16155
+
+my base game is not the prophet version, is actually the RELOADED version from this site: http://pcgames-download.net/2014/11/pc- ... -turbobit/
+
+I installed everything from there, then started updating with the updates from here... and now I can't play the DLC's... I used to be able to play said DLC's before updating to v2.2.0.16155... could it be I just need to update the DLC's or I need the PROPHET version of the game to make it all work?
+
+check you files with the sfv i posted
+download/file.php?id=27055
+
+
+sorry, I'm kind of a noob with this... what do I do with that .sfv file?
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 27 Aug 2016, 22:52]
+Malleus wrote:
+sorry, I'm kind of a noob with this... what do I do with that .sfv file?
+
+use QuickSFV v2.36 to run the sfv and check your files. if you have any bad or missing files report back.
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 27 Aug 2016, 23:45]
+machine4578 wrote:
+Malleus wrote:
+sorry, I'm kind of a noob with this... what do I do with that .sfv file?
+
+use QuickSFV v2.36 to run the sfv and check your files. if you have any bad or missing files report back.
+
+
+ok, it says I'm missing 6855 files... 0 files are ok, 0 files are bad... just 6855 missing files...
+
+edit, nope, sorry, silly me... put the file in the main folder... running it now...
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 27 Aug 2016, 23:45]
+Malleus wrote:
+machine4578 wrote:
+Malleus wrote:
+sorry, I'm kind of a noob with this... what do I do with that .sfv file?
+
+use QuickSFV v2.36 to run the sfv and check your files. if you have any bad or missing files report back.
+
+
+ok, it says I'm missing 6855 files... 0 files are ok, 0 files are bad... just 6855 missing files...
+
+
+Copy the sfv file in root directory of the game, then check again 
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 27 Aug 2016, 23:45]
+
+_________________
+Haters gonna hate!
+My updates are always clean files - no cracks included.
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 28 Aug 2016, 00:22]
+ok it's done, just 2 files... it says:
+
+binkw32.dll - CRC: d822f010 - status: failed. CRC mismatch
+
+and
+
+launcher\awesomium.log - CRC: *nothing* - failed. file does not exist
+
+the first file is bad, the second is missing... any tips? :c
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 28 Aug 2016, 00:30]
+Malleus wrote:
+ok it's done, just 2 files... it says:
+
+binkw32.dll - CRC: d822f010 - status: failed. CRC mismatch
+
+and
+
+launcher\awesomium.log - CRC: *nothing* - failed. file does not exist
+
+the first file is bad, the second is missing... any tips? :c
+
+the binkw32.dll is probably bad if you used the pedia fix, as for the log file. that doesnt matter. so all DLC files are there and updated.
+just be sure you restart steam before starting the game with pedia fix crack. or if you dont care about the pedia. use the offline crack included with the update.

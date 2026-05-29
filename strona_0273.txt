@@ -1,0 +1,161 @@
+=========================================
+STRONA 273 (URL: https://cs.rin.ru/forum/viewtopic.php?f=10&t=61441&hilit=rome+2&start=4080)
+=========================================
+
+[Data: Sunday, 12 Aug 2018, 18:59]
+Venom wrote:
+guto8797 wrote:
+I have the legitimate game version, but running the SFV file gives me mismatches on the .pack files, like rome2.data,divided.pack, gaul.pack etc. Is it alright if these files are mismatched?
+
+Those are the DLC files. Empire Divided, and Caesar in Gaul. At least it would make sense with the names. Not exactly sure why you have a missmatch with the data file
+
+
+Neither do I.
+
+Something else is unusual: The notification for me to buy the new DLC shows up, but I can still play it. Maybe the pack files where edited in this patch? I could understand if the DLC packs hadn't been updated, as I don't own them, but the rome 2 pack hasn't been updated either
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 12 Aug 2018, 19:08]
+Lobuno wrote:
+Can somebody who owns the Steam's full ENGLISH game plus all DLCs share a sfv file fully updated, please ???
+
+PS. Is anybody else getting constant crashes "Rome2.exe" has stopped working" pointing the error to the file "Rome2.dll" ???
+
+
+
+knabberfee wrote:
+^It's one page back
+
+
+Yes, I have your md5, but it seems it's german only, lacking the values for many files present in the english version. i.e the whole english encyclopaedia folder is missing in your md5 (\Total War Rome II\data\encyclopedia\en). Thanks anyway for your support.
+
+My request is still up, humbly.
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 12 Aug 2018, 19:08]
+I guess there is something wrong with the SFV file provided a few pages back: I validated files and still got a mismatch on data_rome pack
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 12 Aug 2018, 19:36]
+I will post a md5 for english version in a few seconds.
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 12 Aug 2018, 19:36]
+
+_________________
+Haters gonna hate!
+My updates are always clean files - no cracks included.
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 12 Aug 2018, 19:51]
+^^ So nice, so fast... a thousand thanks knabberfee !!!
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 12 Aug 2018, 21:22]
+knabberfee wrote:
+I will post a md5 for english version in a few seconds.
+
+
+Unfortunately I still have mismatches on the divided, gaul, punic, and blood packs, and the corresponding startpos files (main_3c, gaul, punic. Im guessing that the latest update must have patched these files to make them work with the new dynasty trees but the ones I have are from the Aurelian DLC.
+
+If anyone could provide them I would appreciate it. If the files are too big I can maybe download the codex releases and try to install the update and nick the files from there.
+
+EDIT: I noticed that the files are about 2GB i size, so I am downloading the Fitgirl repack and will see if they match the md5 file provided, and try to upload them if they do.
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 12 Aug 2018, 22:09]
+There was only a small update after release (just a few kb), but no big file has changed (i think it was the rome2.dll which is different now).
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 12 Aug 2018, 22:09]
+
+_________________
+Haters gonna hate!
+My updates are always clean files - no cracks included.
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 12 Aug 2018, 22:26]
+New creamapi archive with all the latest DLC:
+
+
+Code: Select all | Line number On/Off | Expand/Contract
+ 
+https://mega.nz/#!u8NiGQAS!N-RFHFKBNHxK ... 8a0ffScAE4
+ 
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 12 Aug 2018, 22:29]
+Well, the files from fitgirl's repack match the md5 you provided, so I assume they are fine to use. Thanks!
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 13 Aug 2018, 13:54]
+I have the fitgirl repack and I really don't understand but Rome2.exe is constantly crashing, all the files are there and nothing is missing or bad.
+
+Any help please, it's probably something stupid that's wrong, but I don't know I've never had this problem with Rome 2 before.
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 13 Aug 2018, 17:10]
+IsItWorking wrote:
+I have the fitgirl repack and I really don't understand but Rome2.exe is constantly crashing, all the files are there and nothing is missing or bad.
+
+Any help please, it's probably something stupid that's wrong, but I don't know I've never had this problem with Rome 2 before.
+
+
+I'm in the exact same situation. Been playing Rome2 since first scene release and never exprienced anything similar until now.
+But with the latest release by CODEX I get constant CTDs [Rome2.exe has stopped working, being the faulty module (the cracked) Rome2.dll]
+
+What are your system specs???
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 13 Aug 2018, 18:04]
+Lobuno wrote:
+IsItWorking wrote:
+I have the fitgirl repack and I really don't understand but Rome2.exe is constantly crashing, all the files are there and nothing is missing or bad.
+
+Any help please, it's probably something stupid that's wrong, but I don't know I've never had this problem with Rome 2 before.
+
+
+I'm in the exact same situation. Been playing Rome2 since first scene release and never exprienced anything similar until now.
+But with the latest release by CODEX I get constant CTDs [Rome2.exe has stopped working, being the faulty module (the cracked) Rome2.dll]
+
+What are your system specs???
+
+
+Now at this moment, I have a Ryzen 7 with 1050Ti, but when I started playing this in 2013/14 up until 2016 or so I had an i3 with 750ti and it worked like a charm with no problems at all. I just want this fixed to be able to play it, I'm currently looking to download a different one and see if it works, maybe its just fitgirl ones that have the problem. I spoke to someone else who had a DODI repack and he said it worked perfectly
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 13 Aug 2018, 18:23]
+^^ FiitGirl's repack installs as a perfectly 100% identical copy of the scene release. Don't bother downloading anything else. Check your files with the md5 provided by knabberfee a few posts back, if everything checks fine the problem is something else, not your files. Probably something crack related.
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 13 Aug 2018, 18:34]
+Lobuno wrote:
+^^ FiitGirl's repack installs as a perfectly 100% identical copy of the scene release. Don't bother downloading anything else. Check your files with the md5 provided by knabberfee a few posts back, if everything checks fine the problem is something else, not your files. Probably something crack related.
+
+
+Nah mate, I think it is the Rome2.dll like you said, I replaced the files with the steamworks fix that's when the game crashed upon entering the campaign and when I reinstalled the game everything worked fine, I had sound but no video I was stuck on the campaign loading screen with game sounds in the background  after I get this game working I will have no hair left.
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 14 Aug 2018, 04:12]
+I have a Strange situation right now: whenever I enter battle for the first time the screen was freezed, the process is still there but the screen just got locked at the army selection interface. Clicking around will have the proper sound but there screen is not responding. Ctrl+Alt+Del and using Task Manager to shut Rome II off, then restarting solve the problem.
+
+Anybody else has this? And I'm also thinking this might be the little hotfix that Knabberfee mentioned. So I would like to have that little new rome.dll file to have a try.
+
+
+Thanks in advance, Knabberfee

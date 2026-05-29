@@ -1,0 +1,177 @@
+=========================================
+STRONA 234 (URL: https://cs.rin.ru/forum/viewtopic.php?f=10&t=61441&hilit=rome+2&start=3495)
+=========================================
+
+[Data: Friday, 28 Jul 2017, 19:28]
+Anomaly wrote:
+mrichler wrote:
+I have the legit base game from Steam I want to add the DLC. I know how to use cream_api but where do I find the dlc's for download? There is one post that comes up when I search but all the links are down. Thanks.
+
+If all the DLC links are down, you can always download the Prophet release and update that to the latest version, then copy the DLCs to your legit Steam installation 
+
+
+
+vonkues wrote:
+If I start the game with divide et impera mod in user.script.txt it crashes with LumaCEG. I've tried a lot of things, no one works, neither the Mod Manager.
+
+What version of the game are using and which crack?
+
+16155, http://www11.zippyshare.com/v/JNMAtSIk/file.html is the crack
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 01 Aug 2017, 11:57]
+Hi, I was just pondering about the possibility of being able to crack the DLC for Rome 2 onto a legal steam copy? Can anyone let me know if this is possible?
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 02 Aug 2017, 18:50]
+Imperia wrote:
+Hi, I was just pondering about the possibility of being able to crack the DLC for Rome 2 onto a legal steam copy? Can anyone let me know if this is possible?
+
+
+Yes, that's possible. Make sure you've got the DLC files and use Cream API if you want the DLCs for your legit game. If you just want the DLCs for single player, it's probably better to use a crack as well 
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 02 Aug 2017, 18:50]
+
+_________________
+Always wanted to get rid of the files that were not listed in the sfv/md5 hash file? Check the QuickSFV plugin I created for this: viewtopic.php?f=10&t=108605 or this: viewtopic.php?p=1273745#p1273745
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 03 Aug 2017, 17:44]
+Just wondering if anyone could provide me with the the DLC files so I can use them to get the DLC. The ones previously posted on the thread I cannot use.
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 18 Aug 2017, 10:10]
+yeah anyone can shared only DLC files much appreciated.
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 19 Aug 2017, 08:28]
+Can someone re-upload patch v 2.2.0.15666 - 2.2.0.16019 ? can't find any working links. I'm not going to download 20+GB of prophet iso release just for this.
+
+-- Edit --
+
+So I have to download 21 gigs because of one missing patch, that someone is too lazy to upload. Might as well delete links for the other ones as they're useless without it. Thanks guys. No, I really mean it.
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 19 Aug 2017, 08:35]
+Sorry bro, maybe no one has this update anymore in their backups. Don't call people lazy just because of lack of information.
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 19 Aug 2017, 08:35]
+
+_________________
+Haters gonna hate!
+My updates are always clean files - no cracks included.
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 19 Aug 2017, 16:11]
+I guess that could be the case. At least now that I have decent internet download isn't going to take forever, but I'm still annoyed with Prophets consistently huge releases.
+
+-- Edit --
+
+I seem to be having problems with the lumaCEG crack for the updated prophet release. The game is unstable and keeps crashing at random. Any other crack that I could try ?
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 19 Aug 2017, 16:28]
+alexd wrote:
+I guess that could be the case. At least now that I have decent internet download isn't going to take forever, but I'm still annoyed with Prophets consistently huge releases.
+
+-- Edit --
+
+I seem to be having problems with the lumaCEG crack for the updated prophet release. The game is unstable and keeps crashing at random. Any other crack that I could try ?
+
+grab the newest LumaCEG plugin if you are having issues.
+
+also the crack i posted 2 years ago seems to work fine for most. so i hope it fixes your issue.
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 19 Aug 2017, 17:55]
+machine4578 wrote:
+alexd wrote:
+I guess that could be the case. At least now that I have decent internet download isn't going to take forever, but I'm still annoyed with Prophets consistently huge releases.
+
+-- Edit --
+
+I seem to be having problems with the lumaCEG crack for the updated prophet release. The game is unstable and keeps crashing at random. Any other crack that I could try ?
+
+grab the newest LumaCEG plugin if you are having issues.
+
+also the crack i posted 2 years ago seems to work fine for most. so i hope it fixes your issue.
+
+
+Thanks. I'm not actually sure the crack is the issue, shouldn't have spoke too soon.
+
+I actually had ROME 2 installed before and updated with all the patches in the OP, and it was stable. It was a vanilla emperor edition r.g mechanics repack, so I had to apply patches 16/17 and the hotfixes. So assuming I used your crack, that's not whats causing me problems right now.
+I'm going to test more thoroughly later, and see if I have problems with just the vanila PPT release and their crack.
+Also, don't mean to be annoying with this, but do you still have the patch I was asking for earlier ( 2.2.0.15666 - 2.2.0.16019)? If you could upload it, I'll archive it and upload it later myself if it gets deleted.
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 20 Aug 2017, 00:08]
+Hey, can you upload this steamworkshop mod?Kill Animation Overhaul
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 20 Aug 2017, 11:35]
+Base PPT release works fine and is stable, so its either all in one update or crack that causes the problems. I would appreciate someone telling me how to try the new lumaCEG plugin as suggested, as I'm clueless about that stuff. Also do I need to use some sort of launcher with the provided crack, or just use rome2.exe ?
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 20 Aug 2017, 14:26]
+alexd wrote:
+Base PPT release works fine and is stable, so its either all in one update or crack that causes the problems. I would appreciate someone telling me how to try the new lumaCEG plugin as suggested, as I'm clueless about that stuff. Also do I need to use some sort of launcher with the provided crack, or just use rome2.exe ?
+
+here is the current plugin
+download/file.php?id=37410
+
+btw what crack are you using, is it the exact one i posted? or something else? cause as i posted before no one else complained of such an issue i can recall.
+
+btw you start the game with Rome2.exe
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 20 Aug 2017, 15:33]
+machine4578 wrote:
+alexd wrote:
+Base PPT release works fine and is stable, so its either all in one update or crack that causes the problems. I would appreciate someone telling me how to try the new lumaCEG plugin as suggested, as I'm clueless about that stuff. Also do I need to use some sort of launcher with the provided crack, or just use rome2.exe ?
+
+here is the current plugin
+download/file.php?id=37410
+
+btw what crack are you using, is it the exact one i posted? or something else? cause as i posted before no one else complained of such an issue i can recall.
+
+btw you start the game with Rome2.exe
+
+
+The crack I'm using is the offline crack you posted, so yes. Just to be sure, the crack consists of these files : ALI213.ini, LumaCEG.ini, Rome2.dll, steam_api.dll, Steam_CEG.dll. So how do I use the new LumaCEG plugin ? there is nothing to replace with it in the crack files. I also have windows xp ( I know,ancient), maybe your crack is somehow unstable with it ?
+
+I'm also seeing some graphical corruption on the campaign map ( I could swear I saw a post of someone having the same issue somewhere in this thread).
+
+Crashes that I manage to reproduce every time:
+
+- Trying to initiate battle with Sardes as Pergamon at the start of campaign
+
+- Trying to return to main menu from either the benchmark or campaign map/battle map
+
+- no error messages,ever. It just instantly crashes.
+
+BTW, every time I start the game a file called Rome2.dll.(random number).STEAMSTART gets created in the game root directory. There are several of them now. I assume this is normal ?
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 20 Aug 2017, 19:57]
+^
+no that is NOT normal!! if a STEAMSTART file is getting created the crack is NOT working! so make sure you copy ALL crack files and that your AV is not blocking or removing them!
+
+so until you get the STEAMSTART file issue resolved i doubt the using a new plugin will help. btw you rename the LumaCEG_Plugin.dll to Steam_CEG.dll.

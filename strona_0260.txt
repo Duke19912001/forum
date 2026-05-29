@@ -1,0 +1,181 @@
+=========================================
+STRONA 260 (URL: https://cs.rin.ru/forum/viewtopic.php?f=10&t=61441&hilit=rome+2&start=3885)
+=========================================
+
+[Data: Saturday, 07 Apr 2018, 22:33]
+Gluhar wrote:
+knabberfee wrote:
+I can upload DLC files only, you have to set-up CAPI for yourself then.
+
+Edit:
+Here are DLC only files for v2.3.0.Build.18513
+
+
+ Spoiler
+Code: Select all | Line number On/Off | Expand/Contract
+https://multiup.org/e79a68e8fab5a667515f0fd3112ede7c
+https://multiup.org/533e521dd45a3adb6b1f824f9d375192
+ 
+
+Thanks a lot!
+
+Hey man, can you upload the CreamAPI?
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 08 Apr 2018, 01:45]
+You can configure it by yourself. It's pretty easy. Download the latest CAPI version, get the information about the DLCs from SteamDB, configure the .ini & follow the instructions from the thread.
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 08 Apr 2018, 01:45]
+
+_________________
+The FAQ are you waiting for?
+
+A wild PASSWORD appeared for protected archives & files on RIN! Member used cs.rin.ru ...it's super effective!
+
+Having problems downloading from Google Drive? Click here.
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 08 Apr 2018, 05:59]
+Anomaly wrote:
+@Winst Is there any reason to be using such an old release? There are (scene) releases that are way more recent and contain everything, plus they're still up on torrent and filesharing sites.
+
+
+Long to explain why I need this version of Rome, but I really need update 10, because it's associated with some old mods and changes in the game.
+If someone has files left, please let me know.
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 08 Apr 2018, 20:38]
+Ok so in order to run multiplayer games, we have to use the steamworks crack provided a few pages back for the newest codex version? Is there no way to run a multiplayer game through sse?
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 08 Apr 2018, 22:48]
+^ How would that be possible? SSE is an emulator just like Codex has....it would be like saying lets run multiplayer through codex crack...need the steamfix..which access a program in steam...to run multiplayer...as a test you could trying using SSE and then using the steamworks fix have no idea if that would work....
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 08 Apr 2018, 22:48]
+
+_________________
+"Give a man a fish feed him for a day, teach a man to fish feed him for a lifetime!!!!"
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 14 Apr 2018, 12:56]
+Please Turkish language last version
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 15 Apr 2018, 00:35]
+Here're all of the language packs for the latest version. Choose the language you need from the folders, or grab the link with JDownloader 2 BETA, so you can just delete the languages & download yours. Which is easier in my opinion, but to each his own.
+
+Language Packs:
+
+ Spoiler
+https://drive.google.com/open?id=1tvdsYGTbC6X7OFJmpXaG5ujiDpwOTZ8k
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 15 Apr 2018, 00:35]
+
+_________________
+The FAQ are you waiting for?
+
+A wild PASSWORD appeared for protected archives & files on RIN! Member used cs.rin.ru ...it's super effective!
+
+Having problems downloading from Google Drive? Click here.
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 15 Apr 2018, 01:25]
+Venom wrote:
+Here're all of the language packs for the latest version. Choose the language you need from the folders, or grab the link with JDownloader 2 BETA, so you can just delete the languages & download yours. Which is easier in my opinion, but to each his own.
+
+Language Packs:
+
+ Spoiler
+https://drive.google.com/open?id=1tvdsYGTbC6X7OFJmpXaG5ujiDpwOTZ8k
+
+
+ty very much
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 15 Apr 2018, 09:55]
+Could someone upload:
+
+- local_en.pack
+- local_en_shared_rome2.pack
+- music_en_shared_rome2.pack
+
+please.
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 20 Apr 2018, 03:56]
+Can someone upload fg-selective-eng-rus-esp-ita-cze-pol-tur.bin from Fitgirl's repack, please? Thanks in advance.
+
+Nevermind, I found a DL link.
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 22 Apr 2018, 21:42]
+Mod manager no longer works with this version.
+
+I try to edit the User Scritps .txt but for some reason just the first mod load. Anybody have the same problem or have an alternative to mod manager?
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 22 Apr 2018, 23:15]
+kingnar wrote:
+Could someone upload:
+
+- local_en.pack
+- local_en_shared_rome2.pack
+- music_en_shared_rome2.pack
+
+please.
+
+Here you go.
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 22 Apr 2018, 23:15]
+
+_________________
+The FAQ are you waiting for?
+
+A wild PASSWORD appeared for protected archives & files on RIN! Member used cs.rin.ru ...it's super effective!
+
+Having problems downloading from Google Drive? Click here.
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 23 Apr 2018, 13:39]
+Hi Venom, You sure these 3 files are from the Empire Divided Codex one before any update? We need them for the other language version to update to the latest then we can copy the lastest language files over, so that we could have the latest localised version. Your sharing on the other hand doesn't pass the update file match test.
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 23 Apr 2018, 14:06]
+No, I didn't said this anywhere. These 3 files are from my legit version. He just wanted those files, nothing more.
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 23 Apr 2018, 14:06]
+
+_________________
+The FAQ are you waiting for?
+
+A wild PASSWORD appeared for protected archives & files on RIN! Member used cs.rin.ru ...it's super effective!
+
+Having problems downloading from Google Drive? Click here.
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 23 Apr 2018, 14:14]
+It was a request back then and also Kingnar didn't specify clearly enough. We need these 3 files to apply the Codex update following Empire Divided without having to download the entire ED again. It was loaded before but expired that's why we need them again. But thank you very much for the effort

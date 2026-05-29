@@ -1,0 +1,231 @@
+=========================================
+STRONA 205 (URL: https://cs.rin.ru/forum/viewtopic.php?f=10&t=61441&hilit=rome+2&start=3060)
+=========================================
+
+[Data: Wednesday, 11 Nov 2015, 12:27]
+Anomaly wrote:
+I created a batch file quite a while ago. Maybe some will enjoy using it. It automatically creates a backup of your auto save. Just ignore if you don't need it.
+
+This just means you don't have to save manually. You'll have a save game file of each turn unless you choose another setting and set a certain interval. (even for Legendary mode where you can't save manually).
+
+
+ Spoiler
+The idea is that every new turn the auto save game file is backed up in a folder called after the number of the turn. I wanted to cheat a little on Legendary mode ^^
+
+Unfortunately there's quite a user manual for it if you haven't used it before.
+
+First off 4 conditions:
+- The batch file needs to be placed inside "%Appdata%\The Creative Assembly\Rome2\save_games" or whatever folder is used as location to save your Rome2 save games.
+- The same goes for GetTurnTool.exe (credits to RoninX2807) - it needs to be along side the batch file, in the same folder.
+- What you also need in this folder is a shortcut to your Rome2 executable.
+- Make sure the shortcut has the same name as the executable (shortcut shouldn't have the ".exe", though.) So, EXE:"Rome2.exe" and Shortcut:"Rome2".
+
+Regarding the settings inside the batch file:
+
+Set FolderName=CustomSaveFolder
+(This is to be the name of the folder your saves will be saved in.)
+Set Save=
+(Best to leave empty, unless you know the exact name of your save game file.)
+Set RemoveSaveInterval=5
+(This is a funny feature, after you close Rome2 this feature can delete certain saves. Say you set this value to 5 and you start a new game. After you get to turn 54 you close Rome2, you'll only have the save game files for Turn 1,5,10,15,20,25,30,35,40,45,50 and 54) Set this value to "1" and no saves will be removed.)
+Set GameEXE=Rome2
+(Best to leave this as it is.)
+
+I've only tested this batch for Rome2. Needless to say: you should start the game with the batch file. The batch should close shortly after you closed the game.
+
+
+
+could u help me ? my friend
+wtid wrote:
+hello guys first of all i read all pages since yesterday i have 2.2.0 16155,736913 build. i was tryin to use some mods like Dei or Radious . I figured out mod manager doesnt work anymore . i try everything when i read on comment maybe i miss it something cause of my low english so sorry if i miss. when i try to open rome2 with my dowloaded mods game stuck on loading screen at the first forever. i try it to by mod manager and userscript which i create a text file user.script.txt
+and just wrote what i had to write for mod then i start game by rome2.exe and its crashed like mod manager . please help i just wanna play with mods ... thanks anyway.
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 11 Nov 2015, 12:47]
+I don't know. As far as I know it isn't supposed to crash, only not recognizing the mods.
+
+If you want to play cracked + mods, you need to edit the mods (remove the first 4 bytes). Search this thread because it's been mentioned quite a couple of times. If that doesn't help, I can't help you.
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 11 Nov 2015, 12:47]
+
+_________________
+Always wanted to get rid of the files that were not listed in the sfv/md5 hash file? Check the QuickSFV plugin I created for this: viewtopic.php?f=10&t=108605 or this: viewtopic.php?p=1273745#p1273745
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 11 Nov 2015, 13:34]
+Anomaly wrote:
+I don't know. As far as I know it isn't supposed to crash, only not recognizing the mods.
+
+If you want to play cracked + mods, you need to edit the mods (remove the first 4 bytes). Search this thread because it's been mentioned quite a couple of times. If that doesn't help, I can't help you.
+
+
+i checked its PFH4 name of first 4 code
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 11 Nov 2015, 13:40]
+Does the game work without mods? Check your game files with a .sfv file: download/file.php?id=27419
+
+Here's a similar problem: viewtopic.php?p=1131507#p1131507
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 11 Nov 2015, 13:40]
+
+_________________
+Always wanted to get rid of the files that were not listed in the sfv/md5 hash file? Check the QuickSFV plugin I created for this: viewtopic.php?f=10&t=108605 or this: viewtopic.php?p=1273745#p1273745
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 11 Nov 2015, 20:53]
+Anomaly wrote:
+Does the game work without mods? Check your game files with a .sfv file: download/file.php?id=27419
+
+Here's a similar problem: viewtopic.php?p=1131507#p1131507
+
+
+game works without mods and when i open ur sfv file some files failed i mean miss match.
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 11 Nov 2015, 20:57]
+hi, i have r2tw emperor edition version 2.0.0.0 13903.584483 (reloaded) with 11 dlc from greek states to daughters of mars. if i want to update/apply patch, which one is correct? i've tried Total.War.ROME.II.Update.15.Hotfix.rar from viewtopic.php?p=953761#p953761 but it made the game ctd - good thing i backed up before updating. any idea? thanks in advance and sorry if this is a dumb question.
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 11 Nov 2015, 23:36]
+ubutnut wrote:
+hi, i have r2tw emperor edition version 2.0.0.0 13903.584483 (reloaded) with 11 dlc from greek states to daughters of mars. if i want to update/apply patch, which one is correct? i've tried Total.War.ROME.II.Update.15.Hotfix.rar from viewtopic.php?p=953761#p953761 but it made the game ctd - good thing i backed up before updating. any idea? thanks in advance and sorry if this is a dumb question.
+
+
+If you have decent an Internet connection I suggest downloading the Prophet release and the last 2 patches. Otherwise follow the order in the OP: viewtopic.php?p=784178#p784178
+Total.War.ROME.II.Emperor.Edition.MULTi9-PROPHET
+Total.War.ROME.II.Update.v2.2.0.15666-v2.2.0.16019 viewtopic.php?p=1094582#p1094582
+Total.War.ROME.II.Update.v2.2.0.16019-v2.2.0.16155 viewtopic.php?p=1119420#p1119420
+
+PM me if you need links for the Prophet release.
+
+
+@wtid Post an image of the missing and mismatched files or copy these file names (you can select files and choose 'copy' in your hash program) and paste them here in a spoiler.
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 11 Nov 2015, 23:36]
+
+_________________
+Always wanted to get rid of the files that were not listed in the sfv/md5 hash file? Check the QuickSFV plugin I created for this: viewtopic.php?f=10&t=108605 or this: viewtopic.php?p=1273745#p1273745
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 12 Nov 2015, 14:42]
+its been close so quick cant sure is that all . but i think thats all and my game works perfectly without mods
+here s sfv check
+[spoiler=]
+binkw32.dll: hash mismatch: cdd71f25 != 10f022d8
+installscript.vdf: File error: File not found
+data\data_rome2.pack: hash mismatch: 82895625 != ccab86fa
+data\models_rome2.pack: hash mismatch: 22a1b8d1 != 085389f4
+data\movies.pack: hash mismatch: cb011808 != 1e736d7d
+steam_api.dll: hash mismatch: d99f5d7c != 774d8008
+[/spoiler]
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 12 Nov 2015, 19:59]
+@wtid See PM.
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 12 Nov 2015, 19:59]
+
+_________________
+Always wanted to get rid of the files that were not listed in the sfv/md5 hash file? Check the QuickSFV plugin I created for this: viewtopic.php?f=10&t=108605 or this: viewtopic.php?p=1273745#p1273745
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 14 Nov 2015, 14:04]
+GUUUUUUUUYS !!!!!!!!!!! YOUU AREE THEE BEEEST !!! I LOOOVEEE YOUUU ! <3 <3 <3 GREETINGS FROM POLAND !!!
+
+but...
+
+Mods doesn't work. That is what i did:
+
+1. Download & install RELOADED PROPHET SKIDROW R2TW .15666
+2. Copy & paste crack from top
+3. Download & install patch .16109 (all files are ok - no missing files)
+4. Copy & paste crack
+5. Download & install patch .16155 (all files are ok - no missing files)
+6. Copy & paste crack
+7. Launch game, everything is alright.
+8. Copy mods (mods_wolfmans_myrmidons_heroes, mods_lordbuiosaronly, mods_kingguardstest0, mods_wolfmans_myrmidons_new, mods_rome_ii_units_icons_mod, mods_md_blood_textures and allfactionsplayable_mod - only latest mod working) - all one by one, no one does not work and paste to data folder. I delete first 8 bytes in HxD.
+
+I have game in english version, i using ModManager 2.0 by Mitch's.... So... What is going on ?
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 18 Nov 2015, 01:41]
+Did you put the mod manager in the main rome II folder? And then run it as admin...
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 18 Nov 2015, 12:06]
+DireStraights wrote:
+Did you put the mod manager in the main rome II folder? And then run it as admin...
+
+
+Yes. Nothing changed.
+
+-- Edit --
+
+
+GARON wrote:
+DireStraights wrote:
+Did you put the mod manager in the main rome II folder? And then run it as admin...
+
+
+Yes. Nothing changed.
+12 Turns Per Year MOD working too but others not -.- This game is bullshit....
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 18 Nov 2015, 21:04]
+There is any full version repacked of rtw2?
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 18 Nov 2015, 21:04]
+
+_________________
+Always use search before asking, will save you time!
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 19 Nov 2015, 16:58]
+Millesaway wrote:
+There is any full version repacked of rtw2?
+
+
+Not that I know of. If your Internet allows you to download the full (scene) release(s), then please do so. Repacks tend to spawn a bunch of problems of their own.
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 19 Nov 2015, 16:58]
+
+_________________
+Always wanted to get rid of the files that were not listed in the sfv/md5 hash file? Check the QuickSFV plugin I created for this: viewtopic.php?f=10&t=108605 or this: viewtopic.php?p=1273745#p1273745
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 19 Nov 2015, 20:39]
+Ok, thanks!
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 19 Nov 2015, 20:39]
+
+_________________
+Always use search before asking, will save you time!

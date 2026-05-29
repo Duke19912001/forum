@@ -1,0 +1,275 @@
+=========================================
+STRONA 235 (URL: https://cs.rin.ru/forum/viewtopic.php?f=10&t=61441&hilit=rome+2&start=3510)
+=========================================
+
+[Data: Monday, 21 Aug 2017, 11:07]
+benczeb90 wrote:
+Hi guys! Sorry for the long post, but i wanted to provide all the information you usually ask of people asking for help. Put the TLDR in spoiler field.
+
+
+ Spoiler
+My problem is that game crashes at startup both with the latest Radious, and the Divide et Impera mods (both times no other mods applied). There is a small mod called Sell your slaves, which works with the launcher and the modmanager as well. Of course the base game works.
+
+I have the 15666 update, the latest one downloaded from here, which i applied to the 15539 which i downloaded beforehand. (actually several versions. prophet, reloaded, kaos. And i applied this onto the Reloaded version. All others were removed beforehand. Only tried Emperor Editions.)
+Tried removing Rome2 folder in Appdata/Roaming.
+Tried making/editing user.script.txt with no quotations and quotations. (crashes right away with no quotations though)
+
+With quotations (and even without deleting the folder in Roaming) the game always crashes just in the moment before the SEGA logo and the in-game cursor would appear. In task manager it goes up to ~400k(Radious)-500k(DeI), and it goes down to ~250k and goes on "not respoding" forever, while the white-gold splash screen remains on.
+
+I have installed everything the redist folder of the torrent beforehand. I have Win 10 x64.
+
+I've also tried with the steam workshop mods (DeI), although the part 2 (out of the 6) caused 503 gateway error or something, it didn't want to download using both workshop downloaders i know. (i edited these five parts to start with PFH4 in the hex editor, as it is explained here.)
+
+The crash in this case was exactly the same as with the "two part" mod downloaded from twcenter. and the older versions too. same crash. It doesn't matter that the Mod Manager shows 0 conflicts for the Radious mod or ~476 conflicts for the latest DeI packs, or 7 conflicts for the older DeI packs, it crashes the same way with both steam launcher and modmanager if i want to use these overhauls (separately of course).
+
+Any help would be appreciated! I just can't play vanilla after i played DeI months ago ...  But it was when all the patches were already released so i don't really understand why won't it work now when it worked then, with presumably the same torrents and the same 15666 patch from here.
+
+Blas
+
+===EDIT===
+currently patching 15666 to 16155 ... without the 16109 which is unavailable and the openload links are not working. hope that'll work, even though my game is reloaded and not prophet.
+===EDIT===
+now even Rome2.exe (base game) won't launch, same like when i try to load it via the modmanager  and the launcher say cannot initialize steam.
+Now i think i'll conveniently give up and wait for a solution. :/
+===EDIT===
+apparently gave up for 10 minutes. Figured out that the OP is NOT updated. Searched for 16155 and found a crack for the Prophet update patch. Now installing everything (PROPHET), checking these goddamn numbers every time i do something  i thought if i have 2.2.0 i'm all set ... 
+
+===EDIT===
+GUYS it's working ... holy hell ... i accidentally spilled my coffee on my notes  but who cares now!!!
+i'm gonna leave this mess here so people can find it and ask less questions ... 
+~~~WHAT TO DO~~~
+1. Download & install PROPHET version of the Emperor's Edition, don't crack it with the provided crack.
+2. download and install this to patch the game from the original Prophet's version (15539) straight to 16155 without having to install versions 15666 and 16019, because these two are included in this one: https://openload.co/f/34YirjLECug/21495 ... .16155.rar
+3. IF YOU USE ENGLISH ONLY
+a) download this: https://mega.nz/#!HgoBAZYA!oUfC6YbDspqV ... S5YGHnEdfY
+b) delete language related pack files in the data folder. stuff like local_en.pack. there are 3 for every language. i only have english.
+c) move these new files into the data folder
+3. IF YOU USE OTHER LANGUAGES
+a) download this https://mega.nz/#F!R8R0EChT!GNQhhKNM15cADUfT-KekSA
+b) delete language related pack files in the data folder. 3 for every language, the language's name in it, like en, fr, de, etc.
+c) move these new files into the data folder, for the language(s) you'll need. It's probably a good idea to move the English one too, but i don't know about that.
+4. Finally, download and crack the 16155 version game with this http://www11.zippyshare.com/v/JNMAtSIk/file.html
+And you're done.  Use ModManager https://docviewer.yandex.com/?url=ya-di ... c01a402b78
+because the launcher in the launcher folder will not work (with these steps at least)
+
+
+I followed this tutorial to the word. I highly doubt I've done anything wrong in the process. I've used both the crack that was linked in that tutorial, and your crack that you posted yourself(but I'm pretty sure its the same crack). You haven't cracked Rome2.exe itself, right ? because it's not in the crack files.
+Also, if the crack doesn't work, how does it still start the game ?
+
+-- Edit --
+
+So I managed to get a hybrid crack working by replacing your rome 2.dll with an older REVOLT steamfix one. It works and there is no crashing. However, main menu now shows an older game version of 15666 despite me NOT cracking the exe itself. So, is the version information contained in the rome2.dll and is this going to cause any problems ?
+
+-- Edit --
+
+Nevermind, the sound doesn't work with this hybrid crack. The scene didnt crack patch 17, right? I think I'm just going to give up.
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 21 Aug 2017, 12:09]
+You are the only one reporting this issues.
+
+Sorry to say that, but the problem is on your end.
+
+And there is no sound because you use a old crack from old version which needs old sound files.
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 21 Aug 2017, 12:09]
+
+_________________
+Haters gonna hate!
+My updates are always clean files - no cracks included.
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 21 Aug 2017, 12:39]
+knabberfee wrote:
+You are the only one reporting this issues.
+
+Sorry to say that, but the problem is on your end.
+
+And there is no sound because you use a old crack from old version which needs old sound files.
+
+I realize that. Since I've done everything correctly, I think it's safe to say that LumaCEG and this crack do not work on windows xp.
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 21 Aug 2017, 12:41]
+alexd wrote:
+windows xp.
+
+
+Ok, i guess now we know what the problem is.
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 21 Aug 2017, 12:41]
+
+_________________
+Haters gonna hate!
+My updates are always clean files - no cracks included.
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 21 Aug 2017, 12:44]
+knabberfee wrote:
+alexd wrote:
+windows xp.
+
+
+Ok, i guess now we know what the problem is.
+
+
+Can I do anything about it ? I'm 100% sure Ive had this game running fine on patch 17 before, but maybe that was version 16019
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 21 Aug 2017, 14:11]
+alexd wrote:
+Can I do anything about it ?
+
+nope i guess not, i suggest you update your OS to atleast Win7. or use the OLD game version if it works.
+
+btw even Steam006 said that some games will NOT work on WinXP. this must be one of them.
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 21 Aug 2017, 15:34]
+Actually I solved the problem. I managed to find a mirror of the 2.2.0.16019 patch that I was requesting in my first post. So I installed that patch and its crack over the fresh PPT install, and it worked despite also using LumaCEG.
+I then installed the latest 16155 patch and cracked it BUT I swapped the new SteamCEG.dll with the older one from the 16019 crack, and it worked fine.
+
+Thanks for the help everyone.
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 21 Aug 2017, 16:05]
+@alexd
+great, im glad you figured it out.
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 29 Aug 2017, 15:17]
+If we want the fully updated game, where are we supposed to start? The initial post is kind of a mess with many updates and missing links. I downloaded one from torrents that I've played for ages now, but I want to play mods which I guess req the most recent version.
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 03 Sep 2017, 18:48]
+benczeb90 wrote:
+Hi guys! Sorry for the long post, but i wanted to provide all the information you usually ask of people asking for help. Put the TLDR in spoiler field.
+
+
+ Spoiler
+My problem is that game crashes at startup both with the latest Radious, and the Divide et Impera mods (both times no other mods applied). There is a small mod called Sell your slaves, which works with the launcher and the modmanager as well. Of course the base game works.
+
+I have the 15666 update, the latest one downloaded from here, which i applied to the 15539 which i downloaded beforehand. (actually several versions. prophet, reloaded, kaos. And i applied this onto the Reloaded version. All others were removed beforehand. Only tried Emperor Editions.)
+Tried removing Rome2 folder in Appdata/Roaming.
+Tried making/editing user.script.txt with no quotations and quotations. (crashes right away with no quotations though)
+
+With quotations (and even without deleting the folder in Roaming) the game always crashes just in the moment before the SEGA logo and the in-game cursor would appear. In task manager it goes up to ~400k(Radious)-500k(DeI), and it goes down to ~250k and goes on "not respoding" forever, while the white-gold splash screen remains on.
+
+I have installed everything the redist folder of the torrent beforehand. I have Win 10 x64.
+
+I've also tried with the steam workshop mods (DeI), although the part 2 (out of the 6) caused 503 gateway error or something, it didn't want to download using both workshop downloaders i know. (i edited these five parts to start with PFH4 in the hex editor, as it is explained here.)
+
+The crash in this case was exactly the same as with the "two part" mod downloaded from twcenter. and the older versions too. same crash. It doesn't matter that the Mod Manager shows 0 conflicts for the Radious mod or ~476 conflicts for the latest DeI packs, or 7 conflicts for the older DeI packs, it crashes the same way with both steam launcher and modmanager if i want to use these overhauls (separately of course).
+
+Any help would be appreciated! I just can't play vanilla after i played DeI months ago ...  But it was when all the patches were already released so i don't really understand why won't it work now when it worked then, with presumably the same torrents and the same 15666 patch from here.
+
+Blas
+
+===EDIT===
+currently patching 15666 to 16155 ... without the 16109 which is unavailable and the openload links are not working. hope that'll work, even though my game is reloaded and not prophet.
+===EDIT===
+now even Rome2.exe (base game) won't launch, same like when i try to load it via the modmanager  and the launcher say cannot initialize steam.
+Now i think i'll conveniently give up and wait for a solution. :/
+===EDIT===
+apparently gave up for 10 minutes. Figured out that the OP is NOT updated. Searched for 16155 and found a crack for the Prophet update patch. Now installing everything (PROPHET), checking these goddamn numbers every time i do something  i thought if i have 2.2.0 i'm all set ... 
+
+===EDIT===
+GUYS it's working ... holy hell ... i accidentally spilled my coffee on my notes  but who cares now!!!
+i'm gonna leave this mess here so people can find it and ask less questions ... 
+~~~WHAT TO DO~~~
+1. Download & install PROPHET version of the Emperor's Edition, don't crack it with the provided crack.
+2. download and install this to patch the game from the original Prophet's version (15539) straight to 16155 without having to install versions 15666 and 16019, because these two are included in this one: https://openload.co/f/34YirjLECug/21495 ... .16155.rar
+3. IF YOU USE ENGLISH ONLY
+a) download this: https://mega.nz/#!HgoBAZYA!oUfC6YbDspqV ... S5YGHnEdfY
+b) delete language related pack files in the data folder. stuff like local_en.pack. there are 3 for every language. i only have english.
+c) move these new files into the data folder
+3. IF YOU USE OTHER LANGUAGES
+a) download this https://mega.nz/#F!R8R0EChT!GNQhhKNM15cADUfT-KekSA
+b) delete language related pack files in the data folder. 3 for every language, the language's name in it, like en, fr, de, etc.
+c) move these new files into the data folder, for the language(s) you'll need. It's probably a good idea to move the English one too, but i don't know about that.
+4. Finally, download and crack the 16155 version game with this http://www11.zippyshare.com/v/JNMAtSIk/file.html
+And you're done.  Use ModManager https://docviewer.yandex.com/?url=ya-di ... c01a402b78
+because the launcher in the launcher folder will not work (with these steps at least)
+
+
+
+I followed these instructions and the game still crashes at launch. Are you sure this is a correct tutorial? I downloaded the last PROPHET version, and I have confirmed it works with the included crack. I then uninstalled and made a fresh install, followed the instructions, and I only get crashes.
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 03 Sep 2017, 20:03]
+Somewhere in this thread are SFV's for latest version + all languages.
+
+Check your installation.
+
+Edit: viewtopic.php?p=1383625#p1383625
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 03 Sep 2017, 20:03]
+
+_________________
+Haters gonna hate!
+My updates are always clean files - no cracks included.
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 10 Sep 2017, 01:29]
+Halaberiel wrote:
+If we want the fully updated game, where are we supposed to start? The initial post is kind of a mess with many updates and missing links. I downloaded one from torrents that I've played for ages now, but I want to play mods which I guess req the most recent version.
+
+Try googling this and download from skidrow reloaded website, it is latest version including all DLC's with just one torrent:
+TOTAL WAR ROME II EMPEROR EDITION MULTi9-ElAmigos
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 14 Sep 2017, 19:49]
+Launcher.exe got updated today.
+
+I don't know if it's usefull, so here is the new Launcher.exe
+
+http://www2.zippyshare.com/v/cQ7JJp2r/file.html
+
+Edit:
+
+Maybe a new DLC for TWR2?
+http://steamcommunity.com/app/214950/di ... 809073900/
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 14 Sep 2017, 19:49]
+
+_________________
+Haters gonna hate!
+My updates are always clean files - no cracks included.
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 15 Sep 2017, 04:04]
+Johnba98 wrote:
+Halaberiel wrote:
+If we want the fully updated game, where are we supposed to start? The initial post is kind of a mess with many updates and missing links. I downloaded one from torrents that I've played for ages now, but I want to play mods which I guess req the most recent version.
+
+Try googling this and download from skidrow reloaded website, it is latest version including all DLC's with just one torrent:
+TOTAL WAR ROME II EMPEROR EDITION MULTi9-ElAmigos
+
+
+Thanks this was useful, although now I have the problem of not being able to install any mods without Steam xD. I guess I'll just move onto Atilla since I'm bored of Rome2 without mods. If anyone can help with this though it would be appreciated...
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 15 Sep 2017, 12:29]
+can i play TOTAL WAR ROME II EMPEROR EDITION MULTi9-ElAmigos with all DLCs and mods without steam account,also i read somewhere you only need steam running in background without steam account.

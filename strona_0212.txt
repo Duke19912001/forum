@@ -1,0 +1,241 @@
+=========================================
+STRONA 212 (URL: https://cs.rin.ru/forum/viewtopic.php?f=10&t=61441&hilit=rome+2&start=3165)
+=========================================
+
+[Data: Saturday, 09 Apr 2016, 22:38]
+NobodyEven wrote:
+Anyway, so its not like I appeared to be just complaining (which I didn't mean to come off like that)
+
+Thanks for the uploads here everyone  With prophet+pedia+that one patch posted a couple or so pages back...game works really great 
+
+I highly recommend playing with ToonTotalWar's mod
+
+http://toontotalwar.wix.com/rome-2-all-in-one
+
+Its by far best mod for Rome 2 
+
+
+Divide Et Impera is.
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 12 Apr 2016, 14:26]
+Voehr wrote:
+"EN" language pack is missing from testni's upload, indeed, but everything else works just fine (i.e. "no voices" is fixed with addition of updated language pack/removal of outdated files, per the instruction). I've been able to find English language pack here in two parts, though, so here you are.
+
+Anyway - great thanks!
+
+
+Thanks for helping us out, but I am afraid downloading these two packs and installing them to the ...\data\ folder doesn't solve the missing sound problem.
+
+Any other ideas? I'm currently playing with Skidrow's release with missing encyclopaedia until I can solve this.
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 13 Apr 2016, 15:15]
+^
+The updated language files are only for latest game version. Skidrows isn't the latest (if there is one. Never seen a rls from skid).
+
+Grab the prophet release, update with my update, delete all language files from data folder (except encyclopedia) and then download updated language packs. So easy. Then all problems related to missing sounds are gone.
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 13 Apr 2016, 15:15]
+
+_________________
+Haters gonna hate!
+My updates are always clean files - no cracks included.
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 13 Apr 2016, 15:29]
+SKIDROW never released anything for this game.
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 14 Apr 2016, 13:36]
+I mean catalyst's release.
+
+I can't make it work.
+
+So I tried,
+1) Install the PROPHET release (didn't apply their crack)
+2) Applied your Total War: Rome II Update PROHPET to v2.2.0 Build 16155
+3) Removed:
+
+music_en_rome2
+local_en
+local_en_rome2
+
+4) Applied English language packs: viewtopic.php?p=1200405#p1200405
+5) Applied Machines 2.2.0.16155 pedia crack (with 2 errors)
+6) Game doesn't run now.
+
+EDIT: my fault, I didn't add the mods while user.script.txt was still edited, ultimately leading to an error. I'll try the whole installation again for 4th time soon.
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 14 Apr 2016, 14:21]
+@Quintillius
+
+What language are you trying to play the game in? If english, then there is no need to delete any files or download language packs.
+
+Simply go (make sure there are NO errors - important):
+1. Total War ROME II Emperor Edition MULTi9-PROPHET (install in english)
+2. Total War: Rome II Update PROHPET to v2.2.0 Build 16155
+3. Machines 2.2.0.16155 pedia crack
+
+Now you have fully up-to-date game in english language and all sounds must be present.
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 14 Apr 2016, 16:23]
+Hmm pedia doesn't work now:
+
+
+ Spoiler
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 14 Apr 2016, 16:23]
+
+_________________
+https://www.cialispascherfr24.com/
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 14 Apr 2016, 16:39]
+Why you update the game when you have installed latest version? Just use the crack provided by machine.
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 14 Apr 2016, 16:39]
+
+_________________
+Haters gonna hate!
+My updates are always clean files - no cracks included.
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 14 Apr 2016, 17:26]
+Quintillius wrote:
+Hmm pedia doesn't work now:
+
+
+ Spoiler
+
+you have the wrong game version files, but correct dlc files.. if you have the real PPT iso, you need apply updates to 16155(with NO errors!!) and crack. then ALL will work just fine!
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 14 Apr 2016, 17:30]
+Okay after 6 times of installing this game I finally got it working .
+Seems I only need to do this:
+
+1. Install Prophet's release.
+2. Apply Prophet's crack.
+3. Apply machine's crack (not update).
+
+Now I can also finally thank you for being so helpful and all efforts. 
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 14 Apr 2016, 17:30]
+
+_________________
+https://www.cialispascherfr24.com/
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 14 Apr 2016, 17:44]
+Quintillius wrote:
+Okay after 6 times of installing this game I finally got it working .
+Seems I only need to do this:
+
+1. Install Prophet's release.
+2. Apply Prophet's crack.
+3. Apply machine's crack (not update).
+
+Now I can also finally thank you for being so helpful and all efforts. 
+
+last PROPEHT release is NOT current! its game version 15666! to have current version you need to install updates too, not just newest crack.
+
+PROPHET release(2.2.0.15666)
+Total.War.ROME.II.Update.v2.2.0.16019
+Total.War.ROME.II.Update.v2.2.0.16155
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 14 Apr 2016, 18:13]
+machine4578 wrote:
+Total.War.ROME.II.Update.v2.2.0.16019
+
+
+This update is down several months now.
+
+@testni: There is a need to download english language files. After prophet release, there was a change in ALL language files (included english). That's the reason why machine's 16019 update was so big.
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 14 Apr 2016, 18:13]
+
+_________________
+Haters gonna hate!
+My updates are always clean files - no cracks included.
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 14 Apr 2016, 18:42]
+ok, i will re-upload the Total.War.ROME.II.Update.v2.2.0.16019 update
+
+-edit-
+
+i will actually upload a nice AIO pack with both cracks(pedia and offline) and both updates(16019 and 16155) for the PPT release.
+also note its eng only
+
+-edit-
+
+Total.War.ROME.II.Update.v2.2.0.15666-v2.2.0.16155
+https://openload.co/f/fCi9vlajSgw/Total ... .part1.rar
+https://openload.co/f/K1yJN-iLv3k/Total ... .part2.rar
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 18 Apr 2016, 10:07]
+machine4578 wrote:
+ok, i will re-upload the Total.War.ROME.II.Update.v2.2.0.16019 update
+
+-edit-
+
+i will actually upload a nice AIO pack with both cracks(pedia and offline) and both updates(16019 and 16155) for the PPT release.
+also note its eng only
+
+-edit-
+
+Total.War.ROME.II.Update.v2.2.0.15666-v2.2.0.16155
+https://openload.co/f/fCi9vlajSgw/Total ... .part1.rar
+https://openload.co/f/K1yJN-iLv3k/Total ... .part2.rar
+
+
+thank you! 
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 25 Apr 2016, 18:58]
+machine4578 wrote:
+ok, i will re-upload the Total.War.ROME.II.Update.v2.2.0.16019 update
+
+-edit-
+
+i will actually upload a nice AIO pack with both cracks(pedia and offline) and both updates(16019 and 16155) for the PPT release.
+also note its eng only
+
+-edit-
+
+Total.War.ROME.II.Update.v2.2.0.15666-v2.2.0.16155
+https://openload.co/f/fCi9vlajSgw/Total ... .part1.rar
+https://openload.co/f/K1yJN-iLv3k/Total ... .part2.rar
+
+
+sorry for asking
+can you give me the registry entry for the game so that i can make a repack ?

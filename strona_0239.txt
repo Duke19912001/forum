@@ -1,0 +1,212 @@
+=========================================
+STRONA 239 (URL: https://cs.rin.ru/forum/viewtopic.php?f=10&t=61441&hilit=rome+2&start=3570)
+=========================================
+
+[Data: Tuesday, 07 Nov 2017, 18:53]
+-- Edit --
+
+I think my problem is because I have a cracked version of prophet release [fitgirl repack] while I should apply the patch on a NON-cracked version. Can someone please provide with the original non-cracked rome 2 exe?
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 07 Nov 2017, 18:53]
+
+_________________
+Short List of Highest Paying Apps & Reward Sites
+(Paypal, Steam Wallet, & Amazon Giftcards)
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 07 Nov 2017, 18:55]
+Here are the original files
+http://www18.zippyshare.com/v/KlnncCXQ/file.html
+
+If i missed something, report back by check your game with SFV's i posted a page back.
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 07 Nov 2017, 18:55]
+
+_________________
+Haters gonna hate!
+My updates are always clean files - no cracks included.
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 07 Nov 2017, 19:23]
+Thank you. I will reinstall and check with the SFV and report back.
+
+-- Edit --
+
+You posted the SFVs for each language in January 2017, whereas you posted the instructions on fully updating the game in March 2017. Are these SFVs up to date?
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 07 Nov 2017, 19:23]
+
+_________________
+Short List of Highest Paying Apps & Reward Sites
+(Paypal, Steam Wallet, & Amazon Giftcards)
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 07 Nov 2017, 19:24]
+Read here about up to date 
+
+viewtopic.php?p=1576363#p1576363
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 07 Nov 2017, 19:24]
+
+_________________
+Haters gonna hate!
+My updates are always clean files - no cracks included.
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 07 Nov 2017, 19:56]
+i am talking about up to date sfv files not game files. the last sfv file u posted goes back to january 2017. is this compatible with build 16155?
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 07 Nov 2017, 19:56]
+
+_________________
+Short List of Highest Paying Apps & Reward Sites
+(Paypal, Steam Wallet, & Amazon Giftcards)
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 07 Nov 2017, 20:16]
+Yes!
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 07 Nov 2017, 20:16]
+
+_________________
+Haters gonna hate!
+My updates are always clean files - no cracks included.
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 07 Nov 2017, 22:54]
+After checking with english SFV, I have the following 4 files missing/bad:
+
+\data\text\credits.xml
+\data\text\disclaimers.html
+\data\text\default_keys.xml
+installscript.vdf
+
+Can you please share them with me?
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 07 Nov 2017, 22:54]
+
+_________________
+Short List of Highest Paying Apps & Reward Sites
+(Paypal, Steam Wallet, & Amazon Giftcards)
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 08 Nov 2017, 16:56]
+New DLC - 30th November
+
+http://store.steampowered.com/app/69488 ... e_Divided/
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 08 Nov 2017, 16:56]
+
+_________________
+Haters gonna hate!
+My updates are always clean files - no cracks included.
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 08 Nov 2017, 19:48]
+knabberfee wrote:
+New DLC - 30th November
+
+http://store.steampowered.com/app/69488 ... e_Divided/
+
+
+Nice, I'm glad that Rome 2 gets such an exciting DLC. I hope we get it soon 
+
+https://en.wikipedia.org/wiki/Crisis_of ... rd_Century
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 08 Nov 2017, 19:52]
+A BETA patch is up too in the "power_and_politics" branch.
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 08 Nov 2017, 19:52]
+
+_________________
+Haters gonna hate!
+My updates are always clean files - no cracks included.
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 09 Nov 2017, 10:19]
+knabberfee wrote:
+A BETA patch is up too in the "power_and_politics" branch.
+
+Is anybody willing to put here this patch ?
+Thanks.
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 09 Nov 2017, 10:22]
+leonardusius wrote:
+knabberfee wrote:
+A BETA patch is up too in the "power_and_politics" branch.
+
+Is anybody willing to put here this patch ?
+Thanks.
+
+imo its BEST to wait for official patch and dlc
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 09 Nov 2017, 11:37]
+machine4578 wrote:
+leonardusius wrote:
+knabberfee wrote:
+A BETA patch is up too in the "power_and_politics" branch.
+
+Is anybody willing to put here this patch ?
+Thanks.
+
+imo its BEST to wait for official patch and dlc
+
+Many wants to see what is get before official.
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 09 Nov 2017, 15:39]
+Will upload a BETA PATCH soon for all languages.
+
+Beware, this update is NOT CRACKED!
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 09 Nov 2017, 15:39]
+
+_________________
+Haters gonna hate!
+My updates are always clean files - no cracks included.
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 09 Nov 2017, 17:15]
+knabberfee wrote:
+Will upload a BETA PATCH soon for all languages.
+
+Beware, this update is NOT CRACKED!
+
+I think this patch don't need crack. It's just like a mod I suppose.

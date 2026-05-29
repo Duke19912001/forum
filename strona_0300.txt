@@ -1,0 +1,195 @@
+=========================================
+STRONA 300 (URL: https://cs.rin.ru/forum/viewtopic.php?f=10&t=61441&hilit=rome+2&start=4485)
+=========================================
+
+[Data: Monday, 19 Aug 2019, 17:02]
+Rui wrote:
+bigbluetrongt wrote:
+@ Rui: Thank you very much for the upload. Would you be so kind as to upload the Spanish files?. I would greatly appreciate it. Cheers.
+
+Depot IDs:
+214963 spanish_shared 959.43 MiB Spanish
+214964 spanish_rome2 1.74 GiB Spanish
+
+Sure!
+
+In fact, I uploaded ALL language packs instead 
+
+
+ ALL LANGUAGE PACKS
+Code: Select all | Line number On/Off | Expand/Contract
+https://privatebin.rinuploads.org/?0bc0 ... kUJOIxc1g= [May link to unsafe filehosters]
+
+Can't download italian language pack from google drive
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 20 Aug 2019, 01:43]
+Read our FAQ (A06)
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 20 Aug 2019, 01:43]
+
+_________________
+The FAQ are you waiting for?
+
+A wild PASSWORD appeared for protected archives & files on RIN! Member used cs.rin.ru ...it's super effective!
+
+Having problems downloading from Google Drive? Click here.
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 14 Sep 2019, 18:14]
+Idk if it was posted already but this is how to get rid of the damned intro videos
+
+Here's a lil guide how to get rid of those pesky intro vids:
+
+(do at your own risk)
+
+download the brilliant modding tool called Pack File Manager (PFM) from here:
+https://sourceforge.net/projects/packfi ... s/Release/
+
+extract it somewhere - I recommend not to use the same folder in which you have installed Rome Total War 2 (RTW2)
+
+when you start PFM for the first time, it asks for directories. When it asks for RTW2, choose its install path. Cancel the search queries for the other games (Shogun & Napoleon) if you don't wanna use PFM with them
+
+If something went wrong here and PFM crashes with exceptions, delete gamedirs.txt in the PFM Folder and start over.
+
+now, this is important: BEFORE you start PFM, open the Windows Explorer and go to RTW2\Data Folder and create a backup of the file movies.pack. (just in case something goes wrong)
+
+start PFM and go to options > uncheck CA Packs Are Read Only
+
+a prompt will appear > Click: I'm not afraid, coward!
+
+go to > File > Open > and choose the RTW2\Data - Folder and open the file movies.pack with it
+
+delete Intro.bik, intel_logo_english.bik and sega_logo_sting_hd.bik - alternativly you can replace them with a blank bik file. (Menu Bar > Files > Replace File)
+
+Voilá, no annoying intros anymore \o/
+
+found on https://www.reddit.com/r/totalwar/comme ... in_rome_2/
+(link modified with latest PFM)
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 15 Sep 2019, 19:53]
+Or just press Esc two times 
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 15 Sep 2019, 19:53]
+
+_________________
+Always wanted to get rid of the files that were not listed in the sfv/md5 hash file? Check the QuickSFV plugin I created for this: viewtopic.php?f=10&t=108605 or this: viewtopic.php?p=1273745#p1273745
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 26 Sep 2019, 19:54]
+if I understood correctly, for those with legal steam base game, besides loose DLC mentioned, all others, including EMpire divided can be unlocked without need for specific file?
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 28 Sep 2019, 18:55]
+Can someone upload the english language pack? I have the spanish version but got the mod DEI and text is not working well
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 28 Sep 2019, 18:55]
+
+_________________
+Trying to be polite, since english isn't my native language sometimes I can sound rude, sorry for that, it is not my intention.
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 30 Sep 2019, 06:14]
+I have Modmanager 2.0 for launch the game with mods, but after Desert Kingdom update it doesn't work. Any solution?
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 02 Oct 2019, 01:05]
+Can anyone upload this mod? Thanks
+
+https://steamcommunity.com/sharedfiles/ ... 1851931438
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 03 Oct 2019, 09:19]
+Venom wrote:
+shima_momy wrote:
+@Venom
+knabberfee links are down (zippyshare offline I guess)
+Can you please upload all DLCs for steam base legit version all in 1 package please?
+
+https://drive.google.com/open?id=1Pv3WohUCge75smHSmvM6vQ9hTQUBDwXv
+
+
+Anymore recent dlc compilations? Looks like this ones been removed
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 03 Oct 2019, 11:17]
+fooflinger2 wrote:
+Venom wrote:
+shima_momy wrote:
+@Venom
+knabberfee links are down (zippyshare offline I guess)
+Can you please upload all DLCs for steam base legit version all in 1 package please?
+
+https://drive.google.com/open?id=1Pv3WohUCge75smHSmvM6vQ9hTQUBDwXv
+
+
+Anymore recent dlc compilations? Looks like this ones been removed
+
+
+It's still up ^^
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 03 Oct 2019, 11:17]
+
+_________________
+Always wanted to get rid of the files that were not listed in the sfv/md5 hash file? Check the QuickSFV plugin I created for this: viewtopic.php?f=10&t=108605 or this: viewtopic.php?p=1273745#p1273745
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 04 Oct 2019, 18:44]
+Just wanted to ask if it's me or something changed: my TWR2MM now starts Steam with the latest version of the mod and the CODEX version of the game I re downloaded from here.
+
+Has anybody found this problem too ?
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 31 Oct 2019, 10:42]
+looks like the library update broke this game for some reason
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 03 Nov 2019, 08:00]
+hey guys, i try to download the cream api from https://openload.co/f/-0hKPVId634/Total ... reamAPI.7z link, but it's not working for some reason ( it says "This site can’t be reached").
+
+is there another way i can get the creamAPI files ?
+thanks !
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 03 Nov 2019, 16:10]
+Pleas search next time: viewtopic.php?f=10&t=61441&p=1797227&hilit=CreamAPI#p1797227.
+(Openload is shut down for good by the way.)
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 03 Nov 2019, 16:10]
+
+_________________
+Frequently Asked Questions
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 04 Nov 2019, 00:50]
+ASDF wrote:
+Pleas search next time: viewtopic.php?f=10&t=61441&p=1797227&hilit=CreamAPI#p1797227.
+(Openload is shut down for good by the way.)
+
+
+thanks homiel. ( btw i used search but didnt notice venom's link that everyone was talking about XD)

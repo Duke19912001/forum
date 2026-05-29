@@ -1,0 +1,129 @@
+=========================================
+STRONA 216 (URL: https://cs.rin.ru/forum/viewtopic.php?f=10&t=61441&hilit=rome+2&start=3225)
+=========================================
+
+[Data: Tuesday, 09 Aug 2016, 00:05]
+Hi I downloaded Rome 2 - Emperor Edition from other site and it says it is v2.0.0 (13903.584483).
+
+Can somebody point me what to download to have the latest updated version? Those patch names are kinda confusing to orientate in.
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 09 Aug 2016, 19:06]
+funeh wrote:
+Hi I downloaded Rome 2 - Emperor Edition from other site and it says it is v2.0.0 (13903.584483).
+
+Can somebody point me what to download to have the latest updated version? Those patch names are kinda confusing to orientate in.
+
+
+Follow the list in the OP. Version numbers are in the actual posts themselves.
+viewtopic.php?f=10&t=61441
+viewtopic.php?f=10&t=61441&p=948154#p948154
+
+
+But if you don't have metered Internet, it may be easier to get these releases or an up to date repack right away:
+Total.War.ROME.II.Emperor.Edition.MULTi9-PROPHET
+Total.War.ROME.II.Update.v2.2.0.15666-v2.2.0.16019
+Total.War.ROME.II.Update.v2.2.0.16019-v2.2.0.16155 viewtopic.php?p=1213034#p1213034
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 09 Aug 2016, 19:06]
+
+_________________
+Always wanted to get rid of the files that were not listed in the sfv/md5 hash file? Check the QuickSFV plugin I created for this: viewtopic.php?f=10&t=108605 or this: viewtopic.php?p=1273745#p1273745
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 09 Aug 2016, 19:48]
+Thanks I will download the new release then. I was confused that some patches were v15 v16 v17 and some v2 v2.2 etc...
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 11 Aug 2016, 13:04]
+btw is the cracked game playable multiplayer? with hamachi or maybe something other software?
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 11 Aug 2016, 13:45]
+..search thread!? Tunngle giving desync, steamworks-fix working over steam mp, invite friends!
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 11 Aug 2016, 15:16]
+U want me to search 216 pages of thread? seriously ?  Is it such a pain to point me to instructions how to make it work MP?
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 11 Aug 2016, 16:56]
+No? Theres a search button for every thread above at the right..
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 11 Aug 2016, 23:24]
+^^And a second one in the bottom right corner, for even more convenience...! 
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 11 Aug 2016, 23:24]
+
+_________________
+
+
+The standard password is cs.rin.ru
+Please read the Forum Rules and the F.A.Q.
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 12 Aug 2016, 18:50]
+Christsnatcher wrote:
+^^And a second one in the bottom right corner, for even more convenience...! 
+
+And a third one in the bottom left corner for one's ultimate searching pleasure  ^^
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 12 Aug 2016, 18:50]
+
+_________________
+Always wanted to get rid of the files that were not listed in the sfv/md5 hash file? Check the QuickSFV plugin I created for this: viewtopic.php?f=10&t=108605 or this: viewtopic.php?p=1273745#p1273745
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 15 Aug 2016, 01:27]
+any of you guys still saving radious mod before patch 16? could you pls upload it for me ? thanks
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 15 Aug 2016, 07:18]
+Of course I used the search button it doesnt give up anything. Search engines on forums like this are most of the time broken and doesnt give up any results. Thanks anyway.
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 15 Aug 2016, 12:38]
+Yeah? Then your too stricted to be able to use search, really...only searching for "multiplayer" gives enough postings with instuctions! So either you're not able to use search or you're lying!
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 16 Aug 2016, 14:30]
+well thats weird because last time I searched it found only one weird post. Now it has much more. Sorry for incovenience, I am not lying.
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 17 Aug 2016, 16:39]
+Hi there everyone, first of all thx very much for the provision of the English Patch 17, I didn't even know it's existence until today. I always thought that Prophet multi version is the final definite version for RTW2 but apparently not anymore. So now the problem is, how can I find the multi languages files for this Patch 17? I want to do a French definite RTW2 repack and I would like to have the latest local_fr.pack, local_fr_rome2.pack, music_fr.pack, music_fr_rome2.pack. Mighty members could you guys give me any clue? Tried google, yandex, baidu, Bing but not a thing related.
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 17 Aug 2016, 17:35]
+^Use this. Make sure to delete all language files before replacing
+
+viewtopic.php?p=1123055#p1123055
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 17 Aug 2016, 17:35]
+
+_________________
+Haters gonna hate!
+My updates are always clean files - no cracks included.

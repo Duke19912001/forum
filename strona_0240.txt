@@ -1,0 +1,211 @@
+=========================================
+STRONA 240 (URL: https://cs.rin.ru/forum/viewtopic.php?f=10&t=61441&hilit=rome+2&start=3585)
+=========================================
+
+[Data: Thursday, 09 Nov 2017, 17:33]
+Even better., but Rome2.exe and Rome2.dll got patched.
+
+Language updates are very small (~30mb).
+Update for Main files should be huge, there is a new 3Gb file.
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 09 Nov 2017, 17:33]
+
+_________________
+Haters gonna hate!
+My updates are always clean files - no cracks included.
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 09 Nov 2017, 19:07]
+knabberfee wrote:
+Even better., but Rome2.exe and Rome2.dll got patched.
+
+Language updates are very small (~30mb).
+Update for Main files should be huge, there is a new 3Gb file.
+
+
+Still using CEG? I thought that had been abandoned by now.
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 09 Nov 2017, 19:07]
+
+_________________
+Always wanted to get rid of the files that were not listed in the sfv/md5 hash file? Check the QuickSFV plugin I created for this: viewtopic.php?f=10&t=108605 or this: viewtopic.php?p=1273745#p1273745
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 09 Nov 2017, 19:12]
+Anomaly wrote:
+knabberfee wrote:
+Even better., but Rome2.exe and Rome2.dll got patched.
+
+Language updates are very small (~30mb).
+Update for Main files should be huge, there is a new 3Gb file.
+
+
+Still using CEG? I thought that had been abandoned by now.
+
+maybe the BETA update removes it, but as of last official update it was still there.
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 09 Nov 2017, 19:51]
+Total War: Rome 2 Update v2.2.0 Build 17366 BETA
+
+How to:
+1. Download and install PROPHET release. DO NOT APPLY PPT CRACK!
+2. Use this Update to patch the PROPHET release to latest stable build v2.2.0 Build 16155 *DOWNLOAD*
+3. Delete language related files from your installation (in Data folder, all files that contain language letters, f.e. "_en_", "_fr_", "_ge_", etc. (otherwise you will get no sound/voices ingame)).
+4. Download your desired language pack from here *ENGLISH* *OTHER LANGUAGES*
+5. Copy new language files to GameDir\Data folder.
+-> At this point you can make a backup of your game folder and copy&paste crack from Step 2 archive. Also check with this sfv's viewtopic.php?p=1383625#p1383625
+6. *Download and install the BETA patch *DOWNLOAD* *MIRROR*
+7. Download and install language patcher for the BETA patch *DOWNLOAD* *MIRROR*
+8. Done. Probably wait for a crack.
+
+*If you have used a crack for v2.2.0 Build 16155 already, use the included archive named "OrigFilesForPatching.rar" and replace all files before applying the BETA update.
+
+If it helps for cracking purposes, here are all binaries: http://www11.zippyshare.com/v/y5uUQQxn/file.html
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 09 Nov 2017, 19:51]
+
+_________________
+Haters gonna hate!
+My updates are always clean files - no cracks included.
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 09 Nov 2017, 23:28]
+I'm getting weird text bugs like this - https://www.reddit.com/r/totalwar/comme ... _text_bug/
+
+Only it's a few lines here and there that gets messed up. The fix provided in that link makes it readable, but it's very hard to see the text - it becomes fuzzy and pretty unclear.
+
+I have the latest version. I just went from:
+
+Total.War.ROME.II.Update.v2.2.0.15539-v2.2.0.15666
+Total.War.ROME.II.Update.v2.2.0.15666-v2.2.0.16019
+Total.War.ROME.II.Update.v2.2.0.16019-v2.2.0.16155
+
+I just tried doing the 5 first steps from knabberfree, same graphic issue. Shogun works fine, attila works fine, also warhammer. Rome II used to work fine with the old 15539 version.
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 09 Nov 2017, 23:50]
+@knabberfee
+still uses CEG.
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 10 Nov 2017, 09:29]
+machine4578 wrote:
+@knabberfee
+still uses CEG.
+
+I think it run with SmartSteamEmu.
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 10 Nov 2017, 13:52]
+As long as you have the CEG cracked exe, yes, it should run with SSE.
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 10 Nov 2017, 13:52]
+
+_________________
+I've received multiple messages in which people expressed their desire to support my work in RIN; I appreciate your care, but I have all support I need; consider instead to support the developers of the games you actually enjoy. Rui
+
+
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 10 Nov 2017, 16:38]
+Rui wrote:
+As long as you have the CEG cracked exe, yes, it should run with SSE.
+
+I think all effort for nothing. We wont have the crack until official release.
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 10 Nov 2017, 16:40]
+Then wait for the official release. It's a beta update anyways.
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 10 Nov 2017, 16:40]
+
+_________________
+I've received multiple messages in which people expressed their desire to support my work in RIN; I appreciate your care, but I have all support I need; consider instead to support the developers of the games you actually enjoy. Rui
+
+
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 13 Nov 2017, 17:03]
+Anyone got build 16155 working with SSE?
+I got it working but it always crashes after first Fight.
+With old romeII.dll from last build it works but ist old build then-.-.
+
+Thy for any help
+
+Flokehl
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 13 Nov 2017, 19:37]
+leonardusius wrote:
+Rui wrote:
+As long as you have the CEG cracked exe, yes, it should run with SSE.
+
+I think all effort for nothing. We wont have the crack until official release.
+
+
+Will also upload update if final release is out. And i am sure Scene release will follow.
+
+So to save your time and bandwidth you can download my beta update and the next one instead of downloading a whole multi9 20GB+ package.
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 13 Nov 2017, 19:37]
+
+_________________
+Haters gonna hate!
+My updates are always clean files - no cracks included.
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 13 Nov 2017, 21:11]
+if your answer was for my post, im not talking about the beta patch.
+Im trying to get Patch 17 running with smart steam Emu.
+Everything works fine without crack and just with the Emu but game is crashing to Desktop after every battle.
+
+Thy for your help
+
+
+Flokehl
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 13 Nov 2017, 23:28]
+Flokehl wrote:
+if your answer was for my post, im not talking about the beta patch.
+Im trying to get Patch 17 running with smart steam Emu.
+Everything works fine without crack and just with the Emu but game is crashing to Desktop after every battle.
+
+Thy for your help
+
+
+Flokehl
+
+if you want to play using SSE on current cracked version. you MUST make sure the LumaCEG plugin is loaded by SSE!
+you also must make sure you are using the org steam_api.dll!
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 14 Nov 2017, 04:56]
+So will the game work if i install this new beta patch or should i just play 16155 until official dlc is released ?

@@ -1,0 +1,296 @@
+=========================================
+STRONA 233 (URL: https://cs.rin.ru/forum/viewtopic.php?f=10&t=61441&hilit=rome+2&start=3480)
+=========================================
+
+[Data: Thursday, 06 Jul 2017, 16:27]
+starhub wrote:
+ShadowDuke wrote:
+Yes you can, use search, answered million times already. Hint; cream_api would be the easiest way, or hexedit your packageinfo.vdf.
+
+
+
+Christsnatcher wrote:
+Here're the contents of all DLC depots (except Hannibal at the Gates which I don't have legit access to) as requested in the CreamAPI topic. 
+
+Blood & Gore
+
+https://openload.co/f/Dj_35dKiSzA
+
+Caesar in Gaul
+
+https://openload.co/f/ufLDln4DTxA
+
+Nomadic Tribes Culture Pack
+
+https://openload.co/f/KM1u4oNbqko
+
+Wrath of Sparta
+
+https://openload.co/f/gD6gc77XGrA
+
+
+2 files deleted. And how can ı get cream_api?
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 06 Jul 2017, 16:32]
+EziodonVitoo wrote:
+...And how can ı get cream_api?
+
+viewtopic.php?f=29&t=70576
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 08 Jul 2017, 19:34]
+machine4578 wrote:
+EziodonVitoo wrote:
+...And how can ı get cream_api?
+
+viewtopic.php?f=29&t=70576
+
+Wooot?!! You own all available DLC packs! Yupiie! Search tool is awesome. But I would suggest for a small tutorial to be added in the OP of the thread, I see time and again people asking about cream pie, icecream, etc.
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 08 Jul 2017, 19:34]
+
+_________________
+Click here for FAQs. Please don't forget to use the forum SEARCH function. You can even search a specific thread for specific issues.
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 16 Jul 2017, 14:01]
+ShadowDuke wrote:
+Total.War.ROME.II.Update.16.1.Wrath.of.Sparta *xdelta* Version: v2.2.0-15539.624940 (16.12.2014)
+
+You need Update 16 without Hotfix installed!
+
+Changelog:
+
+
+ Spoiler
+Code: Select all | Line number On/Off | Expand/Contract
+ 
+v2.2.0-15539.624940
+ 
+ 
+
+
+
+Code: Select all | Line number On/Off | Expand/Contract
+1) Extract all files to your Rome 2 <root> install dir
+2) Start TWR2_UP16_1_Wrath_of_Sparta.bat
+3) Copy Crack
+4) Play
+
+
+Download: [704 mb] (uptobox, MEGA, Google Drive)
+
+
+Code: Select all | Line number On/Off | Expand/Contract
+https://safelinking.net/0affb5dfcf
+
+
+pw: cs.rin.ru
+
+Notes: German & English Update! Gaul and HATG updated! EN/DE encyclopedia updated! Wrath of Sparta DLC included!
+
+
+Link is down, please upload again ! also any news on v2.2.0.15666-v2.2.0.16019 update? i need both to play Radion total war mod 2 please!
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 16 Jul 2017, 15:09]
+i suggest you get the PPT iso and the update(s) i posted for the complete up to date version
+https://openload.co/f/34YirjLECug/21495 ... .16155.rar
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 16 Jul 2017, 20:21]
+ok thanks ill check it out the updates i have now fail . is there anyway on getting re-upload of the wrath of sparta dlc at all?
+
+-- Edit --
+
+
+ss0207 wrote:
+ShadowDuke wrote:
+Total.War.ROME.II.Update.16.1.Wrath.of.Sparta *xdelta* Version: v2.2.0-15539.624940 (16.12.2014)
+
+You need Update 16 without Hotfix installed!
+
+Changelog:
+
+
+ Spoiler
+Code: Select all | Line number On/Off | Expand/Contract
+ 
+v2.2.0-15539.624940
+ 
+ 
+
+
+
+Code: Select all | Line number On/Off | Expand/Contract
+1) Extract all files to your Rome 2 <root> install dir
+2) Start TWR2_UP16_1_Wrath_of_Sparta.bat
+3) Copy Crack
+4) Play
+
+
+Download: [704 mb] (uptobox, MEGA, Google Drive)
+
+
+Code: Select all | Line number On/Off | Expand/Contract
+https://safelinking.net/0affb5dfcf
+
+
+pw: cs.rin.ru
+
+Notes: German & English Update! Gaul and HATG updated! EN/DE encyclopedia updated! Wrath of Sparta DLC included!
+
+
+Link is down, please upload again ! also any news on v2.2.0.15666-v2.2.0.16019 update? i need both to play Radion total war mod 2 please!
+
+
+found the link some how
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 16 Jul 2017, 22:17]
+Ok so I have the prophet version of rome 2 got it working and everything started a couple campaigns too now when I try to start it up it crashes saying lumaCEG has crashed any fixes to this
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 18 Jul 2017, 06:24]
+anybody know why some of the factions in the menu have missing faction bonus/traits? like for rome, the house of julia, only one of the traits is listed while the other is empty.
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 18 Jul 2017, 07:04]
+BangBang555 wrote:
+Ok so I have the prophet version of rome 2 got it working and everything started a couple campaigns too now when I try to start it up it crashes saying lumaCEG has crashed any fixes to this
+
+
+The PROPHET version of Rome 2 does not use LumaCEG. You might want to figure out which version you are running. Check if it is indeed the PROPHET version with the rome.2.prophet.installed.not.cracked.sfv attached.
+
+
+thedfv321 wrote:
+anybody know why some of the factions in the menu have missing faction bonus/traits? like for rome, the house of julia, only one of the traits is listed while the other is empty.
+
+
+Check if you have the latest version of the game (PROPHET -> v2.2.0.16155 with latest EN language pak files, the leftover language pak files leftover from PROPHET install deleted, and LumaCEG crack applied) with the other SFV attached to my post.
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 18 Jul 2017, 10:42]
+ss0207 wrote:
+ok thanks ill check it out the updates i have now fail . is there anyway on getting re-upload of the wrath of sparta dlc at all?
+
+-- Edit --
+
+
+ss0207 wrote:
+ShadowDuke wrote:
+Total.War.ROME.II.Update.16.1.Wrath.of.Sparta *xdelta* Version: v2.2.0-15539.624940 (16.12.2014)
+
+You need Update 16 without Hotfix installed!
+
+Changelog:
+
+
+ Spoiler
+Code: Select all | Line number On/Off | Expand/Contract
+ 
+v2.2.0-15539.624940
+ 
+ 
+
+
+
+Code: Select all | Line number On/Off | Expand/Contract
+1) Extract all files to your Rome 2 <root> install dir
+2) Start TWR2_UP16_1_Wrath_of_Sparta.bat
+3) Copy Crack
+4) Play
+
+
+Download: [704 mb] (uptobox, MEGA, Google Drive)
+
+
+Code: Select all | Line number On/Off | Expand/Contract
+https://safelinking.net/0affb5dfcf
+
+
+pw: cs.rin.ru
+
+Notes: German & English Update! Gaul and HATG updated! EN/DE encyclopedia updated! Wrath of Sparta DLC included!
+
+
+Link is down, please upload again ! also any news on v2.2.0.15666-v2.2.0.16019 update? i need both to play Radion total war mod 2 please!
+
+
+found the link some how,
+
+
+..the links are not down...what are you talking about!? And there is a reason its protected...
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 18 Jul 2017, 11:14]
+think the xdelta, only i think, different loeads
+you shoulkd read the rules, to downloaded, may, you are wrong
+if not the uptate necessery, ceep play
+
+Lava
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 19 Jul 2017, 04:10]
+bl3ckm3mba wrote:
+BangBang555 wrote:
+Ok so I have the prophet version of rome 2 got it working and everything started a couple campaigns too now when I try to start it up it crashes saying lumaCEG has crashed any fixes to this
+
+
+The PROPHET version of Rome 2 does not use LumaCEG. You might want to figure out which version you are running. Check if it is indeed the PROPHET version with the rome.2.prophet.installed.not.cracked.sfv attached.
+
+
+thedfv321 wrote:
+anybody know why some of the factions in the menu have missing faction bonus/traits? like for rome, the house of julia, only one of the traits is listed while the other is empty.
+
+
+Check if you have the latest version of the game (PROPHET -> v2.2.0.16155 with latest EN language pak files, the leftover language pak files leftover from PROPHET install deleted, and LumaCEG crack applied) with the other SFV attached to my post.
+
+
+Well it is the Prophet version I had it working before until it started crashing on startup maybe I wasn't using the right crack or something
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 25 Jul 2017, 03:57]
+I have the legit base game from Steam I want to add the DLC. I know how to use cream_api but where do I find the dlc's for download? There is one post that comes up when I search but all the links are down. Thanks.
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 28 Jul 2017, 18:13]
+If I start the game with divide et impera mod in user.script.txt it crashes with LumaCEG. I've tried a lot of things, no one works, neither the Mod Manager.
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 28 Jul 2017, 19:05]
+mrichler wrote:
+I have the legit base game from Steam I want to add the DLC. I know how to use cream_api but where do I find the dlc's for download? There is one post that comes up when I search but all the links are down. Thanks.
+
+If all the DLC links are down, you can always download the Prophet release and update that to the latest version, then copy the DLCs to your legit Steam installation 
+
+
+
+vonkues wrote:
+If I start the game with divide et impera mod in user.script.txt it crashes with LumaCEG. I've tried a lot of things, no one works, neither the Mod Manager.
+
+What version of the game are using and which crack?
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 28 Jul 2017, 19:05]
+
+_________________
+Always wanted to get rid of the files that were not listed in the sfv/md5 hash file? Check the QuickSFV plugin I created for this: viewtopic.php?f=10&t=108605 or this: viewtopic.php?p=1273745#p1273745

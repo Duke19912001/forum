@@ -1,0 +1,245 @@
+=========================================
+STRONA 231 (URL: https://cs.rin.ru/forum/viewtopic.php?f=10&t=61441&hilit=rome+2&start=3450)
+=========================================
+
+[Data: Monday, 15 May 2017, 18:35]
+Thanks so much Christsnatcher, I just need to get Hannibal at the Gates now.
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 24 May 2017, 15:46]
+hello,
+
+i know this game is fairly old but i enjoyed it so far.
+
+anyway, i downloaded the prophet version, downloaded the prophet patch (by Knabberfee) and downloaded the english language files and put em intro data.
+
+But the sound wont work at all.
+I tried the german ones as well.
+I also removed all appdata files, redone everything and did this on 2 different computers (we want to play together) - we both dont have any sound.
+I tried different cracks.
+I changed the language from DE to EN in the language file, it didnt help.
+(i couldnt find any sound files at all - in the tutorial its writen to delete the sound files, but there are none exept music.)
+
+
+I dont know what else i should do x(
+
+Pleeeez help
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 24 May 2017, 16:04]
+Have you deleted all old language files before applying the new ones?
+
+PPT release has outdated language files, after PPT language files has changed file names and sizes.
+
+Language files can be found in data folder. Delete all files containing your language (for english -> en), then copy new updated files into data folder.
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 24 May 2017, 16:04]
+
+_________________
+Haters gonna hate!
+My updates are always clean files - no cracks included.
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 24 May 2017, 16:46]
+When i use the crack from the "tutorial" the sound works. But when i work steamfix (i want to play with my friend x() then the sound is missing.
+
+So actually the sound files somehow must be sticked to this crack. Becaus they wont work otherwise x(((
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 24 May 2017, 16:57]
+Good to know. Then ask for a new steamfix
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 24 May 2017, 16:57]
+
+_________________
+Haters gonna hate!
+My updates are always clean files - no cracks included.
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 24 May 2017, 21:03]
+i downloaded a different version - from tunngle forum (by xatab).
+
+Its the same.
+With the Luma crack it works fine. With the steam fix, the sound is gone. But the Luma doesnt support any multiplayer x(
+I tried to leave it on russian, turn it to english, turn it to germany - nothing did change the fact the sound is complete gone x(((
+
+
+Anyway, thanks for ur works guys x)))
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 24 May 2017, 21:37]
+MrTopBananaZ wrote:
+i downloaded a different version - from tunngle forum (by xatab).
+
+Its the same.
+With the Luma crack it works fine. With the steam fix, the sound is gone. But the Luma doesnt support any multiplayer x(
+I tried to leave it on russian, turn it to english, turn it to germany - nothing did change the fact the sound is complete gone x(((
+
+
+Anyway, thanks for ur works guys x)))
+
+
+What Steamfix are you using?
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 24 May 2017, 21:37]
+
+_________________
+Always wanted to get rid of the files that were not listed in the sfv/md5 hash file? Check the QuickSFV plugin I created for this: viewtopic.php?f=10&t=108605 or this: viewtopic.php?p=1273745#p1273745
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 24 May 2017, 21:58]
+Anomaly wrote:
+MrTopBananaZ wrote:
+i downloaded a different version - from tunngle forum (by xatab).
+
+Its the same.
+With the Luma crack it works fine. With the steam fix, the sound is gone. But the Luma doesnt support any multiplayer x(
+I tried to leave it on russian, turn it to english, turn it to germany - nothing did change the fact the sound is complete gone x(((
+
+
+Anyway, thanks for ur works guys x)))
+
+
+What Steamfix are you using?
+
+
+Hello,
+
+thanks for ur reply
+
+i found it in tunngle forum.
+its named Total.War.ROME.II.Emperor.Edition.V2.2.0.Steamworks.Fix-RVTFiX.rar
+Forum:
+https://www.tunngle.net/community/topic ... co-opfull/
+Directlink:
+http://www96.zippyshare.com/v/CWKQgKJv/file.html
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 24 May 2017, 22:47]
+MrTopBananaZ wrote:
+Anomaly wrote:
+MrTopBananaZ wrote:
+i downloaded a different version - from tunngle forum (by xatab).
+
+Its the same.
+With the Luma crack it works fine. With the steam fix, the sound is gone. But the Luma doesnt support any multiplayer x(
+I tried to leave it on russian, turn it to english, turn it to germany - nothing did change the fact the sound is complete gone x(((
+
+
+Anyway, thanks for ur works guys x)))
+
+
+What Steamfix are you using?
+
+
+Hello,
+
+thanks for ur reply
+
+i found it in tunngle forum.
+its named Total.War.ROME.II.Emperor.Edition.V2.2.0.Steamworks.Fix-RVTFiX.rar
+Forum:
+https://www.tunngle.net/community/topic ... co-opfull/
+Directlink:
+http://www96.zippyshare.com/v/CWKQgKJv/file.html
+
+
+
+If you're using the latest version (i.e. v2.2.0.16155), use this encyclopedia crack: viewtopic.php?p=1119420#p1119420 http://www49.zippyshare.com/v/LkaplqwQ/file.html
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 24 May 2017, 22:47]
+
+_________________
+Always wanted to get rid of the files that were not listed in the sfv/md5 hash file? Check the QuickSFV plugin I created for this: viewtopic.php?f=10&t=108605 or this: viewtopic.php?p=1273745#p1273745
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 26 May 2017, 19:10]
+Quote:
+
+
+If you're using the latest version (i.e. v2.2.0.16155), use this encyclopedia crack: viewtopic.php?p=1119420#p1119420 http://www49.zippyshare.com/v/LkaplqwQ/file.html
+
+Workes.
+
+Thanks mate x))))
+
+We are able to play via steam online! (and sound is working as well - but iam using the version from tunngle i posted above x))
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 31 May 2017, 04:21]
+Why is the forum set up like this? Where is the main game with the lastest update?
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 31 May 2017, 10:50]
+^?!? What?
+
+Read this post: viewtopic.php?p=1410469#p1410469
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 31 May 2017, 10:50]
+
+_________________
+I've received multiple messages in which people expressed their desire to support my work in RIN; I appreciate your care, but I have all support I need; consider instead to support the developers of the games you actually enjoy. Rui
+
+
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 31 May 2017, 10:53]
+rui wrote:
+^?!? What?
+
+Read this post: viewtopic.php?p=1410469#p1410469
+
+
+I think what he meant is, that he thinks this is a Warez-site & we are posting literally EVERYTHING with links & downloads etc for every game. 
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 31 May 2017, 10:53]
+
+_________________
+The FAQ are you waiting for?
+
+A wild PASSWORD appeared for protected archives & files on RIN! Member used cs.rin.ru ...it's super effective!
+
+Having problems downloading from Google Drive? Click here.
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 07 Jun 2017, 10:58]
+Can somebody post the newest version of the game with all dlc's or guide me, which release and patches i need to download?
+Thx in advance!
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 07 Jun 2017, 11:00]
+Click the link in the quote just one post above yours 
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 07 Jun 2017, 11:00]
+
+_________________
+Haters gonna hate!
+My updates are always clean files - no cracks included.

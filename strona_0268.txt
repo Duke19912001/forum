@@ -1,0 +1,211 @@
+=========================================
+STRONA 268 (URL: https://cs.rin.ru/forum/viewtopic.php?f=10&t=61441&hilit=rome+2&start=4005)
+=========================================
+
+[Data: Sunday, 05 Aug 2018, 18:59]
+hi can someone help me for tell me where and what file I shall download for Desert kingdom dlc? I cant find Total.War.Rome.II.Empire.Divided.Update.v2.3.0.Build.18349.incl.DLC-CODEX download link.
+Thanks
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 05 Aug 2018, 19:45]
+FrankLG wrote:
+I tried using the cream api with the ancestral update and the normal one and didn't work, if i choose any campaign the only text is "DY" everywhere and starting cause a ctd, any advice?
+
+
+You used the CreamAPI preset that I uploaded, yes?
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 06 Aug 2018, 20:09]
+SniffleCry wrote:
+FrankLG wrote:
+I tried using the cream api with the ancestral update and the normal one and didn't work, if i choose any campaign the only text is "DY" everywhere and starting cause a ctd, any advice?
+
+
+You used the CreamAPI preset that I uploaded, yes?
+
+
+I'm having the same issue. Fresh steam install of R2Emperor Edition, copied and pasted everything in TWRII DLC. Empire Divided, Wrath of Sparta, Caesar in Gaul, and Hannibal at the Gates all have their text replaced with just 'dy', Victory Conditions are all blank, and when attempting to start game it immediately CTD.
+
+Started a grand campaign with one of the desert faction DLC, seems to work fine though.
+
+Thanks for any help.
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 07 Aug 2018, 08:09]
+SniffleCry wrote:
+FrankLG wrote:
+I tried using the cream api with the ancestral update and the normal one and didn't work, if i choose any campaign the only text is "DY" everywhere and starting cause a ctd, any advice?
+
+
+You used the CreamAPI preset that I uploaded, yes?
+
+Yes, the guy up is having the same problem, idk what to do
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 07 Aug 2018, 15:47]
+^^ Did you change the steam dll to _o...and add the steam .dll from the creamapi file?
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 07 Aug 2018, 15:47]
+
+_________________
+"Give a man a fish feed him for a day, teach a man to fish feed him for a lifetime!!!!"
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 07 Aug 2018, 17:38]
+DireStraights wrote:
+^^ Did you change the steam dll to _o...and add the steam .dll from the creamapi file?
+
+
+I copied everything in TWRII DLC into the Total War Rome II steam folder overwriting everything.
+
+Data
+cream_api.ini
+steam_api.dll
+steam_api64.dll
+steam_apibak.dll
+
+I didn't change any file extensions. Are you talking about changing the original steam dll?
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 07 Aug 2018, 19:17]
+I notice its only Empire Divided that gets the DY issue and everything else is fine.
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 07 Aug 2018, 19:48]
+Yes I am talking about that....not the extension just to add _o just before the extension. get rid of the bak file and the steamapi....likely you run a 64 bit system.
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 07 Aug 2018, 19:48]
+
+_________________
+"Give a man a fish feed him for a day, teach a man to fish feed him for a lifetime!!!!"
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 07 Aug 2018, 23:03]
+DireStraights wrote:
+Yes I am talking about that....not the extension just to add _o just before the extension. get rid of the bak file and the steamapi....likely you run a 64 bit system.
+
+
+I renamed the original steamapi.dll, which is why it's got a different name.
+
+No idea why the creamapi crack doesn't work for Empire Divided. I got the DLC from a torrent, maybe I missed something.
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 08 Aug 2018, 03:10]
+SniffleCry wrote:
+ofteno wrote:
+hey guys got a legal version, its 2.3.018153etc, can I get all the DLC from here right? and how do I do it?
+my search abilities havent yielded a result.
+
+edit. found them i think lol, im downloading CAPI, after that i just extract the dlc files and move them or do I need somenthing else?
+
+
+Got it all ready to go, with CreamAPI prepped and ready.
+
+
+Code: Select all | Line number On/Off | Expand/Contract
+ 
+https://mega.nz/#!bw1U1Q7A!vQepLv5mjrph ... rC6lrWuCIE
+ 
+
+
+thanks
+you missed the startpos files for the dlc campaigns
+https://nofile.io/f/BowCEeSkbrT/data.7z
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 08 Aug 2018, 06:58]
+Moyrd wrote:
+SniffleCry wrote:
+ofteno wrote:
+hey guys got a legal version, its 2.3.018153etc, can I get all the DLC from here right? and how do I do it?
+my search abilities havent yielded a result.
+
+edit. found them i think lol, im downloading CAPI, after that i just extract the dlc files and move them or do I need somenthing else?
+
+
+Got it all ready to go, with CreamAPI prepped and ready.
+
+
+Code: Select all | Line number On/Off | Expand/Contract
+ 
+https://mega.nz/#!bw1U1Q7A!vQepLv5mjrph ... rC6lrWuCIE
+ 
+
+
+thanks
+you missed the startpos files for the dlc campaigns
+https://nofile.io/f/BowCEeSkbrT/data.7z
+
+
+Thank you, everything works now.
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 08 Aug 2018, 21:10]
+Moyrd wrote:
+thanks
+you missed the startpos files for the dlc campaigns
+https://nofile.io/f/BowCEeSkbrT/data.7z
+
+
+Thanks, reuploaded the archive with those files added to it.
+
+New link is:
+
+
+Code: Select all | Line number On/Off | Expand/Contract
+https://mega.nz/#!OxdkzKza!6BzLNhobYEXm ... 3rsnVQ1F_U
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 09 Aug 2018, 11:36]
+Hello there,
+
+Are we going to get a crack for the new DLC Rise of the Republic? Please?
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 09 Aug 2018, 12:03]
+nevecohen101 wrote:
+Hello there,
+Are we going to get a crack for the new DLC Rise of the Republic? Please?
+
+yes, i expect a crack will appear in the "future"...
+
+welcome to cs.rin.ru ! 
+have a read through the forum rules, when you have the time available.
+
+ps: try to avoid asking "when crack will come?, type questions", it attracts the mods.
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 09 Aug 2018, 15:13]
+CAllMenemo495 wrote:
+nevecohen101 wrote:
+Hello there,
+Are we going to get a crack for the new DLC Rise of the Republic? Please?
+
+yes, i expect a crack will appear in the "future"...
+
+welcome to cs.rin.ru ! 
+have a read through the forum rules, when you have the time available.
+
+ps: try to avoid asking "when crack will come?, type questions", it attracts the mods.
+
+
+why crack ?
+its a dlc not a standalone, we need the pack file, a campaign startpos.esf and a creamapi config' i think and someone to give us all this right now

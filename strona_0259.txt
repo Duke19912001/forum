@@ -1,0 +1,203 @@
+=========================================
+STRONA 259 (URL: https://cs.rin.ru/forum/viewtopic.php?f=10&t=61441&hilit=rome+2&start=3870)
+=========================================
+
+[Data: Tuesday, 27 Mar 2018, 23:27]
+thanks Rui,much appreciated.
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 28 Mar 2018, 20:01]
+Please new UPDATE 18513 Turkish Language..
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 29 Mar 2018, 15:21]
+Total War Rome II RUSSIAN Language v2.3.0.Build.18513
+
+
+ Spoiler
+https://openload.co/f/zj0I__u7O4E/Total.War.Rome.II.RUSSAIN.Language.v2.3.0.Build.18513.7z.001
+https://openload.co/f/FnblRd7fmAQ/Total.War.Rome.II.RUSSAIN.Language.v2.3.0.Build.18513.7z.002
+
+Thanks for files _xatab_ RePack
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 29 Mar 2018, 15:21]
+
+_________________
+Sorry for my English, I use Google translate. 
+CSF - Clean Steam files. Crack not included. If you don't know the password, read the FAQ. If I missed a new update, send a request to the PM.
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 29 Mar 2018, 15:44]
+Rui wrote:
+And here's the new fixed dll to make pedia work with Update v2.3.0.Build.18513 CODEX
+
+
+Thanks once more Rui !!!!!!!!!
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 01 Apr 2018, 11:03]
+Could someone upload the ITALIAN language pack (full or xdelta from the previous one) for the "Total War Rome II - v2.3.0.Build.18513" update. Thanks to all in advance.
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 01 Apr 2018, 13:48]
+RaDeX.Alpha wrote:
+CreamAPI Bundle for Total War Rome II Empire Divided v2.3.0.Build.18462
+
+Requires Total War: ROME II - Emperor Edition on steam and other DLC (if there are... can't remember what the EE edition included).
+This will only unlock the Desert Kingdoms Culture Pack and Empire Divided.
+
+Just copy the files into the steam directory
+
+Code: Select all | Line number On/Off | Expand/Contract
+.\steamapps\common\Total War Rome II
+
+
+CreamAPI is included and configured. It is quite possible that future steam updates will break the bundle so enjoy it while it lasts...
+
+Download:
+
+Code: Select all | Line number On/Off | Expand/Contract
+http://www17.zippyshare.com/v/JDvyHauN/file.html
+https://openload.co/f/ac-dGmBUP7s/Total ... .18462.rar
+https://filescdn.com/nor63v9touy7
+
+It would be great, if someone could upload version with all DLC's.
+
+Is there any better way than downloading the full version, instaling and updating it, and then copying files to legit version?
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 02 Apr 2018, 20:39]
+I would also like to download all dlcs with creamapi on one go...
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 03 Apr 2018, 00:40]
+I can upload DLC files only, you have to set-up CAPI for yourself then.
+
+Edit:
+Here are DLC only files for v2.3.0.Build.18513
+
+
+ Spoiler
+Code: Select all | Line number On/Off | Expand/Contract
+https://multiup.org/e79a68e8fab5a667515f0fd3112ede7c
+https://multiup.org/533e521dd45a3adb6b1f824f9d375192
+ 
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 03 Apr 2018, 00:40]
+
+_________________
+Haters gonna hate!
+My updates are always clean files - no cracks included.
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 03 Apr 2018, 11:49]
+Does nobody want take care of othrers languages??
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 03 Apr 2018, 15:12]
+anto1989 wrote:
+Does nobody want take care of othrers languages??
+
+
+Just be grateful for what you get. With every new update people scream for new language packs; these things take time and effort.
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 03 Apr 2018, 15:12]
+
+_________________
+Always wanted to get rid of the files that were not listed in the sfv/md5 hash file? Check the QuickSFV plugin I created for this: viewtopic.php?f=10&t=108605 or this: viewtopic.php?p=1273745#p1273745
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 03 Apr 2018, 19:17]
+knabberfee wrote:
+I can upload DLC files only, you have to set-up CAPI for yourself then.
+
+Edit:
+Here are DLC only files for v2.3.0.Build.18513
+
+
+ Spoiler
+Code: Select all | Line number On/Off | Expand/Contract
+https://multiup.org/e79a68e8fab5a667515f0fd3112ede7c
+https://multiup.org/533e521dd45a3adb6b1f824f9d375192
+ 
+
+How do I set up the CAPI?
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 03 Apr 2018, 19:21]
+^ Really get sick of people not looking....
+
+Look here....all you have to do is follow instructions....
+
+viewtopic.php?f=29&t=70576
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 03 Apr 2018, 19:21]
+
+_________________
+"Give a man a fish feed him for a day, teach a man to fish feed him for a lifetime!!!!"
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 04 Apr 2018, 14:24]
+knabberfee wrote:
+I can upload DLC files only, you have to set-up CAPI for yourself then.
+
+Edit:
+Here are DLC only files for v2.3.0.Build.18513
+
+
+ Spoiler
+Code: Select all | Line number On/Off | Expand/Contract
+https://multiup.org/e79a68e8fab5a667515f0fd3112ede7c
+https://multiup.org/533e521dd45a3adb6b1f824f9d375192
+ 
+
+Thanks a lot!
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 07 Apr 2018, 16:49]
+[quote="ShadowDuke"]Total.War.ROME.II.Update.10.Incl.DLC.REPACK *cracked/xdelta*
+
+*special thanks to machine4578* for helping with some stuff - (you need Update 9.0 installed)
+
+English Language Patch for Update 10:
+
+http://www73.zippyshare.com/v/2311268/file.html
+
+Russian Language Patch for Update 10:
+
+http://www24.zippyshare.com/v/53524874/file.html
+
+If someone has left the patch 10 English or Russian version, please share with me.
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 07 Apr 2018, 17:10]
+@Winst Is there any reason to be using such an old release? There are (scene) releases that are way more recent and contain everything, plus they're still up on torrent and filesharing sites.
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 07 Apr 2018, 17:10]
+
+_________________
+Always wanted to get rid of the files that were not listed in the sfv/md5 hash file? Check the QuickSFV plugin I created for this: viewtopic.php?f=10&t=108605 or this: viewtopic.php?p=1273745#p1273745

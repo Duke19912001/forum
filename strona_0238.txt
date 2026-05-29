@@ -1,0 +1,279 @@
+=========================================
+STRONA 238 (URL: https://cs.rin.ru/forum/viewtopic.php?f=10&t=61441&hilit=rome+2&start=3555)
+=========================================
+
+[Data: Monday, 06 Nov 2017, 18:15]
+Yes it is.
+
+Edit: Well strictly speaking it's not, read here viewtopic.php?p=1538418#p1538418
+
+Only Launcher.exe got updated after this (because of WARHAMMER where added to it)
+
+But you can use SFV, nothing game changing.
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 06 Nov 2017, 18:15]
+
+_________________
+Haters gonna hate!
+My updates are always clean files - no cracks included.
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 06 Nov 2017, 18:16]
+So that's why it shows in steamdb the last update was 2 months ago. Good to know, I was having trouble figuring out what changed since 2015 
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 06 Nov 2017, 18:16]
+
+_________________
+I've received multiple messages in which people expressed their desire to support my work in RIN; I appreciate your care, but I have all support I need; consider instead to support the developers of the games you actually enjoy. Rui
+
+
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 06 Nov 2017, 18:22]
+Ah, okay. According to QuickSVF scan, there are 2 bad files and 1 missing file, which are Rome2.dll, steam_api.dll and awesomium.log respectively. Will I be okay with these files?
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 06 Nov 2017, 18:31]
+If you have copied crack then it's fine.
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 06 Nov 2017, 18:31]
+
+_________________
+Haters gonna hate!
+My updates are always clean files - no cracks included.
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 06 Nov 2017, 21:17]
+I haven't installed the game yet to use the SFV so I will try asking here first:
+
+I have the Emperor Edition by Reloaded and Total.War.ROME.II.Emperor.Edition.Update.v2.2.0.Incl.DLC-RELOADED. Do I still need anymore updates?
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 06 Nov 2017, 21:17]
+
+_________________
+Short List of Highest Paying Apps & Reward Sites
+(Paypal, Steam Wallet, & Amazon Giftcards)
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 06 Nov 2017, 21:34]
+Yes, a lot.
+
+Easiest and fastest way:
+Total.War.ROME.II.Emperor.Edition.MULTi9-PROPHET
++
+viewtopic.php?p=1410469#p1410469
+=
+profit
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 06 Nov 2017, 21:34]
+
+_________________
+Haters gonna hate!
+My updates are always clean files - no cracks included.
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 06 Nov 2017, 21:56]
+knabberfee wrote:
+Yes, a lot.
+
+Easiest and fastest way:
+Total.War.ROME.II.Emperor.Edition.MULTi9-PROPHET
++
+viewtopic.php?p=1410469#p1410469
+=
+profit
+
+
+Thanks. Can I download fitgirl repack instead of the prophet release and then continue with the next steps in your long post?
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 06 Nov 2017, 21:56]
+
+_________________
+Short List of Highest Paying Apps & Reward Sites
+(Paypal, Steam Wallet, & Amazon Giftcards)
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 06 Nov 2017, 22:03]
+Should be possible.
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 06 Nov 2017, 22:03]
+
+_________________
+Haters gonna hate!
+My updates are always clean files - no cracks included.
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 06 Nov 2017, 23:08]
+in step 3b you say "b) delete language related pack files in the data folder. stuff like local_en.pack"
+
+So if i want to play English only i should also delete local_en.pack or keep it?
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 06 Nov 2017, 23:08]
+
+_________________
+Short List of Highest Paying Apps & Reward Sites
+(Paypal, Steam Wallet, & Amazon Giftcards)
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 07 Nov 2017, 01:14]
+Surprise surprise, ROME 2 will get an update&DLC after all these years of infamy.
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 07 Nov 2017, 12:50]
+Our Men are Wavering!
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 07 Nov 2017, 16:30]
+knabberfee wrote:
+Yes, a lot.
+
+Easiest and fastest way:
+Total.War.ROME.II.Emperor.Edition.MULTi9-PROPHET
++
+viewtopic.php?p=1410469#p1410469
+=
+profit
+
+How is my installation order with RLD 2.0.0 version? Is it healthy? I would like to receive your opinion.
+
+Rome 2 Emperor Edition RELOADED 2.0.0
+
+1- Total.War.ROME.II.Update.15.Hotfix
+2- Total.War.ROME.II.Update.15.Hotfix_Gaul_and_HATG_Update
+3- Total.War.ROME.II.Update.16.Black.Sea.Colonies.Culture.Pack
+4- Total.War.ROME.II.Update.16.Gaul.and.HATG.Update
+5- Total.War.ROME.II.Update.16.1.Wrath.of.Sparta
+6- Total.War.ROME.II.Update.v2.2.0.15666
+7- Total.War.ROME.II.Update.v2.2.0.16019
+8- Total.War.ROME.II.Update.v2.2.0.16155
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 07 Nov 2017, 16:35]
+ronferri wrote:
+in step 3b you say "b) delete language related pack files in the data folder. stuff like local_en.pack"
+
+So if i want to play English only i should also delete local_en.pack or keep it?
+
+
+Only if you update your game to latest version 16155.
+
+If you using PROPHET, then no.
+
+The reason is, after PROPHET release there were 2 updates, one of them changes all language files and rename them.
+
+If you keep the "old" language files, you will get no ingame sounds.
+
+
+Kebab_Removal_Unit wrote:
+knabberfee wrote:
+Yes, a lot.
+
+Easiest and fastest way:
+Total.War.ROME.II.Emperor.Edition.MULTi9-PROPHET
++
+viewtopic.php?p=1410469#p1410469
+=
+profit
+
+How is my installation order with RLD 2.0.0 version? Is it healthy? I would like to receive your opinion.
+
+Rome 2 Emperor Edition RELOADED 2.0.0
+
+1- Total.War.ROME.II.Update.15.Hotfix
+2- Total.War.ROME.II.Update.15.Hotfix_Gaul_and_HATG_Update
+3- Total.War.ROME.II.Update.16.Black.Sea.Colonies.Culture.Pack
+4- Total.War.ROME.II.Update.16.Gaul.and.HATG.Update
+5- Total.War.ROME.II.Update.16.1.Wrath.of.Sparta
+6- Total.War.ROME.II.Update.v2.2.0.15666
+7- Total.War.ROME.II.Update.v2.2.0.16019
+8- Total.War.ROME.II.Update.v2.2.0.16155
+
+
+Check with SFV, if all is OK then you're fine 
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 07 Nov 2017, 16:35]
+
+_________________
+Haters gonna hate!
+My updates are always clean files - no cracks included.
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 07 Nov 2017, 17:21]
+After following the steps, I got LumaCEG crashed error. After I launch the game from modmanager, the Sega splash screen loads and it freezes until I hit ESC and see LumaCEG dll crashed error.
+
+-- Edit --
+
+
+knabberfee wrote:
+ronferri wrote:
+in step 3b you say "b) delete language related pack files in the data folder. stuff like local_en.pack"
+
+So if i want to play English only i should also delete local_en.pack or keep it?
+
+
+Only if you update your game to latest version 16155.
+
+If you using PROPHET, then no.
+
+The reason is, after PROPHET release there were 2 updates, one of them changes all language files and rename them.
+
+If you keep the "old" language files, you will get no ingame sounds.
+
+
+
+
+I am sorry but this explanation is confusing. I have prophet release installed and I downloaded the english language pack which you linked in your post. Do I have to delete "local_en.pack" from this language pack before copying all its contents to the data folder? Or just copy and replace all contents of the english language pack into the data folder?
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 07 Nov 2017, 17:21]
+
+_________________
+Short List of Highest Paying Apps & Reward Sites
+(Paypal, Steam Wallet, & Amazon Giftcards)
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 07 Nov 2017, 17:27]
+All you need to know is in this post: viewtopic.php?p=1410469#p1410469
+
+About the LumaCEG crash... Search back, i am sure there were people with the same problem and fixed it somehow.
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 07 Nov 2017, 17:27]
+
+_________________
+Haters gonna hate!
+My updates are always clean files - no cracks included.

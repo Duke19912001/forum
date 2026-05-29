@@ -1,0 +1,201 @@
+=========================================
+STRONA 225 (URL: https://cs.rin.ru/forum/viewtopic.php?f=10&t=61441&hilit=rome+2&start=3360)
+=========================================
+
+[Data: Sunday, 29 Jan 2017, 15:01]
+knabberfee wrote:
+Look here viewtopic.php?p=1350314#p1350314
+
+And read the info!
+
+And if you use english language, use updated english files after patching
+https://mega.nz/#!HgoBAZYA!oUfC6YbDspqV ... S5YGHnEdfY
+
+Crack can be grabbed from here viewtopic.php?p=1119420#p1119420
+pedia or offline
+
+
+I did all of these and it crashed saying LumaCEG crashed!
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 29 Jan 2017, 16:54]
+Read one page back. Other user have got the same error.
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 29 Jan 2017, 16:54]
+
+_________________
+Haters gonna hate!
+My updates are always clean files - no cracks included.
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 29 Jan 2017, 17:25]
+knabberfee wrote:
+Read one page back. Other user have got the same error.
+
+
+I actually got it to work now but another problem came up no sound at all
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 29 Jan 2017, 17:51]
+BangBang555 wrote:
+knabberfee wrote:
+Read one page back. Other user have got the same error.
+
+
+I actually got it to work now but another problem came up no sound at all
+
+that is the first report of such an issue. do you have all lang files?
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 29 Jan 2017, 18:41]
+machine4578 wrote:
+BangBang555 wrote:
+knabberfee wrote:
+Read one page back. Other user have got the same error.
+
+
+I actually got it to work now but another problem came up no sound at all
+
+that is the first report of such an issue. do you have all lang files?
+
+
+no just English
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 29 Jan 2017, 19:10]
+Have you deleted the old sound files before putting new in?
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 29 Jan 2017, 19:10]
+
+_________________
+Haters gonna hate!
+My updates are always clean files - no cracks included.
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 29 Jan 2017, 19:52]
+knabberfee wrote:
+Have you deleted the old sound files before putting new in?
+
+
+No I just overwritten them
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 29 Jan 2017, 20:06]
+Tell me, what files includes "en" in file name in data dir?
+
+Have you sound disabled by any way (options, windows, etc)?
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 29 Jan 2017, 20:06]
+
+_________________
+Haters gonna hate!
+My updates are always clean files - no cracks included.
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 29 Jan 2017, 20:29]
+knabberfee wrote:
+Tell me, what files includes "en" in file name in data dir?
+
+Have you sound disabled by any way (options, windows, etc)?
+
+
+Language File, local_en.pack, local_en_rome2.pack, and local_en_shared_rome2.pack
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 29 Jan 2017, 20:54]
+local_en_rome2.pack
+
+this file is not included in latest game version anymore.
+
+there should be
+
+local_en.pack
+local_en_shared_rome2.pack
+music_en_shared_rome2.pack
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 29 Jan 2017, 20:54]
+
+_________________
+Haters gonna hate!
+My updates are always clean files - no cracks included.
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 29 Jan 2017, 21:16]
+knabberfee wrote:
+local_en_rome2.pack
+
+this file is not included in latest game version anymore.
+
+there should be
+
+local_en.pack
+local_en_shared_rome2.pack
+music_en_shared_rome2.pack
+
+
+Should I reinstall or something
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 29 Jan 2017, 21:39]
+Grab the english language pack i posted before, get rid of local_en_rome2.pack and put all files from archive into data folder.
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 29 Jan 2017, 21:39]
+
+_________________
+Haters gonna hate!
+My updates are always clean files - no cracks included.
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 30 Jan 2017, 01:22]
+knabberfee wrote:
+^If you have PROPHET version, you can also use this patch
+
+https://openload.co/f/34YirjLECug/21495 ... .16155.rar
+
+Just make sure, after patching, to delete all language files and replace with this viewtopic.php?p=1123055#p1123055
+
+
+thx
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 30 Jan 2017, 05:31]
+knabberfee wrote:
+Grab the english language pack i posted before, get rid of local_en_rome2.pack and put all files from archive into data folder.
+
+Yeah I did all that again still no sound but everything else works perfectly
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 30 Jan 2017, 06:39]
+BangBang555 wrote:
+knabberfee wrote:
+Grab the english language pack i posted before, get rid of local_en_rome2.pack and put all files from archive into data folder.
+
+Yeah I did all that again still no sound but everything else works perfectly
+
+interesting for sure. it maybe an issue on your end then. hopefully you figure it out.
+
+good luck.

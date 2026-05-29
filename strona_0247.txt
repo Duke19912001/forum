@@ -1,0 +1,230 @@
+=========================================
+STRONA 247 (URL: https://cs.rin.ru/forum/viewtopic.php?f=10&t=61441&hilit=rome+2&start=3690)
+=========================================
+
+[Data: Friday, 01 Dec 2017, 17:38]
+After installing Total.War.Rome.II.Empire.Divided.MULTi9-PLAZA the game doesn't launch nothing happens. What can be the problem? Windows 10 64-bit, first install.
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 01 Dec 2017, 17:41]
+Make sure your av didn't deleted / blocked any files. Especially not the crack files.
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 01 Dec 2017, 17:41]
+
+_________________
+The FAQ are you waiting for?
+
+A wild PASSWORD appeared for protected archives & files on RIN! Member used cs.rin.ru ...it's super effective!
+
+Having problems downloading from Google Drive? Click here.
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 01 Dec 2017, 17:42]
+MD5 report for legit PL Version with Wrath of Sparta, Blood & Gore, Baktria and Seleucid DLC's Installed (in case its gonna help someone):
+
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 01 Dec 2017, 22:25]
+Total War: Rome 2 - Emperor Edition (v2.2.0.7561.123828 + 15 DLCs, MULTi9) [FitGirl Repack, Selective Download] from 8.2 GB
+
+fitgirl-repacks.site/total-war-rome-2-emperor-edition/ (more mirrors, no ads)
+1337x.to/torrent/2631736/Total-War-Rome-2-Emperor-Edition-v2-2-0-7561-123828-15-DLCs-MULTi9-FitGirl-Repack-Selective-Download-from-8-2-GB/
+magnet:?xt=urn:btih:6C4614362817BF199A223C114637B1E2B1330016
+sendfile.su/1381666 (.torrent only)
+
+Repack Features
+
+
+Based on Total.War.Rome.II.Empire.Divided.MULTi9-PLAZA ISO release: plaza-total.war.rome.ii.empire.divided.iso (24,171,415,552 bytes)
+Thanks to knabberfee for providing early access to language files
+Total.War.ROME.II.Emperor.Edition.V2.2.0.Steamworks.Fix-REVOLT available in NoDVD folder after installation, allowing multiplayer via Steam
+100% Lossless & MD5 Perfect: all files are identical to originals after installation
+NOTHING ripped, NOTHING re-encoded
+Selective Download feature: you can download only language files you need
+Significantly smaller archive size (compressed from 22.5 to 8.2/8.3 GB for any single language)
+Installation takes 6~15 minutes (depending on your system)
+After-install integrity check so you could make sure that everything installed properly
+HDD space after installation: 29 GB
+At least 2 GB of free RAM (inc. virtual) required for installing this repack
+
+Selective Download
+
+ Spoiler
+You can skip downloading of language files you don't need. Here is the list of selective files:
+
+
+fg-selective-eng-cze-pol-tur.bin (REQUIRED for English, Czech, Polish and Turkish users)
+fg-selective-eng-rus-esp-ita-cze-pol-tur.bin (REQUIRED for English, Russian, Spanish, Italian, Czech, Polish and Turkish users)
+fg-selective-french.bin
+fg-selective-german.bin
+fg-selective-italian.bin
+fg-selective-russian.bin
+fg-selective-spanish.bin
+
+In example, if you want to launch the game with Spanish UI/Subtitles/Voiceovers - skip all "selective" files, but download fg-selective-spanish.bin, fg-selective-eng-rus-esp-ita-cze-pol-tur.bin & all main files (01-06).
+
+
+Backwards Compatibility
+
+This repack IS NOT backwards compatible with my first Rome 2 repack.
+
+Problems during installation?
+
+Read this repacks troubleshooting guide
+http://fitgirl-repacks.site/repacks-troubleshooting/ [May link to unsafe filehosters]
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 01 Dec 2017, 22:25]
+
+_________________
+ [May link to unsafe filehosters]
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 01 Dec 2017, 22:52]
+for some reason the game doesnt run. i turned off my antivirus and copied over the crack just to be safe but with no help. the exe just doesnt start :C
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 01 Dec 2017, 22:52]
+
+_________________
+Mia San Mia
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 01 Dec 2017, 23:08]
+Legit DLCs unlocker for Total War Rome 2.
+
+Credits:
+- duudemouse5(CreamAPI)
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 02 Dec 2017, 01:03]
+is it normal the game lost files
+...\data\music_en.pack"
+....\data\nomadic.pack"
+now with new Patch???
+
+
+also game does weird stuff with overlay when steam is online (it turns itself on every 5 seconds) , no matter the overlay settings in menu
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 02 Dec 2017, 01:03]
+
+_________________
+mostly inactive until at least half of july 2025
+
+If any of my uploads are outdated or no longer online , the best way to do is to send me a PM and i will add the title to the next batch
+UPLOADS PAUSED (have all requests in queue for when i am back to being more active)
+
+List of recent games with modern DRMs:(updated 01-Mar-2023) - http://cs.rin.ru/forum/viewtopic.php?f=10&t=68151
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 02 Dec 2017, 07:34]
+Bit of a weird one, but have tried both the "DLC Unlocker" and the "Empire Divided CreamAPI + DLC files" files. But I get the same problem.
+
+Game boots up fine. Base + DLC work. but Empire Divided looks to be "Broken" in the select campaign screen.
+
+For example I can select where it should be (And it click into it) I can then see the faction icons and select them etc, but there is zero text and if I load a campaign bits and pieces are missing.
+
+Any ideas ? (Using legit base game btw)
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 02 Dec 2017, 09:59]
+Ive already played empire divided, there are so many things changed..beware its not easy as it once was  
+
+Also if you guys donwloaded pirated full game +empire diveded (any version) and your game ctd on logo screen, make sure you delete rome 2 folder in AppData folder.. works for me.
+
+-- Edit --
+
+
+Ali_MPH wrote:
+for some reason the game doesnt run. i turned off my antivirus and copied over the crack just to be safe but with no help. the exe just doesnt start :C
+
+
+Try to delete your rome 2 folder in AppData folder
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 02 Dec 2017, 10:01]
+[Mirror] Total War: Rome 2 - Emperor Edition (v2.2.0.7561.123828 + 15 DLCs, MULTi9) [FitGirl Repack, Selective Download] from 8.2 GB
+
+3GB Parts, Upto 12MB/s
+
+
+ Upera
+https://public.upera.co/f/8aOOv3fx
+(Use IDM with 8+ connections)
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 02 Dec 2017, 14:06]
+prudislav wrote:
+is it normal the game lost files
+...\data\music_en.pack"
+....\data\nomadic.pack"
+now with new Patch???
+
+seems to work fine .. music is ingame and nomadic DLC works without problems
+
+
+prudislav wrote:
+also game does weird stuff with overlay when steam is online (it turns itself on every 5 seconds) , no matter the overlay settings in menu
+
+sane thing here ... maybe there is some missed trigger in crack or something ... we probably need crackfix
+....it even does this with laucher.exe (Overlays setting in steam ini does nothing )
+
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 02 Dec 2017, 15:21]
+nice_2000 wrote:
+[Mirror] Total War: Rome 2 - Emperor Edition (v2.2.0.7561.123828 + 15 DLCs, MULTi9) [FitGirl Repack, Selective Download] from 8.2 GB
+
+3GB Parts, Upto 12MB/s
+
+
+ Upera
+https://public.upera.co/f/8aOOv3fx
+(Use IDM with 8+ connections)
+
+
+How did it get that small? No language packs (just needed the English though)?
+
+But thanks, anyway.
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 02 Dec 2017, 15:53]
+===============================================================
+Total.War.Rome.2.Emperor.Edition.v2.2.0.incl.15.DLCs.MULTI9-FitGirl
+===============================================================
+
+Uploaded: https://www.filecrypt.cc/Container/32F25CF91C.html [May link to unsafe filehosters]
+
+Rapidgator: https://www.filecrypt.cc/Container/26C53BC161.html [May link to unsafe filehosters]
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 02 Dec 2017, 18:13]
+alright stop posting repacks and just post dlc needed files for legit owners of the game.
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 02 Dec 2017, 18:22]
+jebjebbinks wrote:
+alright stop posting repacks and just post dlc needed files for legit owners of the game.
+
+
+Those have been posted several pages ago. There is a drive link with the DLC files pre-empire divided and one with the files post empire divided. Search for a few pages before commenting.

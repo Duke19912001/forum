@@ -1,0 +1,184 @@
+=========================================
+STRONA 295 (URL: https://cs.rin.ru/forum/viewtopic.php?f=10&t=61441&hilit=rome+2&start=4410)
+=========================================
+
+[Data: Tuesday, 09 Apr 2019, 20:51]
+Manifest.txt and language.txt are the right ones? ecyclopedia too?
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 09 Apr 2019, 20:51]
+
+_________________
+Haters gonna hate!
+My updates are always clean files - no cracks included.
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 10 Apr 2019, 17:19]
+I've just updated to the newest version and the problem persisted. CA has packed the wrong file in or they have gaven it a wrong index, together with one or two wrong video in the french encyclopedia, which was in spanish …..
+
+And Yes Knabberfee, everything has been done perfectly, restore the English files and update until the last, put in the FR pack, backup the English one again and used your Xdelta for the French pack, and everything was put in place correctly, including the FR encyclopedia.
+
+It is appearantly a bug, bacause everything else is in french now, except the Kush Queen's address.
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 14 Apr 2019, 17:40]
+I downloaded the Codex release and the 3 updates for it for both me and my brother. I cracked the games with the provided crack in the 19728 update and we were set to play coop. Changed the names of the steam_emu.ini so we have different profile names too.
+
+Thing is, if I host he can see my game in the Local Network list, he can join, but i can't see his profile (meaning his name, his picture and his faction) at all. After a few seconds he disconnects abruptly. I used the generic steamworks fix provided here but the same happens.
+
+Any solutions of why the LAN desyncs between us? I forgot to say that we are in the same PHYSICAL local network, meaning we are connected through the same router through ethernet cables.
+
+Any help would be nice. TIA
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 14 Apr 2019, 18:07]
+Venom wrote:
+Total War™: ROME II - DLC pack:
+
+ Spoiler
+https://drive.google.com/drive/folders/1k-YHaXODuj24xmuEyUhuFuahBNXNnIz7?usp=sharing
+
+
+
+
+Hey according to google the download quota has been exceeded for those files, is it possible you can update it or anybody else?
+
+Edit: NVM I was being dumb it works fine sorry.
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 17 Apr 2019, 18:39]
+mrdoggie3 wrote:
+CTRLC wrote:
+mrdoggie3 wrote:
+Hi I have The fit girl repack how do I get the multiplayer to work....or the lan atleast I tried with my friend and it didn't work.
+
+
+viewtopic.php?p=1809610#p1809610
+
+
+I tried that but it didn't work
+
+Here try this for LAN
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 18 Apr 2019, 01:16]
+Help
+
+Im using the mod manager but when I prees "launch" it brings me to the steam page of the game!
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 18 Apr 2019, 01:16]
+
+_________________
+Trying to be polite, since english isn't my native language sometimes I can sound rude, sorry for that, it is not my intention.
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 18 Apr 2019, 08:56]
+necromenta wrote:
+Help
+
+Im using the mod manager but when I prees "launch" it brings me to the steam page of the game!
+
+It should not happened. And you do not need to launch through mannager. just save settings and exit. Then just launch game through Rome2.exe
+If that does not work, you did not crack the game correctly.
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 19 Apr 2019, 04:36]
+is there an update to 2.4.0 from 2.2.0 empire divided?
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 19 Apr 2019, 04:42]
+necromenta wrote:
+Help
+
+Im using the mod manager but when I prees "launch" it brings me to the steam page of the game!
+
+
+use mod manager v2.0
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 20 Apr 2019, 12:48]
+Someone has language pack working on v2.4.0?
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 20 Apr 2019, 20:26]
+Tried everything but doesn't work:
+
+"If you want to unlock and play the DLCs with your legti game, do this:
+
+1) Download the DLC files we posted here: viewtopic.php?p=1783973#p1783973 (+knabberfee's).
+2) Extract them in your game folder / appopriate folders.
+3) Download my attachment and save it somewhere. Don't extract it yet.
+4) Rename your original steam_api.dll to steam_api_o.dll and extract the CreamAPI archive into your game folder where the other .dll is.
+5) Extract the CreamAPI archive in your game folder (where your renamed .dll is).
+
+Then start the game, and you should've the DLCs."
+
+Downloaded all dlc but what is ''my attachment and save it somewhere"???
+
+thanks
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 30 Apr 2019, 13:40]
+when trying to open the game after putting the steamfix it just crashed.any fix for this?
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 30 Apr 2019, 14:15]
+TheWhiteMaster wrote:
+when trying to open the game after putting the steamfix it just crashed.any fix for this?
+Are you logged into a (dummy) Steam account and have Steam running?
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 01 May 2019, 13:11]
+CTRLC wrote:
+mrdoggie3 wrote:
+I tried that but it didn't work
+
+Here try this for LAN
+
+
+So Basically I re-downloaded the game both me and my friend have a clean fit-girl 2.4.0.19534 build...now we can see each other in the lobby ,but it tells us that we use different versions....any idea where's the problem? Also I have tried the lan fix...still same issue
+
+-- Edit --
+
+
+mrdoggie3 wrote:
+So Basically I re-downloaded the game both me and my friend have a clean fit-girl 2.4.0.19534 build...now we can see each other in the lobby ,but it tells us that we use different versions....any idea where's the problem? Also I have tried the lan fix...still same issue
+
+
+Oh...NVM when i deleted the user data from my PC everything was solved..it was probably because of the mod manger , thanks for the help through 
+
+-- Edit --
+
+well now we can see each other and sorta of join...when I try to join it says "You have Lost connection to the game"...now I need help :l
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 03 May 2019, 10:10]
+Bambacha wrote:
+I downloaded the Codex release and the 3 updates for it for both me and my brother. I cracked the games with the provided crack in the 19728 update and we were set to play coop. Changed the names of the steam_emu.ini so we have different profile names too.
+
+Thing is, if I host he can see my game in the Local Network list, he can join, but i can't see his profile (meaning his name, his picture and his faction) at all. After a few seconds he disconnects abruptly. I used the generic steamworks fix provided here but the same happens.
+
+Any solutions of why the LAN desyncs between us? I forgot to say that we are in the same PHYSICAL local network, meaning we are connected through the same router through ethernet cables.
+
+Any help would be nice. TIA
+
+
+
+Goldberg emu worked for me for LAN gaming.

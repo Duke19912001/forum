@@ -1,0 +1,244 @@
+=========================================
+STRONA 266 (URL: https://cs.rin.ru/forum/viewtopic.php?f=10&t=61441&hilit=rome+2&start=3975)
+=========================================
+
+[Data: Wednesday, 18 Jul 2018, 17:33]
+Yep, italy campaign
+
+
+ Spoiler
+9 playable factions in DLC Italian campaign.
+
+• Insubres
+• Iolei (they are Sardinians)
+• Rome
+• Samnites
+• Senones
+• Syracuse
+• Taranto
+• Tarchuna (they are Etruscans)
+• Veneti
+
+
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 18 Jul 2018, 17:33]
+
+_________________
+Haters gonna hate!
+My updates are always clean files - no cracks included.
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 18 Jul 2018, 17:46]
+nice .... time to create etruscan rome 
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 18 Jul 2018, 17:46]
+
+_________________
+mostly inactive until at least half of july 2025
+
+If any of my uploads are outdated or no longer online , the best way to do is to send me a PM and i will add the title to the next batch
+UPLOADS PAUSED (have all requests in queue for when i am back to being more active)
+
+List of recent games with modern DRMs:(updated 01-Mar-2023) - http://cs.rin.ru/forum/viewtopic.php?f=10&t=68151
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 19 Jul 2018, 15:13]
+New DLC aviable on 9th August (Rise of the Republic Campaign Pack)
+
+https://store.steampowered.com/app/8500 ... aign_Pack/
+
+15€ ...
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 19 Jul 2018, 15:13]
+
+_________________
+Haters gonna hate!
+My updates are always clean files - no cracks included.
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 19 Jul 2018, 16:34]
+knabberfee wrote:
+New DLC aviable on 9th August (Rise of the Republic Campaign Pack)
+
+https://store.steampowered.com/app/8500 ... aign_Pack/
+
+15€ ...
+
+
+Bah... just another WoS: boring factions and recycled units, (almost) all factions have exactly the same 5 units. They don't even bother to fix that DLC any more... Instead they added family tree (after 5 years) - just a marketing move to sell another overpriced DLC.
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 19 Jul 2018, 18:23]
+
+
+for (var i = 0; i < document.getElementsByClassName('youtube_DjCP5rDGIcg').length; i++)
+{
+if (true == true)
+{ 
+document.getElementsByClassName('youtube_DjCP5rDGIcg')[i].innerHTML = "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/DjCP5rDGIcg\" title=\"YouTube video player\" frameborder=\"0\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>";
+}
+else
+{
+document.getElementsByClassName('youtube_DjCP5rDGIcg')[i].innerHTML = "<a class=\"postlink\" href=\"https://www.youtube.com/watch?v=DjCP5rDGIcg\" rel=\"nofollow\">https://www.youtube.com/watch?v=DjCP5rDGIcg</a>";
+}
+}
+
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 19 Jul 2018, 18:23]
+
+_________________
+mostly inactive until at least half of july 2025
+
+If any of my uploads are outdated or no longer online , the best way to do is to send me a PM and i will add the title to the next batch
+UPLOADS PAUSED (have all requests in queue for when i am back to being more active)
+
+List of recent games with modern DRMs:(updated 01-Mar-2023) - http://cs.rin.ru/forum/viewtopic.php?f=10&t=68151
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 20 Jul 2018, 06:16]
+Hi I just created an account to post about this but I can't seem to install the update, I downloaded the game from the page, installed it but when I try to install the update it tells me "Required data not found in current dir or wrong version!"
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 20 Jul 2018, 09:03]
+You need version 2.3.0 Build 18513 to patch (Total.War.Rome.II.Empire.Divided.Update.v2.3.0.Build.18513-CODEX or a similar patch with same version is required).
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 20 Jul 2018, 09:03]
+
+_________________
+Haters gonna hate!
+My updates are always clean files - no cracks included.
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 20 Jul 2018, 22:50]
+is there any page I can get it?
+
+-- Edit --
+
+Bhodi I managed to install the game from the links you sent me but I cant get the game to work, is there any way I can message you?
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 21 Jul 2018, 15:48]
+Please, can anyone upload this file: default_keys.xml
+Version: 2.3.0 Build 18513
+
+
+Code: Select all | Line number On/Off | Expand/Contract
+Starting verification process...
+OK! Valid hash for: "C:\Games\Total War Rome 2 - Emperor Edition\CALibsWinExt.zIntelUnityRelease.dll"
+OK! Valid hash for: "C:\Games\Total War Rome 2 - Emperor Edition\data\blood_rome2.pack"
+OK! Valid hash for: "C:\Games\Total War Rome 2 - Emperor Edition\data\boot.pack"
+OK! Valid hash for: "C:\Games\Total War Rome 2 - Emperor Edition\data\data_rome2.pack"
+OK! Valid hash for: "C:\Games\Total War Rome 2 - Emperor Edition\data\divided.pack"
+OK! Valid hash for: "C:\Games\Total War Rome 2 - Emperor Edition\data\gaul.pack"
+OK! Valid hash for: "C:\Games\Total War Rome 2 - Emperor Edition\data\greeks.pack"
+OK! Valid hash for: "C:\Games\Total War Rome 2 - Emperor Edition\data\local_en.pack"
+OK! Valid hash for: "C:\Games\Total War Rome 2 - Emperor Edition\data\local_en_shared_rome2.pack"
+OK! Valid hash for: "C:\Games\Total War Rome 2 - Emperor Edition\data\manifest.txt"
+OK! Valid hash for: "C:\Games\Total War Rome 2 - Emperor Edition\data\models2_rome2.pack"
+OK! Valid hash for: "C:\Games\Total War Rome 2 - Emperor Edition\data\models3_rome2.pack"
+OK! Valid hash for: "C:\Games\Total War Rome 2 - Emperor Edition\data\models_rome2.pack"
+OK! Valid hash for: "C:\Games\Total War Rome 2 - Emperor Edition\data\movies_rome2.pack"
+OK! Valid hash for: "C:\Games\Total War Rome 2 - Emperor Edition\data\music_en_shared_rome2.pack"
+OK! Valid hash for: "C:\Games\Total War Rome 2 - Emperor Edition\data\music_rome2.pack"
+OK! Valid hash for: "C:\Games\Total War Rome 2 - Emperor Edition\data\punic.pack"
+OK! Valid hash for: "C:\Games\Total War Rome 2 - Emperor Edition\data\sound_rome2.pack"
+OK! Valid hash for: "C:\Games\Total War Rome 2 - Emperor Edition\data\terrain2_rome2.pack"
+OK! Valid hash for: "C:\Games\Total War Rome 2 - Emperor Edition\data\terrain_rome2.pack"
+OK! Valid hash for: "C:\Games\Total War Rome 2 - Emperor Edition\data\tiles2_rome2.pack"
+OK! Valid hash for: "C:\Games\Total War Rome 2 - Emperor Edition\data\tiles3_rome2.pack"
+OK! Valid hash for: "C:\Games\Total War Rome 2 - Emperor Edition\data\tiles4_rome2.pack"
+OK! Valid hash for: "C:\Games\Total War Rome 2 - Emperor Edition\data\tiles_rome2.pack"
+OK! Valid hash for: "C:\Games\Total War Rome 2 - Emperor Edition\data\campaigns\main_3c\startpos.esf"
+OK! Valid hash for: "C:\Games\Total War Rome 2 - Emperor Edition\data\campaigns\main_emperor\startpos.esf"
+OK! Valid hash for: "C:\Games\Total War Rome 2 - Emperor Edition\data\campaigns\main_gaul\startpos.esf"
+OK! Valid hash for: "C:\Games\Total War Rome 2 - Emperor Edition\data\campaigns\main_greek\startpos.esf"
+OK! Valid hash for: "C:\Games\Total War Rome 2 - Emperor Edition\data\campaigns\main_punic\startpos.esf"
+OK! Valid hash for: "C:\Games\Total War Rome 2 - Emperor Edition\data\campaigns\main_rome\startpos.esf"
+OK! Valid hash for: "C:\Games\Total War Rome 2 - Emperor Edition\data\campaigns\prologue_01\startpos.esf"
+OK! Valid hash for: "C:\Games\Total War Rome 2 - Emperor Edition\data\campaigns\prologue_02\startpos.esf"
+OK! Valid hash for: "C:\Games\Total War Rome 2 - Emperor Edition\data\campaigns\prologue_03\startpos.esf"
+OK! Valid hash for: "C:\Games\Total War Rome 2 - Emperor Edition\data\text\credits.xml"
+[!]  Error! Invalid hash for: "C:\Games\Total War Rome 2 - Emperor Edition\data\text\default_keys.xml"
+[!]  Some files do not exist or have incorrect hash!
+ 
+Patch was not applied!
+
+
+EDIT: Resolved! In the Temp directory, find the checker.ini file and correct it so that it does not check that file.
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 22 Jul 2018, 12:34]
+Bosnjo wrote:
+Dumm question but how do you run mods now? What does a mod option in the game do? I can't run mods with the mod manager now because it tries to open up the steam.
+
+
+look for the mod manager V2, I kept using it and I never had any problems running mods
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 22 Jul 2018, 13:16]
+ok I downloaded the CODEX build, updated it, but now is the ancestry patch that isnt working, I seem to get the same error as Cetrnaestsoft
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 22 Jul 2018, 13:39]
+Tavarcio wrote:
+ok I downloaded the CODEX build, updated it, but now is the ancestry patch that isnt working, I seem to get the same error as Cetrnaestsoft
+
+
+Run the update installation before you start finding a checker.ini file in the temp folder and delete the items that you are experiencing an error.
+For example, it was default_keys.xml in my code, and it was under serial number 34.
+
+When does the game start loading out the error?
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 22 Jul 2018, 13:50]
+The game has still the CEG protection. Before I posted the update, I read in the TWR2 ComHub from the devs that the update is "free for everyone". Well, they meant "free for everyone who bought the base game", not "free for everyone even those who hadn't bought the game". I've just misunderstood that sentence from the devs.
+
+So the best way is just to wait 2-3 weeks when the DLC got released or hope for someone to crack the BETA update.
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 22 Jul 2018, 13:50]
+
+_________________
+Haters gonna hate!
+My updates are always clean files - no cracks included.
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 22 Jul 2018, 13:56]
+knabberfee wrote:
+The game has still the CEG protection. Before I posted the update, I read in the TWR2 ComHub from the devs that the update is "free for everyone". Well, they meant "free for everyone who bought the base game", not "free for everyone even those who hadn't bought the game". I've just misunderstood that sentence from the devs.
+
+So the best way is just to wait 2-3 weeks when the DLC got released or hope for someone to crack the BETA update.
+
+
+Thank you for the information @knabberfee ...waiting
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 23 Jul 2018, 16:56]
+Could anyone upload this mod series for me it would be great
+
+https://steamcommunity.com/workshop/fil ... =932430047

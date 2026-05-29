@@ -1,0 +1,133 @@
+=========================================
+STRONA 211 (URL: https://cs.rin.ru/forum/viewtopic.php?f=10&t=61441&hilit=rome+2&start=3150)
+=========================================
+
+[Data: Friday, 11 Mar 2016, 11:58]
+skycaptain95 wrote:
+Is there a DLC-only release for Steam users who have a legitimate copy but not the DLC? If not, could someone tell me which files I need to download to get the DLC to work? Nothing seems to be unlocking them.
+
+if i am not mistaken testni posted the DLC files only. as for unlocking the DLC on the legit game, you could try viewtopic.php?f=29&t=70576.
+or grab the pedia fix i posted with the latest update.(just change the appid to org in the steam_appid.txt)
+
+-edit-
+
+yes testni posted the DLC here
+https://mega.nz/#F!J0ZkTaaZ!kbFc5DdU4l0pk5A10mBD8w
+
+and pedia fix here(if you wanted to test it)
+http://www49.zippyshare.com/v/LkaplqwQ/file.html
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 11 Mar 2016, 13:19]
+Here's the dlc unlocker made with creamapi (as machine4578 suggested). See if it works (download the dlc files first).
+
+Rome 2 EE DLC Unlocker.rar
+http://www77.zippyshare.com/v/hqT8nj76/file.html
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 20 Mar 2016, 19:30]
+Sorry if being dumb. Last update here corresponds to patch 16 or patch 17? I ask because of modding purposes.
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 20 Mar 2016, 21:47]
+"EN" language pack is missing from testni's upload, indeed, but everything else works just fine (i.e. "no voices" is fixed with addition of updated language pack/removal of outdated files, per the instruction). I've been able to find English language pack here in two parts, though, so here you are.
+
+Anyway - great thanks!
+
+P.S. If Steam starts loading/showing Rome II in the "shop" instead of the game starting, it means that the crack wasn't applied/didn't work (since someone asked; had that problem too), so yeah, the pedia crack is recommended.
+
+
+
+@Professor_hobo31 Patch 17, I believe.
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 05 Apr 2016, 14:45]
+Why Divide et Impera mod doesn't work? I've all the six parts, but when I start the game it is only loading... and at a time, is being blocked.. I think it's because I don't have the right crack, but if I want to download the crack with the update of Wrath of Sparta (16.1) I can't.. because the file is broken. Can anyone give it to me?
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 06 Apr 2016, 15:41]
+How to make mods work ? im interested in radious mod.
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 06 Apr 2016, 15:54]
+CaesarCzech wrote:
+How to make mods work ? im interested in radious mod.
+
+it been posted multiple times in topic what to do. please use the search feature. thanks
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 08 Apr 2016, 17:13]
+Rujm Al-Malfouf wrote:
+Why Divide et Impera mod doesn't work? I've all the six parts, but when I start the game it is only loading... and at a time, is being blocked.. I think it's because I don't have the right crack, but if I want to download the crack with the update of Wrath of Sparta (16.1) I can't.. because the file is broken. Can anyone give it to me?
+
+Can anyone give the RIGHT link of Wrath of Sparta update (16.1)? That one from the site is broken...
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 09 Apr 2016, 04:45]
+So, if I don't want steam to show me playing as SpaceWar...do I change that .txt to say org like posted above? Cause when I launched Rome 2 and all the DLCs and stuff posted about in last two pages...it shows me playing as SpaceWar. And then everyone knows what you are REALLY doing 
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 09 Apr 2016, 06:28]
+^^And in your opionion it would be better if you're shown playing a game that you actually never purchased? 
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 09 Apr 2016, 06:28]
+
+_________________
+
+
+The standard password is cs.rin.ru
+Please read the Forum Rules and the F.A.Q.
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 09 Apr 2016, 07:43]
+Christsnatcher wrote:
+^^And in your opionion it would be better if you're shown playing a game that you actually never purchased? 
+
+
+no, that be worse lol. At least the game it show I'm playing you can still download, though it doesn't show the actual game on steam. But its easy enough to find. Granted, it seems from a google search a lot of people got banned from playing that "game" (though its really just a dev tool). But I see a couple friends on my steam list who have it on their list lol. I was just wondering if there was a way to turn off the steam stuff or what to remove.
+
+Not trying to complain or anything (didn't think my post came off that way, sorry if it did), was just wondering if I can turn off the steam features. I'd rather just play the game and it not show up and I don't have all the fancy steam things. If not, its not a big deal.
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 09 Apr 2016, 18:43]
+I have legit copy and wanna use all official dlcs. So i followed directions above you gave but they doesn't show on my steam library, any idea why?.
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 09 Apr 2016, 18:46]
+gastovski wrote:
+I have legit copy and wanna use all official dlcs. So i followed direction above you gave but they doesn't show on my steam library any idea why?.
+
+
+Thats how it should be because you do not have legit dlcs, dlc will be shown in steam library only if you buyed them.
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 09 Apr 2016, 19:04]
+Thanks mate.
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 09 Apr 2016, 20:15]
+Anyway, so its not like I appeared to be just complaining (which I didn't mean to come off like that)
+
+Thanks for the uploads here everyone  With prophet+pedia+that one patch posted a couple or so pages back...game works really great 
+
+I highly recommend playing with ToonTotalWar's mod
+
+http://toontotalwar.wix.com/rome-2-all-in-one
+
+Its by far best mod for Rome 2

@@ -1,0 +1,150 @@
+=========================================
+STRONA 215 (URL: https://cs.rin.ru/forum/viewtopic.php?f=10&t=61441&hilit=rome+2&start=3210)
+=========================================
+
+[Data: Friday, 17 Jun 2016, 15:39]
+mohammeud1 wrote:
+does Rome ii have registry file ?
+if does can you upload the registry files for Rome 2?
+
+only one i know of is the uninstall entry used by steam to remove the game like the other TW games.
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 22 Jun 2016, 11:10]
+Thank you for last updates 
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 29 Jun 2016, 07:57]
+Thaks machine for update 2.2.0.16019
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 05 Jul 2016, 16:10]
+Could someone shoot me a link for the DLC? I've dl'ed and patched the game.
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 05 Jul 2016, 16:16]
+Riftik wrote:
+Could someone shoot me a link for the DLC? I've dl'ed and patched the game.
+
+you should be able to find a complete up to date DLC packed posted in topic by tchi6.(sorry, i meant testni)
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 05 Jul 2016, 16:22]
+Yeah, my bad. I read around and found the DLC packs that testni posted, but is that really all the DLC? Hoping this'll work, I've got a legit steam copy and I just want the dlc.
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 05 Jul 2016, 16:28]
+Riftik wrote:
+Yeah, my bad. I read around and found the DLC packs that testni posted, but is that really all the DLC? Hoping this'll work, I've got a legit steam copy and I just want the dlc.
+
+yes, that should be all the DLC(~1GB)
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 10 Jul 2016, 05:10]
+Just one question guys, is there any way to play Divide et Impera mod with the latest patch posted in this page?. In the past I used the launcher emu to activate the outdated mod (TWC DEI is marked as that for some reason), but right now I don`t know how to achieve the same result using Mod manager or by Manually editing files such as User.Ini, I tried but it doesn't work because the game with the mod just get stuck in the first loading screen, with the emperor edition logo. I would deeply appreciate if you could help me with this because I really want to play Rome 2, but I can't play whithout DEI right now. To me it's something similar to play Skyrim without mods nowadays. xD
+
+I have searched in the topic but the only solution I had read is about editing HEX files (i just discovered that they exist) and I don't even know if I have to follow that road for my problem. Sorry for the trouble and my bad english, and thank you beforehand.
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 10 Jul 2016, 08:55]
+Eladin wrote:
+Just one question guys, is there any way to play Divide et Impera mod with the latest patch posted in this page?. In the past I used the launcher emu to activate the outdated mod (TWC DEI is marked as that for some reason), but right now I don`t know how to achieve the same result using Mod manager or by Manually editing files such as User.Ini, I tried but it doesn't work because the game with the mod just get stuck in the first loading screen, with the emperor edition logo. I would deeply appreciate if you could help me with this because I really want to play Rome 2, but I can't play whithout DEI right now. To me it's something similar to play Skyrim without mods nowadays. xD
+
+I have searched in the topic but the only solution I had read is about editing HEX files (i just discovered that they exist) and I don't even know if I have to follow that road for my problem. Sorry for the trouble and my bad english, and thank you beforehand.
+
+DEI works just fine with current TWR2. here is the mod downloaded from steamworkshopdownloader.com. i hex-edited the files already
+https://openload.co/f/ONlBla7Cuvs/divide_et_impera.7z
+
+use current modmanager to load or be sure your user.script.txt has this..
+
+ user.script.txt
+mod "mods____divide_et_impera_010_part1.pack";
+mod "mods____divide_et_impera_release_part2.pack";
+mod "mods____divide_et_impera_release_part3.pack";
+mod "mods____divide_et_impera_release_part4.pack";
+mod "mods____divide_et_impera_release_part5.pack";
+mod "mods____divide_et_impera_release_part6.pack";
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 12 Jul 2016, 14:45]
+lieladesa321 wrote:
+I can't find the full game anywhere in here.
+
+its been posted multiple times what to do!!
+
+Total.War.ROME.II.Emperor.Edition.MULTi9-PROPHET
+(if you read forum rules, you know scene release are not allowed. so get PPT release on favorite warez forum like warez-bb.org)
+
+then apply the 2 updates for current version
+
+machine4578 wrote:
+Total.War.ROME.II.Update.v2.2.0.15666-v2.2.0.16155
+https://openload.co/f/fCi9vlajSgw/Total ... .part1.rar
+https://openload.co/f/K1yJN-iLv3k/Total ... .part2.rar
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 16 Jul 2016, 19:52]
+Why Total.War.ROME.II.Emperor.Edition.MULTi9-PROPHET size is like 22 GB and Total War: Rome 2 - Emperor Edition [Update 17] (2013) PC | RePack by R.G. Catalyst is less than 9 GB? Both seems to have everything, but the difference in size is too much... why? Is the last missing things or the first too badly ripped?
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 17 Jul 2016, 01:33]
+Virgilio wrote:
+Why Total.War.ROME.II.Emperor.Edition.MULTi9-PROPHET size is like 22 GB and Total War: Rome 2 - Emperor Edition [Update 17] (2013) PC | RePack by R.G. Catalyst is less than 9 GB? Both seems to have everything, but the difference in size is too much... why? Is the last missing things or the first too badly ripped?
+
+
+It's because of compression.
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 17 Jul 2016, 01:33]
+
+_________________
+Haters gonna hate!
+My updates are always clean files - no cracks included.
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 26 Jul 2016, 14:42]
+machine4578 wrote:
+then apply the 2 updates for current version
+
+machine4578 wrote:
+Total.War.ROME.II.Update.v2.2.0.15666-v2.2.0.16155
+https://openload.co/f/fCi9vlajSgw/Total ... .part1.rar
+https://openload.co/f/K1yJN-iLv3k/Total ... .part2.rar
+
+
+ Is it just me or the links are down ? If so- please re-upload
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 26 Jul 2016, 16:23]
+pyrrhusepirus wrote:
+machine4578 wrote:
+then apply the 2 updates for current version
+
+machine4578 wrote:
+Total.War.ROME.II.Update.v2.2.0.15666-v2.2.0.16155
+https://openload.co/f/fCi9vlajSgw/Total ... .part1.rar
+https://openload.co/f/K1yJN-iLv3k/Total ... .part2.rar
+
+
+ Is it just me or the links are down ? If so- please re-upload
+
+both links still work 100%
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 26 Jul 2016, 20:06]
+Hmm now they do indeed  dunno what was the problem but thanks anyway..

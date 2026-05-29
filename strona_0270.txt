@@ -1,0 +1,283 @@
+=========================================
+STRONA 270 (URL: https://cs.rin.ru/forum/viewtopic.php?f=10&t=61441&hilit=rome+2&start=4035)
+=========================================
+
+[Data: Thursday, 09 Aug 2018, 20:27]
+drozz wrote:
+knabberfee wrote:
+Here is the SFV
+
+Check for missing (DLC) files. Will upload them
+
+-- Edit --
+
+TWR2 Update Rise of the Republic
+
+ Spoiler
+Code: Select all | Line number On/Off | Expand/Contract
+https://www14.zippyshare.com/v/OspTRK7o/file.html
+https://www14.zippyshare.com/v/jfNTQ6IV/file.html
+https://www14.zippyshare.com/v/A7iOYCnV/file.html
+https://www14.zippyshare.com/v/viZM509l/file.html
+https://www14.zippyshare.com/v/VN6wf5zn/file.html
+ 
+
+
+You need my previous Ancestral Beta update!
+
+
+I have the legit copy and all DLC except Rise of the Republic. Is the above just the update? Or does it include RotR files for creamapi?
+
+
+No it's only for the previous update. Check your game with SFV and tell me which files are missing
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 09 Aug 2018, 20:27]
+
+_________________
+Haters gonna hate!
+My updates are always clean files - no cracks included.
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 09 Aug 2018, 20:32]
+knabberfee wrote:
+drozz wrote:
+knabberfee wrote:
+Here is the SFV
+
+Check for missing (DLC) files. Will upload them
+
+-- Edit --
+
+TWR2 Update Rise of the Republic
+
+ Spoiler
+Code: Select all | Line number On/Off | Expand/Contract
+https://www14.zippyshare.com/v/OspTRK7o/file.html
+https://www14.zippyshare.com/v/jfNTQ6IV/file.html
+https://www14.zippyshare.com/v/A7iOYCnV/file.html
+https://www14.zippyshare.com/v/viZM509l/file.html
+https://www14.zippyshare.com/v/VN6wf5zn/file.html
+ 
+
+
+You need my previous Ancestral Beta update!
+
+
+I have the legit copy and all DLC except Rise of the Republic. Is the above just the update? Or does it include RotR files for creamapi?
+
+
+No it's only for the previous update. Check your game with SFV and tell me which files are missing
+
+
+How do we check specificly for Rise of the Republic DLC files?
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 09 Aug 2018, 20:41]
+MasterDMFour wrote:
+How do we check specificly for Rise of the Republic DLC files?
+
+
+Try with this + config creamapi properly.
+
+Report back then
+
+https://www68.zippyshare.com/v/pDsyMtp8/file.html
+
+PS: the manifest.txt file is for english language only.
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 09 Aug 2018, 20:41]
+
+_________________
+Haters gonna hate!
+My updates are always clean files - no cracks included.
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 09 Aug 2018, 20:49]
+knabberfee wrote:
+MasterDMFour wrote:
+How do we check specificly for Rise of the Republic DLC files?
+
+
+Try with this + config creamapi properly.
+
+Report back then
+
+https://www68.zippyshare.com/v/pDsyMtp8/file.html
+
+PS: the manifest.txt file is for english language only.
+
+
+Only file I was missing was "invasion.pack", all others came with the game update for some reason so using CreamAPI alone allowed the DLC to be played. I just half expected to be missing a lot of stuff but seems that invasion.pack shows the intro.
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 09 Aug 2018, 20:53]
+What is the Republic dlc id so i could add it into steamapi?
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 09 Aug 2018, 20:54]
+bergo wrote:
+What is the Republic dlc id so i could add it into steamapi?
+
+
+https://steamdb.info/search/?a=app&q=total+war
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 09 Aug 2018, 21:03]
+knabberfee wrote:
+MasterDMFour wrote:
+How do we check specificly for Rise of the Republic DLC files?
+
+
+Try with this + config creamapi properly.
+
+Report back then
+
+https://www68.zippyshare.com/v/pDsyMtp8/file.html
+
+PS: the manifest.txt file is for english language only.
+
+
+Works great! Added the proper suffix to creamapi and used your files and now it works perfectly. Still shows that I don't 'own' the DLC and it's available for purchase on the main menu, but doesn't affect anything. Other than that, everything works flawlessly. Thank you.
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 09 Aug 2018, 21:05]
+Glad I was able to help you guys 
+
+Have fun conquering italy!
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 09 Aug 2018, 21:05]
+
+_________________
+Haters gonna hate!
+My updates are always clean files - no cracks included.
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 09 Aug 2018, 21:20]
+Does anyone have proper DLC pack/ rise of republic .pack+startpos files?
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 09 Aug 2018, 21:46]
+Anyone share russian language pack for current update? )
+
+
+ Spoiler
+data\local_ru.pack
+data\manifest.txt
+data\music_ru.pack
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 09 Aug 2018, 21:46]
+
+_________________
+Sorry for my English, I use Google translate. 
+CSF - Clean Steam files. Crack not included. If you don't know the password, read the FAQ. If I missed a new update, send a request to the PM.
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 09 Aug 2018, 22:16]
+knabberfee wrote:
+Glad I was able to help you guys 
+
+Have fun conquering italy!
+
+
+Seemed like the right thing to do.
+
+
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 09 Aug 2018, 23:13]
+I just put this Steamworks fix together. It seems to work but I don't have anyone to test with at the moment. Would anybody be so kind to test it and report back? 
+
+It's made up of:
+- Codex' Rome2.dll
+- Latest CreamAPI with modified dlc list (thanks to deadmau5).
+- Steam_appid file.
+
+https://openload.co/f/7StavMcO1yU/Total ... rks.Fix.7z
+
+
+EDIT: This version crashes when pressing "Exit to desktop", you could use this version instead: viewtopic.php?p=1746706#p1746706
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 09 Aug 2018, 23:13]
+
+_________________
+Always wanted to get rid of the files that were not listed in the sfv/md5 hash file? Check the QuickSFV plugin I created for this: viewtopic.php?f=10&t=108605 or this: viewtopic.php?p=1273745#p1273745
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 09 Aug 2018, 23:21]
+oldage wrote:
+knabberfee wrote:
+Glad I was able to help you guys 
+
+Have fun conquering italy!
+
+
+Seemed like the right thing to do.
+
+
+
+
+Nice!
+
+If I have the time I will upload a few language packs tomorrow.
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 09 Aug 2018, 23:21]
+
+_________________
+Haters gonna hate!
+My updates are always clean files - no cracks included.
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 09 Aug 2018, 23:38]
+Already on it. I should have all of them up in a few hours. I'll either edit my post with all of them, or post a new one, if no one posted something between it. Cya
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 09 Aug 2018, 23:38]
+
+_________________
+The FAQ are you waiting for?
+
+A wild PASSWORD appeared for protected archives & files on RIN! Member used cs.rin.ru ...it's super effective!
+
+Having problems downloading from Google Drive? Click here.
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 10 Aug 2018, 00:22]
+Anomaly wrote:
+I just put this Steamworks fix together. It seems to work but I don't have anyone to test with at the moment. Would anybody be so kind to test it and report back? 
+
+It's made up of:
+- Codex' Rome2.dll
+- Latest CreamAPI with modified dlc list.
+- Steam_appid file.
+
+https://openload.co/f/7StavMcO1yU/Total ... rks.Fix.7z
+
+
+it's work

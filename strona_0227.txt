@@ -1,0 +1,143 @@
+=========================================
+STRONA 227 (URL: https://cs.rin.ru/forum/viewtopic.php?f=10&t=61441&hilit=rome+2&start=3390)
+=========================================
+
+[Data: Friday, 10 Feb 2017, 16:04]
+I tried everithing, but the mods does not works. The normal 16155 game works perfectly, but if I copy a mod pack file in to the data folder the game does not start 
+
+I used this website to download the mods
+http://steamworkshop.download/
+
+from here:
+https://steamcommunity.com/workshop/bro ... pid=214950
+
+Re:
+I downloaded this mod and it is works:
+http://www.moddb.com/games/total-war-ro ... s-icon-mod
+
+How can I download from steam workshop, becuase I think that website is wrong. Like how can I download this one?
+https://steamcommunity.com/sharedfiles/ ... earchtext=
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 10 Feb 2017, 17:16]
+@krisztiantobias
+its been posted multiple times how to use mods if downloaded from the steamworkshop link.
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 10 Feb 2017, 19:05]
+I think I might be blind but I cannot find a game, just patches, and there are so many pages I have a trouble finding full game, could someone link it for me please? I would greatly appreciate it.
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 13 Feb 2017, 21:34]
+@gost
+
+just google TotalWarROMEIIEmperorEditionMULTi9-PROPHET for the scene release
+Alternatively you can get fitgirl's repack from her site for a smaller download. Google fitgirl-repacks.site.
+
+After that download knabberfee's patch (p.221) which will patch your game to the latest version (v2.2.0.Build.16155). However, you have to put in the new language files yourself. Knabberfee has included an updated English pack in the post. Once all that is done you have to apply a new crack, which you can find on the same page in a post by Anomaly along with further info.
+
+Information on getting steam mods downloaded through the steamworkshop online tool to work is on p. 186
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 17 Feb 2017, 03:05]
+Does anyone know whether non-steam mods will work with the crack? I'm wondering whether to try Divide et Impera 1.2 but it is still in open beta and no steam version is available
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 17 Feb 2017, 12:48]
+Is Testini's (I believe his name was?) DLC pack outdated? I have a legit copy of the game and it seems to be crashing any time I try to use it.
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 17 Feb 2017, 12:53]
+Top Hat Zebra wrote:
+Is Testini's (I believe his name was?) DLC pack outdated? I have a legit copy of the game and it seems to be crashing any time I try to use it.
+
+
+Check with sfv's
+
+viewtopic.php?p=1383625#p1383625
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 17 Feb 2017, 12:53]
+
+_________________
+Haters gonna hate!
+My updates are always clean files - no cracks included.
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 17 Feb 2017, 13:13]
+It's taking a little while, but it says that "Rome2.dll" has a CRC mismatch. Which is odd, because I haven't done anything to that file.
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 17 Feb 2017, 13:17]
+Top Hat Zebra wrote:
+It's taking a little while, but it says that "Rome2.dll" has a CRC mismatch. Which is odd, because I haven't done anything to that file.
+
+just a fyi, that is the main cracked file.
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 17 Feb 2017, 13:28]
+Im using my legit copy, though, so there shouldn't be any crack.
+
+
+I have stopped the crashing issue, though! I believe the issue was in the AppData\Roaming\The Creative Assembly\Rome2 folder, somewhere. Possibly a faulty user.script.txt file leftover from an old installation.
+
+
+Remember, kids, always clean out your script folders! 
+
+Anyway, thanks for the quick responses you guys!
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 17 Feb 2017, 13:48]
+@Top Hat Zebra
+ok, well no matter what the Rome2.dll wont match the crc32. every file is unique due to CEG.
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 20 Feb 2017, 21:52]
+ Spoiler
+Total War Rome II: Blood and Gore - 8C36M-Y3M5N-YLRVY
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 20 Feb 2017, 22:36]
+Got a key too.
+
+Total War Rome II: Blood and Gore - 058C9-CJIJD-DIV7E
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 20 Feb 2017, 22:36]
+
+_________________
+I've received multiple messages in which people expressed their desire to support my work in RIN; I appreciate your care, but I have all support I need; consider instead to support the developers of the games you actually enjoy. Rui
+
+
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 20 Feb 2017, 22:53]
+Guys does anybody by any chance have toons all in one mod?
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 21 Feb 2017, 19:45]
+machine4578 wrote:
+@krisztiantobias
+its been posted multiple times how to use mods if downloaded from the steamworkshop link.
+
+
+I did try the hex edit trick, I deleted the first few bytes (from MFHxyzklPFH4.... to PFH4...). Now the game starts, but the mods (like this one: http://steamworkshop.download/download/view/187013080) does not work. Any idea?
+
+Regards,
+Krisztián

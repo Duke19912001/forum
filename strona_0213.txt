@@ -1,0 +1,172 @@
+=========================================
+STRONA 213 (URL: https://cs.rin.ru/forum/viewtopic.php?f=10&t=61441&hilit=rome+2&start=3180)
+=========================================
+
+[Data: Sunday, 08 May 2016, 14:54]
+This game looks like a pain to get working, I'm installing Total War ROME II Emperor Edition MULTi9-PROPHET right now and I assume that there is a fix/crack that I need after this?
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 09 May 2016, 08:48]
+Anomaly wrote:
+You'll need these to have the latest version.
+
+Quote:
+Total.War.ROME.II.Emperor.Edition.MULTi9-PROPHET
+Total.War.ROME.II.Update.v2.2.0.15666-v2.2.0.16019 viewtopic.php?p=1094582#p1094582
+Total.War.ROME.II.Update.v2.2.0.16019-v2.2.0.16155 viewtopic.php?p=1119420#p1119420
+
+
+
+It's posted over a dozen time now. Use that search function, please.
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 09 May 2016, 08:48]
+
+_________________
+Always wanted to get rid of the files that were not listed in the sfv/md5 hash file? Check the QuickSFV plugin I created for this: viewtopic.php?f=10&t=108605 or this: viewtopic.php?p=1273745#p1273745
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 12 May 2016, 05:15]
+Anomaly wrote:
+Anomaly wrote:
+You'll need these to have the latest version.
+
+Quote:
+Total.War.ROME.II.Emperor.Edition.MULTi9-PROPHET
+Total.War.ROME.II.Update.v2.2.0.15666-v2.2.0.16019 viewtopic.php?p=1094582#p1094582
+Total.War.ROME.II.Update.v2.2.0.16019-v2.2.0.16155 viewtopic.php?p=1119420#p1119420
+
+
+
+
+Total.War.ROME.II.Update.v2.2.0.15666-v2.2.0.16019 Has been removed.
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 12 May 2016, 05:20]
+-3jack3- wrote:
+Total.War.ROME.II.Update.v2.2.0.15666-v2.2.0.16019 Has been removed.
+
+did you bother to check the last page? i reposted a new link!
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 12 May 2016, 09:42]
+Please can someone upload this mod ? It´s too large to be downloaded with steam.workshop.downloader
+
+https://steamcommunity.com/sharedfiles/ ... earchtext=
+
+Thanks
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 12 May 2016, 09:49]
+@peter4850
+
+
+testni wrote:
+GEMFX 1.0.9 (use winrar 5 or higher to extract):
+GEMFX.rar
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 14 May 2016, 23:02]
+testni wrote:
+Here's the dlc unlocker made with creamapi (as machine4578 suggested). See if it works (download the dlc files first).
+
+Rome 2 EE DLC Unlocker.rar
+http://www77.zippyshare.com/v/hqT8nj76/file.html
+
+I tested it and it unfortunately makes my game crash at the start. I have all the DLC files and the latest update but the DLCs are still locked for some reason. Any suggestions?
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 14 May 2016, 23:13]
+Exerion wrote:
+testni wrote:
+Here's the dlc unlocker made with creamapi (as machine4578 suggested). See if it works (download the dlc files first).
+
+Rome 2 EE DLC Unlocker.rar
+http://www77.zippyshare.com/v/hqT8nj76/file.html
+
+I tested it and it unfortunately makes my game crash at the start. I have all the DLC files and the latest update but the DLCs are still locked for some reason. Any suggestions?
+
+here, try this setup
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 14 May 2016, 23:27]
+Still crashing. 
+
+Nvm it worked, had to switch cracks. Thanks a bunch bro!
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 14 May 2016, 23:30]
+Exerion wrote:
+Still crashing. 
+
+really?? cause i used the exact same setup on my legit TWR2 and all DLC is unlocked for me. maybe you should validate your files with steam, then recopy the creamapi setup i gave you.
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 14 May 2016, 23:40]
+Nope worked fine, see edit. Thanks again! 
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 14 May 2016, 23:44]
+Exerion wrote:
+Nope worked fine, see edit. Thanks again! 
+
+great 
+
+enjoy!
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 15 May 2016, 00:51]
+Anomaly wrote:
+Anomaly wrote:
+You'll need these to have the latest version.
+
+Quote:
+Total.War.ROME.II.Emperor.Edition.MULTi9-PROPHET
+Total.War.ROME.II.Update.v2.2.0.15666-v2.2.0.16019 viewtopic.php?p=1094582#p1094582
+Total.War.ROME.II.Update.v2.2.0.16019-v2.2.0.16155 viewtopic.php?p=1119420#p1119420
+
+
+
+It's posted over a dozen time now. Use that search function, please.
+
+
+Thanks, exactly what i was looking for.
+Previous steamwork fixes still working on the latest version?
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 16 May 2016, 11:30]
+Karin wrote:
+Thanks, exactly what i was looking for.
+Previous steamwork fixes still working on the latest version?
+
+
+Probably not; it's meant for Prophet's release.
+ Spoiler
+[ img ]
+http://revolt.loginto.me/nfo/Total.War. ... REVOLT.png
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 16 May 2016, 11:30]
+
+_________________
+Always wanted to get rid of the files that were not listed in the sfv/md5 hash file? Check the QuickSFV plugin I created for this: viewtopic.php?f=10&t=108605 or this: viewtopic.php?p=1273745#p1273745
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 19 May 2016, 13:15]
+Hello guys, i am preaty new to this site, and i whanted to ask u guys if someone can reply me how to download this game, last and only game that i download on this site was EU4(Europa Universalis 4) from RezMar and it was preaty easy, but when i come on this page i see a lot of updates and a lot of some "beta" and other link's so that's why i need help what to download and what not. So again if u can help me it would be great.  And last thing, did u guys heard of Total War Rome Warhammer? And do u have some link where i can download that too  Thanks again

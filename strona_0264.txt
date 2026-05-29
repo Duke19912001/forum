@@ -1,0 +1,327 @@
+=========================================
+STRONA 264 (URL: https://cs.rin.ru/forum/viewtopic.php?f=10&t=61441&hilit=rome+2&start=3945)
+=========================================
+
+[Data: Saturday, 07 Jul 2018, 16:28]
+How to download mods from steam ?
+Steam downloader do not work
+
+https://steamcommunity.com/sharedfiles/ ... =952250553
+Need this one
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 08 Jul 2018, 16:14]
+Someone has the last version of Total.War.ROME.II.Assembly.Kit.BETA?
+I can't download it from the official page.
+Thanks!!
+
+
+
+ShadowDuke wrote:
+Total.War.ROME.II.Assembly.Kit.BETA.for.Update.16.1
+
+Info
+
+
+Code: Select all | Line number On/Off | Expand/Contract
+1) Extract all files to your Rome 2 <root> install dir
+2) Start with /binaries/BOB.AssemblyKit.exe & TWeak.AssemblyKit.exe
+
+
+Download: [165mb] (Zippyshare, Mega)
+
+Zippyshare
+Mega
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 08 Jul 2018, 21:05]
+Here is Assembly Kit for latest version
+
+https://www78.zippyshare.com/v/GspHXLn9/file.html
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 08 Jul 2018, 21:05]
+
+_________________
+Haters gonna hate!
+My updates are always clean files - no cracks included.
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 10 Jul 2018, 21:22]
+Thank you very much!!
+
+
+knabberfee wrote:
+Here is Assembly Kit for latest version
+
+https://www78.zippyshare.com/v/GspHXLn9/file.html
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 11 Jul 2018, 15:38]
+New beta tomorrow, maybe new DLC?
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 11 Jul 2018, 15:38]
+
+_________________
+Haters gonna hate!
+My updates are always clean files - no cracks included.
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 12 Jul 2018, 15:12]
+does anybody have only dlcs and crack(creamapi)?
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 12 Jul 2018, 15:23]
+
+
+Quote:
+The long-awaited Family Tree for ROME II is here!
+
+The free Ancestral Update introduces this community favourite feature along with numerous tweaks, fixes, and improvements to ROME II’s base game and DLCs.
+As you may have guessed from the latest what the teams are working on blog post, a ROME II DLC announce will also be coming very soon.
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 12 Jul 2018, 19:06]
+Beta is out
+
+Family Tree 
+
+https://steamcommunity.com/games/214950 ... 0704205536
+
+Will share a patch soon
+
+Edit:
+Bigger than expected... ~8GB unpacked.
+
+You will need latest CODEX release + Updates
+
+ Spoiler
+https://drive.google.com/open?id=1l-Emjz37r8HTZnMm3fEWQtfqbZ7dvDZI
+
+Only english language!
+NOT CRACKED!
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 12 Jul 2018, 19:06]
+
+_________________
+Haters gonna hate!
+My updates are always clean files - no cracks included.
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 12 Jul 2018, 19:14]
+fatalerror1 wrote:
+
+
+Quote:
+The long-awaited Family Tree for ROME II is here!
+
+The free Ancestral Update introduces this community favourite feature along with numerous tweaks, fixes, and improvements to ROME II’s base game and DLCs.
+As you may have guessed from the latest what the teams are working on blog post, a ROME II DLC announce will also be coming very soon.
+
+great news
+
+wonder what the new DLC is
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 12 Jul 2018, 19:14]
+
+_________________
+mostly inactive until at least half of july 2025
+
+If any of my uploads are outdated or no longer online , the best way to do is to send me a PM and i will add the title to the next batch
+UPLOADS PAUSED (have all requests in queue for when i am back to being more active)
+
+List of recent games with modern DRMs:(updated 01-Mar-2023) - http://cs.rin.ru/forum/viewtopic.php?f=10&t=68151
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 13 Jul 2018, 00:35]
+Total War ROME II Ancestral Update Release Notes (Open BETA):
+
+ Spoiler
+New
+* Agents skills have been completely reworked, rebalanced and are now culture-specific. They now have more actions, some of them having significant new effects
+* Generals’ skills are also now culture specific
+* Skill cards for agents, generals and military traditions have informative pips that show what the skill grants at each level
+* Agent skills have been re-ordered to mimic the order of attributes in the character portrait
+* Reinforcement range is now visible as an area, not only as blinking arrows
+* Technology panels now have sounds
+* In battle, ships in will now be able to leave their disembarking area by shifting in reverse, making room for more ships to land
+* Champions have received a skill that directly buffs the bonus to unit experience per turn
+* Levels 2 and 3 of Agent skills are now unlocked on the next agent level, instead of skipping a level. For instance, tier 1 skills are unlocked on levels 2/3/4, instead of the previous 2/4/6
+* Battle loot implemented in field battles, granting different sums based on the upkeep cost of the defeated army and the action selected after victory
+* Added more variety to generals in Empire Divided
+* Number of household ancillaries has been increased from 1 to 3
+* Number of character traits has been increased from 3 to 6
+
+Visual
+* Added MSAA anti-aliasing
+* Added “Clouds shadow” option to shadows
+* Added an option for near the camera objects fading (on/off)
+* Added “Hide dead bodies” option, so dead units can vanish even on higher graphics settings
+* Added “Hide foliage” to the graphics options and made that shader functionality toggleable
+* “Hide foliage” option has a shortcut set to Ctrl+F by default
+* Added “Terrain noise” to make distant terrain look less flat.
+* Improved building LOD distances for Extreme/Ultra to be really extreme and ultra (x3 times greater)
+* Improved shadow quality & performance.
+* Heavy rain weather VFX in battle now occasionally replaced with stormy rain weather (with lightning flashes)
+* Ships now render in water reflections
+* Reduced terrain and grass reflectivity in rainy weather
+* Improved night lighting of units. Torch light is now animated and casts shadows on higher settings
+* Improved river shader in battles: shallow river water is more visible, won’t vanish when near the camera, specular and shadows improved
+* Trees on the tactical view are no longer very obviously rotating towards the camera
+* Rivers have been optimized to not render past a certain distance
+
+Bugfixes
+* Changed the AI to now recruit more suitable units in campaign
+* Added Numidian Spearmen Assault Dieres to eastern naval garrison lvl 2 group
+* Corrected many instances of units with mismatches between their weight and caste
+* Fixed the Palmyrene Top Recruit technology (Empire Divided Campaign) to correctly apply its bonuses to all new land unit recruits
+* Fixed Kushite Archers and Kushite Royal Archers to now correctly receive bonuses from effects applying to missile infantry
+* Fixed all Empire Divided bodyguard units to correctly receive bonuses from different effects
+* Added Theban Hippeus unit to the Boiotia League custom battle roster
+* Missile Range bonuses now actually work!
+* Fixed a few cases where the player can get stuck in the Prologue campaign
+* Fixed a few cases of improperly rotated settlement battle tiles
+* The “Status Quo” achievement can now again be obtained
+
+Battle AI
+* Fixed an issue that caused units to cluster together when climbing ladders on walled settlements
+* The AI will no longer zealously guard the capture points in unwalled settlements
+* Fixed an issue that sometimes caused the AI to never attack a walled settlement
+* Fixed an issue with pathfinding that sometimes caused units to rapidly move in different directions
+* Tweaked the AI behaviour to better assess and exploit players’ tactical weaknesses, such as gaps in defence lines or an unprotected general
+* Shield Wall, Hoplite Wall and Testudo will not be broken by the fast-move command and will move in formation to the target until they reach change distance
+* When siege units and mounted units (cavalry, chariots, camels, elephants) are making a naval assault they will deploy on the ground, instead of disembarking from ships, similar to Total War: ATTILA
+
+Gameplay Improvements
+* Female cursus honorum grants attributes at higher levels
+* GC Iceni start their campaign having military access with Dumnonii
+* Starting loyalty has been decreased for all difficulty settings (0 on Easy, 0< on higher difficulty)
+* The political traits Militarist and Expansionist have been nerfed, granting less loyalty
+* A different version of the Family Tree, called Chain of Command, has been added to the Caesar in Gaul campaign. It contains fewer intrigues
+* Start-pos characters have been rebalanced in all campaigns – many more were added, both historical and created for gameplay purposes
+* New encyclopaedia page for Agents, available on right-click
+* The Family Duty trait now disables character skills
+
+
+This update is currently in open beta to ensure it works for all users before release. Here is how you can opt in.
+* Restart Steam
+* Find Total War: ROME II – Emperor Edition in your Steam library
+* Right click Total War: ROME II – Emperor Edition and go to Properties in the drop-down menu
+* Go to the Betas tab
+* In the drop-down menu under Select the beta you would like to opt into: select ancestral –
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 13 Jul 2018, 10:03]
+knabberfee wrote:
+Beta is out
+
+Family Tree 
+
+https://steamcommunity.com/games/214950 ... 0704205536
+
+Will share a patch soon
+
+Edit:
+Bigger than expected... ~8GB unpacked.
+
+You will need latest CODEX release + Updates
+
+ Spoiler
+https://drive.google.com/open?id=1l-Emjz37r8HTZnMm3fEWQtfqbZ7dvDZI
+
+Only english language!
+
+
+Which update do you mean m8? build1839??
+It shows file hash mismatch and check your version dialog, when I tried to install.
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 13 Jul 2018, 15:15]
+knabberfee wrote:
+Beta is out
+
+
+ Spoiler
+Family Tree 
+
+https://steamcommunity.com/games/214950 ... 0704205536
+
+Will share a patch soon
+
+Edit:
+Bigger than expected... ~8GB unpacked.
+
+You will need latest CODEX release + Updates
+https://drive.google.com/open?id=1l-Emj ... fqbZ7dvDZI
+Only english language!
+
+
+Thanks that was fast.
+Speaking of fast, for those who play DeI they already have a fix for the new beta. Check on their forum it's pretty easy to find 
+
+@Infinitixs : update 2.3.0 build 18513 I think
+
+edit : the beta doesn't seem to be very stable though (that was to be expected I guess)
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 13 Jul 2018, 18:29]
+Is there an archive kicking around that has the DLC files, to use with CreamAPI? Tried searching the thread, but the forum search box doesn't allow you to search for the term "DLC".
+
+I got the base game, but god damn, I'm not paying £79 for all that.
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 13 Jul 2018, 18:33]
+Altan wrote:
+knabberfee wrote:
+Beta is out
+
+
+ Spoiler
+Family Tree 
+
+https://steamcommunity.com/games/214950 ... 0704205536
+
+Will share a patch soon
+
+Edit:
+Bigger than expected... ~8GB unpacked.
+
+You will need latest CODEX release + Updates
+https://drive.google.com/open?id=1l-Emj ... fqbZ7dvDZI
+Only english language!
+
+
+Thanks that was fast.
+Speaking of fast, for those who play DeI they already have a fix for the new beta. Check on their forum it's pretty easy to find 
+
+@Infinitixs : update 2.3.0 build 18513 I think
+
+edit : the beta doesn't seem to be very stable though (that was to be expected I guess)
+
+
+Got it. I figured, custom battles always crash though. Did it happen to you too?
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 13 Jul 2018, 18:48]
+Custom battles always crashed for me as well.

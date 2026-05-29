@@ -1,0 +1,206 @@
+=========================================
+STRONA 255 (URL: https://cs.rin.ru/forum/viewtopic.php?f=10&t=61441&hilit=rome+2&start=3810)
+=========================================
+
+[Data: Friday, 09 Mar 2018, 12:28]
+cs.rin.ru
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 09 Mar 2018, 12:28]
+
+_________________
+The FAQ are you waiting for?
+
+A wild PASSWORD appeared for protected archives & files on RIN! Member used cs.rin.ru ...it's super effective!
+
+Having problems downloading from Google Drive? Click here.
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 09 Mar 2018, 12:33]
+Venom wrote:
+cs.rin.ru
+
+
+Venom, Thanks mate!
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 09 Mar 2018, 13:31]
+I'm noticing that with the update, RTWII runs a bit sluggish. I saw the new mod analyzer function when starting up the game and read on reddit something along the lines of, complaints about bugs; Dev saying that mods are causing the bugs? Maybe it is, maybe they added more software protection that's taking up more resources, idk. Any thoughts?
+
+Have a request, looking for the files for "gem fx". Currently using gemfx 1.09 but i'm looking for the most recent version. If anyone has it, could you please upload it? Peeps that made that thing have it setup to require steam, some sort of file is required beyond the normal download for the most recent version IIRC.
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 09 Mar 2018, 15:07]
+Venom wrote:
+Total.War.Rome.II.Empire.Divided.Update.v2.3.0.Build.18349.incl.DLC-CODEX
+
+ Spoiler
+
+
+hey can u give me the link the Total.War.Rome.II.Empire.Divided.Codex one ? cant find the one that working with new update, everytime i try update it say mismacth
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 09 Mar 2018, 15:10]
+You can search the release on GOD 
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 09 Mar 2018, 15:10]
+
+_________________
+The FAQ are you waiting for?
+
+A wild PASSWORD appeared for protected archives & files on RIN! Member used cs.rin.ru ...it's super effective!
+
+Having problems downloading from Google Drive? Click here.
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 09 Mar 2018, 16:23]
+Venom wrote:
+You can search the release on GOD 
+
+
+yea i got from there the update for new dlc ( desert kingdom) but when i try to apply the update is fail it always say mismatch something
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 09 Mar 2018, 16:24]
+Maybe someone can give you a sfv file to check your game files what you're missing, & what's O.K. Or you do a clean re-install of the game.
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 09 Mar 2018, 16:24]
+
+_________________
+The FAQ are you waiting for?
+
+A wild PASSWORD appeared for protected archives & files on RIN! Member used cs.rin.ru ...it's super effective!
+
+Having problems downloading from Google Drive? Click here.
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 09 Mar 2018, 16:38]
+Venom wrote:
+Maybe someone can give you a sfv file to check your game files what you're missing, & what's O.K. Or you do a clean re-install of the game.
+
+
+i do clean reinstall yea
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 09 Mar 2018, 18:49]
+It's obvious you have to HAVE the
+
+- local_en.pack
+- local_en_shared_rome2.pack
+- music_en_shared_rome2.pack
+
+and your whole game updated in 2.2.0 Emperor Edition Empire Divided to get the last update from codex working.
+
+Once the update is applied, you erase the 3 _en.pack and you apply your own language pack uploaded by KNABBERFEE 
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 09 Mar 2018, 19:04]
+CODEX update is english only + english language files (mentioned above) got updated too, so you need them with correct checksum anyway.
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 09 Mar 2018, 19:04]
+
+_________________
+Haters gonna hate!
+My updates are always clean files - no cracks included.
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 09 Mar 2018, 22:36]
+knabberfee wrote:
+CODEX update is english only + english language files (mentioned above) got updated too, so you need them with correct checksum anyway.
+
+so which one that have correct checksum ? i try update from fitgirl there some mismatch, i try from GOD still mismatch
+
+-- Edit --
+
+for real tough cant get the new update (desert kingdom dlc) to work been spending entire night to figure this out so i try every uploader like fitgir, igg etc and every daam time it say invalid sum ( this one the last one i need i think ? data\terrain2_rome2.pack Hash sum mismatch! Required MD5: 189116DDF37E0072771605B232AE73E5)
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 09 Mar 2018, 22:54]
+Regarding the NFO you need Total.War.Rome.II.Empire.Divided-CODEX
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 09 Mar 2018, 22:54]
+
+_________________
+Haters gonna hate!
+My updates are always clean files - no cracks included.
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 09 Mar 2018, 23:53]
+riqih911 wrote:
+knabberfee wrote:
+CODEX update is english only + english language files (mentioned above) got updated too, so you need them with correct checksum anyway.
+
+so which one that have correct checksum ? i try update from fitgirl there some mismatch, i try from GOD still mismatch
+
+-- Edit --
+
+for real tough cant get the new update (desert kingdom dlc) to work been spending entire night to figure this out so i try every uploader like fitgir, igg etc and every daam time it say invalid sum ( this one the last one i need i think ? data\terrain2_rome2.pack Hash sum mismatch! Required MD5: 189116DDF37E0072771605B232AE73E5)
+
+
+I've used the Total War Fitgirl Repack. It's updated to 2.2.0 Emperor Edition - 15 DLC - EMPIRE DIVIDED. Her repack is perfect. (only 8.21 Gb and fast installation with my high-end CPU)
+
+1- Install FITGIRL repack in english.
+2- apply update from codex
+3- grab language pack from knabberfee, download, apply and
+4- PLAY
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 10 Mar 2018, 07:57]
+Thanks Knabberfee for german language pack 
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 10 Mar 2018, 07:57]
+
+_________________
+Ich brauche keine Signatur... 
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 11 Mar 2018, 10:01]
+Psaro66 wrote:
+riqih911 wrote:
+knabberfee wrote:
+CODEX update is english only + english language files (mentioned above) got updated too, so you need them with correct checksum anyway.
+
+so which one that have correct checksum ? i try update from fitgirl there some mismatch, i try from GOD still mismatch
+
+-- Edit --
+
+for real tough cant get the new update (desert kingdom dlc) to work been spending entire night to figure this out so i try every uploader like fitgir, igg etc and every daam time it say invalid sum ( this one the last one i need i think ? data\terrain2_rome2.pack Hash sum mismatch! Required MD5: 189116DDF37E0072771605B232AE73E5)
+
+
+I've used the Total War Fitgirl Repack. It's updated to 2.2.0 Emperor Edition - 15 DLC - EMPIRE DIVIDED. Her repack is perfect. (only 8.21 Gb and fast installation with my high-end CPU)
+
+1- Install FITGIRL repack in english.
+2- apply update from codex
+3- grab language pack from knabberfee, download, apply and
+4- PLAY
+
+
+1. done i install from fitgirl
+2. there Error still ( data\punic.pack Hash sum mismatch! Required MD5: 316C6921916D61DCF8E48D34D2B29FFD)
+3. not yet
+4. not yet

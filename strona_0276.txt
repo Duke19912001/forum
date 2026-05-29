@@ -1,0 +1,255 @@
+=========================================
+STRONA 276 (URL: https://cs.rin.ru/forum/viewtopic.php?f=10&t=61441&hilit=rome+2&start=4125)
+=========================================
+
+[Data: Thursday, 16 Aug 2018, 14:39]
+hi can anyone upload this awesome mod, it basicaly change the model of character when the character ages, it add more to the game
+it was like in the Rome 1 where the portrait will change with ages.
+
+https://steamcommunity.com/sharedfiles/ ... 1415360013
+https://steamcommunity.com/sharedfiles/ ... 1472275307
+
+thank youuu
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 16 Aug 2018, 21:44]
+Rui wrote:
+I gave a slight revamp to the OP - fixed the game name, put proper page structure following the steaminfo bbcode example, etc.
+
+ShadowDuke, will you kindly take care of it and update the rest, since it's heavily outdated, or should I hand the OP to anyone that volunteers (btw, people have volunteered already)? Please answer in a 24h period. Thanks.
+
+After 24h I decided to hand the OP to Anomaly, since he was the one that asked for it first.
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 16 Aug 2018, 21:44]
+
+_________________
+I've received multiple messages in which people expressed their desire to support my work in RIN; I appreciate your care, but I have all support I need; consider instead to support the developers of the games you actually enjoy. Rui
+
+
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 16 Aug 2018, 21:49]
+Good decision!
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 16 Aug 2018, 21:49]
+
+_________________
+Haters gonna hate!
+My updates are always clean files - no cracks included.
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 17 Aug 2018, 01:08]
+knabberfee wrote:
+creator wrote:
+Hey, would anyone be able to post the divide et impera mod i've only been able to find it on Moddb but it was an outdated version
+
+https://steamcommunity.com/sharedfiles/ ... =294694062 link to the files
+
+
+Many thanks.
+
+https://www42.zippyshare.com/v/RQI19OxR/file.html
+https://www42.zippyshare.com/v/izx4Hh4V/file.html
+
+
+
+Thanx for the mod, but sadly i have trouble starting it. Can someone please explain how to start the mod on a CODEX release?
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 17 Aug 2018, 01:28]
+gerula666 wrote:
+Can someone please upload this updated files for v2.4.0 Build.19581
+
+\campaigns\main_invasion
+\data\invasion.pack
+\data\manifest
+
+
+Another request for this, unpacking the .exe from a few posts up only gives me the .pack file (with an .xdelta extension?) though I am not sure which part is actually updated when they pushed the hotfix for the rotr campaign.
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 17 Aug 2018, 11:55]
+Any repack for the lastest update ? Because the process of updating the game is heavy on low HDD :v .
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 17 Aug 2018, 12:07]
+Lupus Vulpes wrote:
+knabberfee wrote:
+creator wrote:
+Hey, would anyone be able to post the divide et impera mod i've only been able to find it on Moddb but it was an outdated version
+
+https://steamcommunity.com/sharedfiles/ ... =294694062 link to the files
+
+
+Many thanks.
+
+https://www42.zippyshare.com/v/RQI19OxR/file.html
+https://www42.zippyshare.com/v/izx4Hh4V/file.html
+
+
+
+Thanx for the mod, but sadly i have trouble starting it. Can someone please explain how to start the mod on a CODEX release?
+
+
+You have to put the files into the "data" folder.
+
+-- Edit --
+
+
+oldage wrote:
+gerula666 wrote:
+Can someone please upload this updated files for v2.4.0 Build.19581
+
+\campaigns\main_invasion
+\data\invasion.pack
+\data\manifest
+
+
+Another request for this, unpacking the .exe from a few posts up only gives me the .pack file (with an .xdelta extension?) though I am not sure which part is actually updated when they pushed the hotfix for the rotr campaign.
+
+
+https://www46.zippyshare.com/v/Bm0MoWIk/file.html
+
+I have only the manifest for german language, and i don't want to download the english language at the moment. Sorry maybe someone other could upload it for you (if it's really needed).
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 17 Aug 2018, 12:07]
+
+_________________
+Haters gonna hate!
+My updates are always clean files - no cracks included.
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 17 Aug 2018, 15:19]
+Would also need help with mods. Did the user scripts method and Mod Manager but the game either doesn't start or starts with no mods present.
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 17 Aug 2018, 16:06]
+I don't know, look with Launcher.exe maybe
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 17 Aug 2018, 16:06]
+
+_________________
+Haters gonna hate!
+My updates are always clean files - no cracks included.
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 17 Aug 2018, 16:18]
+Tharater wrote:
+Would also need help with mods. Did the user scripts method and Mod Manager but the game either doesn't start or starts with no mods present.
+
+
+did you tried hex editing?if not search in topic,it's very easy.mods downloaded from steam needs hex editing for using them in cracked version.
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 17 Aug 2018, 16:23]
+Here is the tutorial for making mods work with cracked version
+
+viewtopic.php?p=1081748#p1081748
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 17 Aug 2018, 16:23]
+
+_________________
+Haters gonna hate!
+My updates are always clean files - no cracks included.
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 17 Aug 2018, 20:22]
+Rui wrote:
+ Spoiler
+Rui wrote:
+I gave a slight revamp to the OP - fixed the game name, put proper page structure following the steaminfo bbcode example, etc.
+
+ShadowDuke, will you kindly take care of it and update the rest, since it's heavily outdated, or should I hand the OP to anyone that volunteers (btw, people have volunteered already)? Please answer in a 24h period. Thanks.
+
+After 24h I decided to hand the OP to Anomaly, since he was the one that asked for it first.
+
+
+OP has been updated. I'll add more stuff later today or tomorrow.
+
+
+Past 2000 posts yay 
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 17 Aug 2018, 20:22]
+
+_________________
+Always wanted to get rid of the files that were not listed in the sfv/md5 hash file? Check the QuickSFV plugin I created for this: viewtopic.php?f=10&t=108605 or this: viewtopic.php?p=1273745#p1273745
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 18 Aug 2018, 11:07]
+Btw, here's the updated Assembly Kit BETA if anyone needs it:
+
+ Spoiler
+https://drive.google.com/file/d/1hp8deP0HIIn8DA3TIrSiD6pI9HYP45BP/view?usp=sharing
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 18 Aug 2018, 11:07]
+
+_________________
+The FAQ are you waiting for?
+
+A wild PASSWORD appeared for protected archives & files on RIN! Member used cs.rin.ru ...it's super effective!
+
+Having problems downloading from Google Drive? Click here.
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 18 Aug 2018, 15:42]
+knabberfee wrote:
+-- Edit --
+
+
+oldage wrote:
+gerula666 wrote:
+Can someone please upload this updated files for v2.4.0 Build.19581
+
+\campaigns\main_invasion
+\data\invasion.pack
+\data\manifest
+
+
+Another request for this, unpacking the .exe from a few posts up only gives me the .pack file (with an .xdelta extension?) though I am not sure which part is actually updated when they pushed the hotfix for the rotr campaign.
+
+
+https://www46.zippyshare.com/v/Bm0MoWIk/file.html
+
+I have only the manifest for german language, and i don't want to download the english language at the moment. Sorry maybe someone other could upload it for you (if it's really needed).
+
+
+Thanks, and I'm not sure if it's needed. What's the manifest for?
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 18 Aug 2018, 15:42]
+Venom wrote:
+Btw, here's the updated Assembly Kit BETA if anyone needs it:
+
+ Spoiler
+https://drive.google.com/file/d/1hp8deP0HIIn8DA3TIrSiD6pI9HYP45BP/view?usp=sharing
+
+
+thanks Venom,much appreciated.

@@ -1,0 +1,178 @@
+=========================================
+STRONA 241 (URL: https://cs.rin.ru/forum/viewtopic.php?f=10&t=61441&hilit=rome+2&start=3600)
+=========================================
+
+[Data: Tuesday, 14 Nov 2017, 14:50]
+machine4578 wrote:
+Flokehl wrote:
+if your answer was for my post, im not talking about the beta patch.
+Im trying to get Patch 17 running with smart steam Emu.
+Everything works fine without crack and just with the Emu but game is crashing to Desktop after every battle.
+
+Thy for your help
+
+
+Flokehl
+
+if you want to play using SSE on current cracked version. you MUST make sure the LumaCEG plugin is loaded by SSE!
+you also must make sure you are using the org steam_api.dll!
+
+
+
+Thank you very much with this plugin and fixed rome2.dll it worked like a charm 
+
+Thy for helping
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 15 Nov 2017, 22:13]
+Would someone mind uploading the DLC files? I'd be very appreciative as it would save me from downloading the entire game just for the DLC files on my slow Internet. Thanks!
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 16 Nov 2017, 20:49]
+Total War: Rome 2 Update v2.2.0 Build 17429 BETA *DOWNLOAD* *MIRROR*
+All you need is Total War: Rome 2 Update v2.2.0 Build 17366 BETA -> viewtopic.php?p=1579123#p1579123
+Language updates included.
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 16 Nov 2017, 20:49]
+
+_________________
+Haters gonna hate!
+My updates are always clean files - no cracks included.
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 19 Nov 2017, 20:13]
+Hi!
+I need this mod: https://steamcommunity.com/sharedfiles/ ... =358887330
+To unlock all factions in the DLC Wrath of Sparta.
+I tried with steeamworckshop downloader, but nothing...
+Thanks for your help!! 
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 19 Nov 2017, 22:31]
+mods__alorome2wos.pack
+https://openload.co/f/wJJoQItbQVY/mods_ ... e2wos.pack
+
+
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 20 Nov 2017, 01:13]
+What determines the patch# (Patch 16, Patch 17 or Patch 18)?
+
+Is it just the first two digits of the build number?
+
+
+I am trying to get DeI mod to work but the latest version demands patch 18.
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 20 Nov 2017, 19:12]
+panym wrote:
+mods__alorome2wos.pack
+https://openload.co/f/wJJoQItbQVY/mods_ ... e2wos.pack
+
+
+
+It works! Thanks!
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 24 Nov 2017, 03:46]
+Hey guys, I'm going to try and use CreamAPI on my legit Rome II. However, I can't find any links for DLC only files by using the search bar. Do they still exist and if they do could anyone point me in the right direction? Thanks!
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 24 Nov 2017, 03:46]
+
+_________________
+”One does not become enlightened by imagining figures of light but by making the darkness conscious.”
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 24 Nov 2017, 12:12]
+Here are all DLC's for v2.2.0.Build.16155 (non beta)
+
+ Spoiler
+Code: Select all | Line number On/Off | Expand/Contract
+https://www.multiup.eu/a26f7f7905ed0fa0f83c906095d3ef35
+https://www.multiup.eu/4611ae6630f0c25ee421c3dabbe45fd6
+ 
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 24 Nov 2017, 12:12]
+
+_________________
+Haters gonna hate!
+My updates are always clean files - no cracks included.
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 24 Nov 2017, 19:20]
+judas101 wrote:
+Hey guys, I'm going to try and use CreamAPI on my legit Rome II. However, I can't find any links for DLC only files by using the search bar. Do they still exist and if they do could anyone point me in the right direction? Thanks!
+
+Please let me know if it works out for you.
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 25 Nov 2017, 13:28]
+Is it possible to get the DLC files through some mirrors other than multiup? I swear every single site available there is either capped at 50kb/s or you have to pay for it.
+True, I'm not sure if any file uploaders allow for such large files without charging for stuff, but what about stuff like MEGA, zippy, or even the google thingy? Have the dlc files been changed in the latest beta update?
+
+I would like to use CreamAPI with my legitimate R2, do I need files other than the DLC ones? in TW:W you need some files for steam itself.
+
+Thanks!
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 25 Nov 2017, 16:14]
+Yes, DLC files were updated in beta patch
+
+Here are a mirror for all DLC files for v2.2.0.Build.16155 (non beta)
+
+https://drive.google.com/open?id=1XDiXi ... YK3uNsfOTG
+https://drive.google.com/file/d/1yzgFcD ... sp=sharing
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 25 Nov 2017, 16:14]
+
+_________________
+Haters gonna hate!
+My updates are always clean files - no cracks included.
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 25 Nov 2017, 23:08]
+Thanks man. Are those all files you need for CreamAPI? Some games require a few extra files other than the DLC files.
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 26 Nov 2017, 15:27]
+knabberfee wrote:
+Yes, DLC files were updated in beta patch
+
+Here are a mirror for all DLC files for v2.2.0.Build.16155 (non beta)
+
+https://drive.google.com/open?id=1XDiXi ... YK3uNsfOTG
+
+What is the password for this archive?
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 26 Nov 2017, 19:26]
+cs.rin.ru
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 26 Nov 2017, 19:26]
+
+_________________
+I've received multiple messages in which people expressed their desire to support my work in RIN; I appreciate your care, but I have all support I need; consider instead to support the developers of the games you actually enjoy. Rui

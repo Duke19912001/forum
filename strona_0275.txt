@@ -1,0 +1,257 @@
+=========================================
+STRONA 275 (URL: https://cs.rin.ru/forum/viewtopic.php?f=10&t=61441&hilit=rome+2&start=4110)
+=========================================
+
+[Data: Wednesday, 15 Aug 2018, 17:20]
+Thx. I'll been waiting for language packs as always.
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 15 Aug 2018, 18:28]
+Rui wrote:
+Total.War.Rome.II.Rise.of.the.Republic.Update.v2.4.0.19581-CODEX
+
+ NFO
+
+
+Thanks Rui. CODEX updater asks for 55GB free space in HDD to install this 25MB update!!! I had only 18GB free but it seemed to install fine. No error msg appeared.
+
+Rome2.dll has been updated and cracked. Let's hope this one works better for me  -- EDIT -- No dice, still crashes... 
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 15 Aug 2018, 19:52]
+Rui wrote:
+Total.War.Rome.II.Rise.of.the.Republic.Update.v2.4.0.19581-CODEX
+
+ NFO
+
+
+Steamworks fix (v2) works fine on the new update with Codex' latest cracked "Rome2.dll" 
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 15 Aug 2018, 19:52]
+
+_________________
+Always wanted to get rid of the files that were not listed in the sfv/md5 hash file? Check the QuickSFV plugin I created for this: viewtopic.php?f=10&t=108605 or this: viewtopic.php?p=1273745#p1273745
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 15 Aug 2018, 19:56]
+creator wrote:
+Hey, would anyone be able to post the divide et impera mod i've only been able to find it on Moddb but it was an outdated version
+
+https://steamcommunity.com/sharedfiles/ ... =294694062 link to the files
+
+
+Many thanks.
+
+
+Dude, it's not only on steam.
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 15 Aug 2018, 22:33]
+I gave a slight revamp to the OP - fixed the game name, put proper page structure following the steaminfo bbcode example, etc.
+
+ShadowDuke, will you kindly take care of it and update the rest, since it's heavily outdated, or should I hand the OP to anyone that volunteers (btw, people have volunteered already)? Please answer in a 24h period. Thanks.
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 15 Aug 2018, 22:33]
+
+_________________
+I've received multiple messages in which people expressed their desire to support my work in RIN; I appreciate your care, but I have all support I need; consider instead to support the developers of the games you actually enjoy. Rui
+
+
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 15 Aug 2018, 23:01]
+creator wrote:
+Hey, would anyone be able to post the divide et impera mod i've only been able to find it on Moddb but it was an outdated version
+
+https://steamcommunity.com/sharedfiles/ ... =294694062 link to the files
+
+
+Many thanks.
+
+https://www42.zippyshare.com/v/RQI19OxR/file.html
+https://www42.zippyshare.com/v/izx4Hh4V/file.html
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 15 Aug 2018, 23:01]
+
+_________________
+Haters gonna hate!
+My updates are always clean files - no cracks included.
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 15 Aug 2018, 23:08]
+Hey there, i see the OP is outdated, so can you please help me to download the FULL version of the game with the latest DLC "Rise of the Republic". I need to make a fresh install.
+What do i need to download and in which order? THX!
+
+P.S. I always wanted to play an early roman republic game, want to try this out 
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 15 Aug 2018, 23:09]
+Total.War.Rome.II.Rise.of.the.Republic-CODEX
+
++
+
+Total.War.Rome.II.Rise.of.the.Republic.Update.v2.4.0.19581-CODEX
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 15 Aug 2018, 23:09]
+
+_________________
+The FAQ are you waiting for?
+
+A wild PASSWORD appeared for protected archives & files on RIN! Member used cs.rin.ru ...it's super effective!
+
+Having problems downloading from Google Drive? Click here.
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 15 Aug 2018, 23:14]
+CHangelog:
+https://www.totalwar.com/blog/total-war ... tfix-notes
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 15 Aug 2018, 23:14]
+
+_________________
+Haters gonna hate!
+My updates are always clean files - no cracks included.
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 16 Aug 2018, 00:50]
+knabberfee wrote:
+Total War: Rome II Rise of the Republic Update v2.4.0 Build.19581 GERMAN *DOWNLOAD*
+You need CODEX release + german language pack from Venom!
+
+Wait for new crack!
+
+
+Works like a charm with FG-repack. Danke dafür.
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 16 Aug 2018, 03:50]
+NOTE: Your previous language pack is required for this patch! If you have downloaded the Spanish pack from my previous post for example, you can only patch it with the Spanish XDelta and so on.
+
+Language Packs XDeltas for the latest version (August 15, 2018 – 10:00:35 UTC):
+
+ Spoiler
+https://drive.google.com/drive/folders/1nBLunw54gtIGcMTjzW9lqIXeAfZ-h4wy?usp=sharing
+
+
+You can find the patch for the German version here. Credits go to knabberfee.
+
+Please report back if it worked for you or not. It should detect my older language files in your game folder and should patch it without problems. I've tested it of course on the older files, but you can never know.
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 16 Aug 2018, 03:50]
+
+_________________
+The FAQ are you waiting for?
+
+A wild PASSWORD appeared for protected archives & files on RIN! Member used cs.rin.ru ...it's super effective!
+
+Having problems downloading from Google Drive? Click here.
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 16 Aug 2018, 04:59]
+knabberfee wrote:
+Here is the SFV
+
+Check for missing (DLC) files. Will upload them
+
+-- Edit --
+
+TWR2 Update Rise of the Republic
+
+ Spoiler
+Code: Select all | Line number On/Off | Expand/Contract
+https://www14.zippyshare.com/v/OspTRK7o/file.html
+https://www14.zippyshare.com/v/jfNTQ6IV/file.html
+https://www14.zippyshare.com/v/A7iOYCnV/file.html
+https://www14.zippyshare.com/v/viZM509l/file.html
+https://www14.zippyshare.com/v/VN6wf5zn/file.html
+ 
+
+
+You need my previous Ancestral Beta update!
+
+pass ?
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 16 Aug 2018, 05:16]
+cs.rin.ru as always
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 16 Aug 2018, 05:16]
+
+_________________
+The FAQ are you waiting for?
+
+A wild PASSWORD appeared for protected archives & files on RIN! Member used cs.rin.ru ...it's super effective!
+
+Having problems downloading from Google Drive? Click here.
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 16 Aug 2018, 09:05]
+Venom wrote:
+cs.rin.ru as always
+
+Very thank
+
+-- Edit --
+
+
+knabberfee wrote:
+Beta is out
+
+Family Tree 
+
+https://steamcommunity.com/games/214950 ... 0704205536
+
+Will share a patch soon
+
+Edit:
+Bigger than expected... ~8GB unpacked.
+
+You will need latest CODEX release + Updates
+
+ Spoiler
+https://drive.google.com/open?id=1l-Emjz37r8HTZnMm3fEWQtfqbZ7dvDZI
+
+Only english language!
+NOT CRACKED!
+
+data\campaigns\main_punic\startpos.esf
+data\campaigns\main_3c\startpos.esf
+data\manifest.txt
+CALibsWinExt.zIntelUnityRelease.dll
+My files is error please upload that.
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 16 Aug 2018, 13:30]
+Can someone please upload this updated files for v2.4.0 Build.19581
+
+\campaigns\main_invasion
+\data\invasion.pack
+\data\manifest

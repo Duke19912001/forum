@@ -1,0 +1,295 @@
+=========================================
+STRONA 228 (URL: https://cs.rin.ru/forum/viewtopic.php?f=10&t=61441&hilit=rome+2&start=3405)
+=========================================
+
+[Data: Wednesday, 22 Feb 2017, 15:36]
+krisztiantobias wrote:
+machine4578 wrote:
+@krisztiantobias
+its been posted multiple times how to use mods if downloaded from the steamworkshop link.
+
+
+I did try the hex edit trick, I deleted the first few bytes (from MFHxyzklPFH4.... to PFH4...). Now the game starts, but the mods (like this one: http://steamworkshop.download/download/view/187013080) does not work. Any idea?
+
+Regards,
+Krisztián
+
+
+You are launching the game through the Mod Manager right? You can download the mod manager over at TW forums - 3rd party link so no need to register or anything.
+
+Edit: Also, you are supposed to delete the first 8 bytes specifically. The way you put it it seems like you have deleted more than that. You need to delete ' MFH..... ' so that it starts with PFH4. I'm pretty sure that is your problem.
+
+On a side note, can someone please upload the GEMFX.pack from Steam workshop (http://steamcommunity.com/sharedfiles/filedetails/?id=187199741) as it cannot be downloaded with the online tools? I would be very grateful.
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 22 Feb 2017, 17:17]
+Gunnerz wrote:
+On a side note, can someone please upload the GEMFX.pack from Steam workshop (http://steamcommunity.com/sharedfiles/filedetails/?id=187199741) as it cannot be downloaded with the online tools? I would be very grateful.
+
+
+http://www89.zippyshare.com/v/pt8STpVP/file.html
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 22 Feb 2017, 17:17]
+
+_________________
+Haters gonna hate!
+My updates are always clean files - no cracks included.
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 22 Feb 2017, 17:49]
+Thank you so much! Love this community
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 22 Feb 2017, 21:31]
+Can someone post the english language pack? Knabberfees link seems to have all languages but english thx!
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 22 Feb 2017, 21:39]
+seres wrote:
+Can someone post the english language pack? Knabberfees link seems to have all languages but english thx!
+
+
+I suppose you mean this? viewtopic.php?p=1382781#p1382781
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 22 Feb 2017, 21:39]
+
+_________________
+Always wanted to get rid of the files that were not listed in the sfv/md5 hash file? Check the QuickSFV plugin I created for this: viewtopic.php?f=10&t=108605 or this: viewtopic.php?p=1273745#p1273745
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 22 Feb 2017, 22:13]
+seres wrote:
+Can someone post the english language pack? Knabberfees link seems to have all languages but english thx!
+
+
+English: mega:///#!HgoBAZYA!oUfC6YbDspqVc_QpdSh0Uto7QZnZ8tlb_S5YGHnEdfY
+
+All other: viewtopic.php?p=1123055#p1123055
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 22 Feb 2017, 22:13]
+
+_________________
+Haters gonna hate!
+My updates are always clean files - no cracks included.
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 22 Feb 2017, 23:11]
+Anomaly wrote:
+seres wrote:
+Can someone post the english language pack? Knabberfees link seems to have all languages but english thx!
+
+
+I suppose you mean this? viewtopic.php?p=1382781#p1382781
+
+
+Yes this one, but it seems the sounds still doesnt work 
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 22 Feb 2017, 23:23]
+Check your game files with provided sfv's
+
+viewtopic.php?p=1383625#p1383625
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 22 Feb 2017, 23:23]
+
+_________________
+Haters gonna hate!
+My updates are always clean files - no cracks included.
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 26 Feb 2017, 18:48]
+Gunnerz wrote:
+krisztiantobias wrote:
+machine4578 wrote:
+@krisztiantobias
+its been posted multiple times how to use mods if downloaded from the steamworkshop link.
+
+
+I did try the hex edit trick, I deleted the first few bytes (from MFHxyzklPFH4.... to PFH4...). Now the game starts, but the mods (like this one: http://steamworkshop.download/download/view/187013080) does not work. Any idea?
+
+Regards,
+Krisztián
+
+
+You are launching the game through the Mod Manager right? You can download the mod manager over at TW forums - 3rd party link so no need to register or anything.
+
+Edit: Also, you are supposed to delete the first 8 bytes specifically. The way you put it it seems like you have deleted more than that. You need to delete ' MFH..... ' so that it starts with PFH4. I'm pretty sure that is your problem.
+
+On a side note, can someone please upload the GEMFX.pack from Steam workshop (http://steamcommunity.com/sharedfiles/filedetails/?id=187199741) as it cannot be downloaded with the online tools? I would be very grateful.
+
+
+I'm trying to use that Mod manager from TWC to launch the game but it keep crashing. Can you tell me which mod manager that you're using that working?
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 26 Feb 2017, 19:23]
+Mod Manager 2.0
+
+Are you sure you are deleting the first 8 bytes (from 0 to 7) in a hex editor for steam mods?
+
+Which mod(s) are you trying to run? Does the game just stop working with no pop up message for the crash? Some mods are incompatible with each other so check their descriptions.
+
+Make sure you have the latest version of Rome 2 (top right should say v2.2.0.Build.16155 when in game menu) if you are using mods that require it.
+
+Use the sfv posted by knabberfee to check your files and report back.
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 01 Mar 2017, 17:18]
+Has anyone came across this error when installing rome 2 prophet version.
+
+the volume for a file has been externally altered so that the opened file is no longer valid
+
+could anyone help me with this I already downloading it a second time still didn't work
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 08 Mar 2017, 15:53]
+Hi guys! Sorry for the long post, but i wanted to provide all the information you usually ask of people asking for help. Put the TLDR in spoiler field.
+
+
+ Spoiler
+My problem is that game crashes at startup both with the latest Radious, and the Divide et Impera mods (both times no other mods applied). There is a small mod called Sell your slaves, which works with the launcher and the modmanager as well. Of course the base game works.
+
+I have the 15666 update, the latest one downloaded from here, which i applied to the 15539 which i downloaded beforehand. (actually several versions. prophet, reloaded, kaos. And i applied this onto the Reloaded version. All others were removed beforehand. Only tried Emperor Editions.)
+Tried removing Rome2 folder in Appdata/Roaming.
+Tried making/editing user.script.txt with no quotations and quotations. (crashes right away with no quotations though)
+
+With quotations (and even without deleting the folder in Roaming) the game always crashes just in the moment before the SEGA logo and the in-game cursor would appear. In task manager it goes up to ~400k(Radious)-500k(DeI), and it goes down to ~250k and goes on "not respoding" forever, while the white-gold splash screen remains on.
+
+I have installed everything the redist folder of the torrent beforehand. I have Win 10 x64.
+
+I've also tried with the steam workshop mods (DeI), although the part 2 (out of the 6) caused 503 gateway error or something, it didn't want to download using both workshop downloaders i know. (i edited these five parts to start with PFH4 in the hex editor, as it is explained here.)
+
+The crash in this case was exactly the same as with the "two part" mod downloaded from twcenter. and the older versions too. same crash. It doesn't matter that the Mod Manager shows 0 conflicts for the Radious mod or ~476 conflicts for the latest DeI packs, or 7 conflicts for the older DeI packs, it crashes the same way with both steam launcher and modmanager if i want to use these overhauls (separately of course).
+
+Any help would be appreciated! I just can't play vanilla after i played DeI months ago ...  But it was when all the patches were already released so i don't really understand why won't it work now when it worked then, with presumably the same torrents and the same 15666 patch from here.
+
+Blas
+
+===EDIT===
+currently patching 15666 to 16155 ... without the 16109 which is unavailable and the openload links are not working. hope that'll work, even though my game is reloaded and not prophet.
+===EDIT===
+now even Rome2.exe (base game) won't launch, same like when i try to load it via the modmanager  and the launcher say cannot initialize steam.
+Now i think i'll conveniently give up and wait for a solution. :/
+===EDIT===
+apparently gave up for 10 minutes. Figured out that the OP is NOT updated. Searched for 16155 and found a crack for the Prophet update patch. Now installing everything (PROPHET), checking these goddamn numbers every time i do something  i thought if i have 2.2.0 i'm all set ... 
+
+===EDIT===
+GUYS it's working ... holy hell ... i accidentally spilled my coffee on my notes  but who cares now!!!
+i'm gonna leave this mess here so people can find it and ask less questions ... 
+~~~WHAT TO DO~~~
+1. Download & install PROPHET version of the Emperor's Edition, don't crack it with the provided crack.
+2. download and install this to patch the game from the original Prophet's version (15539) straight to 16155 without having to install versions 15666 and 16019, because these two are included in this one: https://openload.co/f/34YirjLECug/21495 ... .16155.rar
+3. IF YOU USE ENGLISH ONLY
+a) download this: https://mega.nz/#!HgoBAZYA!oUfC6YbDspqV ... S5YGHnEdfY
+b) delete language related pack files in the data folder. stuff like local_en.pack. there are 3 for every language. i only have english.
+c) move these new files into the data folder
+3. IF YOU USE OTHER LANGUAGES
+a) download this https://mega.nz/#F!R8R0EChT!GNQhhKNM15cADUfT-KekSA
+b) delete language related pack files in the data folder. 3 for every language, the language's name in it, like en, fr, de, etc.
+c) move these new files into the data folder, for the language(s) you'll need. It's probably a good idea to move the English one too, but i don't know about that.
+4. Finally, download and crack the 16155 version game with this http://www11.zippyshare.com/v/JNMAtSIk/file.html
+And you're done.  Use ModManager https://docviewer.yandex.com/?url=ya-di ... c01a402b78
+because the launcher in the launcher folder will not work (with these steps at least)
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 15 Mar 2017, 16:47]
+benczeb90 wrote:
+Hi guys! Sorry for the long post, but i wanted to provide all the information you usually ask of people asking for help. Put the TLDR in spoiler field.
+
+
+ Spoiler
+My problem is that game crashes at startup both with the latest Radious, and the Divide et Impera mods (both times no other mods applied). There is a small mod called Sell your slaves, which works with the launcher and the modmanager as well. Of course the base game works.
+
+I have the 15666 update, the latest one downloaded from here, which i applied to the 15539 which i downloaded beforehand. (actually several versions. prophet, reloaded, kaos. And i applied this onto the Reloaded version. All others were removed beforehand. Only tried Emperor Editions.)
+Tried removing Rome2 folder in Appdata/Roaming.
+Tried making/editing user.script.txt with no quotations and quotations. (crashes right away with no quotations though)
+
+With quotations (and even without deleting the folder in Roaming) the game always crashes just in the moment before the SEGA logo and the in-game cursor would appear. In task manager it goes up to ~400k(Radious)-500k(DeI), and it goes down to ~250k and goes on "not respoding" forever, while the white-gold splash screen remains on.
+
+I have installed everything the redist folder of the torrent beforehand. I have Win 10 x64.
+
+I've also tried with the steam workshop mods (DeI), although the part 2 (out of the 6) caused 503 gateway error or something, it didn't want to download using both workshop downloaders i know. (i edited these five parts to start with PFH4 in the hex editor, as it is explained here.)
+
+The crash in this case was exactly the same as with the "two part" mod downloaded from twcenter. and the older versions too. same crash. It doesn't matter that the Mod Manager shows 0 conflicts for the Radious mod or ~476 conflicts for the latest DeI packs, or 7 conflicts for the older DeI packs, it crashes the same way with both steam launcher and modmanager if i want to use these overhauls (separately of course).
+
+Any help would be appreciated! I just can't play vanilla after i played DeI months ago ...  But it was when all the patches were already released so i don't really understand why won't it work now when it worked then, with presumably the same torrents and the same 15666 patch from here.
+
+Blas
+
+===EDIT===
+currently patching 15666 to 16155 ... without the 16109 which is unavailable and the openload links are not working. hope that'll work, even though my game is reloaded and not prophet.
+===EDIT===
+now even Rome2.exe (base game) won't launch, same like when i try to load it via the modmanager  and the launcher say cannot initialize steam.
+Now i think i'll conveniently give up and wait for a solution. :/
+===EDIT===
+apparently gave up for 10 minutes. Figured out that the OP is NOT updated. Searched for 16155 and found a crack for the Prophet update patch. Now installing everything (PROPHET), checking these goddamn numbers every time i do something  i thought if i have 2.2.0 i'm all set ... 
+
+===EDIT===
+GUYS it's working ... holy hell ... i accidentally spilled my coffee on my notes  but who cares now!!!
+i'm gonna leave this mess here so people can find it and ask less questions ... 
+~~~WHAT TO DO~~~
+1. Download & install PROPHET version of the Emperor's Edition, don't crack it with the provided crack.
+2. download and install this to patch the game from the original Prophet's version (15539) straight to 16155 without having to install versions 15666 and 16019, because these two are included in this one: https://openload.co/f/34YirjLECug/21495 ... .16155.rar
+3. IF YOU USE ENGLISH ONLY
+a) download this: https://mega.nz/#!HgoBAZYA!oUfC6YbDspqV ... S5YGHnEdfY
+b) delete language related pack files in the data folder. stuff like local_en.pack. there are 3 for every language. i only have english.
+c) move these new files into the data folder
+3. IF YOU USE OTHER LANGUAGES
+a) download this https://mega.nz/#F!R8R0EChT!GNQhhKNM15cADUfT-KekSA
+b) delete language related pack files in the data folder. 3 for every language, the language's name in it, like en, fr, de, etc.
+c) move these new files into the data folder, for the language(s) you'll need. It's probably a good idea to move the English one too, but i don't know about that.
+4. Finally, download and crack the 16155 version game with this http://www11.zippyshare.com/v/JNMAtSIk/file.html
+And you're done.  Use ModManager https://docviewer.yandex.com/?url=ya-di ... c01a402b78
+because the launcher in the launcher folder will not work (with these steps at least)
+
+
+I cannot do the 2nd step because I do not have the password for the RAR file.
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 15 Mar 2017, 16:57]
+@KapetanCvarak94
+
+Try "cs.rin.ru" without quotation marks.
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 15 Mar 2017, 16:57]
+
+_________________
+Always wanted to get rid of the files that were not listed in the sfv/md5 hash file? Check the QuickSFV plugin I created for this: viewtopic.php?f=10&t=108605 or this: viewtopic.php?p=1273745#p1273745
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 15 Mar 2017, 21:56]
+Anomaly wrote:
+@KapetanCvarak94
+
+Try "cs.rin.ru" without quotation marks.
+
+Worked, thanks.
+
+-- Edit --
+
+So I have downloaded the PROPHET version of the game from skidrow & reloaded, when I tried updating it with the patch you posted here it comes to a certain point and for 10+ minutes it doesn't move, does the patching usually take long or I downloaded a wrong version of the game?
+
+Comes to ''preparing to the next operations, waiting for unloading patching engine.....'' and stays there for 10+ minutes.

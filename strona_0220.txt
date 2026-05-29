@@ -1,0 +1,218 @@
+=========================================
+STRONA 220 (URL: https://cs.rin.ru/forum/viewtopic.php?f=10&t=61441&hilit=rome+2&start=3285)
+=========================================
+
+[Data: Wednesday, 28 Sep 2016, 00:00]
+i need to finish my rome campaign first, it does indeed take a while. i came across a bug or something today, the AI doesnt work anymore with some factions? these factions only upgrade and dont attack, move or whatever. theres an ally standing on my shore doing nothing. what is that about?  thats no fun.. 
+
+i wonder if you can reset the ai or make it work again somehow.
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 29 Sep 2016, 08:22]
+So after about 3 days of searching about
+Crashes, freezes, sound distortion, graphical corruption, artifacts, flickering, crashing when loading battle, freezing in battle, crashing after battle, LumaCEG (1) has crashed
+atidxx32.dll xaudio2_6.dll
+appcrash BEX Rome2.exe
+I figured out what was wrong: set CPU affinity to only 2 cores.
+
+I made 2 batch files to do this automatically:
+SSE
+
+Code: Select all | Line number On/Off | Expand/Contract
+cmd.exe /c start "Total War: Rome II" /affinity 3 "[SSE's FILEPATH]\SSELauncher.exe" -appid 214950
+Replace [SSE's FILEPATH] with where you have installed SSE.
+LumaCEG
+
+Code: Select all | Line number On/Off | Expand/Contract
+cmd.exe /c start "Total War: Rome II" /affinity 3 "[ROME 2's FILEPATH]\Total War - Rome II\Rome2.exe"
+Replace [ROME 2's FILEPATH] with where you have installed the game.
+
+These make the game run on only the first 2 cores, and have fixed every problem I had, except the game not responding when I try to exit, but that's fine because I can just end the task. I fixed this about a month ago, but I hope this helps anyone else having that has the same issue.
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 07 Oct 2016, 15:05]
+Somebody knows where I can get the DLC files (.pack)? I have the legit game and want to activate the DLC with Appid Patcher.
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 07 Oct 2016, 15:29]
+daniel767 wrote:
+Somebody knows where I can get the DLC files (.pack)? I have the legit game and want to activate the DLC with Appid Patcher.
+
+check back some pages. they were posted. also just a fyi CreamAPI works just fine unlocking the DLC too. 
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 15 Oct 2016, 15:47]
+after update 17, Mod Manager is not working anymore, the game should use the Launcher Mod Manager
+is there anyway to make the launcher work with non-legit version ?
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 15 Oct 2016, 15:47]
+
+_________________
+SPECS : Ryzen 7 3800X | RTX 3070 8G | 16Gb DDR4 | 1TB SSD
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 15 Oct 2016, 20:33]
+m2net wrote:
+after update 17, Mod Manager is not working anymore, the game should use the Launcher Mod Manager
+is there anyway to make the launcher work with non-legit version ?
+
+
+I don't know much about the Mod Manager but you could always do it manually by using the script here:
+Code: Select all | Line number On/Off | Expand/Contract
+%appdata%\The Creative Assembly\Rome2\scripts\user.script.txt
+
+
+This is the format:
+
+Code: Select all | Line number On/Off | Expand/Contract
+mod "namemod";
+
+So, an example would be:
+
+Code: Select all | Line number On/Off | Expand/Contract
+mod "all_factions_playable.pack";
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 15 Oct 2016, 20:33]
+
+_________________
+Always wanted to get rid of the files that were not listed in the sfv/md5 hash file? Check the QuickSFV plugin I created for this: viewtopic.php?f=10&t=108605 or this: viewtopic.php?p=1273745#p1273745
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 16 Nov 2016, 15:44]
+Hello everyone.
+I have steam game and wonna use cream api to unlock all dlc, so i need actual dlc files with Russian language. Can someone help me with what?
+Sorry for my bad English 
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 22 Nov 2016, 11:04]
+keminsky wrote:
+
+hello
+
+I did this of the AIO-update with "prophet" release and tried both "pedia" and crack and here's my results:
+-copying the stuff of 22016155-pedia-crack lets me run the game but locks gaul, hannibal and sparta dlcs
+-copying the stuff of crack folder lets me run the game with all the dlcs unlocked but without encyclopedia
+
+so..is there any way of running prophet release correctly updated,with dlcs and encyclopedia?
+
+
+
+I have Windows 8.1 and I have the exact same set up and a similar problem.
+
+
+Using the pedia crack, the DLC factions aren't available in the Main Campaign, and clicking on one of the DLC campaigns crashes the game with a "lumaceg crashed" error. The encyclopedia doesn't work either, clicking on it does nothing.
+Using the other crack, the DLCs work, but the encyclopedia is blank.
+
+
+Restarting Steam did not solve the problem.
+
+Could anyone help?
+
+--------
+Edit:
+My AV and firewall are disabled. I have tried to use the plugins from viewtopic.php?f=29&t=64354.
+
+Still no dice.
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 22 Nov 2016, 11:13]
+^^
+interesting, the pedia crack is working fine for me and many others with all DLC activated.. maybe try updating to the newest LumaCEG plugin.
+download/file.php?id=33290
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 22 Nov 2016, 21:53]
+machine4578 wrote:
+^^
+interesting, the pedia crack is working fine for me and many others with all DLC activated.. maybe try updating to the newest LumaCEG plugin.
+download/file.php?id=33290
+
+
+Like I said I had already done that. With the newest plugin, there are still no DLC factions in the Main Campaign, and clicking on one of the DLC campaigns crashes the game with "stopped working" error. Clicking on encyclopedia still does nothing.
+
+I've tried re-installing too.
+
+
+
+-----------------
+Edit: I solved the problem by running the game in Admin mode. I don't know why that solved it, but it did. Perhaps it's because I also run Steam in Admin mode.
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 04 Dec 2016, 12:38]
+Hi there!
+I'm new in TWR2 but when I play it, every campaigns I play it crash after AI takes turn.
+After I did some research, I think I need all patch from 1 - 17.
+Can someone help me to find link to download or how to solve this problem?
+Thx for helping & sorry for bad english
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 04 Dec 2016, 13:38]
+TheWindKiller wrote:
+Hi there!
+I'm new in TWR2 but when I play it, every campaigns I play it crash after AI takes turn.
+After I did some research, I think I need all patch from 1 - 17.
+Can someone help me to find link to download or how to solve this problem?
+Thx for helping & sorry for bad english
+
+i suggest updating. grab the PPT release and apply last couple updates. everything should work.
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 04 Dec 2016, 18:00]
+machine4578 wrote:
+TheWindKiller wrote:
+Hi there!
+I'm new in TWR2 but when I play it, every campaigns I play it crash after AI takes turn.
+After I did some research, I think I need all patch from 1 - 17.
+Can someone help me to find link to download or how to solve this problem?
+Thx for helping & sorry for bad english
+
+i suggest updating. grab the PPT release and apply last couple updates. everything should work.
+
+
+
+Can you guide me how?
+because I don't know how to do it...
+I ady found patch1 but I dun hv the reloaded crack to let it update
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 04 Dec 2016, 19:19]
+TheWindKiller wrote:
+Can you guide me how?
+because I don't know how to do it...
+I ady found patch1 but I dun hv the reloaded crack to let it update
+
+
+...why dont you apply all the patches first and use a crack at the end?
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 05 Dec 2016, 01:51]
+14a11 wrote:
+TheWindKiller wrote:
+Can you guide me how?
+because I don't know how to do it...
+I ady found patch1 but I dun hv the reloaded crack to let it update
+
+
+...why dont you apply all the patches first and use a crack at the end?
+
+
+Is all crack the same?
+because I see patch 1 has it own patch and patch 2 also..

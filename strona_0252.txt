@@ -1,0 +1,206 @@
+=========================================
+STRONA 252 (URL: https://cs.rin.ru/forum/viewtopic.php?f=10&t=61441&hilit=rome+2&start=3765)
+=========================================
+
+[Data: Thursday, 25 Jan 2018, 15:41]
+Xadoom wrote:
+I have download the Fitgirl Repack with the Revolt crack, but using the game with SmartSteamEmu 1.43, the game freezes when i click on the exit. Anyone help me?
+
+remove the plugins
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 26 Jan 2018, 09:13]
+paterah wrote:
+DEI 1.2.2g which is the last version does not seem to work with Empire Divided by CODEX, anyone can confirm this?
+
+
+Just checked, it seems to work well enough (didn't run it for long though, don't really have the time to play right now)
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 26 Jan 2018, 21:22]
+If I have the original game is there a way to pirate the DLC?
+
+Thanks for replying
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 02 Feb 2018, 12:57]
+Hey, anyone able to upload this mod? Cheers.
+https://steamcommunity.com/sharedfiles/ ... =263097925
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 02 Feb 2018, 14:49]
+^^ Use this website: http://steamworkshopdownloader.maurits.tv/
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 10 Feb 2018, 19:01]
+FitGirlLV wrote:
+Total War: Rome 2 - Emperor Edition (v2.2.0.7561.123828 + 15 DLCs, MULTi9) [FitGirl Repack, Selective Download] from 8.2 GB
+
+fitgirl-repacks.site/total-war-rome-2-emperor-edition/ (more mirrors, no ads)
+1337x.to/torrent/2631736/Total-War-Rome-2-Emperor-Edition-v2-2-0-7561-123828-15-DLCs-MULTi9-FitGirl-Repack-Selective-Download-from-8-2-GB/
+magnet:?xt=urn:btih:6C4614362817BF199A223C114637B1E2B1330016
+sendfile.su/1381666 (.torrent only)
+
+Repack Features
+
+
+Based on Total.War.Rome.II.Empire.Divided.MULTi9-PLAZA ISO release: plaza-total.war.rome.ii.empire.divided.iso (24,171,415,552 bytes)
+Thanks to knabberfee for providing early access to language files
+Total.War.ROME.II.Emperor.Edition.V2.2.0.Steamworks.Fix-REVOLT available in NoDVD folder after installation, allowing multiplayer via Steam
+100% Lossless & MD5 Perfect: all files are identical to originals after installation
+NOTHING ripped, NOTHING re-encoded
+Selective Download feature: you can download only language files you need
+Significantly smaller archive size (compressed from 22.5 to 8.2/8.3 GB for any single language)
+Installation takes 6~15 minutes (depending on your system)
+After-install integrity check so you could make sure that everything installed properly
+HDD space after installation: 29 GB
+At least 2 GB of free RAM (inc. virtual) required for installing this repack
+
+Selective Download
+
+ Spoiler
+You can skip downloading of language files you don't need. Here is the list of selective files:
+
+
+fg-selective-eng-cze-pol-tur.bin (REQUIRED for English, Czech, Polish and Turkish users)
+fg-selective-eng-rus-esp-ita-cze-pol-tur.bin (REQUIRED for English, Russian, Spanish, Italian, Czech, Polish and Turkish users)
+fg-selective-french.bin
+fg-selective-german.bin
+fg-selective-italian.bin
+fg-selective-russian.bin
+fg-selective-spanish.bin
+
+In example, if you want to launch the game with Spanish UI/Subtitles/Voiceovers - skip all "selective" files, but download fg-selective-spanish.bin, fg-selective-eng-rus-esp-ita-cze-pol-tur.bin & all main files (01-06).
+
+
+Backwards Compatibility
+
+This repack IS NOT backwards compatible with my first Rome 2 repack.
+
+Problems during installation?
+
+Read this repacks troubleshooting guide
+http://fitgirl-repacks.site/repacks-troubleshooting/ [May link to unsafe filehosters]
+
+
+I tried using this release with the steamworkfix and I opened Steam. But launched Rome2.exe directly. I still can't see games on Tunngle.
+
+Anyone had success with Tunngle?
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 14 Feb 2018, 00:32]
+Hi All.
+
+I have the prophet/ppt version of the game, but for some reason the '214950.Update.PROPHET.to.v2.2.0.Build.16155' patch doesn't work and rolls back every time I try and install it. I was going to try and redownload in case it was corrupted but all the links I've found are dead! Can anyone either advise what they think the issue is, or maybe reup so I can try again?
+
+Cheers
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 15 Feb 2018, 21:47]
+https://steamdb.info/app/214950/history/ recent changes to steam depots are they preparing a new patch or new dlc ?
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 15 Feb 2018, 22:41]
+oh they're definitely cooking up something. We'll have to wait and see.
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 15 Feb 2018, 22:41]
+
+_________________
+I've received multiple messages in which people expressed their desire to support my work in RIN; I appreciate your care, but I have all support I need; consider instead to support the developers of the games you actually enjoy. Rui
+
+
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 20 Feb 2018, 21:05]
+Rui wrote:
+oh they're definitely cooking up something. We'll have to wait and see.
+
+yep
+
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 20 Feb 2018, 21:05]
+
+_________________
+mostly inactive until at least half of july 2025
+
+If any of my uploads are outdated or no longer online , the best way to do is to send me a PM and i will add the title to the next batch
+UPLOADS PAUSED (have all requests in queue for when i am back to being more active)
+
+List of recent games with modern DRMs:(updated 01-Mar-2023) - http://cs.rin.ru/forum/viewtopic.php?f=10&t=68151
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 20 Feb 2018, 21:43]
+lol
+
+Waiting for price
+
+But it's good they still support a good old game
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 20 Feb 2018, 21:43]
+
+_________________
+Haters gonna hate!
+My updates are always clean files - no cracks included.
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 20 Feb 2018, 22:02]
+hell yes, great news indeed!
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 20 Feb 2018, 22:02]
+
+_________________
+I've received multiple messages in which people expressed their desire to support my work in RIN; I appreciate your care, but I have all support I need; consider instead to support the developers of the games you actually enjoy. Rui
+
+
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 21 Feb 2018, 12:48]
+I can't find with the search option since "DLC Only" are too common words but anyone has some links to download the DLC ?
+
+And if you have it ready also the creamapi ? I can still set it up myself if you don't have it.
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 22 Feb 2018, 22:05]
+Download fitgirls repack and if you own the game on steam just copy the dlcs packs from fitgirl to the original game folder, also download the latest creamapi
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 08 Mar 2018, 09:18]
+prudislav wrote:
+Rui wrote:
+oh they're definitely cooking up something. We'll have to wait and see.
+
+yep
+
+
+
+Release in ~6 hours
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 08 Mar 2018, 09:18]
+
+_________________
+Haters gonna hate!
+My updates are always clean files - no cracks included.

@@ -1,0 +1,248 @@
+=========================================
+STRONA 203 (URL: https://cs.rin.ru/forum/viewtopic.php?f=10&t=61441&hilit=rome+2&start=3030)
+=========================================
+
+[Data: Saturday, 31 Oct 2015, 21:22]
+^^
+here is the movies.pack file.(damn repacks). its the only file you need. the binkw32.dll in the sfv is org your is from pedia fix.
+http://www44.zippyshare.com/v/TTzJwd24/file.html
+
+as for the LumaCEG error. where is your game installed? if its in the Program Files (x86) folder move it to something like D:\Games\TWR2\.
+if you still get the error post the LumaEmu_CEG.log
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 31 Oct 2015, 21:32]
+machine4578 wrote:
+^^
+here is the movies.pack file.(damn repacks). its the only file you need. the binkw32.dll in the sfv is org your is from pedia fix.
+http://www44.zippyshare.com/v/TTzJwd24/file.html
+
+as for the LumaCEG error. where is your game installed? if its in the Program Files (x86) folder move it to something like D:\Games\TWR2\.
+if you still get the error post the LumaEmu_CEG.log
+
+
+
+Thx Machine for movies.pack! My game is installed like Attila in steamapps/common folder not i C:Program Files, btw I download game from RG.Mechanics and updated from links in first post...
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 31 Oct 2015, 21:50]
+Optimus Prime wrote:
+Thx Machine for movies.pack! My game is installed like Attila in steamapps/common folder not i C:Program Files, btw I download game from RG.Mechanics and updated from links in first post...
+
+you are welcome. also make sure all your AV and windows defender is disabled. it may be blocking LumaCEG. if all fails post the log.
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 31 Oct 2015, 22:05]
+machine4578 wrote:
+Optimus Prime wrote:
+Thx Machine for movies.pack! My game is installed like Attila in steamapps/common folder not i C:Program Files, btw I download game from RG.Mechanics and updated from links in first post...
+
+you are welcome. also make sure all your AV and windows defender is disabled. it may be blocking LumaCEG. if all fails post the log.
+
+
+TeraThx Machine now when I add and replace your movies.pack its work TERATHX, my Kaspersky Total Security is enabled and no alerts with game THX 
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 01 Nov 2015, 15:56]
+Local Ceg crashed...
+
+-- Edit --
+
+
+Optimus Prime wrote:
+Hi all, i have this error
+
+can somebody help me, my version is v2.2.0.16155 and I was used pedia crack... And this is my files checked with v2.2.0.16155.sfv
+
+ Spoiler
+
+
+I have same error plz guys help me !!! My game directory: E/Games/Total rome 2 -emperor edition My eset wont alert and I've just disabled it if its blocking luma but it isnt !!!
+
+When I installed all updates and game from clean install I can join the once and left and when I try to join its crashed..
+
+-- Edit --
+
+any help would be good for me guys 
+
+and I was install the patch 16155 (latest one) is it the problem ??
+
+-- Edit --
+
+
+Optimus Prime wrote:
+machine4578 wrote:
+Optimus Prime wrote:
+Thx Machine for movies.pack! My game is installed like Attila in steamapps/common folder not i C:Program Files, btw I download game from RG.Mechanics and updated from links in first post...
+
+you are welcome. also make sure all your AV and windows defender is disabled. it may be blocking LumaCEG. if all fails post the log.
+
+
+TeraThx Machine now when I add and replace your movies.pack its work TERATHX, my Kaspersky Total Security is enabled and no alerts with game THX 
+your game is working ???
+
+I'll try your movie pack after 15 minute because now I'm reinstalling game
+
+its crashed...
+
+-- Edit --
+
+and when I install the mods this luma ceg crash happens when I click rome 2 ! and when I delete the mod its crash when the menu appears !!
+
+-- Edit --
+
+I found the problem dont install mods from steamworkshop downloader or u will get crash !! (Tried for 15666,16019,16155)
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 01 Nov 2015, 17:52]
+Hertzofottoman wrote:
+I found the problem dont install mods from steamworkshop downloader or u will get crash !! (Tried for 15666,16019,16155)
+
+read back how to fix steamworkshop downloader mods.
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 01 Nov 2015, 18:39]
+machine4578 wrote:
+Hertzofottoman wrote:
+I found the problem dont install mods from steamworkshop downloader or u will get crash !! (Tried for 15666,16019,16155)
+
+read back how to fix steamworkshop downloader mods.
+
+
+bro I know you're using hex editor and delete first 8 values and I know how to use them I used them with attila it works and works rome 2 too but when I click them in mod manager its crash ''LumaCeg crash'' in rome 2
+
+-- Edit --
+
+And Why u guys using these lumaceg crack ? are there no cracks left in internet ?
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 01 Nov 2015, 18:42]
+Hertzofottoman wrote:
+machine4578 wrote:
+Hertzofottoman wrote:
+I found the problem dont install mods from steamworkshop downloader or u will get crash !! (Tried for 15666,16019,16155)
+
+read back how to fix steamworkshop downloader mods.
+
+
+bro I know you're using hex editor and delete first 8 values and I know how to use them I used them with attila it works and works rome 2 too but when I click them in mod manager its crash ''LumaCeg crash'' in rome 2
+
+-- Edit --
+
+And Why u guys using these lumaceg crack ? are there no cracks left in internet ?
+
+it has nothing to do with the mods, maybe its mod manger???. just edit your userscripts.txt to enable\disable mods!!
+i am using over 10 mods without issue!!!!
+as for the crack, it IS a crack. and it works 100%! 
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 01 Nov 2015, 19:20]
+I'm using same mod manager from twcenter look plz warn me if I make mistake I'll say you how to install rome 2 step by step
+
+1-Downloaded Total.War.ROME.II.Emperor.Edition.MULTi9-PROPHET (2.2.0.15666)
+
+2-Downloaded Your updates
+
+3-Installed 2.2.0.16019 update
+
+4-Installed 2.2.0.16155 update
+
+5-Applied 2.2.0.16155 update crack
+
+6-Join the game without crash
+
+5-Downloaded Radious total war from workshop
+
+6-Click them with mod manager from everyone's use (tool manager from twcenter)
+
+7-Click Launch>Crashed (lumaceg (1))
+
+8-Deleted mods>Join game>it open the white Total rome 2 first menu and crashed
+
+-- Edit --
+
+Reinstalled game again and updated to lates 2.2.0.16155 patch and download radious mod from twcenter =No crash
+
+And I've just download workshop radious and install it and click it from mod manager and crashed...
+
+-- Edit --
+
+here is my lumalog
+
+http://www49.zippyshare.com/v/ddLm4dIF/file.html
+
+When I install natural water mod from workshop its crashed
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 01 Nov 2015, 19:32]
+what natural water mod are you using? send a link. i want to test it on my game.
+also link me to the Radious mod you are trying to use.
+
+also are these mods even updated for current version?
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 01 Nov 2015, 19:49]
+machine4578 wrote:
+what natural water mod are you using? send a link. i want to test it on my game.
+also link me to the Radious mod you are trying to use.
+
+also are these mods even updated for current version?
+
+
+https://steamcommunity.com/sharedfiles/ ... earchtext= (Radious mod )
+
+https://steamcommunity.com/sharedfiles/ ... xt=(Better Water mod)
+
+and yes idk about water mod but radious is absuloaterly yes ! because when I download them from twcenter they wont crash 
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 01 Nov 2015, 20:03]
+ok i just donwload BOTH those mods from http://steamworkshopdownloader.com/
+i hex edited both mods. loaded up my mod manager and started the game. no issues! no crashes!
+
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 01 Nov 2015, 20:07]
+machine4578 wrote:
+ok i just donwload BOTH those mods from http://steamworkshopdownloader.com/
+i hex edited both mods. loaded up my mod manager and started the game. no issues! no crashes!
+
+
+
+so Why I'm getting crashes bro ? What's difference from with me and you ? we are using same game,version and mods but fucking crash happens..
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 01 Nov 2015, 20:11]
+Hertzofottoman wrote:
+so Why I'm getting crashes bro ? What's difference from with me and you ? we are using same game,version and mods but fucking crash happens..
+
+are you 100% sure you are hex editing the files correctly?
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 01 Nov 2015, 20:42]
+machine4578 wrote:
+Hertzofottoman wrote:
+so Why I'm getting crashes bro ? What's difference from with me and you ? we are using same game,version and mods but fucking crash happens..
+
+are you 100% sure you are hex editing the files correctly?
+
+
+yes first 8 lines and I left PFH4.... I'll format my computer and reinstall rome 2 tomorrow if it wont work again I'll kill myself 
+
+-- Edit --
+
+and what's mean of this ''.pack.bak'' ?????

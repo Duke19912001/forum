@@ -1,0 +1,170 @@
+=========================================
+STRONA 263 (URL: https://cs.rin.ru/forum/viewtopic.php?f=10&t=61441&hilit=rome+2&start=3930)
+=========================================
+
+[Data: Friday, 08 Jun 2018, 09:58]
+Millesaway wrote:
+ahmadmob wrote:
+TheKiller1715 wrote:
+Hi, can someone tell me where to find the full game? I can't find it anywhere, jst the updates. Thanks.
+
+On goodolddownloads (GOD). You can find the download for the full CODEX ISO and the updates.
+
+
+And actually I cant find it.
+
+ Can't find it?!
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 08 Jun 2018, 09:58]
+
+_________________
+Not reading the forum rules is a rules violation viewtopic.php?f=10&t=44034
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 08 Jun 2018, 10:17]
+apparently more DLC is coming
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 08 Jun 2018, 16:01]
+I'm having just a problem, everything is running 100%.
+
+But when I try the mod manager, open's steam, and not the .exe.
+
+
+Found Solution:
+
+https://www.moddb.com/mods/mod-manager- ... anagerv2-0
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 08 Jun 2018, 16:01]
+
+_________________
+Always use search before asking, will save you time!
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 11 Jun 2018, 08:23]
+TheKiller1715 wrote:
+Hi, I downloaded the game from goodolddownloads and when I try to run it an error message appears saying that "Rome2.dll is not designed to run on Windows or contains an error. State of the error 0xc000007b." Any clues on what does it mean and how can I solve it?
+
+
+This is a bit old post, but in case you didn't figure it out (or others)...
+
+I used this DLL posted above in a link
+
+viewtopic.php?p=1667081#p1667081
+
+Also be sure to remember to copy the codex files (its a folder) from the latest update (besides that one DLL file in the link above).
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 14 Jun 2018, 00:51]
+Play cracked dlc with base game!
+
+cream api unlocker
+
+https://mega.nz/#!yZ0HHCZJ!iXER_QLo0squ ... iYaZa6f_8A
+
+
+
+
+ Steps I used to get this to work.
+1. Buy and install game legit from steam
+2. Download codex release plus ALL updates and install
+3. Copy data folder from codex to your legit game overwrite
+4. place cream api in legit bought folder
+5. Play game
+6. If game updates recopy crack into folder
+
+
+Tested and working with latest dlc latest patch
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 16 Jun 2018, 22:17]
+It seems all the downloads for the updates are down.
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 17 Jun 2018, 13:04]
+You might just want to get the Codex full game and their updates. Otherwise you can't get to the latest version anyway, because community patches stopped at one point.
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 17 Jun 2018, 13:04]
+
+_________________
+Frequently Asked Questions
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 17 Jun 2018, 13:17]
+just wait there will be one mroe DLC anyway
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 17 Jun 2018, 13:17]
+
+_________________
+mostly inactive until at least half of july 2025
+
+If any of my uploads are outdated or no longer online , the best way to do is to send me a PM and i will add the title to the next batch
+UPLOADS PAUSED (have all requests in queue for when i am back to being more active)
+
+List of recent games with modern DRMs:(updated 01-Mar-2023) - http://cs.rin.ru/forum/viewtopic.php?f=10&t=68151
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 19 Jun 2018, 21:09]
+Anyone got any solution for mod manager crashing the game?
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 21 Jun 2018, 11:04]
+Or a way to install divide et impera on a non steam version?
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 29 Jun 2018, 01:12]
+Could someone link me up in PM with:
+
+Total.War.Rome.II.Empire.Divided.Update.v2.3.0.Build.18462-CODEX
+Total.War.Rome.II.Empire.Divided.Update.v2.3.0.Build.18513-CODEX
+
+I'd really appreciate it... I looked up on google, but it's full of random websites which don't look trusted to me... no Skidrow or anything..
+Edit: Found it on GoD, forgot about that site, though the download speed's ~10-20kb/s, all good, as it takes only 30-40 mins to download 2 30mb archives ^^
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 29 Jun 2018, 09:02]
+Anyone had any luck with mods on v2.3.0? The mod manager doesn't work and editing user.srcipt either does nothing or causes a crash during startup
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 29 Jun 2018, 13:24]
+fortunafavetfatuis wrote:
+Anyone had any luck with mods on v2.3.0? The mod manager doesn't work and editing user.srcipt either does nothing or causes a crash during startup
+
+
+Im using the user.script method and is working fine. Dont forget to mark the option in the main screen under mods.
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 01 Jul 2018, 23:44]
+Hy! Anyone knows what do i need to play the last version of Dei (1.2.3c)? emperor edition, or empire divided?
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 05 Jul 2018, 13:10]
+Hello,
+
+I've installed the codex's cracked version and even though the game is running fine, I cant get Multiplayer LAN to work. I used to play with a neighbour of mine but recently it just doesnt work. When I create a game in LAN the other PC can find it and join it, but we cant start a game. On my screen it doesnt show someone joined the room, while on the other it shows 2 people, but no matter what changes we make they dont appear on the others screen, obviously we cant start the game either.
+
+If anyone knows how to fix this, or if its fixable, please let me know.
+
+Thanks in advance to anyone who will reply.

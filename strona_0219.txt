@@ -1,0 +1,183 @@
+=========================================
+STRONA 219 (URL: https://cs.rin.ru/forum/viewtopic.php?f=10&t=61441&hilit=rome+2&start=3270)
+=========================================
+
+[Data: Monday, 12 Sep 2016, 11:47]
+machine4578 wrote:
+PFH4 must be the first bytes when opening the mod with the hex editor. delete the first 8 bytes then save
+see the pics. i hope it helps.
+
+ Spoiler
+
+
+
+
+Follow the steps above with any hex editor and after that every mod will work.
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 12 Sep 2016, 13:57]
+testni wrote:
+machine4578 wrote:
+PFH4 must be the first bytes when opening the mod with the hex editor. delete the first 8 bytes then save
+see the pics. i hope it helps.
+
+ Spoiler
+
+
+
+
+Follow the steps above with any hex editor and after that every mod will work.
+
+
+Thank you for your quick answer! I opened the two DEI pack files with HEX editor and the first letters were already PFH4.
+The problem persists: only two DEI mods ticked in launcher, goes up to 474000 K and then drops and stays at 285000 K (have to end task)
+Exactly the same thing happens if i use ModManager.
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 12 Sep 2016, 14:44]
+^^
+i tested the DEI mod a couple months back and had no issues at all. i even posted the mod files(link no longer works) back on page 215.
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 12 Sep 2016, 14:55]
+machine4578 wrote:
+^^
+i tested the DEI mod a couple months back and had no issues at all. i even posted the mod files(link no longer works) back on page 215.
+
+
+I figure it was tested using the last three patches, of which one cannot be downloaded, see my previous comment. It redirects me to ... well, elsewhere  so no download. i have the first and the last but not the second one (v2.2.0.16019). Could you please upload it to Mediafire or Depositfiles? Thanks!
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 12 Sep 2016, 15:01]
+benczeb90 wrote:
+machine4578 wrote:
+^^
+i tested the DEI mod a couple months back and had no issues at all. i even posted the mod files(link no longer works) back on page 215.
+
+
+I figure it was tested using the last three patches, of which one cannot be downloaded, see my previous comment. It redirects me to ... well, elsewhere  so no download. i have the first and the last but not the second one (v2.2.0.16019). Could you please upload it to Mediafire or Depositfiles? Thanks!
+
+if you read back 1 page, you will see my post quoted with BOTH updates in 1 package. i checked the openload links and they both still work!
+
+machine4578 wrote:
+Total.War.ROME.II.Update.v2.2.0.15666-v2.2.0.16155
+https://openload.co/f/fCi9vlajSgw/Total ... .part1.rar
+https://openload.co/f/K1yJN-iLv3k/Total ... .part2.rar
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 12 Sep 2016, 16:50]
+Sorry, as i told you it didn't work yesterday. Tried 4 times. Upon clicking the blue box it redirected me evvvry time but not today....what the heck. (?) so i'm apparently downloading them now
+Thanks!
+
+-------------
+Guys! it's working  though only with ModManager.
+Last question: where to extract the encyclopedia crack? they seem like the same files as the crack you've just sent me. Should i overwrite the crack files with the encyclopedia crack?
+Thank you a lot! really. 
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 19 Sep 2016, 02:06]
+any have the latest spanish files? for that update(2.2.0.1655)?
+only i want the subtitles and menu files... voices i like in English nothing more ty
+sorry for my bad english
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 19 Sep 2016, 07:22]
+^
+viewtopic.php?p=1123055#p1123055
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 19 Sep 2016, 07:22]
+
+_________________
+Haters gonna hate!
+My updates are always clean files - no cracks included.
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 19 Sep 2016, 14:59]
+Hi guys!  I'm totally new to the site. I installed rome 2 emperor edition and tried to install the Devide Et Impera (DEI) mod. I downloaded 0.96 version, put it in the data folder launched the game but nothing changed. Can anyone help me? 
+Thanks
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 19 Sep 2016, 17:57]
+knabberfee wrote:
+^
+viewtopic.php?p=1123055#p1123055
+
+ty for the help!!!! 
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 22 Sep 2016, 07:55]
+All the masters here, could anyone explain to me that how the pedia crack work? What is the modification that they have done in this blinkw32.dll file, if it is only the site address that it has changed, why It doesn't work with my French version? Or there are other tools needed to make the modification?
+
+P.S. CA has mistaken one English video in the pedia for the French one, how I hated it for the imperfection that they left over  
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 22 Sep 2016, 22:30]
+hello guys,
+
+can i choose not to participate in a war when i have a defensive alliance or military alliance? or am i forced to participate?
+
+thanks
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 23 Sep 2016, 14:26]
+Dr. Phil McGraw wrote:
+hello guys,
+
+can i choose not to participate in a war when i have a defensive alliance or military alliance? or am i forced to participate?
+
+thanks
+
+
+http://dsi0fanyw80ls.cloudfront.net/en/ ... q=alliance
+
+You're never forced to participate, but not doing so may break the alliance 
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 23 Sep 2016, 14:26]
+
+_________________
+Always wanted to get rid of the files that were not listed in the sfv/md5 hash file? Check the QuickSFV plugin I created for this: viewtopic.php?f=10&t=108605 or this: viewtopic.php?p=1273745#p1273745
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 26 Sep 2016, 16:02]
+thanks
+
+
+what factions do you guys think are fun to play as? im currently playing as rome which is fun.
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 26 Sep 2016, 19:58]
+Dr. Phil McGraw wrote:
+thanks
+
+
+what factions do you guys think are fun to play as? im currently playing as rome which is fun.
+
+
+I've tried only Sparta, Rome and Baktria so far. Only a few because when I start I want to conquer the whole map and that can take a while  Baktria is really late with good soldiers but is surrounded by weak nations, usually. Sparta and Rome are both really strong when it comes to their soldiers (Rome has so much more varity in that regard, but also expensive).
+
+Maybe you'll have so fun with other (normally unplayable) factions: http://www.twcenter.net/forums/showthre ... 20-11-2014)-Patch-16-DLC
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 26 Sep 2016, 19:58]
+
+_________________
+Always wanted to get rid of the files that were not listed in the sfv/md5 hash file? Check the QuickSFV plugin I created for this: viewtopic.php?f=10&t=108605 or this: viewtopic.php?p=1273745#p1273745

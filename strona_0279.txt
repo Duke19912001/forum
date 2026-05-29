@@ -1,0 +1,482 @@
+=========================================
+STRONA 279 (URL: https://cs.rin.ru/forum/viewtopic.php?f=10&t=61441&hilit=rome+2&start=4170)
+=========================================
+
+[Data: Tuesday, 04 Sep 2018, 16:37]
+That was fast
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 04 Sep 2018, 17:56]
+Bl@ckIce wrote:
+Total.War.Rome.II.Rise.of.the.Republic.Update.v2.4.0.19683-CODEX
+
+ NFO
+Code: Select all | Line number On/Off | Expand/Contract
+                                ▄▄▄▄▄▄▄    ▄▄▄                   ▄▄
+            ▄████▄      ▄████▄ ▓██████████ ▓████▓▄              ▓███▓
+           ███▓███▓    ████████ ▓██▓███████ ▓██████▓▄          ▓███▓  ▀
+      ▄   ███▓ ▀███▓  ███▓▀ ▓███ ███▓  ▀▓███ ███▓████▓▄▄      ▓███▓  ▄█
+      ▓  ▓███   ▓████ ███    ███ ███     ███▓███  ▓███▓█▓    ▓███▓  ██
+         ███▓     ▀▀ ███      ███▓██      ███▓██     ▓███▓ ▄▓███▓  ██▓
+       █ ███         ███      ███▓██      ███▓████▓   ▓███▓▓███▓ ▓██▓
+      ▓█ ███         ███      ███▓██      ███▓███▓     ▓██████▓ ▓███
+      █▓ ███         ███▓    ▓███▓██     ▓███▓██        ▓████▓  ▓████▓
+    ▓██  ▓███     ▄██▓███    ███ ███    ▄███▓███   ▓██▄▓██████▓  ▓████▓
+   ▓██▓   ████▄ ▓███▓ ▓███ ▄███▓ ███▓ ▄▓███ █████ ▓███▓███▓▓███▓  ▓█████▓
+   ▓██    ▓████████▓  ▓████████▓ █████████  ▓████████▓███▓▀ ▓███▓   █████▓
+    ███▓   ███████▓ ▄  ▓██████▓  ▓███████    ███████▓███▓    ▓███▓   ████▓
+    ▓████▓  █████▓  ▓█  ▓████▓   ▓██████  █▓  █████▓███▓   █  ▓███▓   ███▓
+     ▓████▓  ▀██▓  ▓███  ▀██▀  █  ▓███▀  ▓██▓  ▀██▓███▓   ██▓  ▓███▓ ████▓
+      ▓█████▓▄   ▄▓█████▓▄  ▄▓███▄    ▄▓██████▓▄       ▄▓████▓▄     ▄███▓
+       ▓█████████████▓████████████████████▓████████████████████████████▓
+        ▀▓███████████████████████████████████████████████████████████▓▀
+          ▄█▓███████▀▀██████▓▄ ▀▓▀▀         ▀▀▓▀ ▄▓██████▀▀███████▓█▄
+         ▓▀  ▓█▀▀▀      ▀▀███▓     C O D E X     ▓███▀▀      ▀▀▀█▓  ▀▓
+          ▀ ▓█▄  ▄      ▄ ▄▓▀   P R E S E N T S   ▀▓▄ ▄      ▄  ▄█▓ ▀
+            ▀███▀        ▀▀    ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄    ▀▀        ▀███▀
+ 
+ 
+    Total War: ROME II - Rise of the Republic Update v2.4.0.19683 (c) SEGA
+ 
+ 
+         Release Date :  09/2018              Protection : Steam
+         Discs        :  1                    Genre      : Strategy
+ 
+  ▄██▄                                                                   ▄██▄
+ ▓▀▀███▓   ▄▄     █▀█ █▀▀ █   █▀▀ █▀█ █▀▀ █▀▀   █ █▀█ █▀▀ █▀█     ▄▄   ▓███▀▀▓
+ ▀▄  ▀██▓ ▀ ▀█  ▄ ▓▀▄ ▓▀  ▓   ▓▀  ▓▀▓ ▀▀▓ ▓▀    ▓ ▓ ▓ ▓▀  ▓ ▓ ▄  █▀ ▀ ▓██▀  ▄▀
+      ███▓▄ ▄██▄▓ ▀ ▀ ▀▀▀ ▀▀▀ ▀▀▀ ▀ ▀ ▀▀▀ ▀▀▀   ▀ ▀ ▀ ▀   ▀▀▀ ▓▄██▄ ▄▓███
+    ▄█▓███████▀▀██████▓▄  ▄██▀█▄▄  ▀▄▄   ▄▄▀  ▄▄█▀██▄  ▄▓██████▀▀███████▓█▄
+   █▀ ▄██▀▀▀      ▀▀███▓  ██▄  ▀▀▓█▄ ██ ██ ▄█▓▀▀  ▄██  ▓███▀▀      ▀▀▀██▄ ▀█
+    ▀ ██▄  ▄      ▄ ▄█▀    ▀█▀     ▀██▀ ▀██▀     ▀█▀    ▀█▄ ▄      ▄  ▄██ ▀
+      ▀███▀        ▀▀         ▀                 ▀         ▀▀        ▀███▀
+ 
+ 
+              For list of changes read included patchnotes.txt
+ 
+ 
+ 
+  ▄██▄                                                                   ▄██▄
+ ▓▀▀███▓   ▄▄   █ █▀█ █▀▀ ▀█▀ █▀█ █   █     █▀█ █▀█ ▀█▀ █▀▀ █▀▀   ▄▄   ▓███▀▀▓
+ ▀▄  ▀██▓ ▀ ▀█  ▓ ▓ ▓ ▀▀▓  ▓  ▓▀▓ ▓   ▓     ▓ ▓ ▓ ▓  ▓  ▓▀  ▀▀▓  █▀ ▀ ▓██▀  ▄▀
+      ███▓▄ ▄██ ▀ ▀ ▀ ▀▀▀  ▀  ▀ ▀ ▀▀▀ ▀▀▀   ▀ ▀ ▀▀▀  ▀  ▀▀▀ ▀▀▀ ██▄ ▄▓███
+    ▄█▓███████▀▀██████▓▄  ▄██▀█▄▄  ▀▄▄   ▄▄▀  ▄▄█▀██▄  ▄▓██████▀▀███████▓█▄
+   █▀ ▄██▀▀▀      ▀▀███▓  ██▄  ▀▀▓█▄ ██ ██ ▄█▓▀▀  ▄██  ▓███▀▀      ▀▀▀██▄ ▀█
+    ▀ ██▄  ▄      ▄ ▄█▀    ▀█▀     ▀██▀ ▀██▀     ▀█▀    ▀█▄ ▄      ▄  ▄██ ▀
+      ▀███▀        ▀▀         ▀                 ▀         ▀▀        ▀███▀
+ 
+ 
+      - Extract
+      - Run setup.exe and install update
+      - Copy crack from CODEX dir to installdir
+      - Play
+ 
+      You need the following releases for this:
+ 
+      Total.War.Rome.II.Rise.of.the.Republic-CODEX
+      Total.War.Rome.II.Rise.of.the.Republic.Update.v2.4.0.19581-CODEX
+ 
+ 
+      - Block the game's exe in your firewall to prevent the game from
+        trying to go online ..
+      - If you install games to your systemdrive, it may be necessary
+        to run this game with admin privileges instead
+ 
+ 
+  ▄██▄                                                                   ▄██▄
+ ▓▀▀███▓   ▄▄      █▀▀ █▀█ █▀█ █ █ █▀█   █▀█ █▀█ ▀█▀ █▀▀ █▀▀      ▄▄   ▓███▀▀▓
+ ▀▄  ▀██▓ ▀ ▀█  ▄  ▓ █ ▓▀▄ ▓ ▓ ▓ ▓ ▓▀▀   ▓ ▓ ▓ ▓  ▓  ▓▀  ▀▀▓  ▄  █▀ ▀ ▓██▀  ▄▀
+      ███▓▄ ▄██▄▓▄ ▀▀▀ ▀ ▀ ▀▀▀ ▀▀▀ ▀     ▀ ▀ ▀▀▀  ▀  ▀▀▀ ▀▀▀ ▄▓▄██▄ ▄▓███
+    ▄█▓███████▀▀██████▓▄  ▄██▀█▄▄  ▀▄▄   ▄▄▀  ▄▄█▀██▄  ▄▓██████▀▀███████▓█▄
+   █▀ ▄██▀▀▀      ▀▀███▓  ██▄  ▀▀▓█▄ ██ ██ ▄█▓▀▀  ▄██  ▓███▀▀      ▀▀▀██▄ ▀█
+    ▀ ██▄  ▄      ▄ ▄█▀    ▀█▀     ▀██▀ ▀██▀     ▀█▀    ▀█▄ ▄      ▄  ▄██ ▀
+      ▀███▀        ▀▀         ▀                 ▀         ▀▀        ▀███▀
+ 
+                        CODEX is currently looking for
+               ▄██▄                                         ▄██▄
+              ▓██ ▀▀  ▄    nothing but competition!     ▄  ▀▀ ██▓
+               ▓██▄ ▄▓▀▓                               ▓▀▓▄ ▄██▓
+             ▄██████▓▀   Greetings to STEAMPUNKS & CPY   ▀▓██████▄
+            ▓██▀  ▀██▄▄ ▄▄                           ▄▄ ▄▄██▀  ▀██▓
+            ██   ▄ ▀█▓██▓▀█▄█▀█▄▄   ▄  ▄  ▄   ▄▄█▀█▄█▀▓██▓█▀ ▄   ██
+            ▀██▄▄▀ ▄ █ █ ▄ ▀▄  ▀▀▓█▄ █ ▓ █ ▄█▓▀▀  ▄▀ ▄ █ █ ▄ ▀▄▄██▀
+              ▀▀    ▀   ▀     ▄▀   ▀▀  ▀  ▀▀   ▀▄     ▀   ▀    ▀▀
+                               ▀█▓▄ LNK^CPS ▄▓█▀
+                                 ▄▀ 02/2015 ▀▄
+                                ▓      ▄      ▓
+                                 ▀   ▓▀▄▀▓   ▀
+                                 ▄  █  ▓  █  ▄
+                                  ▀▀       ▀▀
+
+is it multi language or eng only?thx
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 04 Sep 2018, 18:21]
+anto1989 wrote:
+Bl@ckIce wrote:
+Total.War.Rome.II.Rise.of.the.Republic.Update.v2.4.0.19683-CODEX
+
+ NFO
+Code: Select all | Line number On/Off | Expand/Contract
+                                ▄▄▄▄▄▄▄    ▄▄▄                   ▄▄
+            ▄████▄      ▄████▄ ▓██████████ ▓████▓▄              ▓███▓
+           ███▓███▓    ████████ ▓██▓███████ ▓██████▓▄          ▓███▓  ▀
+      ▄   ███▓ ▀███▓  ███▓▀ ▓███ ███▓  ▀▓███ ███▓████▓▄▄      ▓███▓  ▄█
+      ▓  ▓███   ▓████ ███    ███ ███     ███▓███  ▓███▓█▓    ▓███▓  ██
+         ███▓     ▀▀ ███      ███▓██      ███▓██     ▓███▓ ▄▓███▓  ██▓
+       █ ███         ███      ███▓██      ███▓████▓   ▓███▓▓███▓ ▓██▓
+      ▓█ ███         ███      ███▓██      ███▓███▓     ▓██████▓ ▓███
+      █▓ ███         ███▓    ▓███▓██     ▓███▓██        ▓████▓  ▓████▓
+    ▓██  ▓███     ▄██▓███    ███ ███    ▄███▓███   ▓██▄▓██████▓  ▓████▓
+   ▓██▓   ████▄ ▓███▓ ▓███ ▄███▓ ███▓ ▄▓███ █████ ▓███▓███▓▓███▓  ▓█████▓
+   ▓██    ▓████████▓  ▓████████▓ █████████  ▓████████▓███▓▀ ▓███▓   █████▓
+    ███▓   ███████▓ ▄  ▓██████▓  ▓███████    ███████▓███▓    ▓███▓   ████▓
+    ▓████▓  █████▓  ▓█  ▓████▓   ▓██████  █▓  █████▓███▓   █  ▓███▓   ███▓
+     ▓████▓  ▀██▓  ▓███  ▀██▀  █  ▓███▀  ▓██▓  ▀██▓███▓   ██▓  ▓███▓ ████▓
+      ▓█████▓▄   ▄▓█████▓▄  ▄▓███▄    ▄▓██████▓▄       ▄▓████▓▄     ▄███▓
+       ▓█████████████▓████████████████████▓████████████████████████████▓
+        ▀▓███████████████████████████████████████████████████████████▓▀
+          ▄█▓███████▀▀██████▓▄ ▀▓▀▀         ▀▀▓▀ ▄▓██████▀▀███████▓█▄
+         ▓▀  ▓█▀▀▀      ▀▀███▓     C O D E X     ▓███▀▀      ▀▀▀█▓  ▀▓
+          ▀ ▓█▄  ▄      ▄ ▄▓▀   P R E S E N T S   ▀▓▄ ▄      ▄  ▄█▓ ▀
+            ▀███▀        ▀▀    ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄    ▀▀        ▀███▀
+ 
+ 
+    Total War: ROME II - Rise of the Republic Update v2.4.0.19683 (c) SEGA
+ 
+ 
+         Release Date :  09/2018              Protection : Steam
+         Discs        :  1                    Genre      : Strategy
+ 
+  ▄██▄                                                                   ▄██▄
+ ▓▀▀███▓   ▄▄     █▀█ █▀▀ █   █▀▀ █▀█ █▀▀ █▀▀   █ █▀█ █▀▀ █▀█     ▄▄   ▓███▀▀▓
+ ▀▄  ▀██▓ ▀ ▀█  ▄ ▓▀▄ ▓▀  ▓   ▓▀  ▓▀▓ ▀▀▓ ▓▀    ▓ ▓ ▓ ▓▀  ▓ ▓ ▄  █▀ ▀ ▓██▀  ▄▀
+      ███▓▄ ▄██▄▓ ▀ ▀ ▀▀▀ ▀▀▀ ▀▀▀ ▀ ▀ ▀▀▀ ▀▀▀   ▀ ▀ ▀ ▀   ▀▀▀ ▓▄██▄ ▄▓███
+    ▄█▓███████▀▀██████▓▄  ▄██▀█▄▄  ▀▄▄   ▄▄▀  ▄▄█▀██▄  ▄▓██████▀▀███████▓█▄
+   █▀ ▄██▀▀▀      ▀▀███▓  ██▄  ▀▀▓█▄ ██ ██ ▄█▓▀▀  ▄██  ▓███▀▀      ▀▀▀██▄ ▀█
+    ▀ ██▄  ▄      ▄ ▄█▀    ▀█▀     ▀██▀ ▀██▀     ▀█▀    ▀█▄ ▄      ▄  ▄██ ▀
+      ▀███▀        ▀▀         ▀                 ▀         ▀▀        ▀███▀
+ 
+ 
+              For list of changes read included patchnotes.txt
+ 
+ 
+ 
+  ▄██▄                                                                   ▄██▄
+ ▓▀▀███▓   ▄▄   █ █▀█ █▀▀ ▀█▀ █▀█ █   █     █▀█ █▀█ ▀█▀ █▀▀ █▀▀   ▄▄   ▓███▀▀▓
+ ▀▄  ▀██▓ ▀ ▀█  ▓ ▓ ▓ ▀▀▓  ▓  ▓▀▓ ▓   ▓     ▓ ▓ ▓ ▓  ▓  ▓▀  ▀▀▓  █▀ ▀ ▓██▀  ▄▀
+      ███▓▄ ▄██ ▀ ▀ ▀ ▀▀▀  ▀  ▀ ▀ ▀▀▀ ▀▀▀   ▀ ▀ ▀▀▀  ▀  ▀▀▀ ▀▀▀ ██▄ ▄▓███
+    ▄█▓███████▀▀██████▓▄  ▄██▀█▄▄  ▀▄▄   ▄▄▀  ▄▄█▀██▄  ▄▓██████▀▀███████▓█▄
+   █▀ ▄██▀▀▀      ▀▀███▓  ██▄  ▀▀▓█▄ ██ ██ ▄█▓▀▀  ▄██  ▓███▀▀      ▀▀▀██▄ ▀█
+    ▀ ██▄  ▄      ▄ ▄█▀    ▀█▀     ▀██▀ ▀██▀     ▀█▀    ▀█▄ ▄      ▄  ▄██ ▀
+      ▀███▀        ▀▀         ▀                 ▀         ▀▀        ▀███▀
+ 
+ 
+      - Extract
+      - Run setup.exe and install update
+      - Copy crack from CODEX dir to installdir
+      - Play
+ 
+      You need the following releases for this:
+ 
+      Total.War.Rome.II.Rise.of.the.Republic-CODEX
+      Total.War.Rome.II.Rise.of.the.Republic.Update.v2.4.0.19581-CODEX
+ 
+ 
+      - Block the game's exe in your firewall to prevent the game from
+        trying to go online ..
+      - If you install games to your systemdrive, it may be necessary
+        to run this game with admin privileges instead
+ 
+ 
+  ▄██▄                                                                   ▄██▄
+ ▓▀▀███▓   ▄▄      █▀▀ █▀█ █▀█ █ █ █▀█   █▀█ █▀█ ▀█▀ █▀▀ █▀▀      ▄▄   ▓███▀▀▓
+ ▀▄  ▀██▓ ▀ ▀█  ▄  ▓ █ ▓▀▄ ▓ ▓ ▓ ▓ ▓▀▀   ▓ ▓ ▓ ▓  ▓  ▓▀  ▀▀▓  ▄  █▀ ▀ ▓██▀  ▄▀
+      ███▓▄ ▄██▄▓▄ ▀▀▀ ▀ ▀ ▀▀▀ ▀▀▀ ▀     ▀ ▀ ▀▀▀  ▀  ▀▀▀ ▀▀▀ ▄▓▄██▄ ▄▓███
+    ▄█▓███████▀▀██████▓▄  ▄██▀█▄▄  ▀▄▄   ▄▄▀  ▄▄█▀██▄  ▄▓██████▀▀███████▓█▄
+   █▀ ▄██▀▀▀      ▀▀███▓  ██▄  ▀▀▓█▄ ██ ██ ▄█▓▀▀  ▄██  ▓███▀▀      ▀▀▀██▄ ▀█
+    ▀ ██▄  ▄      ▄ ▄█▀    ▀█▀     ▀██▀ ▀██▀     ▀█▀    ▀█▄ ▄      ▄  ▄██ ▀
+      ▀███▀        ▀▀         ▀                 ▀         ▀▀        ▀███▀
+ 
+                        CODEX is currently looking for
+               ▄██▄                                         ▄██▄
+              ▓██ ▀▀  ▄    nothing but competition!     ▄  ▀▀ ██▓
+               ▓██▄ ▄▓▀▓                               ▓▀▓▄ ▄██▓
+             ▄██████▓▀   Greetings to STEAMPUNKS & CPY   ▀▓██████▄
+            ▓██▀  ▀██▄▄ ▄▄                           ▄▄ ▄▄██▀  ▀██▓
+            ██   ▄ ▀█▓██▓▀█▄█▀█▄▄   ▄  ▄  ▄   ▄▄█▀█▄█▀▓██▓█▀ ▄   ██
+            ▀██▄▄▀ ▄ █ █ ▄ ▀▄  ▀▀▓█▄ █ ▓ █ ▄█▓▀▀  ▄▀ ▄ █ █ ▄ ▀▄▄██▀
+              ▀▀    ▀   ▀     ▄▀   ▀▀  ▀  ▀▀   ▀▄     ▀   ▀    ▀▀
+                               ▀█▓▄ LNK^CPS ▄▓█▀
+                                 ▄▀ 02/2015 ▀▄
+                                ▓      ▄      ▓
+                                 ▀   ▓▀▄▀▓   ▀
+                                 ▄  █  ▓  █  ▄
+                                  ▀▀       ▀▀
+
+is it multi language or eng only?thx
+
+
+English only.
+
+---
+
+Total War: Rome II Rise of the Republic Update v2.4.0 Build.19683 GERMAN REPACK *DOWNLOAD*
+You need "Total War: Rome II Rise of the Republic Update v2.4.0 Build.19581 GERMAN"!
+
+Use crack from Total.War.Rome.II.Rise.of.the.Republic.Update.v2.4.0.19683-CODEX
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 04 Sep 2018, 18:21]
+
+_________________
+Haters gonna hate!
+My updates are always clean files - no cracks included.
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 04 Sep 2018, 18:54]
+Bl@ckIce wrote:
+Total.War.Rome.II.Rise.of.the.Republic.Update.v2.4.0.19683-CODEX
+
+ NFO
+Code: Select all | Line number On/Off | Expand/Contract
+                                ▄▄▄▄▄▄▄    ▄▄▄                   ▄▄
+            ▄████▄      ▄████▄ ▓██████████ ▓████▓▄              ▓███▓
+           ███▓███▓    ████████ ▓██▓███████ ▓██████▓▄          ▓███▓  ▀
+      ▄   ███▓ ▀███▓  ███▓▀ ▓███ ███▓  ▀▓███ ███▓████▓▄▄      ▓███▓  ▄█
+      ▓  ▓███   ▓████ ███    ███ ███     ███▓███  ▓███▓█▓    ▓███▓  ██
+         ███▓     ▀▀ ███      ███▓██      ███▓██     ▓███▓ ▄▓███▓  ██▓
+       █ ███         ███      ███▓██      ███▓████▓   ▓███▓▓███▓ ▓██▓
+      ▓█ ███         ███      ███▓██      ███▓███▓     ▓██████▓ ▓███
+      █▓ ███         ███▓    ▓███▓██     ▓███▓██        ▓████▓  ▓████▓
+    ▓██  ▓███     ▄██▓███    ███ ███    ▄███▓███   ▓██▄▓██████▓  ▓████▓
+   ▓██▓   ████▄ ▓███▓ ▓███ ▄███▓ ███▓ ▄▓███ █████ ▓███▓███▓▓███▓  ▓█████▓
+   ▓██    ▓████████▓  ▓████████▓ █████████  ▓████████▓███▓▀ ▓███▓   █████▓
+    ███▓   ███████▓ ▄  ▓██████▓  ▓███████    ███████▓███▓    ▓███▓   ████▓
+    ▓████▓  █████▓  ▓█  ▓████▓   ▓██████  █▓  █████▓███▓   █  ▓███▓   ███▓
+     ▓████▓  ▀██▓  ▓███  ▀██▀  █  ▓███▀  ▓██▓  ▀██▓███▓   ██▓  ▓███▓ ████▓
+      ▓█████▓▄   ▄▓█████▓▄  ▄▓███▄    ▄▓██████▓▄       ▄▓████▓▄     ▄███▓
+       ▓█████████████▓████████████████████▓████████████████████████████▓
+        ▀▓███████████████████████████████████████████████████████████▓▀
+          ▄█▓███████▀▀██████▓▄ ▀▓▀▀         ▀▀▓▀ ▄▓██████▀▀███████▓█▄
+         ▓▀  ▓█▀▀▀      ▀▀███▓     C O D E X     ▓███▀▀      ▀▀▀█▓  ▀▓
+          ▀ ▓█▄  ▄      ▄ ▄▓▀   P R E S E N T S   ▀▓▄ ▄      ▄  ▄█▓ ▀
+            ▀███▀        ▀▀    ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄    ▀▀        ▀███▀
+ 
+ 
+    Total War: ROME II - Rise of the Republic Update v2.4.0.19683 (c) SEGA
+ 
+ 
+         Release Date :  09/2018              Protection : Steam
+         Discs        :  1                    Genre      : Strategy
+ 
+  ▄██▄                                                                   ▄██▄
+ ▓▀▀███▓   ▄▄     █▀█ █▀▀ █   █▀▀ █▀█ █▀▀ █▀▀   █ █▀█ █▀▀ █▀█     ▄▄   ▓███▀▀▓
+ ▀▄  ▀██▓ ▀ ▀█  ▄ ▓▀▄ ▓▀  ▓   ▓▀  ▓▀▓ ▀▀▓ ▓▀    ▓ ▓ ▓ ▓▀  ▓ ▓ ▄  █▀ ▀ ▓██▀  ▄▀
+      ███▓▄ ▄██▄▓ ▀ ▀ ▀▀▀ ▀▀▀ ▀▀▀ ▀ ▀ ▀▀▀ ▀▀▀   ▀ ▀ ▀ ▀   ▀▀▀ ▓▄██▄ ▄▓███
+    ▄█▓███████▀▀██████▓▄  ▄██▀█▄▄  ▀▄▄   ▄▄▀  ▄▄█▀██▄  ▄▓██████▀▀███████▓█▄
+   █▀ ▄██▀▀▀      ▀▀███▓  ██▄  ▀▀▓█▄ ██ ██ ▄█▓▀▀  ▄██  ▓███▀▀      ▀▀▀██▄ ▀█
+    ▀ ██▄  ▄      ▄ ▄█▀    ▀█▀     ▀██▀ ▀██▀     ▀█▀    ▀█▄ ▄      ▄  ▄██ ▀
+      ▀███▀        ▀▀         ▀                 ▀         ▀▀        ▀███▀
+ 
+ 
+              For list of changes read included patchnotes.txt
+ 
+ 
+ 
+  ▄██▄                                                                   ▄██▄
+ ▓▀▀███▓   ▄▄   █ █▀█ █▀▀ ▀█▀ █▀█ █   █     █▀█ █▀█ ▀█▀ █▀▀ █▀▀   ▄▄   ▓███▀▀▓
+ ▀▄  ▀██▓ ▀ ▀█  ▓ ▓ ▓ ▀▀▓  ▓  ▓▀▓ ▓   ▓     ▓ ▓ ▓ ▓  ▓  ▓▀  ▀▀▓  █▀ ▀ ▓██▀  ▄▀
+      ███▓▄ ▄██ ▀ ▀ ▀ ▀▀▀  ▀  ▀ ▀ ▀▀▀ ▀▀▀   ▀ ▀ ▀▀▀  ▀  ▀▀▀ ▀▀▀ ██▄ ▄▓███
+    ▄█▓███████▀▀██████▓▄  ▄██▀█▄▄  ▀▄▄   ▄▄▀  ▄▄█▀██▄  ▄▓██████▀▀███████▓█▄
+   █▀ ▄██▀▀▀      ▀▀███▓  ██▄  ▀▀▓█▄ ██ ██ ▄█▓▀▀  ▄██  ▓███▀▀      ▀▀▀██▄ ▀█
+    ▀ ██▄  ▄      ▄ ▄█▀    ▀█▀     ▀██▀ ▀██▀     ▀█▀    ▀█▄ ▄      ▄  ▄██ ▀
+      ▀███▀        ▀▀         ▀                 ▀         ▀▀        ▀███▀
+ 
+ 
+      - Extract
+      - Run setup.exe and install update
+      - Copy crack from CODEX dir to installdir
+      - Play
+ 
+      You need the following releases for this:
+ 
+      Total.War.Rome.II.Rise.of.the.Republic-CODEX
+      Total.War.Rome.II.Rise.of.the.Republic.Update.v2.4.0.19581-CODEX
+ 
+ 
+      - Block the game's exe in your firewall to prevent the game from
+        trying to go online ..
+      - If you install games to your systemdrive, it may be necessary
+        to run this game with admin privileges instead
+ 
+ 
+  ▄██▄                                                                   ▄██▄
+ ▓▀▀███▓   ▄▄      █▀▀ █▀█ █▀█ █ █ █▀█   █▀█ █▀█ ▀█▀ █▀▀ █▀▀      ▄▄   ▓███▀▀▓
+ ▀▄  ▀██▓ ▀ ▀█  ▄  ▓ █ ▓▀▄ ▓ ▓ ▓ ▓ ▓▀▀   ▓ ▓ ▓ ▓  ▓  ▓▀  ▀▀▓  ▄  █▀ ▀ ▓██▀  ▄▀
+      ███▓▄ ▄██▄▓▄ ▀▀▀ ▀ ▀ ▀▀▀ ▀▀▀ ▀     ▀ ▀ ▀▀▀  ▀  ▀▀▀ ▀▀▀ ▄▓▄██▄ ▄▓███
+    ▄█▓███████▀▀██████▓▄  ▄██▀█▄▄  ▀▄▄   ▄▄▀  ▄▄█▀██▄  ▄▓██████▀▀███████▓█▄
+   █▀ ▄██▀▀▀      ▀▀███▓  ██▄  ▀▀▓█▄ ██ ██ ▄█▓▀▀  ▄██  ▓███▀▀      ▀▀▀██▄ ▀█
+    ▀ ██▄  ▄      ▄ ▄█▀    ▀█▀     ▀██▀ ▀██▀     ▀█▀    ▀█▄ ▄      ▄  ▄██ ▀
+      ▀███▀        ▀▀         ▀                 ▀         ▀▀        ▀███▀
+ 
+                        CODEX is currently looking for
+               ▄██▄                                         ▄██▄
+              ▓██ ▀▀  ▄    nothing but competition!     ▄  ▀▀ ██▓
+               ▓██▄ ▄▓▀▓                               ▓▀▓▄ ▄██▓
+             ▄██████▓▀   Greetings to STEAMPUNKS & CPY   ▀▓██████▄
+            ▓██▀  ▀██▄▄ ▄▄                           ▄▄ ▄▄██▀  ▀██▓
+            ██   ▄ ▀█▓██▓▀█▄█▀█▄▄   ▄  ▄  ▄   ▄▄█▀█▄█▀▓██▓█▀ ▄   ██
+            ▀██▄▄▀ ▄ █ █ ▄ ▀▄  ▀▀▓█▄ █ ▓ █ ▄█▓▀▀  ▄▀ ▄ █ █ ▄ ▀▄▄██▀
+              ▀▀    ▀   ▀     ▄▀   ▀▀  ▀  ▀▀   ▀▄     ▀   ▀    ▀▀
+                               ▀█▓▄ LNK^CPS ▄▓█▀
+                                 ▄▀ 02/2015 ▀▄
+                                ▓      ▄      ▓
+                                 ▀   ▓▀▄▀▓   ▀
+                                 ▄  █  ▓  █  ▄
+                                  ▀▀       ▀▀
+
+
+I'm amazed. Sega dropped the CEG protection; gj ^^
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 04 Sep 2018, 18:54]
+
+_________________
+Always wanted to get rid of the files that were not listed in the sfv/md5 hash file? Check the QuickSFV plugin I created for this: viewtopic.php?f=10&t=108605 or this: viewtopic.php?p=1273745#p1273745
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 04 Sep 2018, 20:49]
+Yeah, SEGA's generosity today is impressive.
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 04 Sep 2018, 20:49]
+
+_________________
+I've received multiple messages in which people expressed their desire to support my work in RIN; I appreciate your care, but I have all support I need; consider instead to support the developers of the games you actually enjoy. Rui
+
+
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 05 Sep 2018, 02:01]
+assembly kit is also updated,would anyone upload it,please.Also if it's possible,could an encyclopedia fix can be made,thanks.
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 05 Sep 2018, 02:23]
+Quote:
+Also if it's possible,could an encyclopedia fix can be made,thanks.
+
+
+sorry but the encyclopedia is online only so you need the steam client is running. no fix for offline mode 
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 05 Sep 2018, 03:11]
+lucag7890 wrote:
+Quote:
+Also if it's possible,could an encyclopedia fix can be made,thanks.
+
+
+sorry but the encyclopedia is online only so you need the steam client is running. no fix for offline mode 
+
+
+i'm not asking for offline,i know it's online.encyclopedia fix is for cracked version.
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 05 Sep 2018, 13:00]
+Does the older crack work with the update? i cant try it rn sadly
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 05 Sep 2018, 13:07]
+Russian language pack?
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 05 Sep 2018, 14:01]
+fuckthenazis wrote:
+assembly kit is also updated,would anyone upload it,please.Also if it's possible,could an encyclopedia fix can be made,thanks.
+
+Sure thing.
+
+Total War: ROME II - Assembly Kit BETA
+
+ Spoiler
+https://drive.google.com/file/d/1RJSTSHzog1FSYrsL9Li4CW4KbyK1zOem/view?usp=sharing
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 05 Sep 2018, 14:01]
+
+_________________
+The FAQ are you waiting for?
+
+A wild PASSWORD appeared for protected archives & files on RIN! Member used cs.rin.ru ...it's super effective!
+
+Having problems downloading from Google Drive? Click here.
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 05 Sep 2018, 14:33]
+Venom wrote:
+Language Packs XDeltas for the latest version
+Expect from you for the current update?
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 05 Sep 2018, 14:33]
+
+_________________
+Sorry for my English, I use Google translate. 
+CSF - Clean Steam files. Crack not included. If you don't know the password, read the FAQ. If I missed a new update, send a request to the PM.
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 05 Sep 2018, 15:13]
+Hello everyone,
+
+I Installed the Codex Release+ Venom Language package for german speech.
+Then I used Total.War.Rome.II.Rise.of.the.Republic.Update.v2.4.0.Build.19581-GERMAN which worked perfect.
+Now i try to patch Total.War.Rome.II.Rise.of.the.Republic.Update.v2.4.0.Build.19683-GERMAN but everytime after patching process during verify there are 3 errors and it starts a complete Rollback.
+
+Need some suggestions pls i dont know how to solve this.
+
+Thank you all in advance.
+
+Flokehl
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 05 Sep 2018, 16:42]
+Flokehl wrote:
+...
+How about you copy & paste the three error entries from the installer window? You can also have a log created when running the installer, just tick the box.
+Then we'll see what files cause problems for you.
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 05 Sep 2018, 16:42]
+
+_________________
+Frequently Asked Questions
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 05 Sep 2018, 16:53]
+Thank you for your quick Reply.
+
+[!] Error! Invalid hash for: "C:\Program Files (x86)\Total War Rome II Rise of the Republic\data\models3_rome2.pack"
+[!] Error! Invalid hash for: "C:\Program Files (x86)\Total War Rome II Rise of the Republic\data\models_rome2.pack"
+[!] Error! Invalid hash for: "C:\Program Files (x86)\Total War Rome II Rise of the Republic\data\terrain3_rome2.pack"
+
+These are the three Errors.

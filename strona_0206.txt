@@ -1,0 +1,229 @@
+=========================================
+STRONA 206 (URL: https://cs.rin.ru/forum/viewtopic.php?f=10&t=61441&hilit=rome+2&start=3075)
+=========================================
+
+[Data: Thursday, 19 Nov 2015, 21:00]
+You'll need these to have the latest version.
+
+Quote:
+Total.War.ROME.II.Emperor.Edition.MULTi9-PROPHET
+Total.War.ROME.II.Update.v2.2.0.15666-v2.2.0.16019 viewtopic.php?p=1094582#p1094582
+Total.War.ROME.II.Update.v2.2.0.16019-v2.2.0.16155 viewtopic.php?p=1119420#p1119420
+
+
+
+PM me if you need links for the Prophet release.
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 19 Nov 2015, 21:00]
+
+_________________
+Always wanted to get rid of the files that were not listed in the sfv/md5 hash file? Check the QuickSFV plugin I created for this: viewtopic.php?f=10&t=108605 or this: viewtopic.php?p=1273745#p1273745
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 19 Nov 2015, 23:42]
+CAN SOMEBODY HELP ME ?
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 19 Nov 2015, 23:58]
+GARON wrote:
+CAN SOMEBODY HELP ME ?
+
+are you sure you are hex editing the mod file correctly and that the mods you are using are updated for the game version you are trying to use them on?
+
+i personally i have 8 mods installed without issue!
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 20 Nov 2015, 02:50]
+machine4578 wrote:
+GARON wrote:
+CAN SOMEBODY HELP ME ?
+
+are you sure you are hex editing the mod file correctly and that the mods you are using are updated for the game version you are trying to use them on?
+
+i personally i have 8 mods installed without issue!
+
+
+Zdjęcia
+
+Maybe modmanager was fucked up ? Last update was in Mod Manager [Updated 25/04/14]. So i dont know what is wrong with my game.
+
+-- Edit --
+
+
+GARON wrote:
+GUUUUUUUUYS !!!!!!!!!!! YOUU AREE THEE BEEEST !!! I LOOOVEEE YOUUU ! <3 <3 <3 GREETINGS FROM POLAND !!!
+
+but...
+
+Mods doesn't work. That is what i did:
+
+1. Download & install RELOADED PROPHET SKIDROW R2TW .15666
+2. Copy & paste crack from top
+3. Download & install patch .16109 (all files are ok - no missing files)
+4. Copy & paste crack
+5. Download & install patch .16155 (all files are ok - no missing files)
+6. Copy & paste crack
+7. Launch game, everything is alright.
+8. Copy mods (mods_wolfmans_myrmidons_heroes, mods_lordbuiosaronly, mods_kingguardstest0, mods_wolfmans_myrmidons_new, mods_rome_ii_units_icons_mod, mods_md_blood_textures and allfactionsplayable_mod - only latest mod working) - all one by one, no one does not work and paste to data folder. I delete first 8 bytes in HxD.
+
+I have game in english version, i using ModManager 2.0 by Mitch's.... So... What is going on ?
+
+
+-- Edit --
+
+
+GARON wrote:
+DireStraights wrote:
+Did you put the mod manager in the main rome II folder? And then run it as admin...
+
+
+Yes. Nothing changed.
+
+-- Edit --
+
+
+GARON wrote:
+DireStraights wrote:
+Did you put the mod manager in the main rome II folder? And then run it as admin...
+
+
+Yes. Nothing changed.
+12 Turns Per Year MOD working too but others not -.- This game is bullshit....
+
+
+What is wrong...
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 20 Nov 2015, 02:53]
+GARON wrote:
+machine4578 wrote:
+GARON wrote:
+CAN SOMEBODY HELP ME ?
+
+are you sure you are hex editing the mod file correctly and that the mods you are using are updated for the game version you are trying to use them on?
+
+i personally i have 8 mods installed without issue!
+
+
+Zdjęcia
+
+you are not deleteing enough bytes from mod files(i posted pics some pages back what needs to be deleted)
+delete the first 8 bytes, not 3.
+
+PFH4 must be first 4 bytes!
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 20 Nov 2015, 03:01]
+It work... Man... God bless you... Give me your bank account i pay you some euros <3
+
+If mods are in movie format i need to convert in mod manager to .pack ?
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 20 Nov 2015, 03:05]
+GARON wrote:
+It work... Man... God bless you... Give me your bank account i pay you some euros <3
+
+If mods are in movie format i need to convert in mod manager to .pack ?
+
+i am glad its working now 
+
+as for converting movie format to pack, to be honest i am not sure if its needed or not. but give it a try.
+
+have fun!
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 21 Nov 2015, 19:02]
+Does anyone have the DLC + Crack to add onto a legit Steam version?
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 21 Nov 2015, 19:44]
+InSigniaX wrote:
+Does anyone have the DLC + Crack to add onto a legit Steam version?
+
+please read\search the topic. the DLC has been posted as well as what you need to do to unlock on legit game.
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 29 Nov 2015, 22:44]
+Hi guys, i downloaded the game from a different torrent with all de dlc's and updates but the game is in russian.
+I found in this topic the link with some translates packs https://mega.nz/#F!F9wECKYB!48NjkPRTYE_7faZ8bQGdvw, but english is not here.
+I have to download everything again? the game is working fine with the last DEI mod version, i really only need the translate files, where i can get them?
+There is a way to change the russian files to english?
+
+Thanks !
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 30 Nov 2015, 01:35]
+Guys i need help i have version 2.0.0 build 13901584483 installed.What updated do i have to download in order to be fully upgraded? (the update 16.1 wrath of sparta is broken)
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 02 Dec 2015, 13:43]
+@faniskou
+
+Anomaly wrote:
+If you have decent an Internet connection I suggest downloading the Prophet release and the last 2 patches. Otherwise follow the order in the OP:
+viewtopic.php?p=784178#p784178
+
+Total.War.ROME.II.Emperor.Edition.MULTi9-PROPHET
+Total.War.ROME.II.Update.v2.2.0.15666-v2.2.0.16019 viewtopic.php?p=1094582#p1094582
+Total.War.ROME.II.Update.v2.2.0.16019-v2.2.0.16155 viewtopic.php?p=1119420#p1119420
+
+PM me if you need links for the Prophet release.
+
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 02 Dec 2015, 13:43]
+
+_________________
+Always wanted to get rid of the files that were not listed in the sfv/md5 hash file? Check the QuickSFV plugin I created for this: viewtopic.php?f=10&t=108605 or this: viewtopic.php?p=1273745#p1273745
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 02 Dec 2015, 22:11]
+faniskou wrote:
+Guys i need help i have version 2.0.0 build 13901584483 installed.What updated do i have to download in order to be fully upgraded? (the update 16.1 wrath of sparta is broken)
+
+
+I had the same version and I started with patch 16 and latter up to patch 2.2.0 16155. I've been getting errors during patching but the game is working, although I guess I'm gonna to be in a world of pain later on due to bugs or crashes. So it would be best for you to do just as Anomaly said
+
+@vitor182
+
+Try here.
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 03 Dec 2015, 15:45]
+Hello again  I have a horrible graphics, dark and jagged edges . I have uploaded the GEM FX mod but he destroys graphics. I would like to have a clear shadows and bright, clean models of units and textures in high resolution. Do you have any idea regarding dark graphics in the game?
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 03 Dec 2015, 22:03]
+machine4578 wrote:
+alvaro1992 wrote:
+Protean wrote:
+Mod manager in launcher works fine on cracked ver.
+
+
+You mean official launcher?
+Cant make it to open, its always failed to initialize steam! are you running steam? error.
+
+i have posted more than once a working ALI213 emu for the launcher.exe so you can use it to load mods!
+
+here it is again, put this emu in the launcher folder!
+download/file.php?id=16136
+
+
+Hallo guys. I have this problem, which you solved earlyer, but your emu dont work for my game. I am also using your newest game updates. Rome2.exe works fine, I need the launcher for DeI mod . Please help

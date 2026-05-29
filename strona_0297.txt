@@ -1,0 +1,182 @@
+=========================================
+STRONA 297 (URL: https://cs.rin.ru/forum/viewtopic.php?f=10&t=61441&hilit=rome+2&start=4440)
+=========================================
+
+[Data: Monday, 27 May 2019, 19:38]
+Does the latest version of Divide Et Impera, 1.2.4, works with the Fitgirl's version of the game? I tried every method available, launcher or user.script, and while the mod does activate, there are alot of missing textures, such as torsos, helmets, armors and stuff like that. Any ideas?
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 30 May 2019, 04:48]
+umm, could someone help me on how Steamworks can be used to multiplayer??
+like you simply replace the Steamworks file in the installation and go multiplayer in the game?
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 30 May 2019, 05:04]
+KissMYass123
+To play multiplayer with a Steamworks fix, you need to have Steam running and be logged into an account.
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 08 Jun 2019, 09:05]
+Total War™: ROME II - Emperor Edition (Clean Steam Files)
+Version: December 11, 2018 – 10:59:26 UTC [Build 3385835]
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 08 Jun 2019, 09:05]
+
+_________________
+I've received multiple messages in which people expressed their desire to support my work in RIN; I appreciate your care, but I have all support I need; consider instead to support the developers of the games you actually enjoy. Rui
+
+
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 08 Jun 2019, 18:55]
+@ Rui: Thank you very much for the upload. Would you be so kind as to upload the Spanish files?. I would greatly appreciate it. Cheers.
+
+Depot IDs:
+214963 spanish_shared 959.43 MiB Spanish
+214964 spanish_rome2 1.74 GiB Spanish
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 08 Jun 2019, 18:55]
+
+_________________
+
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 09 Jun 2019, 01:21]
+bigbluetrongt wrote:
+@ Rui: Thank you very much for the upload. Would you be so kind as to upload the Spanish files?. I would greatly appreciate it. Cheers.
+
+Depot IDs:
+214963 spanish_shared 959.43 MiB Spanish
+214964 spanish_rome2 1.74 GiB Spanish
+
+Sure!
+
+In fact, I uploaded ALL language packs instead 
+
+
+ ALL LANGUAGE PACKS
+Code: Select all | Line number On/Off | Expand/Contract
+https://privatebin.rinuploads.org/?0bc0 ... kUJOIxc1g= [May link to unsafe filehosters]
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 09 Jun 2019, 01:21]
+
+_________________
+I've received multiple messages in which people expressed their desire to support my work in RIN; I appreciate your care, but I have all support I need; consider instead to support the developers of the games you actually enjoy. Rui
+
+
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 09 Jun 2019, 02:28]
+@ Rui: Cool. The translation that I had was very outdated and I did not find a new one anywhere. I appreciate it a lot. 
+
+
+---- Edit ----
+To view translated the encyclopedia in your language, open this file with an internet browser:
+
+X:\Total War Rome II\data\encyclopedia\% YOUR LANGUAGE FOLDER (en, en, etc)%\home.html
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 09 Jun 2019, 02:28]
+
+_________________
+
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 30 Jun 2019, 22:01]
+hi boys. sorry to ask this but im a bit confused. i have downloaded the fitgirl version the one with all dlcs + multiplayer. now i cant play the multiplayer part. so should i get both steam work fix files (6.21 mb and 204.23 kb) or i must download the codex version to play multiplayer?
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 01 Jul 2019, 20:28]
+pedi9004 wrote:
+hi boys. sorry to ask this but im a bit confused. i have downloaded the fitgirl version the one with all dlcs + multiplayer. now i cant play the multiplayer part. so should i get both steam work fix files (6.21 mb and 204.23 kb) or i must download the codex version to play multiplayer?
+
+
+Either Steamworks fix should work fine with Fitgirl's repack. Are you getting an error or anything?
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 01 Jul 2019, 20:28]
+
+_________________
+Always wanted to get rid of the files that were not listed in the sfv/md5 hash file? Check the QuickSFV plugin I created for this: viewtopic.php?f=10&t=108605 or this: viewtopic.php?p=1273745#p1273745
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 03 Jul 2019, 13:27]
+Either Steamworks fix should work fine with Fitgirl's repack. Are you getting an error or anything?
+
+_________________
+well sometimes the game just gets out with not responding error. i have copied both 6mb and 204kb files into game directory.
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 03 Jul 2019, 14:06]
+https://steamcommunity.com/sharedfiles/filedetails/?id=1731686844 Can somebody upload a updated copy of this mod
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 03 Jul 2019, 19:48]
+pedi9004 wrote:
+Either Steamworks fix should work fine with Fitgirl's repack. Are you getting an error or anything?
+
+_________________
+well sometimes the game just gets out with not responding error. i have copied both 6mb and 204kb files into game directory.
+
+
+So the game does work at times? FYI you only need one of those Steamworks fixes, not both ^^ Make sure your files are correct, see if there's a .sfv/.md5 hash file to check against and make sure you're running Steam in the background.
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 03 Jul 2019, 19:48]
+
+_________________
+Always wanted to get rid of the files that were not listed in the sfv/md5 hash file? Check the QuickSFV plugin I created for this: viewtopic.php?f=10&t=108605 or this: viewtopic.php?p=1273745#p1273745
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 05 Jul 2019, 08:07]
+sry for asking....but can someone provide me with a working online crack? 
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 05 Jul 2019, 20:43]
+mrdoggie3 wrote:
+sry for asking....but can someone provide me with a working online crack? 
+
+
+Look for Steamworks fixes in the OP / first post.
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 05 Jul 2019, 20:43]
+
+_________________
+Always wanted to get rid of the files that were not listed in the sfv/md5 hash file? Check the QuickSFV plugin I created for this: viewtopic.php?f=10&t=108605 or this: viewtopic.php?p=1273745#p1273745
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 06 Jul 2019, 07:40]
+Anomaly wrote:
+mrdoggie3 wrote:
+sry for asking....but can someone provide me with a working online crack? 
+
+
+Look for Steamworks fixes in the OP / first post.
+
+
+I Downloaded a clean steam files and then tried the CreamAPI fix.....I can host an online game with steam but not a single server at the time... and I can't host a LAN game.

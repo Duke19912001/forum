@@ -1,0 +1,225 @@
+=========================================
+STRONA 244 (URL: https://cs.rin.ru/forum/viewtopic.php?f=10&t=61441&hilit=rome+2&start=3645)
+=========================================
+
+[Data: Thursday, 30 Nov 2017, 21:27]
+so,
+
+added the dlc files (divided.pack) and the campaign files from codex rls, version is up to date (own it on steam) and I added
+
+"694880 = Total War: ROME II - Empire Divided" to creamapi.ini
+
+everything is unlocked, except Empire Divided..
+
+did I miss something?
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 30 Nov 2017, 21:40]
+Did you rename steam_api.dll to steam_api_o.dll?
+
+If the other are unlocked, I'm not sure. Check the creamApi ini, see if the format is correct, if its in the correct location of the text file etc.
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 30 Nov 2017, 21:51]
+guto8797 wrote:
+Did you rename steam_api.dll to steam_api_o.dll?
+
+If the other are unlocked, I'm not sure. Check the creamApi ini, see if the format is correct, if its in the correct location of the text file etc.
+
+
+yes, it's renamed. I took the creamapi.ini and steamapi.dll from here and just added the info for ED from here: https://steamdb.info/app/694880/
+
+also added the dlc_installdirs add the end
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 30 Nov 2017, 22:38]
+Im not entirely sure. Can you screencap the creamapi ini?
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 30 Nov 2017, 22:48]
+Sin316 wrote:
+added the dlc files (divided.pack) and the campaign files from codex rls
+
+
+can you share these files pls?
+
+i checked the codex rls and i don't want to download a 13GB file just to get the empire divided files (i'm on a metered connection).
+
+the file linked by guto8797 is old (https://drive.google.com/file/d/1XDiXit ... sfOTG/view). the new version is 2.2.0 build 17561
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 30 Nov 2017, 22:56]
+So, I've followed all the instructions (again forgive my lack of knowledge). Renamed the relevant files, configured the ini, and placed the correct files. However, when I start R2 it just crashes to Desktop with no error code.
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 30 Nov 2017, 22:56]
+
+_________________
+”One does not become enlightened by imagining figures of light but by making the darkness conscious.”
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 30 Nov 2017, 23:03]
+That is indication that something must've gone wrong with the dll files. Did you check to see if the game launched before you tried this? When you pasted the file, did you replace any? Was the existing steam_api.dll renamed to steam_api_o.dll, with an o not a 0?
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 30 Nov 2017, 23:05]
+knabberfee wrote:
+DLC files are only new startpos and divided.pack file, rest of the files are in base game files + new movies for ED in rome2_movies.pack.
+
+So basically, DLC only files will be the half of game.
+
+PS: Update will be found in this folder later today.
+
+ Spoiler
+Code: Select all | Line number On/Off | Expand/Contract
+https://drive.google.com/drive/folders/ ... sp=sharing
+
+
+how do i use "214950.Main.Files.Update.v2.2.0.Build.17561.exe"? i downloaded that and the .bin file and i'm assuming that has the new startpos and divided.pack?
+
+i'm pointing it to my legit game installation folder with all the DLCs unlocked (except empire divided) and it keeps telling me "required data not found..."
+
+how is it not seeing my rome 2 folder installation? my game is already updated to build 17561 and maybe that's the reason?
+
+all i need is the new startpos and divided.pack file.
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 30 Nov 2017, 23:07]
+guto8797 wrote:
+That is indication that something must've gone wrong with the dll files. Did you check to see if the game launched before you tried this? When you pasted the file, did you replace any? Was the existing steam_api.dll renamed to steam_api_o.dll, with an o not a 0?
+
+
+I think I may have replaced some of the DLC files (I think I already had Blood & Gore), other than that, the game launched fine prior. And the existing .dll files renamed with a o not a 0.
+My mistake replacing the DLC, first time using CreamAPI so that's why I'm probably being an idiot.
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 30 Nov 2017, 23:07]
+
+_________________
+”One does not become enlightened by imagining figures of light but by making the darkness conscious.”
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 30 Nov 2017, 23:43]
+Sorry for delay, process will go on now.
+
+Will share SFV files later too.
+
+-- Edit --
+
+
+v0gisz wrote:
+knabberfee wrote:
+DLC files are only new startpos and divided.pack file, rest of the files are in base game files + new movies for ED in rome2_movies.pack.
+
+So basically, DLC only files will be the half of game.
+
+PS: Update will be found in this folder later today.
+
+ Spoiler
+Code: Select all | Line number On/Off | Expand/Contract
+https://drive.google.com/drive/folders/ ... sp=sharing
+
+
+how do i use "214950.Main.Files.Update.v2.2.0.Build.17561.exe"? i downloaded that and the .bin file and i'm assuming that has the new startpos and divided.pack?
+
+i'm pointing it to my legit game installation folder with all the DLCs unlocked (except empire divided) and it keeps telling me "required data not found..."
+
+how is it not seeing my rome 2 folder installation? my game is already updated to build 17561 and maybe that's the reason?
+
+all i need is the new startpos and divided.pack file.
+
+
+Doesn't work because it's made for my previous beta update. Other than that, it's a xdelta update.
+
+-- Edit --
+
+
+Sin316 wrote:
+so,
+
+added the dlc files (divided.pack) and the campaign files from codex rls, version is up to date (own it on steam) and I added
+
+"694880 = Total War: ROME II - Empire Divided" to creamapi.ini
+
+everything is unlocked, except Empire Divided..
+
+did I miss something?
+
+
+Have you added manifest.txt too?
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 30 Nov 2017, 23:43]
+
+_________________
+Haters gonna hate!
+My updates are always clean files - no cracks included.
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 30 Nov 2017, 23:45]
+@knabberfee Don't think so
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 01 Dec 2017, 00:06]
+manifest.txt includes all files for the game and must be present in data folder.
+
+But beware, manifest.txt is different for each language because of different file names
+
+-- Edit --
+
+FG ask me, and i will upload full non-xdelta language packs later (except english because of CDX release).
+
+-- Edit --
+
+All updates are up now.
+
+Creating now all md5 files, after that will pack and upload all non-xdelta language packs
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 01 Dec 2017, 00:06]
+
+_________________
+Haters gonna hate!
+My updates are always clean files - no cracks included.
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 01 Dec 2017, 00:07]
+Wait what? I never heard of the xmanifest file, I've been playing without touching it just fine.
+
+Perhaps my game's been borked all this time and I didn't know XD
+
+I'm just gonna wait for a standalone pack and startpos files, maybe poke around creamAPI and manifest Txt to see if something's amiss.
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 01 Dec 2017, 00:10]
+What language did you use?
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 01 Dec 2017, 00:10]
+
+_________________
+Haters gonna hate!
+My updates are always clean files - no cracks included.
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 01 Dec 2017, 00:17]
+I don't know if that's for me, but I've been using legit Rome2 with CreamAPI, english selected tho.

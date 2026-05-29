@@ -1,0 +1,214 @@
+=========================================
+STRONA 250 (URL: https://cs.rin.ru/forum/viewtopic.php?f=10&t=61441&hilit=rome+2&start=3735)
+=========================================
+
+[Data: Monday, 25 Dec 2017, 12:53]
+Sorry but my head cant get around what I need to do.
+So I have Rome 2 on steam without any dlcs and I'm wondering how I would go about unlocking the rest.
+All the instructions seem really scattered so I'm hoping someone can cohesively explain it to me.
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 25 Dec 2017, 13:02]
+You only need CreamAPI to unlock the DLC's. The following DLC's are unlockable with CAPI:
+
+ Spoiler
+212301 = Total War: ROME II - Greek States Culture Pack
+258270 = Total War: ROME II - Nomadic Tribes Culture Pack
+258580 = Total War: ROME II - Seleucid Empire Faction Pack
+259800 = Total War: ROME II - Blood & Gore
+261050 = Total War: ROME II - Caesar in Gaul (Total War: ROME II - Caesar in Gaul Campaign Pack)
+261620 = Total War: ROME II - Baktria Faction (Total War: ROME II - Coat Rack)
+267180 = Total War: ROME II - Assembly Kit BETA
+267630 = Total War: ROME II - Beasts of War (Total War: ROME II - Beasts of War Unit Pack)
+273380 = Total War: ROME II - Hannibal at the Gates
+273381 = Total War: ROME II - Pirates & Raiders (Total War: ROME II - Pirates and Raiders Culture Pack)
+297830 = Total War: ROME II - Daughters of Mars (Total War: ROME II - Daughters of Mars Unit Pack)
+297831 = Total War: ROME II - Black Sea Colonies Culture Pack
+311380 = Total War: ROME II - Augustus Campaign Pack
+327280 = Total War: ROME II - Wrath of Sparta DLC (Total War: ROME II - Wrath of Sparta Campaign Pack)
+330340 = Total War: Rome II - Massilia Faction
+694880 = Total War: ROME II - Empire Divided
+
+
+And for the other DLC's, which are the following:
+
+ Spoiler
+Total War: ROME II - Nomadic Tribes Culture Pack (258270) Depot
+Total War: ROME II - Paperclip (261050) Depot
+Total War: ROME II - Blood & Gore (259800) Depot
+Total War: ROME II - Spade DLC (327280) Depot
+
+
+You need the DLC files from a legit owner (or from a cracked-release if they're included) to play with them + CAPI. You can get CAPI if you search for it. Instructions provided how you set it up.
+
+Good Luck.
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 25 Dec 2017, 13:02]
+
+_________________
+The FAQ are you waiting for?
+
+A wild PASSWORD appeared for protected archives & files on RIN! Member used cs.rin.ru ...it's super effective!
+
+Having problems downloading from Google Drive? Click here.
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 25 Dec 2017, 13:05]
+martlo wrote:
+Sorry but my head cant get around what I need to do.
+So I have Rome 2 on steam without any dlcs (except empire divided because its free) and I'm wondering how I would go about unlocking the rest.
+All the instructions seem really scattered so I'm hoping someone can cohesively explain it to me.
+
+
+You don't need the DLC, it is already downloaded with updates. Just grab this (not my post)
+
+download/file.php?id=41270
+
+I too have the base game and this unlocked everything.
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 25 Dec 2017, 17:26]
+Hi, I am wondering if anyone got the assembly kit to work. Whenever I try to use BOB to compile a startpos file, it would start Rome 2 with the black splash screen and then it would crash with the text "LumaCEG crashed". I am not sure whether I am not using BOB correctly or is this a crack version of the game problem even though the game itself works fine. Also, I am still running patch 17 of Rome 2, so the assembly kit should be compatible. Thank you.
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 26 Dec 2017, 16:39]
+Meomyo wrote:
+martlo wrote:
+Sorry but my head cant get around what I need to do.
+So I have Rome 2 on steam without any dlcs (except empire divided because its free) and I'm wondering how I would go about unlocking the rest.
+All the instructions seem really scattered so I'm hoping someone can cohesively explain it to me.
+
+
+You don't need the DLC, it is already downloaded with updates. Just grab this (not my post)
+
+download/file.php?id=41270
+
+I too have the base game and this unlocked everything.
+
+the things seem unlocked but it keeps crashin bruv
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 28 Dec 2017, 09:48]
+Working pedia for latest CDX release?
+Is there some solution for it?
+Edit: I have steam running in the background.tried REVOLT crack with no success for now.
+Thx in adwance 
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 30 Dec 2017, 02:56]
+can somebody load Update.v2.2.0.15666-v2.2.0.16019 ? patch 17 i guess.
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 30 Dec 2017, 21:29]
+Here's a fixed Rome2.dll, that will allow you to access pedia ingame. Just overwrite the Rome2.dll included in PLAZA crack.
+http://www110.zippyshare.com/v/ZHWVhcgk/file.html
+
+This is machine4578 work, all credits to him!
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 30 Dec 2017, 21:29]
+
+_________________
+I've received multiple messages in which people expressed their desire to support my work in RIN; I appreciate your care, but I have all support I need; consider instead to support the developers of the games you actually enjoy. Rui
+
+
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 30 Dec 2017, 22:22]
+Rui wrote:
+Here's a fixed Rome2.dll, that will allow you to access pedia ingame. Just overwrite the Rome2.dll included in PLAZA crack.
+http://www110.zippyshare.com/v/ZHWVhcgk/file.html
+
+This is machine4578 work, all credits to him!
+
+Thank you! But it opens pedia in my default browser, not in game overlay,  is that normal or something is messed up with my installation?
+Anyway, I really appreciate your help.
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 30 Dec 2017, 22:47]
+Does pedia work in latest codex release?
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 30 Dec 2017, 22:47]
+
+_________________
+Short List of Highest Paying Apps & Reward Sites
+(Paypal, Steam Wallet, & Amazon Giftcards)
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 30 Dec 2017, 23:09]
+@Navuhodonosor
+That's normal.
+
+@ronferri
+It works on PLAZA release.
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 30 Dec 2017, 23:09]
+
+_________________
+I've received multiple messages in which people expressed their desire to support my work in RIN; I appreciate your care, but I have all support I need; consider instead to support the developers of the games you actually enjoy. Rui
+
+
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 30 Dec 2017, 23:10]
+Isn't pedia online-only?
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 30 Dec 2017, 23:12]
+@fatalerror1
+The button to access pedia is disabled with latest PLAZA crack probably for that reason.
+
+machine4578 fixed the dll so that people can have the button enabled again and access the pedia via browser if they wish.
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 30 Dec 2017, 23:12]
+
+_________________
+I've received multiple messages in which people expressed their desire to support my work in RIN; I appreciate your care, but I have all support I need; consider instead to support the developers of the games you actually enjoy. Rui
+
+
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 31 Dec 2017, 01:51]
+Rui i installed codex release including latest dlc and the pedia is working fine when i right click on units. What is the issue?
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 31 Dec 2017, 01:51]
+
+_________________
+Short List of Highest Paying Apps & Reward Sites
+(Paypal, Steam Wallet, & Amazon Giftcards)
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 31 Dec 2017, 01:56]
+Yeah, it should work on both PLAZA multi9 and CODEX release. Sorry about the confusion. There's no issue.
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 31 Dec 2017, 01:56]
+
+_________________
+I've received multiple messages in which people expressed their desire to support my work in RIN; I appreciate your care, but I have all support I need; consider instead to support the developers of the games you actually enjoy. Rui

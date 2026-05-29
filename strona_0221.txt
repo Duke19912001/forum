@@ -1,0 +1,203 @@
+=========================================
+STRONA 221 (URL: https://cs.rin.ru/forum/viewtopic.php?f=10&t=61441&hilit=rome+2&start=3300)
+=========================================
+
+[Data: Monday, 05 Dec 2016, 02:05]
+You don't need to run the program to update it. You can just install patch after patch without running the game. All you need is a crack for the last patch you install to be able to play it.
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 05 Dec 2016, 03:43]
+orkaizer wrote:
+You don't need to run the program to update it. You can just install patch after patch without running the game. All you need is a crack for the last patch you install to be able to play it.
+
+
+I extract the patch into the game file but
+when the patch started, it start to search but it say fail to search
+That is why I cannot update my TWR2
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 05 Dec 2016, 10:39]
+^My suggestion to you is, grab Total.War.ROME.II.Emperor.Edition.MULTi9-PROPHET and install it. Then update with the last patch. Tip: The OP is not updated.
+
+You can find the last patch for PROPHET release somewhere in the last 10 pages if i remember correctly.
+
+Oh, and don't forget to update the language aswell. You can find the last up2date language packs here viewtopic.php?p=1123055#p1123055
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 05 Dec 2016, 10:39]
+
+_________________
+Haters gonna hate!
+My updates are always clean files - no cracks included.
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 07 Dec 2016, 20:33]
+machine4578 wrote:
+then apply the 2 updates for current version
+
+machine4578 wrote:
+Total.War.ROME.II.Update.v2.2.0.15666-v2.2.0.16155
+https://openload.co/f/fCi9vlajSgw/Total ... .part1.rar
+https://openload.co/f/K1yJN-iLv3k/Total ... .part2.rar
+
+
+Links are down? 
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 07 Dec 2016, 21:40]
+^If you have PROPHET version, you can also use this patch
+
+https://openload.co/f/34YirjLECug/21495 ... .16155.rar
+
+Just make sure, after patching, to delete all language files and replace with this viewtopic.php?p=1123055#p1123055
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 07 Dec 2016, 21:40]
+
+_________________
+Haters gonna hate!
+My updates are always clean files - no cracks included.
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 08 Dec 2016, 11:13]
+Hi everyone, I bought this game back in 2013, off course I was very dissapointed by it so I didn't continue buying the DLC's. Can I download the dlc's only here and just implement them into my original game? Also the same for atilla, I believe you need Rome II for that game to run, but I can just download it here and use my legal copy to install it over?
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 08 Dec 2016, 11:59]
+Yes you can, use search, answered million times already. Hint; cream_api would be the easiest way, or hexedit your packageinfo.vdf.
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 16 Dec 2016, 04:18]
+Hey, good night. Could someone reupload the "Total.War.ROME.II.Update.v2.2.0.15666-v2.2.0.16019", please? I tried knabberfee's from this page, but had no success, game started without dlcs and crashing when starting custom battles, campaigns etc. Everything normal with the 15666 build, which is the prophet multi9 version from install, at least from skidrow site. Thank you!
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 16 Dec 2016, 16:03]
+lululu wrote:
+Hey, good night. Could someone reupload the "Total.War.ROME.II.Update.v2.2.0.15666-v2.2.0.16019", please? I tried knabberfee's from this page, but had no success, game started without dlcs and crashing when starting custom battles, campaigns etc. Everything normal with the 15666 build, which is the prophet multi9 version from install, at least from skidrow site. Thank you!
+
+
+Which crack are you using? Prophet's is outdated. You may also want to check your files with this SFV file: download/file.php?id=27419 Here's the crack only for v2.2.0.16155 that machine included in his patch: http://www11.zippyshare.com/v/JNMAtSIk/file.html If it still doesn't work, try running as admin.
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 16 Dec 2016, 16:03]
+
+_________________
+Always wanted to get rid of the files that were not listed in the sfv/md5 hash file? Check the QuickSFV plugin I created for this: viewtopic.php?f=10&t=108605 or this: viewtopic.php?p=1273745#p1273745
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 16 Dec 2016, 17:58]
+machine4578 wrote:
+i will make an xdelta patch tonight. thanks testni for the DLC files 
+
+-edit-
+
+xdelta update done to update from v2.2.0.15666-v2.2.0.16019.
+unfortunately the devs added 2 new files which makes the patch a little over 1GB. uploading now and will post soon.
+
+-edit-
+Total.War.ROME.II.Update.v2.2.0.16019
+Sixe: 1.15GB
+
+Code: Select all | Line number On/Off | Expand/Contract
+http://hugefiles.net/cvy01jdq50rv
+
+NOTE:
+*you MUST have update 2.2.0.15666 installed!
+*thanks to testni for the updated DLC files!!!
+*thanks to Steam006 for this LumaCEG!
+
+
+can u add new link ? this link is dead
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 16 Dec 2016, 18:03]
+Guys, just wanted to say a special thanks to Anomaly, machine4578, knabberfee, testni and Christsnatcher for the lolz "And a third one in the bottom left corner for one's ultimate searching pleasure" 
+I somehow missed PPT's release (still have Total.War.ROME.II.Emperor.Edition.v2.2.0.15539.Incl.DLC.Cracked-3DM working apparently perfect with working cracked pedia), so thanks for the heads up. This thread is a total infodump of info!! Can't thank you all enough. It's truly an amazing resource. Didn't even know about the Steam Workshop d/l tool either before reading through.
+
+BTW, some dude a few posts back said the Rome Total War music mod don't work with the latest patch 17 version. Well I'm guessing it actually does (possibly with the Steam Workshop download + hex edit trick) or how else are guys like this YouTuber getting it to work recently, e.g.: https://www.youtube.com/watch?v=z2FLUsvrKOM
+
+Filesize comparison of the rtw music mod:
+Steam: mods_music_rtw.pack = 99.5 MB
+TWC: music_rtw.pack = 98.2 MB
+The Steam d/l had the extra bytes on the header so I hex edited it out ready to go. When (IF!? lol) the PPT scene release finishes d/l I'll try it myself and report back if there's any issues with the mod since I definitely won't be playing Rome II *without* it 
+
+One last thing, does anyone know what was actually "updated" and/or "fixed" with the last version? I mean, my old 3DM E.E. seems to not have any errors and has working cracked pedia. Obv, I know we need the latest for updated mods and all that, but just curious if it was anything else but the usual CA bullshit file-juggle-around to "deter piracy"?
+
+Cheers!
+
+PS: I was one of the idiots who *bought* Rome II on day one but always prefer scene versions. For one thing, nobody's logging when, where and for how long we're playing.
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 16 Dec 2016, 18:03]
+
+_________________
+Tacview Sentinel-2 Textures Downloader v2.0 -cH0c0RAnGE
+-=FACE of the COiN=-
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 16 Dec 2016, 18:10]
+@chocorange Changelogs: http://wiki.totalwar.com/w/Total_War_RO ... atch_Notes
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 16 Dec 2016, 18:10]
+
+_________________
+Always wanted to get rid of the files that were not listed in the sfv/md5 hash file? Check the QuickSFV plugin I created for this: viewtopic.php?f=10&t=108605 or this: viewtopic.php?p=1273745#p1273745
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 16 Dec 2016, 18:35]
+Anomaly wrote:
+@chocorange Changelogs: http://wiki.totalwar.com/w/Total_War_RO ... atch_Notes
+
+thanks dude, I'm an idiot (thanks again for that asscreed 3 save) 
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 16 Dec 2016, 18:35]
+
+_________________
+Tacview Sentinel-2 Textures Downloader v2.0 -cH0c0RAnGE
+-=FACE of the COiN=-
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 16 Dec 2016, 18:40]
+Anomaly wrote:
+lululu wrote:
+Hey, good night. Could someone reupload the "Total.War.ROME.II.Update.v2.2.0.15666-v2.2.0.16019", please? I tried knabberfee's from this page, but had no success, game started without dlcs and crashing when starting custom battles, campaigns etc. Everything normal with the 15666 build, which is the prophet multi9 version from install, at least from skidrow site. Thank you!
+
+
+Which crack are you using? Prophet's is outdated. You may also want to check your files with this SFV file: download/file.php?id=27419 Here's the crack only for v2.2.0.16155 that machine included in his patch: http://www11.zippyshare.com/v/JNMAtSIk/file.html If it still doesn't work, try running as admin.
+
+
+I used knabberfee's, there's a crack alongside his update. Is it usable with the 15666 build or only 16019? I'll try yours
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 16 Dec 2016, 18:59]
+So yeah, just putting it out there that there's a Prophet scene release that you all need (hoping for a few more seeders via 3DM's torrent) lol 
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 16 Dec 2016, 18:59]
+
+_________________
+Tacview Sentinel-2 Textures Downloader v2.0 -cH0c0RAnGE
+-=FACE of the COiN=-

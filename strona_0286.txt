@@ -1,0 +1,244 @@
+=========================================
+STRONA 286 (URL: https://cs.rin.ru/forum/viewtopic.php?f=10&t=61441&hilit=rome+2&start=4275)
+=========================================
+
+[Data: Thursday, 13 Dec 2018, 21:38]
+Venom wrote:
+Volker159 wrote:
+Hey, do I need a steamworks patch to be able to play LAN? With guys that are connected to a same wifi.
+
+If you're all using the pirated version, yes.
+
+
+You shouldn't have to, but my experience with previous versions has been that native LAN (we used VLAN) eventually causes desync errors and a Steamworks fix keeps working fine for the most part ^^
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 13 Dec 2018, 21:38]
+
+_________________
+Always wanted to get rid of the files that were not listed in the sfv/md5 hash file? Check the QuickSFV plugin I created for this: viewtopic.php?f=10&t=108605 or this: viewtopic.php?p=1273745#p1273745
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 14 Dec 2018, 12:03]
+is it possible italian language?thanks
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 15 Dec 2018, 14:29]
+i dont know is this same site reinzhart mentioned above,anyway you can download rome 2 mods and also mods for other games too.the site is both english and russian.
+
+
+https://gamemonitoring.net/en/workshop?game=214950
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 16 Dec 2018, 07:16]
+Venom wrote:
+CreamAPI has nothing to do with "cracking" DLCs. CreamAPI is only for legit user. What I linked is the scene release for the game with all DLCs, so for pirates.
+
+If you want to unlock and play the DLCs with your legti game, do this:
+
+1) Download the DLC files we posted here: viewtopic.php?p=1783973#p1783973 (+knabberfee's).
+2) Extract them in your game folder / appopriate folders.
+3) Download my attachment and save it somewhere. Don't extract it yet.
+4) Rename your original steam_api.dll to steam_api_o.dll and extract the CreamAPI archive into your game folder where the other .dll is.
+5) Extract the CreamAPI archive in your game folder (where your renamed .dll is).
+
+Then start the game, and you should've the DLCs.
+
+
+hi venom cheers for the break down on how to do this, but i cannot extract the data files from googledrive (asks for password) then is corrupted?
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 16 Dec 2018, 19:11]
+The password is like always, cs.rin.ru
+
+And make sure you download every part, and nothing get's interrupted during the download. I've checked the files, and they're good.
+
+Oh, and make sure you're using the latest version of Winrar / 7-zip to extract it.
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 16 Dec 2018, 19:11]
+
+_________________
+The FAQ are you waiting for?
+
+A wild PASSWORD appeared for protected archives & files on RIN! Member used cs.rin.ru ...it's super effective!
+
+Having problems downloading from Google Drive? Click here.
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 17 Dec 2018, 00:24]
+Hello, me and a friend are using the repakced version from FitGirl and I wanted to ask if theres any way to make LAN battles to play? Ive seen some posts with people saying about a LAN fix but no files whatsoever.
+
+Thanks in advance.
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 17 Dec 2018, 04:30]
+CCorazon wrote:
+Hello, me and a friend are using the repakced version from FitGirl and I wanted to ask if theres any way to make LAN battles to play? Ive seen some posts with people saying about a LAN fix but no files whatsoever.
+
+Thanks in advance.
+
+Like Anomaly mentioned a few posts above, you should go for a steamworks.fix instead. I don't know if the ones in the OP are still working, since they've been crosses through. But just give it a try.
+
+Or that: viewtopic.php?p=1756377#p1756377
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 17 Dec 2018, 04:30]
+
+_________________
+The FAQ are you waiting for?
+
+A wild PASSWORD appeared for protected archives & files on RIN! Member used cs.rin.ru ...it's super effective!
+
+Having problems downloading from Google Drive? Click here.
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 17 Dec 2018, 09:44]
+Venom wrote:
+CCorazon wrote:
+Hello, me and a friend are using the repakced version from FitGirl and I wanted to ask if theres any way to make LAN battles to play? Ive seen some posts with people saying about a LAN fix but no files whatsoever.
+
+Thanks in advance.
+
+Like Anomaly mentioned a few posts above, you should go for a steamworks.fix instead. I don't know if the ones in the OP are still working, since they've been crosses through. But just give it a try.
+
+Or that: viewtopic.php?p=1756377#p1756377
+
+
+
+
+thanks for the quick reply, there was indeed a steamworks fix in FitGirls repacks, but reading some pages over here I got in the conclusion that steamworks is for people that already have the base game, and cracked the DLC's.
+
+Ill give it a go.
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 17 Dec 2018, 16:25]
+CCorazon wrote:
+Venom wrote:
+CCorazon wrote:
+Hello, me and a friend are using the repakced version from FitGirl and I wanted to ask if theres any way to make LAN battles to play? Ive seen some posts with people saying about a LAN fix but no files whatsoever.
+
+Thanks in advance.
+
+Like Anomaly mentioned a few posts above, you should go for a steamworks.fix instead. I don't know if the ones in the OP are still working, since they've been crosses through. But just give it a try.
+
+Or that: viewtopic.php?p=1756377#p1756377
+
+
+
+
+thanks for the quick reply, there was indeed a steamworks fix in FitGirls repacks, but reading some pages over here I got in the conclusion that steamworks is for people that already have the base game, and cracked the DLC's.
+
+Ill give it a go.
+
+
+I'll post a new Steamworks fix for the latest version later today. You don't need the base game to be able to use the Steamworks fix ^^
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 17 Dec 2018, 16:25]
+
+_________________
+Always wanted to get rid of the files that were not listed in the sfv/md5 hash file? Check the QuickSFV plugin I created for this: viewtopic.php?f=10&t=108605 or this: viewtopic.php?p=1273745#p1273745
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 17 Dec 2018, 17:32]
+Can someone upload these mods? Thanks
+
+https://steamcommunity.com/sharedfiles/ ... 1512744939
+
+https://steamcommunity.com/sharedfiles/ ... 1530039267
+
+https://steamcommunity.com/sharedfiles/ ... 558605648&
+
+https://steamcommunity.com/sharedfiles/ ... 545810082&
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 17 Dec 2018, 21:59]
+Hello!
+Is there anyway to make the divide et empere work?It launches steam everytime i open it whith ModManager 
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 17 Dec 2018, 22:32]
+MasterOfPuppetss wrote:
+Hello!
+Is there anyway to make the divide et empere work?It launches steam everytime i open it whith ModManager 
+
+
+viewtopic.php?f=10&t=61441&p=1253873#p1253873
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 17 Dec 2018, 22:32]
+
+_________________
+Always wanted to get rid of the files that were not listed in the sfv/md5 hash file? Check the QuickSFV plugin I created for this: viewtopic.php?f=10&t=108605 or this: viewtopic.php?p=1273745#p1273745
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 17 Dec 2018, 22:43]
+ViktorGiJoe wrote:
+Can someone upload these mods? Thanks
+
+https://steamcommunity.com/sharedfiles/ ... 1512744939
+
+https://steamcommunity.com/sharedfiles/ ... 1530039267
+
+https://steamcommunity.com/sharedfiles/ ... 558605648&
+
+https://steamcommunity.com/sharedfiles/ ... 545810082&
+
+https://letsupload.co/22Kc/MODS.7z
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 17 Dec 2018, 22:43]
+
+_________________
+The FAQ are you waiting for?
+
+A wild PASSWORD appeared for protected archives & files on RIN! Member used cs.rin.ru ...it's super effective!
+
+Having problems downloading from Google Drive? Click here.
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 17 Dec 2018, 23:25]
+Could anyone tell me which version of the DeI mod should I use for FitGirls repack?
+
+
+* the link anomaly suggested isnt working.
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 18 Dec 2018, 02:56]
+Venom wrote:
+ViktorGiJoe wrote:
+Can someone upload these mods? Thanks
+
+https://steamcommunity.com/sharedfiles/ ... 1512744939
+
+https://steamcommunity.com/sharedfiles/ ... 1530039267
+
+https://steamcommunity.com/sharedfiles/ ... 558605648&
+
+https://steamcommunity.com/sharedfiles/ ... 545810082&
+
+https://letsupload.co/22Kc/MODS.7z
+
+
+Thanks for uploading them but what is the password?

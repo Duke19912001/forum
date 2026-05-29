@@ -1,0 +1,269 @@
+=========================================
+STRONA 204 (URL: https://cs.rin.ru/forum/viewtopic.php?f=10&t=61441&hilit=rome+2&start=3045)
+=========================================
+
+[Data: Sunday, 01 Nov 2015, 21:01]
+Hertzofottoman wrote:
+and what's mean of this ''.pack.bak'' ?????
+
+''.pack.bak'' is it a backup of the org file?
+also you say 8 lines, you mean 8 bytes? and after you hex edit the mod, it should match crc32 from the one you download from twcenter.
+
+also what hex editor are you using? i recommend HxD or notepad++
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 01 Nov 2015, 21:03]
+Hertzofottoman wrote:
+so Why I'm getting crashes bro ? What's difference from with me and you ? we are using same game,version and mods but fucking crash happens..
+
+
+Which .exe are you using to launch game?
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 01 Nov 2015, 21:03]
+
+_________________
+
+SCS - Help Revive / Every upload of mine in SCS contains files only for Windows, don't ask for Linux/MAC.
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 02 Nov 2015, 06:38]
+machine4578 wrote:
+Hertzofottoman wrote:
+and what's mean of this ''.pack.bak'' ?????
+
+''.pack.bak'' is it a backup of the org file?
+also you say 8 lines, you mean 8 bytes? and after you hex edit the mod, it should match crc32 from the one you download from twcenter.
+
+also what hex editor are you using? i recommend HxD or notepad++
+yes its 8 bytes and I'm using HxD and How to look for match with crc32 ?
+
+-- Edit --
+
+
+IE33 wrote:
+Hertzofottoman wrote:
+so Why I'm getting crashes bro ? What's difference from with me and you ? we are using same game,version and mods but fucking crash happens..
+
+
+Which .exe are you using to launch game?
+Rome2.exe
+
+-- Edit --
+
+Bump Bump !
+
+Machine Where can I found this crc32 and 2.2.0.16155.sfv ????
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 02 Nov 2015, 06:48]
+Hertzofottoman wrote:
+Machine Where can I found this crc32 and 2.2.0.16155.sfv ????
+
+i posted the sfv to 2.2.0.1655 already, but here it is again. to check crc32\md5\etc. install a propgram such has hashtab.
+
+btw, have you tried other mods downloaded from http://steamworkshopdownloader.com/? and do any work for you?
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 02 Nov 2015, 07:17]
+machine4578 wrote:
+Hertzofottoman wrote:
+Machine Where can I found this crc32 and 2.2.0.16155.sfv ????
+
+i posted the sfv to 2.2.0.1655 already, but here it is again. to check crc32\md5\etc. install a propgram such has hashtab.
+
+btw, have you tried other mods downloaded from http://steamworkshopdownloader.com/? and do any work for you?
+only better blood textures worked for me now I've just install game and we will see  and before than I'll check my game
+
+-- Edit --
+
+When my check is done I'll give you screenshot before mods and after mods
+
+Machine which image upload site should I use for give you correct photos because imgur is dont working with this site
+
+-- Edit --
+
+Dont need to post checksum !!!! IT WORKS LIKE A CHARM BRO !!!! IDK HOW TO FUCK THIS GAME WORK BUT ITS WORKS NOW ! THANK YOU FOR YOUR EFFORD AND HELP FOR ME
+
+I think I reset computer and my pc install updates and it worked lol
+
+thank you again machine thank you ... u made my day  
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 02 Nov 2015, 07:23]
+@Hertzofottoman
+GREAT 
+
+have fun!
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 03 Nov 2015, 13:46]
+My game crashes when i select any other campaign than grand campaign.
+
+1.Installed prophet release
+2.Updated with Total.War.ROME.II.Update.v2.2.0.15666-v2.2.0.16019
+3.Updated with Total.War.ROME.II.Update.v2.2.0.16019-v2.2.0.16155
+3.Applied 2.2.0.16155 pedia crack
+4.I start Steam(i dont log in) i start the game it shows correct version but crashes when i select any other campaign.
+
+I don't see sparta or athens as playable factions on the grand campaign also.
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 03 Nov 2015, 13:46]
+
+_________________
+“All we ever see of stars are their old photographs.”
+
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 03 Nov 2015, 13:50]
+Armageddonn wrote:
+My game crashes when i select any other campaign than grand campaign.
+
+1.Installed prophet release
+2.Updated with Total.War.ROME.II.Update.v2.2.0.15666-v2.2.0.16019
+3.Updated with Total.War.ROME.II.Update.v2.2.0.16019-v2.2.0.16155
+3.Applied 2.2.0.16155 pedia crack
+4.I start Steam(i dont log in) i start the game it shows correct version but crashes when i select any other campaign.
+
+I don't see sparta or athens as playable factions on the grand campaign also.
+
+you need to log into steam and add as a non steam game to play!
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 03 Nov 2015, 14:08]
+machine4578 wrote:
+Armageddonn wrote:
+My game crashes when i select any other campaign than grand campaign.
+
+1.Installed prophet release
+2.Updated with Total.War.ROME.II.Update.v2.2.0.15666-v2.2.0.16019
+3.Updated with Total.War.ROME.II.Update.v2.2.0.16019-v2.2.0.16155
+3.Applied 2.2.0.16155 pedia crack
+4.I start Steam(i dont log in) i start the game it shows correct version but crashes when i select any other campaign.
+
+I don't see sparta or athens as playable factions on the grand campaign also.
+
+you need to log into steam and add as a non steam game to play!
+
+
+Ahhh, ok ty
+
+-- Edit --
+
+Ok it worked thanks machine, btw now if i wana use mods i will have to use the mod manager meaning i will have to start the game from the manager not from steam, how can i make that work?
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 03 Nov 2015, 14:08]
+
+_________________
+“All we ever see of stars are their old photographs.”
+
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 03 Nov 2015, 16:51]
+Armageddonn wrote:
+Ahhh, ok ty
+
+-- Edit --
+
+Ok it worked thanks machine, btw now if i wana use mods i will have to use the mod manager meaning i will have to start the game from the manager not from steam, how can i make that work?
+
+use the userscript.txt to load you mods. this way you still can us Rome2.exe to load the game. OR try and add the mod manager .exe as a non steam game.
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 03 Nov 2015, 23:53]
+I've got a legitimate copy of Rome II, and all I need is the DLC.
+
+With Shogun II, all I had to do was put in a crack that unlocked them, and all the DLC were automatically there. When I try that with this one, it either crashes, or if I manage to make it to the main menu, I can access to the DLC campaigns, but when I get to the faction selection menu, they are simply empty.
+
+I presume there are some sort of files missing, but I do not know what.
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 04 Nov 2015, 12:29]
+Top Hat Zebra wrote:
+I've got a legitimate copy of Rome II, and all I need is the DLC.
+
+With Shogun II, all I had to do was put in a crack that unlocked them, and all the DLC were automatically there. When I try that with this one, it either crashes, or if I manage to make it to the main menu, I can access to the DLC campaigns, but when I get to the faction selection menu, they are simply empty.
+
+I presume there are some sort of files missing, but I do not know what.
+
+
+That's correct, the dlc campaigns require some files so they won't just work with the AppID patcher.
+
+Why don't you run the latest .sfv file shared by Machine and see what DLC files you're missing?
+download/file.php?id=27419
+
+Edit: Use these: https://mega.nz/#F!J0ZkTaaZ!kbFc5DdU4l0pk5A10mBD8w
+Thanks to testni.
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 04 Nov 2015, 12:29]
+
+_________________
+Always wanted to get rid of the files that were not listed in the sfv/md5 hash file? Check the QuickSFV plugin I created for this: viewtopic.php?f=10&t=108605 or this: viewtopic.php?p=1273745#p1273745
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 08 Nov 2015, 17:30]
+Thanks for the update guys 
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 10 Nov 2015, 15:06]
+hello guys first of all i read all pages since yesterday i have 2.2.0 16155,736913 build. i was tryin to use some mods like Dei or Radious . I figured out mod manager doesnt work anymore . i try everything when i read on comment maybe i miss it something cause of my low english so sorry if i miss. when i try to open rome2 with my dowloaded mods game stuck on loading screen at the first forever. i try it to by mod manager and userscript which i create a text file user.script.txt
+and just wrote what i had to write for mod then i start game by rome2.exe and its crashed like mod manager . please help i just wanna play with mods ... thanks anyway.
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 10 Nov 2015, 20:02]
+I created a batch file quite a while ago. Maybe some will enjoy using it. It automatically creates a backup of your auto save. Just ignore if you don't need it.
+
+This just means you don't have to save manually. You'll have a save game file of each turn unless you choose another setting and set a certain interval. (even for Legendary mode where you can't save manually).
+
+
+ Spoiler
+The idea is that every new turn the auto save game file is backed up in a folder called after the number of the turn. I wanted to cheat a little on Legendary mode ^^
+
+Unfortunately there's quite a user manual for it if you haven't used it before.
+
+First off 4 conditions:
+- The batch file needs to be placed inside "%Appdata%\The Creative Assembly\Rome2\save_games" or whatever folder is used as location to save your Rome2 save games.
+- The same goes for GetTurnTool.exe (credits to RoninX2807) - it needs to be along side the batch file, in the same folder.
+- What you also need in this folder is a shortcut to your Rome2 executable.
+- Make sure the shortcut has the same name as the executable (shortcut shouldn't have the ".exe", though.) So, EXE:"Rome2.exe" and Shortcut:"Rome2".
+
+Regarding the settings inside the batch file:
+
+Set FolderName=CustomSaveFolder
+(This is to be the name of the folder your saves will be saved in.)
+Set Save=
+(Best to leave empty, unless you know the exact name of your save game file.)
+Set RemoveSaveInterval=5
+(This is a funny feature, after you close Rome2 this feature can delete certain saves. Say you set this value to 5 and you start a new game. After you get to turn 54 you close Rome2, you'll only have the save game files for Turn 1,5,10,15,20,25,30,35,40,45,50 and 54) Set this value to "1" and no saves will be removed.)
+Set GameEXE=Rome2
+(Best to leave this as it is.)
+
+I've only tested this batch for Rome2. Needless to say: you should start the game with the batch file. The batch should close shortly after you closed the game.
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 10 Nov 2015, 20:02]
+
+_________________
+Always wanted to get rid of the files that were not listed in the sfv/md5 hash file? Check the QuickSFV plugin I created for this: viewtopic.php?f=10&t=108605 or this: viewtopic.php?p=1273745#p1273745

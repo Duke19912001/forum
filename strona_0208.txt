@@ -1,0 +1,186 @@
+=========================================
+STRONA 208 (URL: https://cs.rin.ru/forum/viewtopic.php?f=10&t=61441&hilit=rome+2&start=3105)
+=========================================
+
+[Data: Monday, 14 Dec 2015, 15:50]
+You don't really need to hex edit anything to play with mods. Just edit your user.script.txt file in appdata/roaming/the creative assembly/rome2/scripts. Mine looks like this:
+
+mod "_divide_et_impera_release_1.pack";
+mod "_divide_et_impera_release_2.pack";
+mod "@@@@@@11dfixpack.pack"
+
+Everything inside the quotation marks are the names of the modfiles in the data folder.
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 14 Dec 2015, 16:37]
+heyomif wrote:
+You don't really need to hex edit anything to play with mods. Just edit your user.script.txt file in appdata/roaming/the creative assembly/rome2/scripts. Mine looks like this:
+
+mod "_divide_et_impera_release_1.pack";
+mod "_divide_et_impera_release_2.pack";
+mod "@@@@@@11dfixpack.pack"
+
+Everything inside the quotation marks are the names of the modfiles in the data folder.
+
+you ONLY need to hex edit the mod files IF the dont start with bytes 50 46 48 34(PFH4). and most mods you download from http://steamworkshopdownloader.com/ need hex editing.
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 15 Dec 2015, 01:54]
+It was a long time ago since I played Rome 2. Yesterday, I've downloaded this version: Total.War.ROME.II.Emperor.Edition.MULTi9-PROPHET. I've always played with mods, I had several mods installed, before I uninstalled my game, and they all worked just fine. Now, I can't play with mods, I've found out that the guy who created the Mod manager now works for CA, so the Mod Manager won't be updated. I've already tried everything, but it still doesn't work. The game just freezes on the loading screen (with the logos and copyright from intel, CA, etc).
+
+Can someone help through this?  
+
+
+PS: Sorry for my english, it's a bit rusty. 
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 16 Dec 2015, 11:48]
+I'm still getting the Luma CEG crash. Any clues?
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 16 Dec 2015, 13:38]
+@Lexis:
+Hex editing:
+
+
+machine4578 wrote:
+PFH4 must be the first bytes when opening the mod with the hex editor. delete the first 8 bytes then save
+see the pics. i hope it helps.
+
+ Spoiler
+
+
+
+
+For turning off windows defender, make sure some file from the luma ceg crack is not already deleted/quarantined.
+
+@EzioPT:
+
+Try deleting your Rome 2 user settings folder on C: (C:\Users\(Your Account Name Here)\Appdata\Roaming\The Creative Assembly\Rome2), but make sure you backup your savegames first ..
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 16 Dec 2015, 13:47]
+@testni, there's a system variable for 'Roaming' 
+Code: Select all | Line number On/Off | Expand/Contract
+%Appdata%\The Creative Assembly\Rome2
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 16 Dec 2015, 13:47]
+
+_________________
+Always wanted to get rid of the files that were not listed in the sfv/md5 hash file? Check the QuickSFV plugin I created for this: viewtopic.php?f=10&t=108605 or this: viewtopic.php?p=1273745#p1273745
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 17 Dec 2015, 00:16]
+testni wrote:
+@Lexis:
+Hex editing:
+
+
+machine4578 wrote:
+PFH4 must be the first bytes when opening the mod with the hex editor. delete the first 8 bytes then save
+see the pics. i hope it helps.
+
+ Spoiler
+
+
+
+
+For turning off windows defender, make sure some file from the luma ceg crack is not already deleted/quarantined.
+
+@EzioPT:
+
+Try deleting your Rome 2 user settings folder on C: (C:\Users\(Your Account Name Here)\Appdata\Roaming\The Creative Assembly\Rome2), but make sure you backup your savegames first ..
+
+
+I've already tried that buddy, but doesn´t work 
+
+
+
+@EDIT:
+Found out that my game wasn't really fully updated, it lacks 2 updates. The first one reaches the 100% download, but the download is not really done. I thought that the download page was like mega, but I don't get the file. 
+Here's the print:
+
+
+ Spoiler
+
+
+
+Once it gets there, the file is not downloaded. What do I have to do?
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 08 Jan 2016, 09:48]
+Could someone add these mods here please?
+
+http://steamcommunity.com/sharedfiles/f ... =451516300
+http://steamcommunity.com/sharedfiles/f ... =349889577
+http://steamcommunity.com/sharedfiles/f ... =374241223
+http://steamcommunity.com/sharedfiles/f ... =413779033
+http://steamcommunity.com/sharedfiles/f ... =475972262
+
+Cdp441
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 08 Jan 2016, 12:36]
+@cdp441:
+
+Here:
+R2EE.mods.rar
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 08 Jan 2016, 12:37]
+lol @testni my upload was finished then i saw your post 
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 08 Jan 2016, 12:37]
+
+_________________
+Haters gonna hate!
+My updates are always clean files - no cracks included.
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 08 Jan 2016, 13:35]
+Thanks guys  .
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 12 Jan 2016, 11:19]
+how do I make the game work for windows 10
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 13 Jan 2016, 06:32]
+pechad wrote:
+Bot27 wrote:
+how do I make the game work for windows 10
+
+
+That's simple, Uninstall windows 10 and install windows 7, problem solved.
+
+
+I`m interested in this as well,so at the moment if we have w10 installed there is no way for the game to work?(or is the game working on w10 and it just happens that "pechad" has problems running it,i`m asking because i don`t want to waste bandwidth dwnl something that won`t work)
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 13 Jan 2016, 07:56]
+Uhm...the game just works fine on Win10...so wtf!?
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 13 Jan 2016, 08:41]
+ShadowDuke wrote:
+Uhm...the game just works fine on Win10...so wtf!?
+
+Nvm then,just got alarmed because of the above guy with troubles running it,thank u for confirmation that the game works,as i said i have limited bandwidth and i would have hate it if i downloaded the game for nothing.

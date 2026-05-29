@@ -1,0 +1,306 @@
+=========================================
+STRONA 289 (URL: https://cs.rin.ru/forum/viewtopic.php?f=10&t=61441&hilit=rome+2&start=4320)
+=========================================
+
+[Data: Friday, 04 Jan 2019, 01:52]
+ryuyru wrote:
+Hello im trying to follow the installation order on first page
+Scene:
+Total.War.Rome.II.Rise.of.the.Republic-CODEX
+Total.War.Rome.II.Rise.of.the.Republic.Update.v2.4.0.19581-CODEX
+Total.War.Rome.II.Rise.of.the.Republic.Update.v2.4.0.19683-CODEX
+Total.War.Rome.II.Rise.of.the.Republic.Update.v2.4.0.19728-CODEX
+
+I have downloaded the full game, updates 2.4.019581 and 2.4.019728 but i cant find update 19683 anywhere.
+i did a quick search on this forum too and didnt see any english upload of this update.
+Any tips?
+
+duckduckgo.com - first whatever results are all what you need  The search engine is very good for showing search results you SEARCH FOR. Google is on the opposite path, they are working hard to deliver the same websites for everything you are looking for, even if they have nothing in common with what you look for.
+
+-- Edit --
+
+
+Venom wrote:
+Total War™: ROME II - DLC pack:
+
+ Spoiler
+https://drive.google.com/drive/folders/1k-YHaXODuj24xmuEyUhuFuahBNXNnIz7?usp=sharing
+
+DLC's included:
+Total War: Rome II - Nomadic Tribes Culture Pack
+Total War: ROME II - Caesar in Gaul
+Total War™: ROME II – Hannibal at the Gates
+Total War: ROME II - Blood & Gore
+Total War: ROME II - Wrath of Sparta
+-------------------------------------------------
+Missing DLCs:
+Total War: ROME II - Empire Divided
+Total War: ROME II - Rise of the Republic
+
+I notice a difference in size between these and the ones provided by the latest Codex update. Is it possible please to get these for the last Rome update, for a legit base game? Thank you
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 04 Jan 2019, 01:52]
+
+_________________
+Click here for FAQs. Please don't forget to use the forum SEARCH function. You can even search a specific thread for specific issues.
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 04 Jan 2019, 14:08]
+anyone can help ? i have installed this version of total war http://fitgirl-repacks.site/total-war-r ... Vy-S7aTatg [May link to unsafe filehosters] . i need to update it and i have tried venom links but it doesnt update and stucks at V2.4.0.19534
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 04 Jan 2019, 14:14]
+ISCObar wrote:
+anyone can help ? i have installed this version of total war http://fitgirl-repacks.site/total-war-r ... Vy-S7aTatg [May link to unsafe filehosters] . i need to update it and i have tried venom links but it doesnt update and stucks at V2.4.0.19534
+
+So you've tried to install the following updates in order?
+
+Total.War.Rome.II.Rise.of.the.Republic.Update.v2.4.0.19581-CODEX
+Total.War.Rome.II.Rise.of.the.Republic.Update.v2.4.0.19683-CODEX
+Total.War.Rome.II.Rise.of.the.Republic.Update.v2.4.0.19728-CODEX
+
+You should be perfectly fine, since the repack is identical to the scene-release.
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 04 Jan 2019, 14:14]
+
+_________________
+The FAQ are you waiting for?
+
+A wild PASSWORD appeared for protected archives & files on RIN! Member used cs.rin.ru ...it's super effective!
+
+Having problems downloading from Google Drive? Click here.
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 04 Jan 2019, 14:30]
+Venom wrote:
+ISCObar wrote:
+anyone can help ? i have installed this version of total war http://fitgirl-repacks.site/total-war-r ... Vy-S7aTatg [May link to unsafe filehosters] . i need to update it and i have tried venom links but it doesnt update and stucks at V2.4.0.19534
+
+So you've tried to install the following updates in order?
+
+Total.War.Rome.II.Rise.of.the.Republic.Update.v2.4.0.19581-CODEX
+Total.War.Rome.II.Rise.of.the.Republic.Update.v2.4.0.19683-CODEX
+Total.War.Rome.II.Rise.of.the.Republic.Update.v2.4.0.19728-CODEX
+
+You should be perfectly fine, since the repack is identical to the scene-release.
+
+when i try to update to the first one " Update v2.4.0.19581 " codex updater says : an error has occurred while initial scan in a selected directory error details are listed above . installing of this update to the selected directory is not possible . this update is originally designed for total.war.rome.ii.rise.of.republic-codex "
+and the errors :
+data\blood_rome2.pack Hash sum mismatch! Required MD5: 1969064251
+data\gaul.pack Hash sum mismatch! Required MD5: 227052202
+data\greeks.pack Hash sum mismatch! Required MD5: -657361470
+data\punic.pack Hash sum mismatch! Required MD5: 1082431037
+maybe because i didnt install the russian language ?
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 04 Jan 2019, 14:38]
+No, those are actually 4 files from the DLCs. I'll upload them for you from the August 9, 2018 build, which equals the base CODEX release. You should be good to go then, but I don't know why there's a mismatch to be honest, since the repack is based on it.
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 04 Jan 2019, 14:38]
+
+_________________
+The FAQ are you waiting for?
+
+A wild PASSWORD appeared for protected archives & files on RIN! Member used cs.rin.ru ...it's super effective!
+
+Having problems downloading from Google Drive? Click here.
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 04 Jan 2019, 14:42]
+Thanks bro for helping me .
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 04 Jan 2019, 15:45]
+https://drive.google.com/file/d/1_GOnliCzz__tUBIbFICWzSVlaeNmg-pw/view?usp=sharing
+
+Should work now.
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 04 Jan 2019, 15:45]
+
+_________________
+The FAQ are you waiting for?
+
+A wild PASSWORD appeared for protected archives & files on RIN! Member used cs.rin.ru ...it's super effective!
+
+Having problems downloading from Google Drive? Click here.
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 04 Jan 2019, 16:33]
+Here is the latest 2.4.0 19728 DATA folder from my legit game with all DLCs. Password is cs.rin.ru
+
+ Spoiler
+https://www94.zippyshare.com/v/2W1oAIev/file.html
+https://www94.zippyshare.com/v/JRv1H14W/file.html
+https://www94.zippyshare.com/v/gqyYHcKb/file.html
+https://www94.zippyshare.com/v/z5t3VaAd/file.html
+https://www94.zippyshare.com/v/Tstebgjn/file.html
+https://www94.zippyshare.com/v/rqy89Ql4/file.html
+https://www94.zippyshare.com/v/IC6gXFd9/file.html
+https://www94.zippyshare.com/v/fBOhspJj/file.html
+https://www94.zippyshare.com/v/HwsOTGwr/file.html
+https://www94.zippyshare.com/v/hWIJ9bPR/file.html
+https://www94.zippyshare.com/v/8Q2TquLG/file.html
+https://www94.zippyshare.com/v/iA5lCPZS/file.html
+https://www94.zippyshare.com/v/wzha2fRv/file.html
+https://www94.zippyshare.com/v/p9sFRtb3/file.html
+https://www94.zippyshare.com/v/Qv4O0P3m/file.html
+https://www94.zippyshare.com/v/a1GeInep/file.html
+https://www94.zippyshare.com/v/82AklxSy/file.html
+https://www94.zippyshare.com/v/EMxMyVww/file.html
+https://www94.zippyshare.com/v/DIu5DR4o/file.html
+https://www94.zippyshare.com/v/zHUWZF3W/file.html
+https://www94.zippyshare.com/v/zvfr4ff8/file.html
+https://www94.zippyshare.com/v/4ar6E9Z4/file.html
+https://www94.zippyshare.com/v/kuycAczR/file.html
+https://www94.zippyshare.com/v/LvXkm0qN/file.html
+https://www94.zippyshare.com/v/qNo0jHLx/file.html
+https://www94.zippyshare.com/v/lDtNVz9h/file.html
+https://www94.zippyshare.com/v/213avHfT/file.html
+https://www94.zippyshare.com/v/wnub42nC/file.html
+https://www94.zippyshare.com/v/a5Vhy3TG/file.html
+https://www94.zippyshare.com/v/7HIzWMf3/file.html
+https://www94.zippyshare.com/v/iePPyWMp/file.html
+https://www94.zippyshare.com/v/lPL9SolZ/file.html
+https://www94.zippyshare.com/v/tkUywf2Q/file.html
+https://www94.zippyshare.com/v/Hf1OpmGD/file.html
+https://www94.zippyshare.com/v/zMwY6pmZ/file.html
+https://www94.zippyshare.com/v/U0g0CJR0/file.html
+https://www94.zippyshare.com/v/1XrNisOJ/file.html
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 04 Jan 2019, 16:33]
+
+_________________
+Click here for FAQs. Please don't forget to use the forum SEARCH function. You can even search a specific thread for specific issues.
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 05 Jan 2019, 15:09]
+Venom wrote:
+No, those are actually 4 files from the DLCs. I'll upload them for you from the August 9, 2018 build, which equals the base CODEX release. You should be good to go then, but I don't know why there's a mismatch to be honest, since the repack is based on it.
+
+i have reinstalled the game and tried to update it and it works to latest update " v2.4.0.19728 " .
+thanks again for helping me
+
+-- Edit --
+
+Is there a way to play it multiplayer with fitgirl version with the latest updates ? i have tried many VPNs like hamachi but the same result " lost connection " .
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 05 Jan 2019, 15:19]
+viewtopic.php?p=1809610#p1809610
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 05 Jan 2019, 15:19]
+
+_________________
+The FAQ are you waiting for?
+
+A wild PASSWORD appeared for protected archives & files on RIN! Member used cs.rin.ru ...it's super effective!
+
+Having problems downloading from Google Drive? Click here.
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 05 Jan 2019, 18:41]
+I want this mod:
+
+https://steamcommunity.com/sharedfiles/filedetails/?id=1512744939
+
+Please help.Thanks.
+
+NM. found it in:https://letsupload.co/22Kc/MODS.7z
+
+Thanks again Venom. 
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 05 Jan 2019, 18:41]
+
+_________________
+01000111 01101000 01101111 01110011 01110100 00100000 01110111 01101000 01100101 01110010 01100101 00100000 01100001 01110010 01100101 00100000 01111001 01101111 01110101 00111111 00100000 01000100 01100101 01101100 01100101 01110100 01100101 00100000 01110100 01101000 01101001 01110011 00100000 01110000 01101111 01110011 01110100 00101100 00100000 01101001 01100110 00100000 01111001 01101111 01110101 00100000 01100100 01100001 01110010 01100101 00101110
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 06 Jan 2019, 16:34]
+Please somebody upload those mods:
+https://steamcommunity.com/sharedfiles/ ... 1546618138
+https://steamcommunity.com/sharedfiles/ ... 1546721926
+https://steamcommunity.com/sharedfiles/ ... 1546746958
+https://steamcommunity.com/sharedfiles/ ... =889779885
+Thank you pals.
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 06 Jan 2019, 16:48]
+leonardusius wrote:
+Please somebody upload those mods:
+https://steamcommunity.com/sharedfiles/ ... 1546618138
+https://steamcommunity.com/sharedfiles/ ... 1546721926
+https://steamcommunity.com/sharedfiles/ ... 1546746958
+https://steamcommunity.com/sharedfiles/ ... =889779885
+Thank you pals.
+
+Please make sure that you link me to the correct pages / file ID's in the future. 3 of the ID's you gave me were wrong / not the correct ones, which I can access and download.
+https://letsupload.co/4Cm0/app_214950.7z
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 06 Jan 2019, 16:48]
+
+_________________
+The FAQ are you waiting for?
+
+A wild PASSWORD appeared for protected archives & files on RIN! Member used cs.rin.ru ...it's super effective!
+
+Having problems downloading from Google Drive? Click here.
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 06 Jan 2019, 17:30]
+Venom wrote:
+leonardusius wrote:
+Please somebody upload those mods:
+https://steamcommunity.com/sharedfiles/ ... 1546618138
+https://steamcommunity.com/sharedfiles/ ... 1546721926
+https://steamcommunity.com/sharedfiles/ ... 1546746958
+https://steamcommunity.com/sharedfiles/ ... =889779885
+Thank you pals.
+
+Please make sure that you link me to the correct pages / file ID's in the future. 3 of the ID's you gave me were wrong / not the correct ones, which I can access and download.
+https://letsupload.co/4Cm0/app_214950.7z
+
+Thank you so much.
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 08 Jan 2019, 00:33]
+I know it's a lot to ask, but good music mod is a game changer and this one looks like the one:
+https://steamcommunity.com/sharedfiles/filedetails/?id=1583702857
+Please anyone to upload.
+Thanks.
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 08 Jan 2019, 00:33]
+
+_________________
+01000111 01101000 01101111 01110011 01110100 00100000 01110111 01101000 01100101 01110010 01100101 00100000 01100001 01110010 01100101 00100000 01111001 01101111 01110101 00111111 00100000 01000100 01100101 01101100 01100101 01110100 01100101 00100000 01110100 01101000 01101001 01110011 00100000 01110000 01101111 01110011 01110100 00101100 00100000 01101001 01100110 00100000 01111001 01101111 01110101 00100000 01100100 01100001 01110010 01100101 00101110

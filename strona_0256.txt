@@ -1,0 +1,180 @@
+=========================================
+STRONA 256 (URL: https://cs.rin.ru/forum/viewtopic.php?f=10&t=61441&hilit=rome+2&start=3825)
+=========================================
+
+[Data: Sunday, 11 Mar 2018, 16:14]
+Here is the sfv for the latest version from the codex release with english lanquage only
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 12 Mar 2018, 06:49]
+Guys, can I get some advice? I want to enable the encyclopedia, but I'm stuck. I've read most of this topic, and I couldn't find an answer. Here's what I've done:
+
+1.I downloaded both [Total.War.Rome.II.Empire.Divided-CODEX] and [Total.War.Rome.II.Empire.Divided.Update.v2.3.0.Build.18349.incl.DLC-CODEX]
+2.I installed them correctly
+3. I downloaded a language pack from a post by user [benczeb90], but don't think it worked.
+
+And I'm stuck here. I'd really appreciate any help you can offer.
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 12 Mar 2018, 21:50]
+Hello I don't know if I could do this here but could somebody upload all seven parts of this mod for me
+
+https://steamcommunity.com/workshop/fil ... 1283380677
+
+I tries steamworkshop downloader but it doesn't work on this mod thanks in advance
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 12 Mar 2018, 22:40]
+Here's a fixed Rome2.dll, that will allow you to access pedia ingame and works with latest cracked update. Just overwrite the Rome2.dll included in CDX crack.
+
+http://www51.zippyshare.com/v/AhpF0F3E/file.html
+
+Thanks to my special friend who rather stay anonymous for bringing this to us 
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 12 Mar 2018, 22:40]
+
+_________________
+I've received multiple messages in which people expressed their desire to support my work in RIN; I appreciate your care, but I have all support I need; consider instead to support the developers of the games you actually enjoy. Rui
+
+
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 13 Mar 2018, 05:40]
+Rui wrote:
+Here's a fixed Rome2.dll, that will allow you to access pedia ingame and works with latest cracked update. Just overwrite the Rome2.dll included in CDX crack.
+
+http://www51.zippyshare.com/v/AhpF0F3E/file.html
+
+Thanks to my special friend who rather stay anonymous for bringing this to us 
+
+
+I sincerely thank you for doing this. This will greatly enhance the game for me. Would you mind if I gave this link to others with the same problem? Or if I linked to your post? I asked on another forum too, and if there are others with the same problem, you could help them too.
+
+Anyways, thanks again, and I hope you have a wonderful day.
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 13 Mar 2018, 10:49]
+Can someone upload divided.pack from data folder please? I am getting crc f7df0558 which is a mismatch.
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 13 Mar 2018, 12:51]
+Rui wrote:
+Here's a fixed Rome2.dll, that will allow you to access pedia ingame and works with latest cracked update. Just overwrite the Rome2.dll included in CDX crack.
+
+http://www51.zippyshare.com/v/AhpF0F3E/file.html
+
+Thanks to my special friend who rather stay anonymous for bringing this to us 
+
+
+thank you... total war my best video game franchise ever
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 13 Mar 2018, 13:19]
+Domestic wrote:
+Can someone upload divided.pack from data folder please? I am getting crc f7df0558 which is a mismatch.
+
+
+http://www69.zippyshare.com/v/L0R6u6x8/file.html
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 13 Mar 2018, 14:31]
+Thank you very much biodaniel201
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 13 Mar 2018, 22:47]
+biodaniel201 wrote:
+I sincerely thank you for doing this. This will greatly enhance the game for me. Would you mind if I gave this link to others with the same problem? Or if I linked to your post? I asked on another forum too, and if there are others with the same problem, you could help them too.
+
+Anyways, thanks again, and I hope you have a wonderful day.
+
+You're welcome.
+
+Yeah, I just asked my special friend, he's okay with it. Just credit the source, "cs.rin.ru" I guess. Not me, please don't credit me because I'm not the author.
+
+Cheers
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 13 Mar 2018, 22:47]
+
+_________________
+I've received multiple messages in which people expressed their desire to support my work in RIN; I appreciate your care, but I have all support I need; consider instead to support the developers of the games you actually enjoy. Rui
+
+
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 14 Mar 2018, 07:21]
+Psaro66 wrote:
+It's obvious you have to HAVE the
+
+- local_en.pack
+- local_en_shared_rome2.pack
+- music_en_shared_rome2.pack
+
+and your whole game updated in 2.2.0 Emperor Edition Empire Divided to get the last update from codex working.
+
+Once the update is applied, you erase the 3 _en.pack and you apply your own language pack uploaded by KNABBERFEE 
+
+
+
+where is update?
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 14 Mar 2018, 14:43]
+Rui wrote:
+biodaniel201 wrote:
+I sincerely thank you for doing this. This will greatly enhance the game for me. Would you mind if I gave this link to others with the same problem? Or if I linked to your post? I asked on another forum too, and if there are others with the same problem, you could help them too.
+
+Anyways, thanks again, and I hope you have a wonderful day.
+
+You're welcome.
+
+Yeah, I just asked my special friend, he's okay with it. Just credit the source, "cs.rin.ru" I guess. Not me, please don't credit me because I'm not the author.
+
+Cheers
+
+Friends with benefits, right?  Thanks.
+
+
+@UberPsyX Thanks for the Steamworks fix.
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 14 Mar 2018, 14:43]
+
+_________________
+Always wanted to get rid of the files that were not listed in the sfv/md5 hash file? Check the QuickSFV plugin I created for this: viewtopic.php?f=10&t=108605 or this: viewtopic.php?p=1273745#p1273745
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 16 Mar 2018, 16:43]
+Can someone upload data/campaigns/main_rome/startpos.esf file? I got hash sum mismatch when try to install the new update from CODEX. I use fitgirl repack btw.
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 16 Mar 2018, 17:15]
+Could someone upload:
+
+- local_en.pack
+- local_en_shared_rome2.pack
+- music_en_shared_rome2.pack
+
+please.
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 18 Mar 2018, 09:58]
+starpos uploaded  I can't upload the rest, these files are so big and my co is pretty bad

@@ -1,0 +1,302 @@
+=========================================
+STRONA 242 (URL: https://cs.rin.ru/forum/viewtopic.php?f=10&t=61441&hilit=rome+2&start=3615)
+=========================================
+
+[Data: Monday, 27 Nov 2017, 01:21]
+Can anyone give me some help? I donwloaded the DLC files, there are five of them, set up creamapi properly, renaming the original DLC and adding the ID's in the menu and everything. There are more than 5 dlc to unlock, but I assume that the ones that don't have a unique pack file are already in the game and only need unlocking.
+
+The game launches just fine. I can play any faction of the Great Campaign, even the ones from the nomadic DLC, scytia and such. Or Sparta
+
+But if I try to launch any of the campaigns, ceaser in gaul and such, there is no faction to select, just a text making it pretty clear that "SOMETHING SHOULD GO HERE" and if I try to launch the game crashes.
+
+EDIT: I think I got it. The startpos files are missing. Can anyone supply them?
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 27 Nov 2017, 08:40]
+Sorry, here 
+
+https://drive.google.com/file/d/1yzgFcD ... sp=sharing
+
+PS: Have added to previous post, so people don't have to ask again
+
+Check with this SFV if something is missing else
+viewtopic.php?p=1383625#p1383625
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 27 Nov 2017, 08:40]
+
+_________________
+Haters gonna hate!
+My updates are always clean files - no cracks included.
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 27 Nov 2017, 19:55]
+Thanks man! The SFV file detected only hash mismatches on the steamapi and rome dll's, which are expected I think.
+
+Thank you very very much.
+
+To give back to the community, I'm leaving here my CreamAPI ini and steamapi dll. You only need to rename the steam_api dll in the game's folder to steam_api_o.dll and add these files. This is obviously missing the aurelian DLC, will need update then.
+
+https://drive.google.com/open?id=1FZJFU ... eciNDqkwKl
+
+Now in three or so days time all we need is the new dlc files, the startpos, and the creamAPI. The politics update looks neat, but imma wait till its fully released.
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 27 Nov 2017, 20:02]
+I am ready to share, already bought the DLC 
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 27 Nov 2017, 20:02]
+
+_________________
+Haters gonna hate!
+My updates are always clean files - no cracks included.
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 28 Nov 2017, 11:10]
+I downloaded the FitGirl repack, everything works perfectly but the patch is v2.2.0.15666
+I was wondering if someone can point me in the right direction because I'm trying to update it to v2.2.0.16019 but all links I find are dead.
+Thanks in advance! 
+
+---EDIT---
+OK I'm trying to use this viewtopic.php?p=1579123#p1579123 but it doesn't let me install because the FitGirl repack is already cracked, fine, I used this viewtopic.php?p=1577247#p1577247 but the launcher.exe doesn't match.
+I'm thinking it's because those original files are from the original PROPHET release, which I think it was v2.2.0.15539, and FitGirl is 15666. Can someone hand me the original files for v2.2.0.15666 please? Much obliged.
+
+---EDIT---
+nvm already done it. 
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 28 Nov 2017, 12:20]
+$ega is giving a free dlc to owners of rome 2 :
+
+Already own the game? Why not grab a ROME II DLC free of charge on Total War: Access?
+Pick from Wrath of Sparta, Black Sea Colonies or Nomadic Tribes here: https://dashboard.totalwar.com/
+Total War: ROME II - Wrath of Sparta Campaign Pack
+Total War: ROME II - Black Sea Colonies Culture Pack
+Total War: ROME II - Nomadic Tribes Culture Pack
+
+needs registration (and steam linking) to get the dlc
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 28 Nov 2017, 18:14]
+mraliencockroach wrote:
+I downloaded the FitGirl repack, everything works perfectly but the patch is v2.2.0.15666
+I was wondering if someone can point me in the right direction because I'm trying to update it to v2.2.0.16019 but all links I find are dead.
+Thanks in advance! 
+
+---EDIT---
+OK I'm trying to use this viewtopic.php?p=1579123#p1579123 but it doesn't let me install because the FitGirl repack is already cracked, fine, I used this viewtopic.php?p=1577247#p1577247 but the launcher.exe doesn't match.
+I'm thinking it's because those original files are from the original PROPHET release, which I think it was v2.2.0.15539, and FitGirl is 15666. Can someone hand me the original files for v2.2.0.15666 please? Much obliged.
+
+---EDIT---
+nvm already done it. 
+
+
+
+Could you please send me pm on how to do it I have no idea how all this patches work
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 29 Nov 2017, 10:09]
+Also, after I reinstall Rome 2 FitGirl repack I cannot run my favorite mod REM 2.0 which worked previously with other game release (I forgot what was my initial install release) and now I make efforts to play again that mod. Seems no way yet. Somebody have an explanation or a suggestion ? Thanks.
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 30 Nov 2017, 16:12]
+DLC released.
+
+Will upload a patch for it.
+
+Make sure you have my previous two updates!
+
+viewtopic.php?p=1579123#p1579123
++
+viewtopic.php?p=1583804#p1583804
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 30 Nov 2017, 16:12]
+
+_________________
+Haters gonna hate!
+My updates are always clean files - no cracks included.
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 30 Nov 2017, 16:15]
+Yessss.
+
+Question: are we going to need to download the dlc packs and startpos files every single time the game updates?
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 30 Nov 2017, 17:07]
+Total.War.Rome.II.Empire.Divided-CODEX
+NFO
+
+ Spoiler
+Code: Select all | Line number On/Off | Expand/Contract
+▄▄▄▄▄▄▄ Â  Â ▄▄▄ Â  Â  Â  Â  Â  Â  Â  Â  Â  ▄▄
+Â  Â  Â  Â  Â  Â  ▄████▄ Â  Â  Â ▄████▄ ▓██████████ ▓████▓▄ Â  Â  Â  Â  Â  Â  Â ▓███▓
+Â  Â  Â  Â  Â  Â ███▓███▓ Â  Â ████████ ▓██▓███████ ▓██████▓▄ Â  Â  Â  Â  Â ▓███▓ Â ▀
+Â  Â  Â  ▄ Â  ███▓ ▀███▓ Â ███▓▀ ▓███ ███▓ Â ▀▓███ ███▓████▓▄▄ Â  Â  Â ▓███▓ Â ▄█
+Â  Â  Â  ▓ Â ▓███ Â  ▓████ ███ Â  Â ███ ███ Â  Â  ███▓███ Â ▓███▓█▓ Â  Â ▓███▓ Â ██
+Â  Â  Â  Â  Â ███▓ Â  Â  ▀▀ ███ Â  Â  Â ███▓██ Â  Â  Â ███▓██ Â  Â  ▓███▓ ▄▓███▓ Â ██▓
+Â  Â  Â  Â █ ███ Â  Â  Â  Â  ███ Â  Â  Â ███▓██ Â  Â  Â ███▓████▓ Â  ▓███▓▓███▓ ▓██▓
+Â  Â  Â  ▓█ ███ Â  Â  Â  Â  ███ Â  Â  Â ███▓██ Â  Â  Â ███▓███▓ Â  Â  ▓██████▓ ▓███
+Â  Â  Â  █▓ ███ Â  Â  Â  Â  ███▓ Â  Â ▓███▓██ Â  Â  ▓███▓██ Â  Â  Â  Â ▓████▓ Â ▓████▓
+Â  Â  ▓██ Â ▓███ Â  Â  ▄██▓███ Â  Â ███ ███ Â  Â ▄███▓███ Â  ▓██▄▓██████▓ Â ▓████▓
+Â  Â ▓██▓ Â  ████▄ ▓███▓ ▓███ ▄███▓ ███▓ ▄▓███ █████ ▓███▓███▓▓███▓ Â ▓█████▓
+Â  Â ▓██ Â  Â ▓████████▓ Â ▓████████▓ █████████ Â ▓████████▓███▓▀ ▓███▓ Â  █████▓
+Â  Â  ███▓ Â  ███████▓ ▄ Â ▓██████▓ Â ▓███████ Â  Â ███████▓███▓ Â  Â ▓███▓ Â  ████▓
+Â  Â  ▓████▓ Â █████▓ Â ▓█ Â ▓████▓ Â  ▓██████ Â █▓ Â █████▓███▓ Â  █ Â ▓███▓ Â  ███▓
+Â  Â  Â ▓████▓ Â ▀██▓ Â ▓███ Â ▀██▀ Â █ Â ▓███▀ Â ▓██▓ Â ▀██▓███▓ Â  ██▓ Â ▓███▓ ████▓
+Â  Â  Â  ▓█████▓▄ Â  ▄▓█████▓▄ Â ▄▓███▄ Â  Â ▄▓██████▓▄ Â  Â  Â  ▄▓████▓▄ Â  Â  ▄███▓
+Â  Â  Â  Â ▓█████████████▓████████████████████▓████████████████████████████▓
+Â  Â  Â  Â  ▀▓███████████████████████████████████████████████████████████▓▀
+Â  Â  Â  Â  Â  ▄█▓███████▀▀██████▓▄ ▀▓▀▀ Â  Â  Â  Â  ▀▀▓▀ ▄▓██████▀▀███████▓█▄
+Â  Â  Â  Â  Â ▓▀ Â ▓█▀▀▀ Â  Â  Â ▀▀███▓ Â  Â  C O D E X Â  Â  ▓███▀▀ Â  Â  Â ▀▀▀█▓ Â ▀▓
+Â  Â  Â  Â  Â  ▀ ▓█▄ Â ▄ Â  Â  Â ▄ ▄▓▀ Â  P R E S E N T S Â  ▀▓▄ ▄ Â  Â  Â ▄ Â ▄█▓ ▀
+Â  Â  Â  Â  Â  Â  ▀███▀ Â  Â  Â  Â ▀▀ Â  Â ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄ Â  Â ▀▀ Â  Â  Â  Â ▀███▀
+Â 
+Â  Â  Â  Â  Â 
+Â  Â  Â  Â  Â  Â  Â  Â  Â  Total War: ROME II - Empire Divided (c) SEGA Â  Â  Â  Â  Â  Â  Â  Â  Â 
+Â 
+Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â 
+Â  Â  Â  Â  Â Release Date : Â 11/2017 Â  Â  Â  Â  Â  Â  Â Protection : Steam+CEG+Custom Â  Â  Â  Â  Â  Â  Â 
+Â  Â  Â  Â  Â Discs Â  Â  Â  Â : Â 1 Â  Â  Â  Â  Â  Â  Â  Â  Â  Â Genre Â  Â  Â : Strategy Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â 
+Â 
+Â  ▄██▄ Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  ▄██▄
+Â ▓▀▀███▓ Â  ▄▄ Â  Â  █▀█ █▀▀ █ Â  █▀▀ █▀█ █▀▀ █▀▀ Â  █ █▀█ █▀▀ █▀█ Â  Â  ▄▄ Â  ▓███▀▀▓
+Â ▀▄ Â ▀██▓ ▀ ▀█ Â ▄ ▓▀▄ ▓▀ Â ▓ Â  ▓▀ Â ▓▀▓ ▀▀▓ ▓▀ Â  Â ▓ ▓ ▓ ▓▀ Â ▓ ▓ ▄ Â █▀ ▀ ▓██▀ Â ▄▀
+Â  Â  Â  ███▓▄ ▄██▄▓ ▀ ▀ ▀▀▀ ▀▀▀ ▀▀▀ ▀ ▀ ▀▀▀ ▀▀▀ Â  ▀ ▀ ▀ ▀ Â  ▀▀▀ ▓▄██▄ ▄▓███
+Â  Â  ▄█▓███████▀▀██████▓▄ Â ▄██▀█▄▄ Â ▀▄▄ Â  ▄▄▀ Â ▄▄█▀██▄ Â ▄▓██████▀▀███████▓█▄
+Â  Â █▀ ▄██▀▀▀ Â  Â  Â ▀▀███▓ Â ██▄ Â ▀▀▓█▄ ██ ██ ▄█▓▀▀ Â ▄██ Â ▓███▀▀ Â  Â  Â ▀▀▀██▄ ▀█
+Â  Â  ▀ ██▄ Â ▄ Â  Â  Â ▄ ▄█▀ Â  Â ▀█▀ Â  Â  ▀██▀ ▀██▀ Â  Â  ▀█▀ Â  Â ▀█▄ ▄ Â  Â  Â ▄ Â ▄██ ▀
+Â  Â  Â  ▀███▀ Â  Â  Â  Â ▀▀ Â  Â  Â  Â  ▀ Â  Â  Â  Â  Â  Â  Â  Â  ▀ Â  Â  Â  Â  ▀▀ Â  Â  Â  Â ▀███▀
+Â  Â  Â 
+Â 
+Â  Â  Â  A new grand-scale Campaign Â Pack for Â Total War: Â ROME Â II Â Plunges
+Â  Â  Â  players into the crisis of the third century, a Â critical Â turning-
+Â  Â  Â  point for Rome Play as one of ten different Â factions Â across Â five
+Â  Â  Â  cultural Â groups Â New Â Heroic Â Factions Â with Â  Â elaborate Â victory
+Â  Â  Â  conditions, famous leaders Â and crafted Â event-chains Â New Â period-
+Â  Â  Â  specific Â events, Â dilemmas Â and missions Â New Â Campaign Â features:
+Â  Â  Â  Plagues, Cults and Banditry Restructured Â technologies Â and Â unique
+Â  Â  Â  new buildings The year is 270 AD.
+Â 
+Â  Â  Â  For more info go to : http://store.steampowered.com/app/694880/
+Â  Â  Â  Â 
+Â 
+Â  ▄██▄ Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  ▄██▄
+Â ▓▀▀███▓ Â  ▄▄ Â  █ █▀█ █▀▀ ▀█▀ █▀█ █ Â  █ Â  Â  █▀█ █▀█ ▀█▀ █▀▀ █▀▀ Â  ▄▄ Â  ▓███▀▀▓
+Â ▀▄ Â ▀██▓ ▀ ▀█ Â ▓ ▓ ▓ ▀▀▓ Â ▓ Â ▓▀▓ ▓ Â  ▓ Â  Â  ▓ ▓ ▓ ▓ Â ▓ Â ▓▀ Â ▀▀▓ Â █▀ ▀ ▓██▀ Â ▄▀
+Â  Â  Â  ███▓▄ ▄██ ▀ ▀ ▀ ▀▀▀ Â ▀ Â ▀ ▀ ▀▀▀ ▀▀▀ Â  ▀ ▀ ▀▀▀ Â ▀ Â ▀▀▀ ▀▀▀ ██▄ ▄▓███
+Â  Â  ▄█▓███████▀▀██████▓▄ Â ▄██▀█▄▄ Â ▀▄▄ Â  ▄▄▀ Â ▄▄█▀██▄ Â ▄▓██████▀▀███████▓█▄
+Â  Â █▀ ▄██▀▀▀ Â  Â  Â ▀▀███▓ Â ██▄ Â ▀▀▓█▄ ██ ██ ▄█▓▀▀ Â ▄██ Â ▓███▀▀ Â  Â  Â ▀▀▀██▄ ▀█
+Â  Â  ▀ ██▄ Â ▄ Â  Â  Â ▄ ▄█▀ Â  Â ▀█▀ Â  Â  ▀██▀ ▀██▀ Â  Â  ▀█▀ Â  Â ▀█▄ ▄ Â  Â  Â ▄ Â ▄██ ▀
+Â  Â  Â  ▀███▀ Â  Â  Â  Â ▀▀ Â  Â  Â  Â  ▀ Â  Â  Â  Â  Â  Â  Â  Â  ▀ Â  Â  Â  Â  ▀▀ Â  Â  Â  Â ▀███▀
+Â  Â  Â 
+Â  Â  Â 
+Â  Â  Â  - Extract
+Â  Â  Â  - Burn or mount the .iso
+Â  Â  Â  - Run setup.exe and install
+Â  Â  Â  - Copy crack from CODEX dir to installdir
+Â  Â  Â  - Play
+Â  Â  Â 
+Â  Â  Â  NOTES: This release is standalone and includes all previously
+Â  Â  Â  released DLC.
+Â  Â  Â 
+Â 
+Â  Â  Â  General Notes:
+Â 
+Â  Â  Â  - Block the game's exe in your firewall to prevent the game from
+Â  Â  Â  Â  trying to go online ..
+Â  Â  Â  - If you install games to your systemdrive, it may be necessary
+Â  Â  Â  Â  to run this game with admin privileges instead
+Â  Â  Â  Â 
+Â  Â  Â  Â 
+Â  ▄██▄ Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  ▄██▄
+Â ▓▀▀███▓ Â  ▄▄ Â  Â  Â █▀▀ █▀█ █▀█ █ █ █▀█ Â  █▀█ █▀█ ▀█▀ █▀▀ █▀▀ Â  Â  Â ▄▄ Â  ▓███▀▀▓
+Â ▀▄ Â ▀██▓ ▀ ▀█ Â ▄ Â ▓ █ ▓▀▄ ▓ ▓ ▓ ▓ ▓▀▀ Â  ▓ ▓ ▓ ▓ Â ▓ Â ▓▀ Â ▀▀▓ Â ▄ Â █▀ ▀ ▓██▀ Â ▄▀
+Â  Â  Â  ███▓▄ ▄██▄▓▄ ▀▀▀ ▀ ▀ ▀▀▀ ▀▀▀ ▀ Â  Â  ▀ ▀ ▀▀▀ Â ▀ Â ▀▀▀ ▀▀▀ ▄▓▄██▄ ▄▓███
+Â  Â  ▄█▓███████▀▀██████▓▄ Â ▄██▀█▄▄ Â ▀▄▄ Â  ▄▄▀ Â ▄▄█▀██▄ Â ▄▓██████▀▀███████▓█▄
+Â  Â █▀ ▄██▀▀▀ Â  Â  Â ▀▀███▓ Â ██▄ Â ▀▀▓█▄ ██ ██ ▄█▓▀▀ Â ▄██ Â ▓███▀▀ Â  Â  Â ▀▀▀██▄ ▀█
+Â  Â  ▀ ██▄ Â ▄ Â  Â  Â ▄ ▄█▀ Â  Â ▀█▀ Â  Â  ▀██▀ ▀██▀ Â  Â  ▀█▀ Â  Â ▀█▄ ▄ Â  Â  Â ▄ Â ▄██ ▀
+Â  Â  Â  ▀███▀ Â  Â  Â  Â ▀▀ Â  Â  Â  Â  ▀ Â  Â  Â  Â  Â  Â  Â  Â  ▀ Â  Â  Â  Â  ▀▀ Â  Â  Â  Â ▀███▀
+Â  Â  Â  Â  Â 
+Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  CODEX is currently looking for
+Â  Â  Â  Â  Â  Â  Â  Â ▄██▄ Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  ▄██▄
+Â  Â  Â  Â  Â  Â  Â  ▓██ ▀▀ Â ▄ Â  Â nothing but competition! Â  Â  ▄ Â ▀▀ ██▓
+Â  Â  Â  Â  Â  Â  Â  Â ▓██▄ ▄▓▀▓ Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  ▓▀▓▄ ▄██▓
+Â  Â  Â  Â  Â  Â  Â ▄██████▓▀ Â  Greetings to STEAMPUNKS & CPY Â  ▀▓██████▄
+Â  Â  Â  Â  Â  Â  ▓██▀ Â ▀██▄▄ ▄▄ Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  ▄▄ ▄▄██▀ Â ▀██▓
+Â  Â  Â  Â  Â  Â  ██ Â  ▄ ▀█▓██▓▀█▄█▀█▄▄ Â  ▄ Â ▄ Â ▄ Â  ▄▄█▀█▄█▀▓██▓█▀ ▄ Â  ██
+Â  Â  Â  Â  Â  Â  ▀██▄▄▀ ▄ █ █ ▄ ▀▄ Â ▀▀▓█▄ █ ▓ █ ▄█▓▀▀ Â ▄▀ ▄ █ █ ▄ ▀▄▄██▀
+Â  Â  Â  Â  Â  Â  Â  ▀▀ Â  Â ▀ Â  ▀ Â  Â  ▄▀ Â  ▀▀ Â ▀ Â ▀▀ Â  ▀▄ Â  Â  ▀ Â  ▀ Â  Â ▀▀
+Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â ▀█▓▄ LNK^CPS ▄▓█▀
+Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â ▄▀ 02/2015 ▀▄
+Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  ▓ Â  Â  Â ▄ Â  Â  Â ▓
+Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â ▀ Â  ▓▀▄▀▓ Â  ▀
+Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â ▄ Â █ Â ▓ Â █ Â ▄
+Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  ▀▀ Â  Â  Â  ▀▀
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 30 Nov 2017, 17:08]
+English only. I am sure PLAZA will pre a multi release.
+
+And just for info, xdelta patch is over 1,5bg in size. Somehow they decided to change the movie file...
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 30 Nov 2017, 17:08]
+
+_________________
+Haters gonna hate!
+My updates are always clean files - no cracks included.
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 30 Nov 2017, 17:13]
+knabberfee your patch will be multi or only english ?
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 30 Nov 2017, 17:13]
+
+_________________
+No way, my man. You have friends.
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 30 Nov 2017, 17:17]
+Will release a patch for every single language, like before.
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 30 Nov 2017, 17:17]
+
+_________________
+Haters gonna hate!
+My updates are always clean files - no cracks included.
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 30 Nov 2017, 17:18]
+ok thank you
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 30 Nov 2017, 17:18]
+
+_________________
+No way, my man. You have friends.

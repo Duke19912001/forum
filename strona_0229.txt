@@ -1,0 +1,151 @@
+=========================================
+STRONA 229 (URL: https://cs.rin.ru/forum/viewtopic.php?f=10&t=61441&hilit=rome+2&start=3420)
+=========================================
+
+[Data: Thursday, 16 Mar 2017, 01:53]
+^Try this.
+
+https://openload.co/f/EaFNvlofBVw
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 16 Mar 2017, 01:53]
+
+_________________
+Haters gonna hate!
+My updates are always clean files - no cracks included.
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 16 Mar 2017, 14:50]
+KapetanCvarak94 wrote:
+Anomaly wrote:
+@KapetanCvarak94
+-- Edit --
+
+So I have downloaded the PROPHET version of the game from skidrow & reloaded, when I tried updating it with the patch you posted here it comes to a certain point and for 10+ minutes it doesn't move, does the patching usually take long or I downloaded a wrong version of the game?
+
+Comes to ''preparing to the next operations, waiting for unloading patching engine.....'' and stays there for 10+ minutes.
+
+
+Man, that's normal! It did it for me. Waited for quite a while. It took probably 20 minutes at least for me for it to continue.
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 23 Mar 2017, 08:06]
+Hi.
+
+I want to know where can I download the latest patches. I've installed the Emperor's Edition Yuzutu Repack from Skidrow. Current build is 15539.
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 23 Mar 2017, 08:49]
+man are you blind? it's fcking HERE  in this page. you don't even have to read previous pages.
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 24 Mar 2017, 06:08]
+benczeb90 wrote:
+man are you blind? it's fcking HERE  in this page. you don't even have to read previous pages.
+
+
+Sorry for my ignorance, then.
+
+I finished patching to 15666. The link on this page is for 16155. Can I skip 16019?
+
+UPDATE: I downloaded the 16019 update but can't extract it. It says unknown format or damaged.
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 24 Mar 2017, 07:05]
+not sure why you are having so many issues. Didn't you read and follow the guide by benczeb90 at the top of the page? (rhetorical question.) Please follow benczeb90's guide and don't let his cup of coffee die in vain
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 24 Mar 2017, 07:05]
+
+_________________
+Not reading the forum rules is a rules violation viewtopic.php?f=10&t=44034
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 24 Mar 2017, 07:25]
+starhub wrote:
+not sure why you are having so many issues. Didn't you read and follow the guide by benczeb90 at the top of the page? (rhetorical question.) Please follow benczeb90's guide and don't let his cup of coffee die in vain
+
+
+That guide is for the PROPHET version. This is the one I have.
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 24 Mar 2017, 08:00]
+^^a) Download ppt .iso and follow guide.
+or b) Get a new already updated repack.
+
+Guide clearly says not to crack the game after installation. The repack would have already cracked the game. Also the update is AIO so no other update is required. And the update being an xdelta type update, it is inadvisable to update a game installed from repack with it.
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 24 Mar 2017, 08:05]
+dh@ni wrote:
+^^a) Download ppt .iso and follow guide.
+or b) Get a new already updated repack.
+
+Guide clearly says not to crack the game after installation. The repack would have already cracked the game. Also the update is AIO so no other update is required. And the update being an xdelta type update, it is inadvisable to update a game installed from repack with it.
+
+
+So either way, I have to re-download the game?
+
+Is there any other alternative? My internet is shit (it took me 3 days to download the current one I have).
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 24 Mar 2017, 08:11]
+^^Unfortunately that's how it is. Downloading repacks means you can only use loose files type updates and dlc's with it, xdelta type updates/dlc's will not work 99.9% of the time. Best way to update repack is get a new updated repack. Or if you are lucky and repacker makes future repacks which are backward compatible then you will just have to rehash and download some MB's.
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 24 Mar 2017, 08:23]
+dh@ni wrote:
+^^Unfortunately that's how it is. Downloading repacks means you can only use loose files type updates and dlc's with it, xdelta type updates/dlc's will not work 99.9% of the time. Best way to update repack is get a new updated repack. Or if you are lucky and repacker makes future repacks which are backward compatible then you will just have to rehash and download some MB's.
+
+
+But the earlier patch (15666) actually worked for me. I manage to download 16019 from an old link here, but I can't open it. because it says the file is damaged.
+
+If someone is generous enough to reupload the patch on Mediafire, Zippyshare, etc. I'll be very grateful.
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 24 Mar 2017, 08:35]
+^^Well then that falls into the .1% category. So then can you link that update which isn't opening.
+
+Just curious, did you confirm if it(15666) updated properly using the sfv that machine linked in his post.
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 24 Mar 2017, 08:53]
+dh@ni wrote:
+Just curious, did you confirm if it(15666) updated properly using the sfv that machine linked in his post.
+
+
+The link for the SFV is dead, unfortunately.
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 24 Mar 2017, 11:13]
+If that repack were on OCH, i could download it and create a patch. But i can't download from torrent.
+
+And sfv's can be found just 2 pages back. viewtopic.php?p=1383625#p1383625 Only for latest. Sry.
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 24 Mar 2017, 11:13]
+
+_________________
+Haters gonna hate!
+My updates are always clean files - no cracks included.
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 26 Mar 2017, 05:55]
+I finished updating to 16155. But the encyclopedia is blank.

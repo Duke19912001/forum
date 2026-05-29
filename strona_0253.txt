@@ -1,0 +1,208 @@
+=========================================
+STRONA 253 (URL: https://cs.rin.ru/forum/viewtopic.php?f=10&t=61441&hilit=rome+2&start=3780)
+=========================================
+
+[Data: Thursday, 08 Mar 2018, 14:47]
+Best game in this series, can't wait.
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 08 Mar 2018, 16:28]
+Patch + DLC released
+
+
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 08 Mar 2018, 16:28]
+
+_________________
+Haters gonna hate!
+My updates are always clean files - no cracks included.
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 08 Mar 2018, 16:35]
+^^^^ Its a big download...and a big install...not very helpful indeed...
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 08 Mar 2018, 16:35]
+
+_________________
+"Give a man a fish feed him for a day, teach a man to fish feed him for a lifetime!!!!"
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 08 Mar 2018, 16:38]
+I've missed some episodes from this complete nonsense that is Creative Assembly.
+Didn't they release Emperor's Edition a while back claiming to be the definitive edition or something? Then proceeded to release Atilla (complete with DLCs) and 2 Total War Warhammer games (the first without even completing it all around and jumped straight to the second)?
+
+And now they went back 4 installments to add factions? My god, they are milking their franchise. Good thing the last game I actually paid CA was Empire total war some 8 years back. Although Medieval 2 was the best game in the series, the newer ones after Shogun 2 are just a farse to the strategy community. Factions for $5 each, lol good marketing there. What's next unit aesthetics for $3 each?
+
+Can't wait for the series to become niche and die like the other strategy games except Civilization. First sign is that Total War Arena is becoming a thing, turning RTS into MOBA like they did with DoW:WH40k. My god they need to kill the series before it becomes a complete joke.
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 08 Mar 2018, 17:46]
+Chill man.
+
+Total war ain't going nowhere. They went back to Rome 2 since its still very played and sold more than Attila. Its not like they are forcing you to buy the DLC. They have some teams, one developing the historical three kingdoms title, one working on DLC for TWW2, and a small bunch of devs that did the Empire divided and now this DLC as a way to give historical fans something to play while they wait.
+
+I assume us legit R2 owners will need the new startpos files no, or are all the files in the patch?
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 08 Mar 2018, 19:42]
+Total.War.Rome.II.Empire.Divided.Update.v2.3.0.Build.18349.incl.DLC-CODEX
+
+ Spoiler
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 08 Mar 2018, 19:42]
+
+_________________
+The FAQ are you waiting for?
+
+A wild PASSWORD appeared for protected archives & files on RIN! Member used cs.rin.ru ...it's super effective!
+
+Having problems downloading from Google Drive? Click here.
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 08 Mar 2018, 19:48]
+guto8797 wrote:
+Chill man.
+
+Total war ain't going nowhere. They went back to Rome 2 since its still very played and sold more than Attila. Its not like they are forcing you to buy the DLC. They have some teams, one developing the historical three kingdoms title, one working on DLC for TWW2, and a small bunch of devs that did the Empire divided and now this DLC as a way to give historical fans something to play while they wait.
+
+I assume us legit R2 owners will need the new startpos files no, or are all the files in the patch?
+
+
+DLC files are inside game archives (no new pack files).
+
+Here are startpos files for new DLC
+
+ Spoiler
+http://www90.zippyshare.com/v/zCXWiBUk/file.html
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 08 Mar 2018, 19:48]
+
+_________________
+Haters gonna hate!
+My updates are always clean files - no cracks included.
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 08 Mar 2018, 19:57]
+guto8797 wrote:
+Chill man.
+
+Total war ain't going nowhere. They went back to Rome 2 since its still very played and sold more than Attila. Its not like they are forcing you to buy the DLC. They have some teams, one developing the historical three kingdoms title, one working on DLC for TWW2, and a small bunch of devs that did the Empire divided and now this DLC as a way to give historical fans something to play while they wait.
+
+I assume us legit R2 owners will need the new startpos files no, or are all the files in the patch?
+
+
+I just updated my game on Steam, added the dlc number to my CreamAPI, and was able to select the Desert Kingdoms. It loaded fine and I did not have any missing textures that I noticed.
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 08 Mar 2018, 20:04]
+could someone upload sfv from the fully updated game ?
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 08 Mar 2018, 20:10]
+nigmo wrote:
+guto8797 wrote:
+Chill man.
+
+Total war ain't going nowhere. They went back to Rome 2 since its still very played and sold more than Attila. Its not like they are forcing you to buy the DLC. They have some teams, one developing the historical three kingdoms title, one working on DLC for TWW2, and a small bunch of devs that did the Empire divided and now this DLC as a way to give historical fans something to play while they wait.
+
+I assume us legit R2 owners will need the new startpos files no, or are all the files in the patch?
+
+
+I just updated my game on Steam, added the dlc number to my CreamAPI, and was able to select the Desert Kingdoms. It loaded fine and I did not have any missing textures that I noticed.
+
+
+
+
+ Spoiler
+Any chance you could hit me with that creamAPI.ini of yours?
+
+Im getting "Invalid Steam application ID, cannot be 0"
+
+
+Nevermind im a dumbass the id was wrong
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 08 Mar 2018, 20:22]
+zachaffin wrote:
+nigmo wrote:
+guto8797 wrote:
+Chill man.
+
+Total war ain't going nowhere. They went back to Rome 2 since its still very played and sold more than Attila. Its not like they are forcing you to buy the DLC. They have some teams, one developing the historical three kingdoms title, one working on DLC for TWW2, and a small bunch of devs that did the Empire divided and now this DLC as a way to give historical fans something to play while they wait.
+
+I assume us legit R2 owners will need the new startpos files no, or are all the files in the patch?
+
+
+I just updated my game on Steam, added the dlc number to my CreamAPI, and was able to select the Desert Kingdoms. It loaded fine and I did not have any missing textures that I noticed.
+
+
+
+
+ Spoiler
+Any chance you could hit me with that creamAPI.ini of yours?
+
+Im getting "Invalid Steam application ID, cannot be 0"
+
+
+Nevermind im a dumbass the id was wrong
+
+
+wait how u crack the dlc with legit version ?
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 08 Mar 2018, 20:29]
+Is there only english language ?
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 08 Mar 2018, 21:13]
+A3you wrote:
+Is there only english language ?
+
+
+I could upload some language packs for latest version. What language you need?
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 08 Mar 2018, 21:13]
+
+_________________
+Haters gonna hate!
+My updates are always clean files - no cracks included.
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 08 Mar 2018, 21:17]
+Italian =)
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 08 Mar 2018, 21:23]
+if you can and Russian please.
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 08 Mar 2018, 21:23]
+
+_________________
+Sorry for my English, I use Google translate. 
+CSF - Clean Steam files. Crack not included. If you don't know the password, read the FAQ. If I missed a new update, send a request to the PM.

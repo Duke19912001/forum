@@ -1,0 +1,220 @@
+=========================================
+STRONA 257 (URL: https://cs.rin.ru/forum/viewtopic.php?f=10&t=61441&hilit=rome+2&start=3840)
+=========================================
+
+[Data: Sunday, 18 Mar 2018, 23:52]
+Does anyone have creamapi for the latest version? Thanks in advance.
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 19 Mar 2018, 03:44]
+L1tchZ wrote:
+starpos uploaded  I can't upload the rest, these files are so big and my co is pretty bad 
+
+
+Thank you so much :3.
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 19 Mar 2018, 12:49]
+encyclopedia doesn’t work ! how to enable it
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 19 Mar 2018, 12:55]
+XxVeltruZxX wrote:
+encyclopedia doesn’t work ! how to enable it
+Get viewtopic.php?p=1656140#p1656140
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 19 Mar 2018, 12:55]
+
+_________________
+Frequently Asked Questions
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 19 Mar 2018, 12:59]
+thanks so much
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 19 Mar 2018, 21:47]
+Jaimewneto wrote:
+Could someone upload:
+
+- local_en.pack
+- local_en_shared_rome2.pack
+- music_en_shared_rome2.pack
+
+please.
+
+
+https://drive.google.com/file/d/1EIoMUR ... sp=sharing
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 20 Mar 2018, 21:24]
+New update out.
+
+If shitty Steam would let me download, i could share a update...
+
+Edit: Ok there will be no patch from me, because every fucking language has changed again. Too much, sorry.
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 20 Mar 2018, 21:24]
+
+_________________
+Haters gonna hate!
+My updates are always clean files - no cracks included.
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 20 Mar 2018, 23:35]
+Total.War.Rome.II.Empire.Divided.Update.v2.3.0.Build.18462-CODEX
+
+ NFO
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 20 Mar 2018, 23:35]
+
+_________________
+I've received multiple messages in which people expressed their desire to support my work in RIN; I appreciate your care, but I have all support I need; consider instead to support the developers of the games you actually enjoy. Rui
+
+
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 20 Mar 2018, 23:57]
+Rui wrote:
+Total.War.Rome.II.Empire.Divided.Update.v2.3.0.Build.18462-CODEX
+
+ NFO
+
+
+english only?someone can provide other languages??ty
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 21 Mar 2018, 10:11]
+CreamAPI Bundle for Total War Rome II Empire Divided v2.3.0.Build.18462
+
+Requires Total War: ROME II - Emperor Edition on steam and other DLC (if there are... can't remember what the EE edition included).
+This will only unlock the Desert Kingdoms Culture Pack and Empire Divided.
+
+Just copy the files into the steam directory
+
+Code: Select all | Line number On/Off | Expand/Contract
+.\steamapps\common\Total War Rome II
+
+
+CreamAPI is included and configured. It is quite possible that future steam updates will break the bundle so enjoy it while it lasts...
+
+Download:
+
+Code: Select all | Line number On/Off | Expand/Contract
+http://www17.zippyshare.com/v/JDvyHauN/file.html
+https://openload.co/f/ac-dGmBUP7s/Total ... .18462.rar
+https://filescdn.com/nor63v9touy7
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 21 Mar 2018, 16:06]
+Total War Rome II GERMAN Language Update v2.3.0.Build.18462
+
+ Spoiler
+https://filecrypt.cc/Container/2297C06356.html
+
+
+Needed:
+Total.War.Rome.II.Empire.Divided-CODEX
+Total.War.Rome.II.Empire.Divided.Update.v2.3.0.Build.18349.incl.DLC-CODEX
+Total.War.Rome.II.Empire.Divided.Update.v2.3.0.Build.18462-CODEX
++ GERMAN Language Pack (search a few pages back)
+
+After patching, delete ALL ENGLISH language files or back them up (just in case PLAZA won't do it multilangual).
+
+"Other languages please?" Nope, not from me, sorry. It's too much.
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 21 Mar 2018, 16:06]
+
+_________________
+Haters gonna hate!
+My updates are always clean files - no cracks included.
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 21 Mar 2018, 22:34]
+If someone could provide italian language we'll be grateful. Thanks a lot
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 22 Mar 2018, 21:15]
+Can you please upload updated italian language russian brother?
+In Italy have won the election two parties against sanctions against Russia to have them removed as soon as possible.
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 23 Mar 2018, 01:24]
+Hi. Spanish, please? Thanks.
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 23 Mar 2018, 01:42]
+knabberfee wrote:
+FRENCH for v2.3.0.Build.18349
+
+ Spoiler
+http://protectlinks.org/DPjsE
+
+
+GERMAN for v2.3.0.Build.18349
+
+ Spoiler
+http://protectlinks.org/G6LLN
+
+
+ITALIAN for v2.3.0.Build.18349
+
+ Spoiler
+http://protectlinks.org/xgxQ5
+
+
+RUSSIAN for v2.3.0.Build.18349
+
+ Spoiler
+http://protectlinks.org/vGoNf
+
+
+---
+
+CZECH for v2.3.0.Build.18349
+
+ Spoiler
+http://protectlinks.org/95pfp
+
+
+SPANISH for v2.3.0.Build.18349
+
+ Spoiler
+http://protectlinks.org/kUPMk
+
+
+POLISH for v2.3.0.Build.18349
+
+ Spoiler
+http://protectlinks.org/htBpG
+
+
+TURKISH for v2.3.0.Build.18349
+
+ Spoiler
+http://protectlinks.org/TWk6L
+
+
+All LANGUAGES PACKS are here thanks to KNABBERFEE.

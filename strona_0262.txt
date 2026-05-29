@@ -1,0 +1,218 @@
+=========================================
+STRONA 262 (URL: https://cs.rin.ru/forum/viewtopic.php?f=10&t=61441&hilit=rome+2&start=3915)
+=========================================
+
+[Data: Wednesday, 09 May 2018, 10:42]
+You need to grab the DLC files out of a cracked release, steamrip, etc.. and put them in your game directory + CreamAPI configured properly.
+
+You need the DLC files for the following DLCs:
+
+ Spoiler
+Total War: ROME II - Empire Divided
+Total War: ROME II - Blood & Gore
+Total War: ROME II - Hannibal at the Gates
+Total War: ROME II - Caesar in Gaul
+Total War: ROME II - Nomadic Tribes Culture Pack
+
+
+After you collected them, put them into your game directory, get CreamAPI from the original thread & follow the instructions.
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 09 May 2018, 10:42]
+
+_________________
+The FAQ are you waiting for?
+
+A wild PASSWORD appeared for protected archives & files on RIN! Member used cs.rin.ru ...it's super effective!
+
+Having problems downloading from Google Drive? Click here.
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 09 May 2018, 12:35]
+Venom wrote:
+You need to grab the DLC files out of a cracked release, steamrip, etc.. and put them in your game directory + CreamAPI configured properly.
+
+You need the DLC files for the following DLCs:
+
+ Spoiler
+Total War: ROME II - Empire Divided
+Total War: ROME II - Blood & Gore
+Total War: ROME II - Hannibal at the Gates
+Total War: ROME II - Caesar in Gaul
+Total War: ROME II - Nomadic Tribes Culture Pack
+
+
+After you collected them, put them into your game directory, get CreamAPI from the original thread & follow the instructions.
+
+
+
+Damn. So I have to download everything from the start? Okay, great. Thanks for the help. I'll start getting everything now.
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 09 May 2018, 17:13]
+ceugene0310 wrote:
+Venom wrote:
+You need to grab the DLC files out of a cracked release, steamrip, etc.. and put them in your game directory + CreamAPI configured properly.
+
+You need the DLC files for the following DLCs:
+
+ Spoiler
+Total War: ROME II - Empire Divided
+Total War: ROME II - Blood & Gore
+Total War: ROME II - Hannibal at the Gates
+Total War: ROME II - Caesar in Gaul
+Total War: ROME II - Nomadic Tribes Culture Pack
+
+
+After you collected them, put them into your game directory, get CreamAPI from the original thread & follow the instructions.
+
+
+
+Damn. So I have to download everything from the start? Okay, great. Thanks for the help. I'll start getting everything now.
+
+
+Yeah I kinda wish people would put the DLC packs separately like all the Paradox Games threads. But that would be asking for too much, great work nonetheless for everyone involved 
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 11 May 2018, 03:40]
+I have downloaded the necessary files and cracked my installation, but LumaCEG keeps crashing. I need help with CreamAPI.
+
+Thanks in advance.
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 11 May 2018, 05:39]
+I have 0 clue about Luma, but here's what I wrote how to get the DLCs for legit owner: viewtopic.php?p=1692379#p1692379
+
+Everything else should be easy, since you basically only need to follow the instructions from the CreamAPI thread. And make sure your CreamAPI.ini is configured properly.
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 11 May 2018, 05:39]
+
+_________________
+The FAQ are you waiting for?
+
+A wild PASSWORD appeared for protected archives & files on RIN! Member used cs.rin.ru ...it's super effective!
+
+Having problems downloading from Google Drive? Click here.
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 11 May 2018, 13:10]
+I just realized the CreamAPI thread is separate, lol. Thanks for the help!
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 14 May 2018, 00:01]
+Hi, can someone tell me where to find the full game? I can't find it anywhere, jst the updates. Thanks.
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 14 May 2018, 00:12]
+TheKiller1715 wrote:
+Hi, can someone tell me where to find the full game? I can't find it anywhere, jst the updates. Thanks.
+
+On goodolddownloads (GOD). You can find the download for the full CODEX ISO and the updates.
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 14 May 2018, 09:42]
+ahmadmob wrote:
+TheKiller1715 wrote:
+Hi, can someone tell me where to find the full game? I can't find it anywhere, jst the updates. Thanks.
+
+On goodolddownloads (GOD). You can find the download for the full CODEX ISO and the updates.
+
+Does it have all dlc and all that? (Sorry for so much questions)
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 14 May 2018, 17:51]
+TheKiller1715 wrote:
+Does it have all dlc and all that? (Sorry for so much questions)
+Yes.
+You might also wanna get this viewtopic.php?p=1667081#p1667081 to enable the Encyclopedia.
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 14 May 2018, 17:51]
+
+_________________
+Frequently Asked Questions
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 14 May 2018, 21:48]
+Hi, I downloaded the game from goodolddownloads and when I try to run it an error message appears saying that "Rome2.dll is not designed to run on Windows or contains an error. State of the error 0xc000007b." Any clues on what does it mean and how can I solve it?
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 19 May 2018, 21:24]
+UberPsyX wrote:
+Steamworks Fix for Total War Rome II v2.3.0.
+
+Credits:
+- CODEX (Crack Solution)
+- deadmau5 (CreamAPI)
+
+
+Creamapi doesnt work. It disables steam workshop.
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 21 May 2018, 23:40]
+Have anyone figured out how to run the cracked game with mods? Mod manager doesn't work, and setting up the user.scripts.txt doesn't load mods either.
+
+If not, is anyone able to run the legit normal game + creamapi for all the dlcs?
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 30 May 2018, 22:06]
+knabberfee wrote:
+I can upload DLC files only, you have to set-up CAPI for yourself then.
+
+Edit:
+Here are DLC only files for v2.3.0.Build.18513
+
+
+ Spoiler
+Code: Select all | Line number On/Off | Expand/Contract
+https://multiup.org/e79a68e8fab5a667515f0fd3112ede7c
+https://multiup.org/533e521dd45a3adb6b1f824f9d375192
+ 
+
+
+Thanks for this bro. Just tried it out and works perfectly
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 08 Jun 2018, 09:37]
+I dont remember how, but i managed to make mods work.
+
+You need to download a mod manager from TWcenter.
+
+Just google it.
+
+-- Edit --
+
+
+ahmadmob wrote:
+TheKiller1715 wrote:
+Hi, can someone tell me where to find the full game? I can't find it anywhere, jst the updates. Thanks.
+
+On goodolddownloads (GOD). You can find the download for the full CODEX ISO and the updates.
+
+
+And actually I cant find it.
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 08 Jun 2018, 09:37]
+
+_________________
+Always use search before asking, will save you time!

@@ -1,0 +1,183 @@
+=========================================
+STRONA 282 (URL: https://cs.rin.ru/forum/viewtopic.php?f=10&t=61441&hilit=rome+2&start=4215)
+=========================================
+
+[Data: Friday, 14 Sep 2018, 18:03]
+Hey, just wanted to ask if there is any way I can play with the Divide et Impera mod.
+
+I tried moving the .pack and .png files to the data folder but it doesn't load it.
+
+So yeah, can I play with mods? Or I have to buy the game to play with mods?
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 14 Sep 2018, 18:46]
+Read the first page. It's mentioned there how to play with mods.
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 14 Sep 2018, 18:46]
+
+_________________
+The FAQ are you waiting for?
+
+A wild PASSWORD appeared for protected archives & files on RIN! Member used cs.rin.ru ...it's super effective!
+
+Having problems downloading from Google Drive? Click here.
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 14 Sep 2018, 19:46]
+When I use the Mod Manager and click Launch, it starts steam.
+And when I try the manual way, it crashes.
+HELP!
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 14 Sep 2018, 20:45]
+maxthethrax wrote:
+When I use the Mod Manager and click Launch, it starts steam.
+And when I try the manual way, it crashes.
+HELP!
+
+
+
+Just use the modmanager I posted in the Shogun2 thread, it's valid for both games.
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 14 Sep 2018, 22:18]
+Thanks a lot! 
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 15 Sep 2018, 12:16]
+if i just get rome II rise of the republic and update it for the two following patches i'll have a full release with all the dlcs included? asking because codex release is just 17gb, when standard version around 36gb
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 15 Sep 2018, 18:23]
+Hey, I wanted to use Divide et Impera mod but I think my game is out of date (it crashes when starting with mods ON). my current version is : v2.2.0 17561.1238328* which updates do I need and where can I get them?
+Thanks for the upload btw 
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 16 Sep 2018, 02:11]
+dunklunk wrote:
+Hey, I wanted to use Divide et Impera mod but I think my game is out of date (it crashes when starting with mods ON). my current version is : v2.2.0 17561.1238328* which updates do I need and where can I get them?
+Thanks for the upload btw 
+
+To be honest, it would be better for you if you the following path to be up to date, since you're quite some time behind.
+
+ Spoiler
+Total.War.Rome.II.Rise.of.the.Republic-CODEX
++
+Total.War.Rome.II.Rise.of.the.Republic.Update.v2.4.0.19581-CODEX
++
+Total.War.Rome.II.Rise.of.the.Republic.Update.v2.4.0.19683-CODEX
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 16 Sep 2018, 02:11]
+
+_________________
+The FAQ are you waiting for?
+
+A wild PASSWORD appeared for protected archives & files on RIN! Member used cs.rin.ru ...it's super effective!
+
+Having problems downloading from Google Drive? Click here.
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 16 Sep 2018, 10:40]
+Venom wrote:
+To be honest, it would be better for you if you the following path to be up to date, since you're quite some time behind.
+
+ Spoiler
+Total.War.Rome.II.Rise.of.the.Republic-CODEX
++
+Total.War.Rome.II.Rise.of.the.Republic.Update.v2.4.0.19581-CODEX
++
+Total.War.Rome.II.Rise.of.the.Republic.Update.v2.4.0.19683-CODEX
+
+
+Thanks. Are the links all in this thread? (sorry but its like 280 pages here just want to make sure before going through them)
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 16 Sep 2018, 11:03]
+dunklunk wrote:
+Venom wrote:
+To be honest, it would be better for you if you the following path to be up to date, since you're quite some time behind.
+
+ Spoiler
+Total.War.Rome.II.Rise.of.the.Republic-CODEX
++
+Total.War.Rome.II.Rise.of.the.Republic.Update.v2.4.0.19581-CODEX
++
+Total.War.Rome.II.Rise.of.the.Republic.Update.v2.4.0.19683-CODEX
+
+
+Thanks. Are the links all in this thread? (sorry but its like 280 pages here just want to make sure before going through them)
+
+
+No, because scene links are not allowed here. Search on goodolddownloads(dot)com and your favourite download site
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 16 Sep 2018, 11:03]
+
+_________________
+Haters gonna hate!
+My updates are always clean files - no cracks included.
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 16 Sep 2018, 12:45]
+knabberfee wrote:
+dunklunk wrote:
+Venom wrote:
+To be honest, it would be better for you if you the following path to be up to date, since you're quite some time behind.
+
+ Spoiler
+Total.War.Rome.II.Rise.of.the.Republic-CODEX
++
+Total.War.Rome.II.Rise.of.the.Republic.Update.v2.4.0.19581-CODEX
++
+Total.War.Rome.II.Rise.of.the.Republic.Update.v2.4.0.19683-CODEX
+
+
+Thanks. Are the links all in this thread? (sorry but its like 280 pages here just want to make sure before going through them)
+
+
+No, because scene links are not allowed here. Search on goodolddownloads(dot)com and your favourite download site
+
+
+
+Thank you sooo much dude, really appreciate it 
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 17 Sep 2018, 21:25]
+i've just used polish language pack updated by venom on 10th of august, downloaded and replaced 'data' folder. now i have polish words, but when it come to diacritical marks like ę ą ó ż ź and every other it appear just as some bushes, game is very hard to play because of this. i did something wrong, bad installation maybe? i shouldn't replace original data folder? how to deal with this?
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 18 Sep 2018, 17:53]
+farwell wrote:
+i've just used polish language pack updated by venom on 10th of august, downloaded and replaced 'data' folder. now i have polish words, but when it come to diacritical marks like ę ą ó ż ź and every other it appear just as some bushes, game is very hard to play because of this. i did something wrong, bad installation maybe? i shouldn't replace original data folder? how to deal with this?
+
+
+
+Yes... we need polish fonts from "(...)data\encyclopedia\bootstrap\font" . Anyone? 
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 23 Sep 2018, 16:40]
+anyone have italian language file for last version of the game??? thanks...
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 24 Sep 2018, 10:18]
+hey so basically i download the scenes from G o d AND then what do i do?
+thanks

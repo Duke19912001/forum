@@ -1,0 +1,217 @@
+=========================================
+STRONA 299 (URL: https://cs.rin.ru/forum/viewtopic.php?f=10&t=61441&hilit=rome+2&start=4470)
+=========================================
+
+[Data: Saturday, 10 Aug 2019, 01:11]
+Thx Venom
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 10 Aug 2019, 04:03]
+@Venom
+Thank you so much mate; Can you just confirm this: is this the missing DLCs or DLCs that do not come with base game (the ones that dont automatically gets downloaded with base)?
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 10 Aug 2019, 11:04]
+shima_momy wrote:
+@Venom
+Thank you so much mate; Can you just confirm this: is this the missing DLCs or DLCs that do not come with base game (the ones that dont automatically gets downloaded with base)?
+
+Those are the DLCs knabberfee and me uploaded together, so All in One.
+
+ Spoiler
+Total War: ROME II - Nomadic Tribes Culture Pack
+Total War: ROME II - Caesar in Gaul
+Total War: ROME II - Hannibal at the Gates
+Total War: ROME II - Blood & Gore
+Total War: ROME II - Wrath of Sparta DLC
+Total War: ROME II - Rise of the Republic Campaign Pack
+
+
+You're able to unlock every other DLC just fine, since you don't need the DLCs files for the others. Only the ones above have a own depot.
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 10 Aug 2019, 11:04]
+
+_________________
+The FAQ are you waiting for?
+
+A wild PASSWORD appeared for protected archives & files on RIN! Member used cs.rin.ru ...it's super effective!
+
+Having problems downloading from Google Drive? Click here.
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 10 Aug 2019, 18:22]
+@Venom
+Mate you are Legend, can I ask that you would add this to OP's post, or make a mod do it for us.
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 10 Aug 2019, 18:35]
+shima_momy wrote:
+@Venom
+Mate you are Legend, can I ask that you would add this to OP's post, or make a mod do it for us.
+
+Done.
+
+
+@Venom Thanks for reuploading ^^
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 10 Aug 2019, 18:35]
+
+_________________
+Always wanted to get rid of the files that were not listed in the sfv/md5 hash file? Check the QuickSFV plugin I created for this: viewtopic.php?f=10&t=108605 or this: viewtopic.php?p=1273745#p1273745
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 10 Aug 2019, 18:37]
+shima_momy wrote:
+@Venom
+Mate you are Legend, can I ask that you would add this to OP's post, or make a mod do it for us.
+
+He's a mod 
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 12 Aug 2019, 00:04]
+Hi guys, I downloaded the game from here and tried to crack with creamapi or steamworks and the game crash after the first loading logo -The white one- Help please
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 12 Aug 2019, 00:04]
+
+_________________
+Trying to be polite, since english isn't my native language sometimes I can sound rude, sorry for that, it is not my intention.
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 13 Aug 2019, 18:57]
+necromenta wrote:
+Hi guys, I downloaded the game from here and tried to crack with creamapi or steamworks and the game crash after the first loading logo -The white one- Help please
+
+
+What version are you on and which files did you download for the game?
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 13 Aug 2019, 18:57]
+
+_________________
+Always wanted to get rid of the files that were not listed in the sfv/md5 hash file? Check the QuickSFV plugin I created for this: viewtopic.php?f=10&t=108605 or this: viewtopic.php?p=1273745#p1273745
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 14 Aug 2019, 05:48]
+Anomaly wrote:
+necromenta wrote:
+Hi guys, I downloaded the game from here and tried to crack with creamapi or steamworks and the game crash after the first loading logo -The white one- Help please
+
+
+What version are you on and which files did you download for the game?
+
+
+Sadly I dont remember, it was 4 parts in google drive, then I downloaded the spanish language pack and unziped it, the game shows the initial logo but then it just closes. :/
+
+If I have to download it again. can someone provide me a good, working link with the whole game and dlc?
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 14 Aug 2019, 05:48]
+
+_________________
+Trying to be polite, since english isn't my native language sometimes I can sound rude, sorry for that, it is not my intention.
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 14 Aug 2019, 11:09]
+necromenta wrote:
+Anomaly wrote:
+necromenta wrote:
+Hi guys, I downloaded the game from here and tried to crack with creamapi or steamworks and the game crash after the first loading logo -The white one- Help please
+
+
+What version are you on and which files did you download for the game?
+
+
+Sadly I dont remember, it was 4 parts in google drive, then I downloaded the spanish language pack and unziped it, the game shows the initial logo but then it just closes. :/
+
+If I have to download it again. can someone provide me a good, working link with the whole game and dlc?
+
+download this game clean steam files from here viewtopic.php?f=22&t=91771&hilit=rome+2+total+war then use smartsteamemu from page 295. If this does not work try to install all the Microsoft Visual C++ Redistributable for the game.
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 14 Aug 2019, 11:11]
+Rui wrote:
+bigbluetrongt wrote:
+@ Rui: Thank you very much for the upload. Would you be so kind as to upload the Spanish files?. I would greatly appreciate it. Cheers.
+
+Depot IDs:
+214963 spanish_shared 959.43 MiB Spanish
+214964 spanish_rome2 1.74 GiB Spanish
+
+Sure!
+
+In fact, I uploaded ALL language packs instead 
+
+
+ ALL LANGUAGE PACKS
+Code: Select all | Line number On/Off | Expand/Contract
+https://privatebin.rinuploads.org/?0bc0 ... kUJOIxc1g= [May link to unsafe filehosters]
+
+
+Would be good if this could find it's way to the OP 
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 14 Aug 2019, 11:11]
+
+_________________
+Haters gonna hate!
+My updates are always clean files - no cracks included.
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 14 Aug 2019, 19:45]
+Thats the version I downloaded, Only thing I did is download the spanish language pack, sadly I need to download it again because I erased it... But I will try
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 14 Aug 2019, 19:45]
+
+_________________
+Trying to be polite, since english isn't my native language sometimes I can sound rude, sorry for that, it is not my intention.
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 19 Aug 2019, 11:39]
+Does anyone have the german-language.bin from the fitgirl release?
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 19 Aug 2019, 12:12]
+o0Pascal0o wrote:
+Does anyone have the german-language.bin from the fitgirl release?
+
+You can grab the file from one of her torrents, which will give you the option to choose which file you want to download. If you dare to try torrents 
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 19 Aug 2019, 12:12]
+
+_________________
+The FAQ are you waiting for?
+
+A wild PASSWORD appeared for protected archives & files on RIN! Member used cs.rin.ru ...it's super effective!
+
+Having problems downloading from Google Drive? Click here.
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 19 Aug 2019, 13:04]
+Ah o.k., thx. That will work.

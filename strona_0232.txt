@@ -1,0 +1,191 @@
+=========================================
+STRONA 232 (URL: https://cs.rin.ru/forum/viewtopic.php?f=10&t=61441&hilit=rome+2&start=3465)
+=========================================
+
+[Data: Wednesday, 07 Jun 2017, 11:09]
+knabberfee wrote:
+Click the link in the quote just one post above yours 
+
+
+^^^ Thx sry i didn't look upwards or even few pages back, but i felt overwhelmed amount of links of first page.
+My bad
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 09 Jun 2017, 13:42]
+rm978 wrote:
+knabberfee wrote:
+Click the link in the quote just one post above yours 
+
+
+^^^ Thx sry i didn't look upwards or even few pages back, but i felt overwhelmed amount of links of first page.
+My bad
+
+
+Can't really fault you. It wouldn't hurt if the OP linked to a more direct way of getting the latest files. Maybe I'll get on it later today.
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 09 Jun 2017, 13:42]
+
+_________________
+Always wanted to get rid of the files that were not listed in the sfv/md5 hash file? Check the QuickSFV plugin I created for this: viewtopic.php?f=10&t=108605 or this: viewtopic.php?p=1273745#p1273745
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 09 Jun 2017, 13:44]
+Anomaly wrote:
+rm978 wrote:
+knabberfee wrote:
+Click the link in the quote just one post above yours 
+
+
+^^^ Thx sry i didn't look upwards or even few pages back, but i felt overwhelmed amount of links of first page.
+My bad
+
+
+Can't really fault you. It wouldn't hurt if the OP linked to a more direct way of getting the latest files. Maybe I'll get on it later today.
+
+
+Well, in fact, there is a link to that, namely "Some tut with links for noobs who dont know what to do.."
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 09 Jun 2017, 13:44]
+
+_________________
+Haters gonna hate!
+My updates are always clean files - no cracks included.
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 09 Jun 2017, 16:24]
+knabberfee wrote:
+Anomaly wrote:
+Can't really fault you. It wouldn't hurt if the OP linked to a more direct way of getting the latest files. Maybe I'll get on it later today.
+
+
+Well, in fact, there is a link to that, namely "Some tut with links for noobs who dont know what to do.."
+
+
+Ah, I must have overlooked that ^^ Well, that's good enough for me and it'll save me the trouble of gathering links / creating a summary.
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 09 Jun 2017, 16:24]
+
+_________________
+Always wanted to get rid of the files that were not listed in the sfv/md5 hash file? Check the QuickSFV plugin I created for this: viewtopic.php?f=10&t=108605 or this: viewtopic.php?p=1273745#p1273745
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 15 Jun 2017, 09:45]
+The game won't launch on Windows 10. Any help?
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 15 Jun 2017, 10:01]
+Captain Orange wrote:
+The game won't launch on Windows 10. Any help?
+
+surely its NOT an OS issue. so make sure all redist are updated!
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 15 Jun 2017, 10:21]
+machine4578 wrote:
+Captain Orange wrote:
+The game won't launch on Windows 10. Any help?
+
+surely its NOT an OS issue. so make sure all redist are updated!
+
+
+How to do this?
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 15 Jun 2017, 21:36]
+I am trying to get the dlc working for a legit copy using creamAPI. I searched the thread and found uploads of creamapi settings however the dl link is no longer working. I used the tool in the OP for creamapi to get the config, however the game won't launch. Hoping someone can upload a working creamapi config for this game (unless I missed a working link in my search). Thanks!
+
+Edit : CaptainOrange, go to the redist folder and you will find vc_ something, run the 3 exe's and choose the option to repair.
+
+Edit 2 : If someone could copy and paste the creamapi config as a response, that may be better.. this way in a few months when the link breaks someone may still be able to find what they need.
+
+Final Edit : Game is working fine, copied all the DLC from prophet and put into data (only packs from data to my own). Game boots fine in that state. When I then replace steam_api (as well as the other two from creamapi) the launcher boots, but when i hit play game it trys to start, and then closes before opening. If i put the original steam_api back, it goes back to working.
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 16 Jun 2017, 14:57]
+Okay, I tried installing the redist, but still won't start.
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 21 Jun 2017, 08:11]
+Okay, I fixed it. Turns out, I don't have the appropriate DirectX files.
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 27 Jun 2017, 19:23]
+OH MY LORD! I am so frustrated with this "LumaCEG (1)" crash... i have looked for a fix all over the internet and it got me here, i done all those noob steps that everyone keeps posting on this thread, i've redownloaded and reinstalled many versions of the game and many cracks and crack fixes over the last few days, even downloading many other files that supposed to fix everything... All i found out is that it might be a preference.script issue but all the fixes associated with it didn't help either... I'm begging you kind people to help me out here cause apparently it's uncommon and i haven't seen anyone bring it up on here yet.
+
+Appreciated in advance.
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 06 Jul 2017, 06:58]
+Can anyone share Turkish language pack ?
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 06 Jul 2017, 11:54]
+aseryo37 wrote:
+Can anyone share Turkish language pack ?
+
+https://mega.nz/#F!R8R0EChT!GNQhhKNM15cADUfT-KekSA
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 06 Jul 2017, 11:54]
+
+_________________
+Haters gonna hate!
+My updates are always clean files - no cracks included.
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 06 Jul 2017, 15:38]
+Guys, can we add dlc to original game? If we can, someone tell me please.
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 06 Jul 2017, 16:04]
+ShadowDuke wrote:
+Yes you can, use search, answered million times already. Hint; cream_api would be the easiest way, or hexedit your packageinfo.vdf.
+
+
+
+Christsnatcher wrote:
+Here're the contents of all DLC depots (except Hannibal at the Gates which I don't have legit access to) as requested in the CreamAPI topic. 
+
+Blood & Gore
+
+https://openload.co/f/Dj_35dKiSzA
+
+Caesar in Gaul
+
+https://openload.co/f/ufLDln4DTxA
+
+Nomadic Tribes Culture Pack
+
+https://openload.co/f/KM1u4oNbqko
+
+Wrath of Sparta
+
+https://openload.co/f/gD6gc77XGrA
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 06 Jul 2017, 16:04]
+
+_________________
+Not reading the forum rules is a rules violation viewtopic.php?f=10&t=44034

@@ -1,0 +1,206 @@
+=========================================
+STRONA 277 (URL: https://cs.rin.ru/forum/viewtopic.php?f=10&t=61441&hilit=rome+2&start=4140)
+=========================================
+
+[Data: Saturday, 18 Aug 2018, 19:47]
+Can someone give me Link to download Full Game (Updated with alle DLCs if possible) ?
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 18 Aug 2018, 19:55]
+Marstaw wrote:
+Can someone give me Link to download Full Game (Updated with alle DLCs if possible) ?
+Venom wrote:
+Total.War.Rome.II.Rise.of.the.Republic-CODEX
+
++
+
+Total.War.Rome.II.Rise.of.the.Republic.Update.v2.4.0.19581-CODEX
+You'll find both on goodolddownloads.
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 18 Aug 2018, 19:55]
+
+_________________
+Frequently Asked Questions
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 18 Aug 2018, 20:24]
+Could upload it later today. Will be in SCS section then.
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 18 Aug 2018, 20:24]
+
+_________________
+Haters gonna hate!
+My updates are always clean files - no cracks included.
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 18 Aug 2018, 22:08]
+That would be great, and I'm sure the upload crew (and pretty much the whole community) would appreciate the help!
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 18 Aug 2018, 22:08]
+
+_________________
+I've received multiple messages in which people expressed their desire to support my work in RIN; I appreciate your care, but I have all support I need; consider instead to support the developers of the games you actually enjoy. Rui
+
+
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 20 Aug 2018, 20:14]
+Is it cool if I link my mod here? I really just need someone on a cracked version to test wether or not it causes the mod manager to start nagging about out of date mods (when just that 1 is enabled) http://www.mediafire.com/?qkoj5ma62cjp7 I've gotten 1 person to test them and they didn't get anything, so I'm extremely confused as to why I keep getting it. Apparently it does nvm
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 23 Aug 2018, 06:58]
+Apologies for the double post 
+
+After some troubleshooting, I may have figured out my issue with my legal version. Kept telling me it was missing the empire divided files (after a completely fresh install, removed every trace of the game) even though I don't own it so I downloaded SniffleCry's upload from 3 pages back but now I'm getting this.
+
+
+Code: Select all | Line number On/Off | Expand/Contract
+campaigns/main_3c/startpos.esf size mismatch
+divided.pack size mismatch
+
+
+Which I guess means they aren't the latest? If that's the case does anyone have the updated ones? Or is this related to something else?
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 23 Aug 2018, 06:58]
+oldage wrote:
+Apologies for the double post 
+
+After some troubleshooting, I may have figured out my issue with my legal version. Kept telling me it was missing the empire divided files (after a completely fresh install) even though I don't own it so I downloaded SniffleCry's upload from 3 pages back but now I'm getting this.
+
+
+Code: Select all | Line number On/Off | Expand/Contract
+campaigns/main_3c/startpos.esf size mismatch
+divided.pack size mismatch
+
+
+Which I guess means they aren't the latest? If that's the case does anyone have the updated ones? Or is this related to something else?
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 23 Aug 2018, 06:58]
+
+_________________
+Haters gonna hate!
+My updates are always clean files - no cracks included.
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 23 Aug 2018, 08:16]
+knabberfee wrote:
+oldage wrote:
+Apologies for the double post 
+
+After some troubleshooting, I may have figured out my issue with my legal version. Kept telling me it was missing the empire divided files (after a completely fresh install) even though I don't own it so I downloaded SniffleCry's upload from 3 pages back but now I'm getting this.
+
+
+Code: Select all | Line number On/Off | Expand/Contract
+campaigns/main_3c/startpos.esf size mismatch
+divided.pack size mismatch
+
+
+Which I guess means they aren't the latest? If that's the case does anyone have the updated ones? Or is this related to something else?
+
+
+
+Thanks man, really. One less thing to worry about.
+
+Edit: Okay I feel really needy but as it seems like most of the campaigns had something patched, so if someone has the updated Caesar in Gaul and Hannibal at the Gates also, I can send you dog pictures in exchange.
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 23 Aug 2018, 09:12]
+Tell me what files changed, will upload them for you.
+
+PS: I prefer cat pictures!
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 23 Aug 2018, 09:12]
+
+_________________
+Haters gonna hate!
+My updates are always clean files - no cracks included.
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 23 Aug 2018, 10:43]
+I think I'm just missing the updated gaul.pack and punic.pack and their startpos files. They're both pretty big so if you know of somewhere else I can get them, I'd take that too.
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 23 Aug 2018, 18:07]
+Guys please can someone share Rome 2's creamapi file?
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 23 Aug 2018, 18:21]
+EziodonVitoo wrote:
+Guys please can someone share Rome 2's creamapi file?
+
+
+It's better if you learn how to do it yourself as it's really easy. viewtopic.php?f=29&t=70576
+If you want to have the "cream_api.ini" file created for you, use this: viewtopic.php?f=29&t=71837
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 23 Aug 2018, 18:21]
+
+_________________
+Always wanted to get rid of the files that were not listed in the sfv/md5 hash file? Check the QuickSFV plugin I created for this: viewtopic.php?f=10&t=108605 or this: viewtopic.php?p=1273745#p1273745
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 23 Aug 2018, 18:27]
+Anomaly wrote:
+EziodonVitoo wrote:
+Guys please can someone share Rome 2's creamapi file?
+
+
+It's better if you learn how to do it yourself as it's really easy. viewtopic.php?f=29&t=70576
+If you want to have the "cream_api.ini" file created for you, use this: viewtopic.php?f=29&t=71837
+
+
+I tried to create but it said original steam_api not found. Why did this happen?
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 23 Aug 2018, 18:42]
+EziodonVitoo wrote:
+Anomaly wrote:
+EziodonVitoo wrote:
+Guys please can someone share Rome 2's creamapi file?
+
+
+It's better if you learn how to do it yourself as it's really easy. viewtopic.php?f=29&t=70576
+If you want to have the "cream_api.ini" file created for you, use this: viewtopic.php?f=29&t=71837
+
+
+I tried to create but it said original steam_api not found. Why did this happen?
+
+
+CreamAPI uses the original "steam_api.dll" file. You have to rename the original Steam API file to "steam_api_o.dll" 
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 23 Aug 2018, 18:42]
+
+_________________
+Always wanted to get rid of the files that were not listed in the sfv/md5 hash file? Check the QuickSFV plugin I created for this: viewtopic.php?f=10&t=108605 or this: viewtopic.php?p=1273745#p1273745
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 24 Aug 2018, 04:31]
+I am wondering if anyone got the assembly kit to successfully compile a startpos. Whenever I try to use BOB to compile a startpos, there is an error that says "Timed out. Couldn't locate launcher and game processes" after the splash screen of the game appeared for 5 minutes and then crashed. I disabled all of the mods, but the error still persists. Does anyone know how to fix this error or if someone can compile the startpos for me? Thanks.

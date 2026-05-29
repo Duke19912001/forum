@@ -1,0 +1,164 @@
+=========================================
+STRONA 214 (URL: https://cs.rin.ru/forum/viewtopic.php?f=10&t=61441&hilit=rome+2&start=3195)
+=========================================
+
+[Data: Thursday, 19 May 2016, 15:00]
+dusan1997pule wrote:
+Hello guys, i am preaty new to this site, and i whanted to ask u guys if someone can reply me how to download this game, last and only game that i download on this site was EU4(Europa Universalis 4) from RezMar and it was preaty easy, but when i come on this page i see a lot of updates and a lot of some "beta" and other link's so that's why i need help what to download and what not. So again if u can help me it would be great.  And last thing, did u guys heard of Total War Rome Warhammer? And do u have some link where i can download that too  Thanks again
+
+read back the last ~10-20 pages. all info and updates needed is posted(except links to the PPT iso). as for TW Warhammer, it has a dedicated topic already in main forum and the game is not yet released.
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 19 May 2016, 18:10]
+Machine wants you to take a reading course ^^ All the information regarding your Rome II question is on the last 2-3 pages. Send me a PM if you need links for Prophet's release.
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 19 May 2016, 18:10]
+
+_________________
+Always wanted to get rid of the files that were not listed in the sfv/md5 hash file? Check the QuickSFV plugin I created for this: viewtopic.php?f=10&t=108605 or this: viewtopic.php?p=1273745#p1273745
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 22 May 2016, 03:44]
+EDIT: Nevermind... saw the new link 2 or 3 pages back (wish the first post was updated with the new links to prevent posts like mine ).
+
+Any chance for a Total.War.ROME.II.Update.v2.2.0.15666-v2.2.0.16019 re-up? The link is dead...
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 22 May 2016, 06:37]
+v0gisz wrote:
+EDIT: Nevermind... saw the new link 2 or 3 pages back (wish the first post was updated with the new links to prevent posts like mine ).
+
+Any chance for a Total.War.ROME.II.Update.v2.2.0.15666-v2.2.0.16019 re-up? The link is dead...
+
+i posted new links 2 pages back on 212! 
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 25 May 2016, 16:57]
+So I installed the game and its running fine. I used the links machine4578 posted in the last 2 pages and got it updated to the latest v2.2.0.16155 version as well and am using the crack for the -pedia version. But now I notice that whenever I try to play the last 3 DLC campaigns like Caeser in gaul the game keeps crashing with the message LumaCEG crashed. Any help please.
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 25 May 2016, 17:26]
+gaju123 wrote:
+So I installed the game and its running fine. I used the links machine4578 posted in the last 2 pages and got it updated to the latest v2.2.0.16155 version as well and am using the crack for the -pedia version. But now I notice that whenever I try to play the last 3 DLC campaigns like Caeser in gaul the game keeps crashing with the message LumaCEG crashed. Any help please.
+
+try updating to the newest LumaCEG plugin? also could your AV be blocking the plugin?
+viewtopic.php?f=29&t=64354
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 25 May 2016, 21:25]
+machine4578 wrote:
+ok, i will re-upload the Total.War.ROME.II.Update.v2.2.0.16019 update
+
+-edit-
+
+i will actually upload a nice AIO pack with both cracks(pedia and offline) and both updates(16019 and 16155) for the PPT release.
+also note its eng only
+
+-edit-
+
+Total.War.ROME.II.Update.v2.2.0.15666-v2.2.0.16155
+https://openload.co/f/fCi9vlajSgw/Total ... .part1.rar
+https://openload.co/f/K1yJN-iLv3k/Total ... .part2.rar
+
+
+hello
+
+I did this of the AIO-update with "prophet" release and tried both "pedia" and crack and here's my results:
+-copying the stuff of 22016155-pedia-crack lets me run the game but locks gaul, hannibal and sparta dlcs
+-copying the stuff of crack folder lets me run the game with all the dlcs unlocked but without encyclopedia
+
+so..is there any way of running prophet release correctly updated,with dlcs and encyclopedia?
+yes I read everything from page 212 but this is what I got
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 25 May 2016, 21:33]
+@keminsky
+make sure steam is running when using the "pedia fix" crack. if steam is running restart it.
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 25 May 2016, 22:43]
+I've uploaded a new assembly kit for all who are interrested
+
+https://mega.nz/#!DsBV3LyQ!OoFqKBWXVSwC ... eD3Sq4aHnM
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 25 May 2016, 22:43]
+
+_________________
+Haters gonna hate!
+My updates are always clean files - no cracks included.
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 26 May 2016, 07:04]
+machine4578 wrote:
+@keminsky
+make sure steam is running when using the "pedia fix" crack. if steam is running restart it.
+
+
+Oh so that was my problem. I need to be running steam. Thanks.
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 30 May 2016, 20:48]
+Thnx machine4578 for all the work!
+I was able to follow the steps and everything works like a charm with my first installation.
+Too bad the Rome: Total War Music mod doesn't work with the latest patch or this game would finally be good 
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 13 Jun 2016, 06:17]
+I got a prolem  i dowload a 11gb game rome 2 total war empero editon, my verison of the game is v2.0.0 buil 13903( or some thing like that).I go here and dowload update 15 hot fix and begin update,every thing smooth and no eror,but when i copy a crack and play this say "game has stopped working". I continew dowload a file "update 16" and keep update a game,they doing fine and no eror when update,but a crack not working again,i update verison "Update.16.1.Wrath.of.Sparta" and get a prolem again  what will i do now ???
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 13 Jun 2016, 19:18]
+lhnam123 wrote:
+I got a prolem  i dowload a 11gb game rome 2 total war empero editon, my verison of the game is v2.0.0 buil 13903( or some thing like that).I go here and dowload update 15 hot fix and begin update,every thing smooth and no eror,but when i copy a crack and play this say "game has stopped working". I continew dowload a file "update 16" and keep update a game,they doing fine and no eror when update,but a crack not working again,i update verison "Update.16.1.Wrath.of.Sparta" and get a prolem again  what will i do now ???
+
+
+Update to the latest version and check your files with this .sfv file: download/file.php?id=27419
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 13 Jun 2016, 19:18]
+
+_________________
+Always wanted to get rid of the files that were not listed in the sfv/md5 hash file? Check the QuickSFV plugin I created for this: viewtopic.php?f=10&t=108605 or this: viewtopic.php?p=1273745#p1273745
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 15 Jun 2016, 14:54]
+Hello guys.I downloaded rome 2(R.G.Catalyst)which I think is an update 17.But the mod manager does not work anymore.Anyone has any idea how to fix it?Thanks(I am obviously playing outside steam) 
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 17 Jun 2016, 15:37]
+machine4578 wrote:
+ok, i will re-upload the Total.War.ROME.II.Update.v2.2.0.16019 update
+
+-edit-
+
+i will actually upload a nice AIO pack with both cracks(pedia and offline) and both updates(16019 and 16155) for the PPT release.
+also note its eng only
+
+-edit-
+
+Total.War.ROME.II.Update.v2.2.0.15666-v2.2.0.16155
+https://openload.co/f/fCi9vlajSgw/Total ... .part1.rar
+https://openload.co/f/K1yJN-iLv3k/Total ... .part2.rar
+
+
+does Rome ii have registry file ?
+if does can you upload the registry files for Rome 2?

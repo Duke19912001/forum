@@ -1,0 +1,131 @@
+=========================================
+STRONA 207 (URL: https://cs.rin.ru/forum/viewtopic.php?f=10&t=61441&hilit=rome+2&start=3090)
+=========================================
+
+[Data: Thursday, 03 Dec 2015, 22:10]
+that emu doesnt work anymore on the updated game. its for the older version steam_api.dll.
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 03 Dec 2015, 22:13]
+Is there any newer steam_api.dll file?
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 04 Dec 2015, 13:55]
+machine can you answer on my earlier post ? Which components of your PC do you have ?
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 04 Dec 2015, 17:04]
+^^Please read the forum rules about bumping a thread with an already asked question, there's actually a 48 hour limit! Thanks.
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 04 Dec 2015, 17:04]
+
+_________________
+
+
+The standard password is cs.rin.ru
+Please read the Forum Rules and the F.A.Q.
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 04 Dec 2015, 17:57]
+Christsnatcher wrote:
+^^Please read the forum rules about bumping a thread with an already asked question, there's actually a 48 hour limit! Thanks.
+
+
+Ok. Im sorry.
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 04 Dec 2015, 23:43]
+Jorg_the_First wrote:
+Is there any newer steam_api.dll file?
+
+Use this. It's official Mod Manager. I'm playing DeI with this as we speak.
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 05 Dec 2015, 17:05]
+dawixx wrote:
+Jorg_the_First wrote:
+Is there any newer steam_api.dll file?
+
+Use this. It's official Mod Manager. I'm playing DeI with this as we speak.
+
+
+It works! Thak you very much! 
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 06 Dec 2015, 12:12]
+Is there any new working crack to activate the DLCs in a legit version? I have tried several ones but they did not work with the latest version.
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 13 Dec 2015, 20:43]
+How do you make the mods work?
+
+I've searched back over 20 pages and still could not find the method.
+
+Help please?
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 13 Dec 2015, 20:54]
+Lexis wrote:
+How do you make the mods work?
+
+I've searched back over 20 pages and still could not find the method.
+
+Help please?
+
+its been discussed how to make mods work by hex editing just on the last few pages again. please check again.
+
+
+Com_J_B_cora wrote:
+Is there any new working crack to activate the DLCs in a legit version? I have tried several ones but they did not work with the latest version.
+
+use the pedia fix crack i posted for legit game. it should work.
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 14 Dec 2015, 07:06]
+Can you post a new link? I can not find this crack here. And some guys wrote that pedia is not working anymore.
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 14 Dec 2015, 11:57]
+Com_J_B_cora wrote:
+Can you post a new link? I can not find this crack here. And some guys wrote that pedia is not working anymore.
+
+please check the OP, ShadowDuke has the current update listed and a link to my original post. in that post is the pedia crack!
+and it still works fine for me.
+viewtopic.php?p=1119420#p1119420
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 14 Dec 2015, 14:43]
+I'm getting LumaCEG Crashed(1)! When starting the game. Using the pedia crack you just posted. Any clues?
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 14 Dec 2015, 14:47]
+Lexis wrote:
+I'm getting LumaCEG Crashed(1)! When starting the game. Using the pedia crack you just posted. Any clues?
+
+what OS? did you disable your AV? also please search the topic as other posted a similar issue using other crack(i cant remember what the fix is)
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 14 Dec 2015, 14:58]
+Windows 10, tried disabling Windows Defender and running as admin.
+
+Also after removing the first 8 bytes from mods, they stop appearing in mod manager.
+
+I would be really happy if you could remember the fix for these 2 things... searching 220 pages is a huge pain in the ***.
+
+Thanks.

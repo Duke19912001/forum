@@ -1,0 +1,234 @@
+=========================================
+STRONA 222 (URL: https://cs.rin.ru/forum/viewtopic.php?f=10&t=61441&hilit=rome+2&start=3315)
+=========================================
+
+[Data: Friday, 16 Dec 2016, 19:17]
+lululu wrote:
+Anomaly wrote:
+lululu wrote:
+Hey, good night. Could someone reupload the "Total.War.ROME.II.Update.v2.2.0.15666-v2.2.0.16019", please? I tried knabberfee's from this page, but had no success, game started without dlcs and crashing when starting custom battles, campaigns etc. Everything normal with the 15666 build, which is the prophet multi9 version from install, at least from skidrow site. Thank you!
+
+
+Which crack are you using? Prophet's is outdated. You may also want to check your files with this SFV file: download/file.php?id=27419 Here's the crack only for v2.2.0.16155 that machine included in his patch: http://www11.zippyshare.com/v/JNMAtSIk/file.html If it still doesn't work, try running as admin.
+
+
+I used knabberfee's, there's a crack alongside his update. Is it usable with the 15666 build or only 16019? I'll try yours
+
+
+I don't have included any crack in my update. Grab the crack from here.
+
+You can use normal crack (pedia not working there), or the pedia fix for working pedia (steam must be running in background).
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 16 Dec 2016, 19:17]
+
+_________________
+Haters gonna hate!
+My updates are always clean files - no cracks included.
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 16 Dec 2016, 21:29]
+[/quote]I don't have included any crack in my update. Grab the crack from here.
+
+You can use normal crack (pedia not working there), or the pedia fix for working pedia (steam must be running in background).[/quote]
+
+Sorry, man, since your update made a backup of the original .exe and you didn't mention the need of crack I thought yours was already cracked. I tried Anomaly's and everything seems fine except the voices from soldiers and advisors. I remember your post poiting to that (viewtopic.php?p=1123055#p1123055), but I couldn't find the english folder from the mega link. Is it normal? Thank you for the update, and Anomaly as well
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 17 Dec 2016, 11:15]
+"Total.War.ROME.II.Update.v2.2.0.15666-v2.2.0.16019" can someone give me this link ??? main post link is not working !!
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 17 Dec 2016, 12:15]
+Hertzofottoman wrote:
+"Total.War.ROME.II.Update.v2.2.0.15666-v2.2.0.16019" can someone give me this link ??? main post link is not working !!
+
+if i get time i will re-upload today. but also please read forum rules and wait 48hrs to bump topics. you just asked yesterday for a new link. thank you.
+
+-edit-
+
+https://openload.co/f/pk2SirouYcw/Total ... .part1.rar
+https://openload.co/f/TxsRpSOIj-Q/Total ... .part2.rar
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 17 Dec 2016, 14:44]
+machine4578 wrote:
+Hertzofottoman wrote:
+"Total.War.ROME.II.Update.v2.2.0.15666-v2.2.0.16019" can someone give me this link ??? main post link is not working !!
+
+if i get time i will re-upload today. but also please read forum rules and wait 48hrs to bump topics. you just asked yesterday for a new link. thank you.
+
+
+ye sorry for that but I thought no one saw my comment so.. thanks anyway machine 
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 17 Dec 2016, 16:53]
+lululu wrote:
+Sorry, man, since your update made a backup of the original .exe and you didn't mention the need of crack I thought yours was already cracked. I tried Anomaly's and everything seems fine except the voices from soldiers and advisors. I remember your post poiting to that (viewtopic.php?p=1123055#p1123055), but I couldn't find the english folder from the mega link. Is it normal? Thank you for the update, and Anomaly as well
+
+
+Oh yes, you're right. Indeed there is no updated english files. I will upload the files for you, give me some time.
+
+edit: Here is the updated language pack for english
+
+https://mega.nz/#!HgoBAZYA!oUfC6YbDspqV ... S5YGHnEdfY
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 17 Dec 2016, 16:53]
+
+_________________
+Haters gonna hate!
+My updates are always clean files - no cracks included.
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 18 Dec 2016, 02:39]
+Has anyone got all the DLC .packs so i can try to add them to my legit game with patch 17, i have tried a few of you guys' links and they are either down or are not what i am looking for unless i am being really stupid, any help would be appreciated as i have been looking for some time for them now and didn't really want to bother anyone on here unless i had to.
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 18 Dec 2016, 18:35]
+knabberfee wrote:
+edit: Here is the updated language pack for english
+
+https://mega.nz/#!HgoBAZYA!oUfC6YbDspqV ... S5YGHnEdfY
+
+Cool, thanks for the files. I'm having just one problem.
+
+1. Installed original Prophet scene release (SFV checked original scene files).
+(** did NOT apply the old PPT cracked files after install).
+2. ran 214950.Update.PROPHET.to.v2.2.0.Build.16155.exe by knabberfee (all files verified OK). (nice installer BTW, thanks) 
+3. Deleted outdated EN language + music pack files, copied knaberfee's new English files over to the proper folders.
+4. copied machine's TWR2-22016155-pedia files over.
+5. Updated LumaEmu_CEG.dll to new version.
+6. Added Rome2.exe to steam as a non-steam game.
+7. Restarted steam in online mode, logged in OK.
+8. All firewalls & antivirus off. Ran game (via steam). All runs OK except the pedia.
+
+On the main menu, the encyclopedia window opens but has weird graphical corruption inside the window. Encrypted?
+In battle mode (e.g. Custom Battle and Prologue), the pedia window opens but is empty (transparent).
+
+BTW, I checked my Rome II preferences.script.txt file had the line 48:
+external_browser false; # external_browser <bool>, Use external browser for encylopaedia, internal browser if set to false #
+I set it to true just to see what happened but no window opens (as expected).
+
+Just to compare, I re-installed the old 3DM Rome II E.E. (with cracked pedia) and the pedia works as before.
+Also, the pedia works OK on my official Steam bought version!
+The only version the pedia isn't working for me is the Prophet release with machine's TWR2-22016155-pedia files.
+Any ideas why the broken pedia? I'm running the English language version (if it's relevant), thanks.
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 18 Dec 2016, 18:35]
+
+_________________
+Tacview Sentinel-2 Textures Downloader v2.0 -cH0c0RAnGE
+-=FACE of the COiN=-
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 18 Dec 2016, 18:38]
+^
+for the pedia fix to work properly now you must have steam installed and running with pedia crack. also make sure your AV is not blocking access to internet. otherwise it wont work.
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 18 Dec 2016, 20:02]
+machine4578 wrote:
+^
+for the pedia fix to work properly now you must have steam installed and running with pedia crack. also make sure your AV is not blocking access to internet. otherwise it wont work.
+Cool thanks for the info but... 
+
+chocorange wrote:
+7. Restarted steam in online mode, logged in OK.
+8. All firewalls & antivirus off. Ran game (via steam). All runs OK except the pedia.
+
+
+
+-- Edit --
+
+
+Magickally wrote:
+Has anyone got all the DLC .packs so i can try to add them to my legit game with patch 17, i have tried a few of you guys' links and they are either down or are not what i am looking for unless i am being really stupid, any help would be appreciated as i have been looking for some time for them now and didn't really want to bother anyone on here unless i had to.
+
+If there's any missing DLC from the previously posted Mega link (which I think there is) then why not just d/l the last Prophet scene release since it has all DLC included in that. Just copy/paste the DLC .packs from the Prophet install into to your RomeII Steam data folder and do the CreamAPI method. Or at least that should work, right? Let me know if it does, since I might be doing that soon myself 
+
+
+Chysko wrote:
+Thnx machine4578 for all the work!
+I was able to follow the steps and everything works like a charm with my first installation.
+Too bad the Rome: Total War Music mod doesn't work with the latest patch or this game would finally be good 
+
+I just tested it myself and it works. The old rtw_music.pack file on TWC is for patch 16. For patch 17, you need to use the Steam Workshop downloader app and cut the extra bytes from the header of the pack file as has been mentioned previously in this thread. Same goes for all other mods made for patch 17. They work, just strip out the header bytes with hex editor. Don't thank me all at once, k? 
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 18 Dec 2016, 20:02]
+
+_________________
+Tacview Sentinel-2 Textures Downloader v2.0 -cH0c0RAnGE
+-=FACE of the COiN=-
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 18 Dec 2016, 20:55]
+@chocorange
+idk then. because the pedia fix works fine for me and MANY others. i guess you are better off with using normal crack.
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 19 Dec 2016, 02:53]
+^
+sorry, i'm a moron. missed a "hidden" setting on my useless AV that was NOT off!! the pediofiles work, grazie  
+not as if i really use that online pediofile anyway cos with unit + balance mods it's useless as we all know. i was just curious why it wasn't working. solved!
+p.s. it's exactly the same with my official steam install. AV on = pedio off (i was using a different comp earlier and forgot!) 
+oh man... i hope the pedo who designed that pedia + dumped the nice Shogun II style one was sacked and hanged, re-hired and shot, rinse repeat lol
+(same goes for the wanker who fired jeff van dyck and hired beddow the bore).
+sorry again for the hassle + thanks again for the info.
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 19 Dec 2016, 02:53]
+
+_________________
+Tacview Sentinel-2 Textures Downloader v2.0 -cH0c0RAnGE
+-=FACE of the COiN=-
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 21 Dec 2016, 14:56]
+knabberfee wrote:
+lululu wrote:
+Sorry, man, since your update made a backup of the original .exe and you didn't mention the need of crack I thought yours was already cracked. I tried Anomaly's and everything seems fine except the voices from soldiers and advisors. I remember your post poiting to that (viewtopic.php?p=1123055#p1123055), but I couldn't find the english folder from the mega link. Is it normal? Thank you for the update, and Anomaly as well
+
+
+Oh yes, you're right. Indeed there is no updated english files. I will upload the files for you, give me some time.
+
+edit: Here is the updated language pack for english
+
+https://mega.nz/#!HgoBAZYA!oUfC6YbDspqV ... S5YGHnEdfY
+
+
+Hey, thanks a lot. Everything working ok 
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 25 Dec 2016, 01:45]
+Sorry for asking here, but does the hex editing mod method work for total war shogun 2 ? I would like to install mods for that game as well.
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 26 Dec 2016, 04:16]
+hi there i have this release on skidrow website (repack version of emperor edition)
+https://www.skidrowreloaded.com/total-w ... lc-repack/
+
+did someone know what patch that release have? mine alwasy crash when loading the prologue, any fix to that?
+
+cheers

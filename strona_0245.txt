@@ -1,0 +1,248 @@
+=========================================
+STRONA 245 (URL: https://cs.rin.ru/forum/viewtopic.php?f=10&t=61441&hilit=rome+2&start=3660)
+=========================================
+
+[Data: Friday, 01 Dec 2017, 00:28]
+Could someone upload the Empire Divided pack file and startpos? I (and others I assume) would be very grateful!
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 01 Dec 2017, 00:32]
+nigmo wrote:
+Could someone upload the Empire Divided pack file and startpos? I (and others I assume) would be very grateful!
+
+
+Try to search a bit before asking. There are links on the last few pages, the Empire divided hasn't been uploaded yet as a standalone I think
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 01 Dec 2017, 00:40]
+deleted
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 01 Dec 2017, 00:44]
+here is the link for the pedia
+https://r2edenc.totalwar.com/en/
+
+its the same link that opens on legit game.
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 01 Dec 2017, 02:56]
+3DMGAME-Total.War.ROME.II.Emperor.Edition.v2.2.0.17561.Incl.DLC.Cracked-CODEX [Loose files + codex crack]
+
+https://pan.baidu.com/s/1hs3Ypdq
+http://bt.3dmgame.com/down.php?date=151 ... de842d78fb
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 01 Dec 2017, 02:56]
+
+_________________
+Windows 10 64bits, Intel i9-11900k, GeForce RTX 3080, HyperX Fury DDR4 RGB 32GB RAM 3200Mhz
+SSD Kingston 120GB, SSD Samsung 850 EVO 500GB + SSD Samsung 970 EVO 1TB + Inland Premium 2TB SSD, HDD Hitachi 1TB + 3 others HDDs Seagate, and a nice RGB system (watercooling + pc monitor + keyboard/Mouse).
+----------
+You got issue(s) downloading files from Baidu ? Follow this tutorial.
+Posting scene releases download link(s) isn't allowed, so how can i get them by myself ? Read the FAQ >> Q(B01) and check this SUPERBE site with free downloads & stuffs (you won't regret it)
+----
+I'm back \o/ ! Not fully back because a lot happend in my life beside my pc issue, but i'm back.
+happy new year everyone 
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 01 Dec 2017, 02:59]
+They did something different with this DLC. I downloaded the Codex release so I could get the dlc and startpos files, and the pack file is absolutely tiny, 200kb, compared to the others of 200 to 500mb.
+
+Don't know if anything's missing since I don't have an SFV file, but I copied the pack and the startpos files and updated CreamApi.ini.
+
+Here are the files I used, use this if you have a legitimate copy of Rome 2 and want Empire Divided. Remember to rename the Steam_api.dll that's in your game folder to Steam_api_o.dll
+
+https://drive.google.com/open?id=1r7tIi ... E2viik57hz
+
+If anything's missing let me know.
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 01 Dec 2017, 03:02]
+Total.War.Rome.II.Empire.Divided.MULTi9-PLAZA
+
+NFO
+
+ Spoiler
+Code: Select all | Line number On/Off | Expand/Contract
+Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â 
+Â  Â  Â  Â  Â  ░░▒▒▒▒▒ Â  Â  Â  Â  Â  Â  Â ▒▒ Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â 
+Â  Â  Â ░▒▓▓▓▓▓▓▓▓█████▓░ Â  Â  Â  ▓████ Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â 
+Â  Â  ▓▓▒ Â  Â  Â  Â  Â  ░▓███░ Â  Â ███ ▓▓ Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â 
+Â  ░█░ Â  Â  Â  Â ▓██▒ Â  Â ███░ Â ▓██ Â █ Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â 
+Â  █░ Â  Â  Â  ░███ Â  Â  Â ░███ Â ███ █▒ Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â 
+Â ░█ Â  Â  Â  Â ███ Â  Â  Â  ░███ ▓██ ▓█ Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â 
+Â  ██ Â  Â  Â ███▒ Â  Â  Â  ███▓ ██▓▒█ Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â 
+Â  ░██▓░ Â  ███ Â  Â  Â  ███▓ ▒████ Â  Â  Â ░▓██▓░ Â  Â  ▓▓▓▓█▓█▓███▓ Â  Â ░▓██▓ Â  Â  Â  Â 
+Â  Â  ████ ▓███ Â  ▒▓████░ Â ████▒ Â  Â  ███████▓ Â  ▒████████████ Â  ███████▓ Â  Â  Â 
+Â  Â  Â  ▒▒ ███▒ ▓███▓░ Â  Â  ███▓ Â  Â  ███░ Â ██░ Â  Â █░ Â  Â  ███▓ Â  ███░ Â ██▒ Â  Â  Â 
+Â  Â  Â  Â  ░███ Â  Â  Â  Â  Â  Â  ███ Â  Â  ███ Â  ▓██ Â  Â  █ Â  Â ▒██▒ Â  Â ███ Â  ▓██ Â  Â  Â 
+Â  Â  Â  Â  ███▒ Â  Â  Â  Â  Â  Â  ██▒ Â  Â ▒██ Â  ▒███ Â  Â █▒ Â ▒██▒ Â  Â  ▓██ Â  ▒███ Â  Â ▒ Â 
+Â  ▒░ Â  ░███ Â  Â  Â  Â  Â  Â  Â ██▒ Â  Â ██▒ Â  ███▒ Â  █▒ Â ▓█▓ Â  Â ▒▓▒██▒ Â  ███▒ Â  █▓ Â 
+Â  █▓ Â  ███ Â  Â  Â  Â  Â  Â  Â  ██▓ Â ▒███ Â ░████ Â ▒█▓ Â  Â  ██▒▓▓▒ Â ██ Â ░████ Â ░█▓ Â 
+Â  ▓██████ Â  Â  Â  Â  Â  Â  Â  Â ▒█████░▒████░ █████▓ Â  ▓▓▓▓██ Â  Â  ▒████▒ █████▓ Â  Â 
+Â  Â  ▓▓▒ Â  Â  Â  Â  Â  Â  Â  Â  Â  ░▓█▒ Â  ░▓▓ Â  ░▓█▓░ Â ▓█▓░ Â ██ Â  Â  Â ░▓▓ Â  Â ▓█▓░ Â  Â 
+Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â ██ Â  Â ▒██ Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â 
+Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â ██░ Â ▒██▓ Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â 
+Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â ▒██████▓ Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â 
+Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â ▓▓▓▒ Â  Â 
+Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â 
+Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â -P-R-E-S-E-N-T-S-Â 
+Â 
+Â  Â  Â  Â  Â  Total War: ROME II - Empire Divided *MULTi9* (c) SEGA Â  Â  Â  Â  Â  Â  Â  Â 
+Â 
+Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â 
+Â  Release Date : Â 11/2017 Â  Â  Â  Â  Â  Â  Â  Â  Protection : Steam+CEG+Custom Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â 
+Â  Discs Â  Â  Â  Â : Â 1 Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Genre Â  Â  Â : Strategy Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â 
+Â 
+Â ▄▀▀▀▀▀▀▀▀▀▀▀ ▀ ▀ Â  Â ▄▀▀▀█ █▀▀▀▄ ▄▀▀▀█ █ Â  █ █ Â  Â  Â  ▀ ▀ ▀▀▀▀▀▀▀▀▀▀▀▀▀▄
+Â █ Â  Â  Â  Â  Â  Â  Â  Â  Â  █▀▀▀█ █▀▀▀█ █ Â  █ █ Â  █ █▀▀ Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â █
+Â  ▀▀▀▀▀▀▀▀▀▀▀ ▀ ▀ Â  Â █ Â  █ █▄▄▄█ █▄▄▄▀ █▄▄▄▀ █▄▄▄▀ Â  ▀ ▀ ▀▀▀▀▀▀▀▀▀▀▀▀▀
+Â 
+Â 
+Â  A new Â grand-scale Campaign Â Pack for Â Total War: Â ROME Â II Â Plunges
+Â  players into the crisis of the third century, Â a Â critical Â turning-
+Â  point for Rome Play as one of Â ten different Â factions Â across Â five
+Â  cultural Â groups Â New Â Heroic Â Factions Â with Â  Â elaborate Â  victory
+Â  conditions, Â famous leaders Â and crafted Â event-chains Â New Â period-
+Â  specific Â events, Â dilemmas Â and Â missions Â New Â Campaign Â features:
+Â  Plagues, Cults and Banditry Restructured technologies and unique new
+Â  buildings The year is 270 AD.
+Â 
+Â  For more info go to : http://store.steampowered.com/app/694880/
+Â 
+Â 
+Â ▄▀▀▀▀▀▀▀▀▀ ▀ ▀ Â  ▀ █▀▀▀▄ ▄▀▀▀▀ █ Â  Â  ▄▀▀▀█ █ Â  Â  █ Â  Â  Â  ▀ ▀ ▀▀▀▀▀▀▀▀▀▄
+Â █ Â  Â  Â  Â  Â  Â  Â  Â █ █ Â  █ ▀▀▀▀█ █▀▀ Â  █▀▀▀█ █ Â  Â  █ Â  Â  Â  Â  Â  Â  Â  Â  Â  Â █
+Â  ▀▀▀▀▀▀▀▀▀ ▀ ▀ Â  █ █ Â  █ ▄▄▄▄▀ █▄▄▄▀ █ Â  █ █▄▄▄▀ █▄▄▄▀ Â  ▀ ▀ ▀▀▀▀▀▀▀▀▀
+Â 
+Â 
+Â  1. Extract release
+Â  2. Mount ISO
+Â  3. Install the game
+Â  4. Copy crack from the PLAZA folder
+Â  5. Play!
+Â 
+Â  NOTES: This release is standalone and includes all previously
+Â  released DLC.
+Â 
+Â  Included languages:
+Â 
+Â  > English
+Â  > German
+Â  > French
+Â  > Italian
+Â  > Spanish
+Â  > Polish
+Â  > Czech
+Â  > Russian
+Â  > Turkish
+Â 
+Â  General Notes:
+Â 
+Â  - Block the game's exe in your firewall to prevent the game from
+Â  Â  trying to go online ..
+Â  - If you install games to your systemdrive, it may be necessary
+Â  Â  to run this game with admin privileges instead
+Â  Â 
+Â 
+Â ▄▀▀▀▀▀▀▀▀▀▀ ▀ ▀ Â  ▄▀▀▀▀ ▄▀▀▀█ ▄▀▀▀▀ ▄▀▀▀▀ █ Â  Â  ▄▀▀▀▀ Â  ▀ ▀ ▀▀▀▀▀▀▀▀▀▀▄
+Â █ Â  Â  Â  Â  Â  Â  Â  Â  █ ▀▀█ █▀▀▀▄ █▀▀▀▀ █▀▀▀▀ █▀▀ Â  ▀▀▀▀█ Â  Â  Â  Â  Â  Â  Â  Â  █
+Â  ▀▀▀▀▀▀▀▀▀▀ ▀ ▀ Â  █▄▄▄█ █ Â  █ █▄▄▄▀ █▄▄▄▀ █▄▄▄▀ ▄▄▄▄▀ Â  ▀ ▀ ▀▀▀▀▀▀▀▀▀▀ Â 
+Â 
+Â  Â  Â  Â  Â  Â  Â CODEX - STEAMPUNKS - CPY - SiMPLEX - ACTiVATED
+Â 
+Â ▄▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀ ▀ ▀ Â  █▀▀▀▄ ▄▀▀▀▀ █ █ █ ▄▀▀▀▄ Â  ▀ ▀ ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▄
+Â █ Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â █ Â  █ █▀▀▀▀ █ █ █ ▀▀▀▀█ Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â █
+Â  ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀ ▀ ▀ Â  █ Â  █ █▄▄▄▀ █▄█▄▀ ▄▄▄▄▀ Â  ▀ ▀ ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
+Â  Â 
+Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Coming soon...
+Â 
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 01 Dec 2017, 03:06]
+Here are the language packs for CODEX release.
+
+ Spoiler
+Code: Select all | Line number On/Off | Expand/Contract
+https://drive.google.com/drive/folders/ ... sp=sharing
+
+
+Spanish + turkish will follow tomorrow
+
+Also here are some md5 files, only german and turkish left. will upload them tomorrow too.
+
+Too tired now sorry 
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 01 Dec 2017, 03:06]
+
+_________________
+Haters gonna hate!
+My updates are always clean files - no cracks included.
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 01 Dec 2017, 03:09]
+guto8797 wrote:
+They did something different with this DLC. I downloaded the Codex release so I could get the dlc and startpos files, and the pack file is absolutely tiny, 200kb, compared to the others of 200 to 500mb.
+
+Don't know if anything's missing since I don't have an SFV file, but I copied the pack and the startpos files and updated CreamApi.ini.
+
+Here are the files I used, use this if you have a legitimate copy of Rome 2 and want Empire Divided. Remember to rename the Steam_api.dll that's in your game folder to Steam_api_o.dll
+
+https://drive.google.com/open?id=1r7tIi ... E2viik57hz
+
+If anything's missing let me know.
+
+
+Thank you very much. This is exactly what I was looking for earlier.
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 01 Dec 2017, 03:59]
+Are these updates only for those with legit Rome II or can they be used without legit Rome II?
+
+If not, I've succeeded in updating the game to "214950.English.Update.v2.2.0.Build.17429" as provided by knabberfee. Where should I go from there? Should I have to download all the dlc files in here? ( https://drive.google.com/file/d/1XDiXit ... sfOTG/view ) because I've all the DLCs for pre-power & politics patch.
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 01 Dec 2017, 04:07]
+If you do not have legit Rome 2 there is no need to do any of this. Downloading DLC files and such is what you do if you want creamAPI to work correctly. If your version is not legit, just download the CODEX release (unless your internet is shit that is).
+
+While the files themselves should work, if you've applied the latest update by knabberfee, you should be good to go, since it adds and changes all necessary files. Download the MD5 file and run it on the TWR2 folder with something like quick SFV to check if any files have hash mismatches. If they do, that's usually a sign that something went wrong and that the files you have are not the ones you should have.
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 01 Dec 2017, 07:33]
+Revolt fix?
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 01 Dec 2017, 09:46]
+@knabberfee: which version i need to have before applying your update?
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 01 Dec 2017, 10:39]
+I still have the FitGirl version installed (but updated to 16155). How do I update the game and add the latest DLC?
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 01 Dec 2017, 10:59]
+(...)
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 01 Dec 2017, 10:59]
+
+_________________
+No way, my man. You have friends.

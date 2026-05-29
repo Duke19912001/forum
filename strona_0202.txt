@@ -1,0 +1,208 @@
+=========================================
+STRONA 202 (URL: https://cs.rin.ru/forum/viewtopic.php?f=10&t=61441&hilit=rome+2&start=3015)
+=========================================
+
+[Data: Wednesday, 28 Oct 2015, 00:11]
+Christsnatcher wrote:
+Seriously?? 10 seconds and I found it, starts here: viewtopic.php?p=1081723#p1081723
+
+
+Isnt there a full game with latest patches? Instead of having to download the game and apply patches 1 by 1.
+
+Thanks a lot for the work you put. Its appreciated 
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 28 Oct 2015, 00:18]
+LordVako wrote:
+Christsnatcher wrote:
+Seriously?? 10 seconds and I found it, starts here: viewtopic.php?p=1081723#p1081723
+
+
+Isnt there a full game with latest patches? Instead of having to download the game and apply patches 1 by 1.
+
+Thanks a lot for the work you put. Its appreciated 
+
+you download the PPT release and apply the last 2 patches. this was posted on the previous pages!
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 28 Oct 2015, 00:27]
+machine4578 wrote:
+LordVako wrote:
+Christsnatcher wrote:
+Seriously?? 10 seconds and I found it, starts here: viewtopic.php?p=1081723#p1081723
+
+
+Isnt there a full game with latest patches? Instead of having to download the game and apply patches 1 by 1.
+
+Thanks a lot for the work you put. Its appreciated 
+
+you download the PPT release and apply the last 2 patches. this was posted on the previous pages!
+
+
+theres 202 pages.. Sorry for my dumbness.. Can you point me to the exact location? thanks
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 28 Oct 2015, 00:34]
+LordVako wrote:
+theres 202 pages.. Sorry for my dumbness.. Can you point me to the exact location? thanks
+
+
+the PPT release can be found on your favorite warez site(warez-bb for example). and check the OP for the 2 updates!!! also try using the search feature.
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 28 Oct 2015, 01:00]
+machine4578 wrote:
+LordVako wrote:
+theres 202 pages.. Sorry for my dumbness.. Can you point me to the exact location? thanks
+
+
+the PPT release can be found on your favorite warez site(warez-bb for example). and check the OP for the 2 updates!!! also try using the search feature.
+
+
+Hi machine, I'm having a problem with the updates. I wanted to try if this game would run on Linux, and it does.
+I downloaded the full game and played for a while, trying to remember how to play (it's been years).
+Then I remembered that I was supposed to install some updates, after some problems I was finally able to download the last two updates/patches.
+But now I have a problem, game has no sound. It is after patch 17. I tried installing patch 18 (?), the last one posted, and it's the same issue, I have no sound at all.
+Did anyone had this same problem or know how to fix it? I could just play without the patches, but I feel that if there are 2 new patches I should really try to use them.
+Please help, I want to play and try some mods. 
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 28 Oct 2015, 01:05]
+machine4578 wrote:
+LordVako wrote:
+theres 202 pages.. Sorry for my dumbness.. Can you point me to the exact location? thanks
+
+
+the PPT release can be found on your favorite warez site(warez-bb for example). and check the OP for the 2 updates!!! also try using the search feature.
+
+
+Is PPT Prophet? Sorry again for my ignorance.. all i can find is prophet.
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 28 Oct 2015, 08:06]
+Yes.
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 28 Oct 2015, 08:06]
+
+_________________
+
+
+The standard password is cs.rin.ru
+Please read the Forum Rules and the F.A.Q.
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 28 Oct 2015, 08:22]
+Christsnatcher wrote:
+Yes.
+
+
+Ok thanks a lot
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 28 Oct 2015, 13:43]
+Christsnatcher wrote:
+Seriously?? 10 seconds and I found it, starts here: viewtopic.php?p=1081723#p1081723
+
+
+Mate i knew that i need to remove few bytes, but whats few? the 1st 2 the 1st 3 , 4 how many do i need to remove?
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 28 Oct 2015, 13:43]
+
+_________________
+“All we ever see of stars are their old photographs.”
+
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 28 Oct 2015, 13:53]
+Armageddonn wrote:
+Christsnatcher wrote:
+Seriously?? 10 seconds and I found it, starts here: viewtopic.php?p=1081723#p1081723
+
+
+Mate i knew that i need to remove few bytes, but whats few? the 1st 2 the 1st 3 , 4 how many do i need to remove?
+
+i already posted pic(s) of exactly what to remove.
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 30 Oct 2015, 00:42]
+testni wrote:
+Regarding localizations for patch 17:
+
+I did a some testing; installed Total.War.ROME.II.Emperor.Edition.MULTi9-PROPHET and then compared german language with legit german Rome 2. I tested and compared pretty much every aspect of the game to see whats in german and if there is anything missing. So far both versions are the same.
+
+So then i updated the game using Total.War.ROME.II.Update.v2.2.0.15666-v2.2.0.16019 (patch 17), and copy pasted the german localization for patch 17. Now when i start the game i get missing text and missing sounds. Then i deleted the old files (local_ge_rome2.pack and music_ge_rome2.pack), which are obsolete and arent present in legit Rome 2 anymore. (I also deleted local_en.pack, local_en_shared_rome2.pack, music_en_shared_rome2.pack, created during the update, since im not using english language).
+
+Tried running the game again and now everything works as it should.
+
+So to summarize:
+1.) Install Total.War.ROME.II.Emperor.Edition.MULTi9-PROPHET (any language) + Total.War.ROME.II.Update.v2.2.0.15666-v2.2.0.16019
+2.) Select desired language pack from https://mega.nz/#F!F9wECKYB!48NjkPRTYE_7faZ8bQGdvw
+3.) Extract it into your Rome 2 directory and overwrite
+4.) IMPORTANT: Delete local_ge_rome2.pack, music_ge_rome2.pack, local_en.pack, local_en_shared_rome2.pack, music_en_shared_rome2.pack - ( "ge" represents your desired language, ("tr", "fr", etc..))
+5.) Play
+
+Alternative way (better):
+1.) Install Total.War.ROME.II.Emperor.Edition.MULTi9-PROPHET (any language) + Total.War.ROME.II.Update.v2.2.0.15666-v2.2.0.16019
+2.) Go to Rome 2/data and delete all language files. You will recognise then by having .._de.. or .._en.. or .._tr.., or .._fr.. etc., in their name
+3.) Select desired language pack from https://mega.nz/#F!F9wECKYB!48NjkPRTYE_7faZ8bQGdvw
+4.) Extract it into your Rome 2 directory and overwrite
+5.) Play
+
+
+
+Edit: Ok, I tried several times with different ways to install the game + patch 17 with no luck.
+@testni, I downloaded the language pack from the Mega folder (spanish), but I cannot decompress it. It says it's corrupted. Could you verify if the spanish file is ok? I want to try installing the game + patch all in spanish and see if that works like it did for you.
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 30 Oct 2015, 11:58]
+@sergio_sos:
+
+i just tried the spanish localization file. It downloaded and extracted without any problems. So try to redownload the file again and/or use the latest winrar to decompress.
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 30 Oct 2015, 14:48]
+testni wrote:
+@sergio_sos:
+
+i just tried the spanish localization file. It downloaded and extracted without any problems. So try to redownload the file again and/or use the latest winrar to decompress.
+
+
+Oh, it might be that I use Linux and cannot decompress the file. I will try in a pc with Windows.
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 31 Oct 2015, 03:25]
+Armageddonn wrote:
+Christsnatcher wrote:
+Seriously?? 10 seconds and I found it, starts here: viewtopic.php?p=1081723#p1081723
+
+
+Mate i knew that i need to remove few bytes, but whats few? the 1st 2 the 1st 3 , 4 how many do i need to remove?
+
+
+just google "machine4578 total war steam workshop" mate
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 31 Oct 2015, 21:10]
+Hi all, i have this error
+
+can somebody help me, my version is v2.2.0.16155 and I was used pedia crack... And this is my files checked with v2.2.0.16155.sfv
+
+ Spoiler

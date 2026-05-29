@@ -1,0 +1,246 @@
+=========================================
+STRONA 246 (URL: https://cs.rin.ru/forum/viewtopic.php?f=10&t=61441&hilit=rome+2&start=3675)
+=========================================
+
+[Data: Friday, 01 Dec 2017, 11:10]
+So where do I get Empire Divided only? Sorry I'm looking through previous posts and I don't see it.
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 01 Dec 2017, 11:49]
+Chovka wrote:
+Captain Orange wrote:
+I still have the FitGirl version installed. How do I update the game and add the latest DLC?
+
+ask about it on her site, this is not crap-pack support forum
+
+
+If you're not helping, just refrain from snarky posts.
+
+And FYI, 5-month noob, FitGirl's pack is actually outdated, and got the previous patch files here. So yes, this is a crap-pack support forum.
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 01 Dec 2017, 12:09]
+guto8797 wrote:
+They did something different with this DLC. I downloaded the Codex release so I could get the dlc and startpos files, and the pack file is absolutely tiny, 200kb, compared to the others of 200 to 500mb.
+
+Don't know if anything's missing since I don't have an SFV file, but I copied the pack and the startpos files and updated CreamApi.ini.
+
+Here are the files I used, use this if you have a legitimate copy of Rome 2 and want Empire Divided. Remember to rename the Steam_api.dll that's in your game folder to Steam_api_o.dll
+
+https://drive.google.com/open?id=1r7tIi ... E2viik57hz
+
+If anything's missing let me know.
+
+
+Thanks!
+
+Did a verify files in steam and then renamed _o.dll and added your files and now it works.
+
+Guess my "problem" came from the fact, that I used the "old" steamapi.dll 
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 01 Dec 2017, 12:28]
+fatalerror1 wrote:
+@knabberfee: which version i need to have before applying your update?
+
+
+Can't make it even easier 
+
+PPT release
++
+viewtopic.php?p=1579123#p1579123
++
+viewtopic.php?p=1583804#p1583804
++
+viewtopic.php?p=1591722#p1591722
+
+SFV can be found here
+viewtopic.php?p=1592088#p1592088
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 01 Dec 2017, 12:28]
+
+_________________
+Haters gonna hate!
+My updates are always clean files - no cracks included.
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 01 Dec 2017, 12:42]
+oh cool ... lets see whats the last version i have  .. might probably do straight update from PPT to current
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 01 Dec 2017, 12:46]
+It should be possible if i think correct.
+
+Just skip the steps for downloading language packs, just use the main files patcher from PROPHET to current (3 updates) and then download full language packs.
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 01 Dec 2017, 12:46]
+
+_________________
+Haters gonna hate!
+My updates are always clean files - no cracks included.
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 01 Dec 2017, 14:30]
+So, the best way to play (using legit version, that has no dlc's) is to download codex (with loose files) release, put it in legit release, then apply cream.api? Is there any automated patch or something?
+Is anyone playing this way?
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 01 Dec 2017, 14:42]
+@All who want to use ED DLC only with legit game
+Please check with one of the SFV's and report any missing files. Will upload the DLC files then for each language for CreamAPI use.
+
+Should be only Divided.pack, manifest.txt and campaigns\main_3c\startpos.esf
+
+Not sure
+
+-- Edit --
+
+
+Gluhar wrote:
+So, the best way to play (using legit version, that has no dlc's) is to download codex (with loose files) release, put it in legit release, then apply cream.api? Is there any automated patch or something?
+Is anyone playing this way?
+
+
+Should be possible that way too:
+viewtopic.php?p=1588408#p1588408
++
+viewtopic.php?p=1579123#p1579123
++
+viewtopic.php?p=1583804#p1583804
++
+viewtopic.php?p=1591722#p1591722
+
+just patch the DLC files outside of game folder
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 01 Dec 2017, 14:42]
+
+_________________
+Haters gonna hate!
+My updates are always clean files - no cracks included.
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 01 Dec 2017, 14:51]
+I have CRC error "data\text\default_keys.xml".
+Share plz correct file from english localization. )
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 01 Dec 2017, 14:51]
+
+_________________
+Sorry for my English, I use Google translate. 
+CSF - Clean Steam files. Crack not included. If you don't know the password, read the FAQ. If I missed a new update, send a request to the PM.
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 01 Dec 2017, 14:57]
+If you have changed key bindings then all is ok.
+
+This file is always the same for all languages.
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 01 Dec 2017, 14:57]
+
+_________________
+Haters gonna hate!
+My updates are always clean files - no cracks included.
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 01 Dec 2017, 16:11]
+@knabberfee, are you sure you need to update the manifest txt? I think it updates itself with the regular game. I compared the manifest.txt that I already had and the one that came in the codex release and they were one and the same.
+
+I uploaded the pack and startpos files a page ago, its a really tiny file in comparison.
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 01 Dec 2017, 16:14]
+I don't know, that's why people should check with md5 files.
+
+And my post belongs only to people who have the legit game but bithout ED dlc.
+
+
+ Spoiler
+That's why i ask for manifest file.
+
+
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 01 Dec 2017, 16:14]
+
+_________________
+Haters gonna hate!
+My updates are always clean files - no cracks included.
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 01 Dec 2017, 16:16]
+Sin316 wrote:
+guto8797 wrote:
+They did something different with this DLC. I downloaded the Codex release so I could get the dlc and startpos files, and the pack file is absolutely tiny, 200kb, compared to the others of 200 to 500mb.
+
+Don't know if anything's missing since I don't have an SFV file, but I copied the pack and the startpos files and updated CreamApi.ini.
+
+Here are the files I used, use this if you have a legitimate copy of Rome 2 and want Empire Divided. Remember to rename the Steam_api.dll that's in your game folder to Steam_api_o.dll
+
+https://drive.google.com/open?id=1r7tIi ... E2viik57hz
+
+If anything's missing let me know.
+
+
+
+
+Getting an anti-virus problem with the steam_api.dll included with this pack.
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 01 Dec 2017, 17:14]
+Friends, a small request: Those who have the CODEX release (not from igg-games.com), can you please report the full ISO file size? Right click on ISO>properties and let me know the size between parenthesis please. Mine is 16,278,224,896 bytes. Thank you very much.
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 01 Dec 2017, 17:14]
+
+_________________
+Short List of Highest Paying Apps & Reward Sites
+(Paypal, Steam Wallet, & Amazon Giftcards)
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 01 Dec 2017, 17:35]
+drozz wrote:
+Sin316 wrote:
+guto8797 wrote:
+They did something different with this DLC. I downloaded the Codex release so I could get the dlc and startpos files, and the pack file is absolutely tiny, 200kb, compared to the others of 200 to 500mb.
+
+Don't know if anything's missing since I don't have an SFV file, but I copied the pack and the startpos files and updated CreamApi.ini.
+
+Here are the files I used, use this if you have a legitimate copy of Rome 2 and want Empire Divided. Remember to rename the Steam_api.dll that's in your game folder to Steam_api_o.dll
+
+https://drive.google.com/open?id=1r7tIi ... E2viik57hz
+
+If anything's missing let me know.
+
+
+
+
+Getting an anti-virus problem with the steam_api.dll included with this pack.
+
+
+Its a false positive. Its probably detecting the dll's capability to intercept the Steam calls.

@@ -1,0 +1,237 @@
+=========================================
+STRONA 210 (URL: https://cs.rin.ru/forum/viewtopic.php?f=10&t=61441&hilit=rome+2&start=3135)
+=========================================
+
+[Data: Wednesday, 10 Feb 2016, 10:56]
+misterpinball wrote:
+knabberfee wrote:
+And no, testni's language packs are outdated.
+
+Have you checked the link I posted? He made seperate language packs for 2.2.0.16155.
+A sfv of your original updated game set to german would be nice.
+
+
+Oh sh... Forget language updates then. Didn't know of the existense of those updated packs. Just use normal update then. Sorry for this big mistake  I thought it was the same link i've posted.
+
+And here is german sfv
+
+Attachment:
+ german.rar [137.23 KiB]
+Downloaded 11 times
+
+
+
+@SwordCommandos: Delete all language .packs and download testnis updated ones viewtopic.php?p=1123055#p1123055
+Or delete the two files you mentioned. Then all should be fine.
+
+
+Quote:
+Note: make sure you delete ALL old language .pack files (files with _en. or _de. or _ru. etc... in their name) from Rome 2/data folder before copy/pasting new ones, otherwise you will get missing text and sounds ingame (if old files remain present).
+
+
+I've updated my post viewtopic.php?p=1178947#p1178947. Now all should be fine.
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 10 Feb 2016, 10:56]
+
+_________________
+Haters gonna hate!
+My updates are always clean files - no cracks included.
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 10 Feb 2016, 14:08]
+
+
+Thanks for the sfv, crc matches indeed. Always nice to have a mirror.
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 18 Feb 2016, 06:14]
+knabberfee wrote:
+misterpinball wrote:
+knabberfee wrote:
+And no, testni's language packs are outdated.
+
+Have you checked the link I posted? He made seperate language packs for 2.2.0.16155.
+A sfv of your original updated game set to german would be nice.
+
+
+Oh sh... Forget language updates then. Didn't know of the existense of those updated packs. Just use normal update then. Sorry for this big mistake  I thought it was the same link i've posted.
+
+And here is german sfv
+
+Attachment:
+german.rar
+
+
+@SwordCommandos: Delete all language .packs and download testnis updated ones viewtopic.php?p=1123055#p1123055
+Or delete the two files you mentioned. Then all should be fine.
+
+
+Quote:
+Note: make sure you delete ALL old language .pack files (files with _en. or _de. or _ru. etc... in their name) from Rome 2/data folder before copy/pasting new ones, otherwise you will get missing text and sounds ingame (if old files remain present).
+
+
+I've updated my post viewtopic.php?p=1178947#p1178947. Now all should be fine.
+
+
+
+Thanks! It worked.
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 20 Feb 2016, 15:14]
+I can't start the game, it keeps launching steam... Any help?
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 20 Feb 2016, 17:33]
+neoxes wrote:
+I can't start the game, it keeps launching steam... Any help?
+
+
+A little more info would be nice. Are you sure the crack is in place and no file's been deleted by your antivirus? Launch with admin rights, check game files with .sfv file etc. etc.
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 20 Feb 2016, 17:33]
+
+_________________
+Always wanted to get rid of the files that were not listed in the sfv/md5 hash file? Check the QuickSFV plugin I created for this: viewtopic.php?f=10&t=108605 or this: viewtopic.php?p=1273745#p1273745
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 21 Feb 2016, 15:50]
+Anomaly wrote:
+neoxes wrote:
+I can't start the game, it keeps launching steam... Any help?
+
+
+A little more info would be nice. Are you sure the crack is in place and no file's been deleted by your antivirus? Launch with admin rights, check game files with .sfv file etc. etc.
+
+
+
+I fixed it using pedia crack. So you have to:
+
+Total War: Rome II Update PROHPET to v2.2.0 Build 16155 *DOWNLOAD*
+
+You need Total.War.ROME.II.Emperor.Edition.MULTi9-PROPHET for this update!
+
+1. Install PROPHET release in your language
+2. Update with Total War: Rome II Update PROHPET to v2.2.0 Build 16155
+3. Download your language pack from here viewtopic.php?p=1118178#p1118178 (thanks to testni)
+4. Update language files with one of the following updates
+5. Use this pedia crack: viewtopic.php?p=1119420#p1119420
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 21 Feb 2016, 16:54]
+neoxes wrote:
+Anomaly wrote:
+neoxes wrote:
+I can't start the game, it keeps launching steam... Any help?
+
+
+A little more info would be nice. Are you sure the crack is in place and no file's been deleted by your antivirus? Launch with admin rights, check game files with .sfv file etc. etc.
+
+
+
+I fixed it using pedia crack. So you have to:
+
+Total War: Rome II Update PROHPET to v2.2.0 Build 16155 *DOWNLOAD*
+
+You need Total.War.ROME.II.Emperor.Edition.MULTi9-PROPHET for this update!
+
+1. Install PROPHET release in your language
+2. Update with Total War: Rome II Update PROHPET to v2.2.0 Build 16155
+3. Download your language pack from here viewtopic.php?p=1118178#p1118178 (thanks to testni)
+4. Update language files with one of the following updates
+5. Use this pedia crack: viewtopic.php?p=1119420#p1119420
+
+
+Forget about #3 + #4.
+
+Here are updated language packs already for latest version -> viewtopic.php?p=1178947#p1178947
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 21 Feb 2016, 16:54]
+
+_________________
+Haters gonna hate!
+My updates are always clean files - no cracks included.
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 23 Feb 2016, 09:18]
+anyone have this updated? http://steamcommunity.com/sharedfiles/f ... =358921596
+
+I remember there was a guide here on how to convert using a hex editor or something, anyone still have it?
+
+
+EDIT: nvm, I found it
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 24 Feb 2016, 19:12]
+I asked here for the link, but found it in twc, for anybody in this thread looking forward to make the mods downloaded from steam workshop downloader to work properly, here it is:
+http://www.twcenter.net/forums/showthre ... 2015/page4
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 25 Feb 2016, 21:40]
+i downloaded the update, but it asks me for a password... so which is it? 
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 25 Feb 2016, 21:41]
+ofteno wrote:
+i downloaded the update, but it asks me for a password... so which is it? 
+
+
+Try cs.rin.ru ^^
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 25 Feb 2016, 21:41]
+
+_________________
+Always wanted to get rid of the files that were not listed in the sfv/md5 hash file? Check the QuickSFV plugin I created for this: viewtopic.php?f=10&t=108605 or this: viewtopic.php?p=1273745#p1273745
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 01 Mar 2016, 01:20]
+knabberfee wrote:
+Total War: Rome II Update PROHPET to v2.2.0 Build 16155 *DOWNLOAD*
+
+You need Total.War.ROME.II.Emperor.Edition.MULTi9-PROPHET for this update!
+
+1. Install PROPHET release in your language
+2. Update with Total War: Rome II Update PROHPET to v2.2.0 Build 16155
+3. Download your language pack from here viewtopic.php?p=1123055#p1123055 (thanks to testni)
+
+Thanks to testni for language packs and misterpinball for info about updated language packs 
+
+
+I installed the prophet release then updated the game with the update, but when i start the game there's no sound. If i delete the en files where can i get new ones, because testni's mega link doesn't have english files. Can somebody please help me?
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 02 Mar 2016, 21:42]
+Hi! Installed the PROHPET release. I tried download knabberfee's update, but no matter how many times I downloaded, it's always says it's corrupted. It's funny because it's the desired size, but winrar and 7ip don't want to open it. Anybody else have this problem?
+
+EDIT: nvm, I solved it by upgrading my winrar.
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 06 Mar 2016, 08:42]
+Can someone upload the prophet update to mega or some other site? I have problems downloading it, thanks
+
+Edit:Managed to download it
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 11 Mar 2016, 11:19]
+Is there a DLC-only release for Steam users who have a legitimate copy but not the DLC? If not, could someone tell me which files I need to download to get the DLC to work? Nothing seems to be unlocking them.

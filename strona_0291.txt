@@ -1,0 +1,205 @@
+=========================================
+STRONA 291 (URL: https://cs.rin.ru/forum/viewtopic.php?f=10&t=61441&hilit=rome+2&start=4350)
+=========================================
+
+[Data: Wednesday, 16 Jan 2019, 17:28]
+I have downloaded Napoleon total war from this link : viewtopic.php?f=22&t=55583&hilit=napoleon
+Is it up to date ? and how can i update it and play it multiplayer ?
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 16 Jan 2019, 23:04]
+ISCObar wrote:
+I have downloaded Napoleon total war from this link : viewtopic.php?f=22&t=55583&hilit=napoleon
+Is it up to date ? and how can i update it and play it multiplayer ?
+
+Wrong topic mate: viewtopic.php?f=10&t=58856&start=105&hilit=Napoleon
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 16 Jan 2019, 23:04]
+
+_________________
+The FAQ are you waiting for?
+
+A wild PASSWORD appeared for protected archives & files on RIN! Member used cs.rin.ru ...it's super effective!
+
+Having problems downloading from Google Drive? Click here.
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 17 Jan 2019, 08:40]
+Hoy Venom, can't get this small mod:
+
+https://steamcommunity.com/sharedfiles/filedetails/?id=1551802634
+
+Please help and upload it somewhere.
+
+Thank you.
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 17 Jan 2019, 08:40]
+
+_________________
+01000111 01101000 01101111 01110011 01110100 00100000 01110111 01101000 01100101 01110010 01100101 00100000 01100001 01110010 01100101 00100000 01111001 01101111 01110101 00111111 00100000 01000100 01100101 01101100 01100101 01110100 01100101 00100000 01110100 01101000 01101001 01110011 00100000 01110000 01101111 01110011 01110100 00101100 00100000 01101001 01100110 00100000 01111001 01101111 01110101 00100000 01100100 01100001 01110010 01100101 00101110
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 17 Jan 2019, 11:17]
+Igec35 wrote:
+Hoy Venom, can't get this small mod:
+
+https://steamcommunity.com/sharedfiles/filedetails/?id=1551802634
+
+Please help and upload it somewhere.
+
+Thank you.
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 17 Jan 2019, 11:17]
+
+_________________
+The FAQ are you waiting for?
+
+A wild PASSWORD appeared for protected archives & files on RIN! Member used cs.rin.ru ...it's super effective!
+
+Having problems downloading from Google Drive? Click here.
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 17 Jan 2019, 11:40]
+venom any chance you can get this one:
+https://steamcommunity.com/sharedfiles/ ... =814534427
+
+thanks in advance.
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 17 Jan 2019, 17:35]
+Venom wrote:
+ISCObar wrote:
+I have downloaded Napoleon total war from this link : viewtopic.php?f=22&t=55583&hilit=napoleon
+Is it up to date ? and how can i update it and play it multiplayer ?
+
+Wrong topic mate: viewtopic.php?f=10&t=58856&start=105&hilit=Napoleon
+
+im sorry i will re-post it on it
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 18 Jan 2019, 19:12]
+CCorazon wrote:
+venom any chance you can get this one:
+https://steamcommunity.com/sharedfiles/ ... =814534427
+
+thanks in advance.
+
+
+you can download it from below sites:
+
+
+http://steamworkshop.download/
+
+http://steamworkshopdownloader.com/
+
+https://steamworkshopdownloader.io/
+
+also check below site,if mod isn't there,make a request there and they'll upload it next day or 2nd day.
+
+http://catalogue.smods.ru/game/total-war-rome-ii-emperor-edition/
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 19 Jan 2019, 11:46]
+Thanks for the tip, the MOD I was looking for was on that site! Much thanks 
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 19 Jan 2019, 14:07]
+can someone please upload complete italian language pack for latest update? thanks in advance
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 19 Jan 2019, 16:05]
++1 for the Spanish.
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 19 Jan 2019, 16:05]
+
+_________________
+
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 20 Jan 2019, 07:09]
+does anyone know a way to make .bin mod files able to load in the mod manager?
+i tried to rename the extension to .pack but the outcome is the same: the mod manager crashes at start...
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 20 Jan 2019, 07:56]
+14a11 wrote:
+does anyone know a way to make .bin mod files able to load in the mod manager?
+i tried to rename the extension to .pack but the outcome is the same: the mod manager crashes at start...
+
+Check if there are game data or tables inside .bin file with hex editor and then hex out the first eight bytes from file. Rename to .pack and enjoy.
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 20 Jan 2019, 07:56]
+
+_________________
+01000111 01101000 01101111 01110011 01110100 00100000 01110111 01101000 01100101 01110010 01100101 00100000 01100001 01110010 01100101 00100000 01111001 01101111 01110101 00111111 00100000 01000100 01100101 01101100 01100101 01110100 01100101 00100000 01110100 01101000 01101001 01110011 00100000 01110000 01101111 01110011 01110100 00101100 00100000 01101001 01100110 00100000 01111001 01101111 01110101 00100000 01100100 01100001 01110010 01100101 00101110
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 20 Jan 2019, 08:15]
+thank you Igec35 for your reply...
+this is the first line of code at the hex editor... can you elaborate please what to delete and if by game files you mean the "ui\campaign" at the end of the line?
+
+ok ... i found what to delete and the manager loads it ok... but what do you mean that i have to check if there are game files involved in the code?
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 21 Jan 2019, 14:58]
+can anybody here help me upload these mods somewhere else?
+
+https://steamcommunity.com/sharedfiles/ ... 1159306724
+https://steamcommunity.com/sharedfiles/ ... 1219604501
+https://steamcommunity.com/sharedfiles/ ... 1528554616
+https://steamcommunity.com/sharedfiles/ ... =414539236
+
+i cant download with steamworkshop.download or teamworkshopdownloader
+
+please help me
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 21 Jan 2019, 15:05]
+greviuser wrote:
+can anybody here help me upload these mods somewhere else?
+
+https://steamcommunity.com/sharedfiles/ ... 1159306724
+https://steamcommunity.com/sharedfiles/ ... 1219604501
+https://steamcommunity.com/sharedfiles/ ... 1528554616
+https://steamcommunity.com/sharedfiles/ ... =414539236
+
+i cant download with steamworkshop.download or teamworkshopdownloader
+
+please help me
+
+https://letsupload.co/8S9N/app_214950.7z
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 21 Jan 2019, 15:05]
+
+_________________
+The FAQ are you waiting for?
+
+A wild PASSWORD appeared for protected archives & files on RIN! Member used cs.rin.ru ...it's super effective!
+
+Having problems downloading from Google Drive? Click here.

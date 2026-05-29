@@ -1,0 +1,209 @@
+=========================================
+STRONA 201 (URL: https://cs.rin.ru/forum/viewtopic.php?f=10&t=61441&hilit=rome+2&start=3000)
+=========================================
+
+[Data: Wednesday, 21 Oct 2015, 15:23]
+Guys, on my original copy of total war rome 2 emporer edition i tried to add dlc on my original copy, with '' APPID PATCH'' some of them installed correctly but the ones im having trouble with are Haniball at the gates,wrath of sparta,cesar and like 2-1 more dlcs. The other dlc are installed at the game but no them and when i try to update the game and i click the update button nothing is happening... Now i cannot remove them ....
+
+-- Edit --
+
+Guys, on my original copy of total war rome 2 emporer edition i tried to add dlc on my original copy, with '' APPID PATCH'' some of them installed correctly but the ones im having trouble with are Haniball at the gates,wrath of sparta,cesar and like 2-1 more dlcs. The other dlc are installed at the game but no them and when i try to update the game and i click the update button nothing is happening... Now i cannot remove them ....
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 21 Oct 2015, 15:32]
+appid patch issnt working with those DLC, cos they have extra files and is not in the game files. Delete packageinfo.vdf.
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 23 Oct 2015, 09:12]
+Hi, can someone upload the latest version of Normal' unit icons mod? He just updated 2.1 to 2.2 version with all card completed yesterday.
+
+But in Steam page it still shows 2.1, can you upgrade it?
+
+http://steamcommunity.com/sharedfiles/f ... =232955267
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 24 Oct 2015, 15:47]
+Okay,
+I downloaded the Reloaded EE.
+I am trying to install the latest patch but it wont let me (something about files that are not right)
+any help?
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 27 Oct 2015, 01:43]
+machine4578 wrote:
+i will make an xdelta patch tonight. thanks testni for the DLC files 
+
+-edit-
+
+xdelta update done to update from v2.2.0.15666-v2.2.0.16019.
+unfortunately the devs added 2 new files which makes the patch a little over 1GB. uploading now and will post soon.
+
+-edit-
+Total.War.ROME.II.Update.v2.2.0.16019
+Sixe: 1.15GB
+
+Code: Select all | Line number On/Off | Expand/Contract
+http://hugefiles.net/cvy01jdq50rv
+
+NOTE:
+*you MUST have update 2.2.0.15666 installed!
+*thanks to testni for the updated DLC files!!!
+*thanks to Steam006 for this LumaCEG!
+
+
+Hi machine, thank you for all the updates.
+But I have a problem, I cannot download this file. When I click the link, it opens hugefiles.net website. There I click to start download of .rar file and it always takes me to another website. And I cannot download the correct file, it only gives me a small 800k file that has nothing inside.
+I don't know what I'm doing wrong. Please help.
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 27 Oct 2015, 01:59]
+You need a free account for files above 1 GB. After creating one, log in, fill out the captcha at the bottom of the page and click on "Free Download". On the next page, simply click on "Create download link" and your download should start! 
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 27 Oct 2015, 01:59]
+
+_________________
+
+
+The standard password is cs.rin.ru
+Please read the Forum Rules and the F.A.Q.
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 27 Oct 2015, 11:34]
+Christsnatcher wrote:
+You need a free account for files above 1 GB. After creating one, log in, fill out the captcha at the bottom of the page and click on "Free Download". On the next page, simply click on "Create download link" and your download should start! 
+
+
+Thanx for the advice Christsnatcher. I had to disable my ad-blocker to finally see what I was suppose to do 
+Now it's finally downloading!
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 27 Oct 2015, 11:46]
+If i download : Total War: ROME II - Emperor Edition [PROPHET] how many total updates will i need to get to the latest version?
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 27 Oct 2015, 11:46]
+
+_________________
+“All we ever see of stars are their old photographs.”
+
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 27 Oct 2015, 12:07]
+Armageddonn wrote:
+If i download : Total War: ROME II - Emperor Edition [PROPHET] how many total updates will i need to get to the latest version?
+
+
+Only last two updates you find in first page:
+Total.War.ROME.II.Update.v2.2.0.15666-v2.2.0.16019 (thx machine4578)
+Total.War.ROME.II.Update.v2.2.0.16019-v2.2.0.16155 (thx machine4578, testni)
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 27 Oct 2015, 13:16]
+sergio_sos wrote:
+Armageddonn wrote:
+If i download : Total War: ROME II - Emperor Edition [PROPHET] how many total updates will i need to get to the latest version?
+
+
+Only last two updates you find in first page:
+Total.War.ROME.II.Update.v2.2.0.15666-v2.2.0.16019 (thx machine4578)
+Total.War.ROME.II.Update.v2.2.0.16019-v2.2.0.16155 (thx machine4578, testni)
+
+
+Alright than will give it a try, any trick to download mods from steamworkshop?
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 27 Oct 2015, 13:16]
+
+_________________
+“All we ever see of stars are their old photographs.”
+
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 27 Oct 2015, 13:23]
+Armageddonn wrote:
+Alright than will give it a try, any trick to download mods from steamworkshop?
+
+http://steamworkshopdownloader.com/
+
+just be sure to hex edit the first few bytes of every mod you donwload so the game loads them
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 27 Oct 2015, 13:33]
+machine4578 wrote:
+Armageddonn wrote:
+Alright than will give it a try, any trick to download mods from steamworkshop?
+
+http://steamworkshopdownloader.com/
+
+just be sure to hex edit the first few bytes of every mod you donwload so the game loads them
+
+
+I don't know what that means mate, also how is the performance of the game now? does it run well at least?
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 27 Oct 2015, 13:33]
+
+_________________
+“All we ever see of stars are their old photographs.”
+
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 27 Oct 2015, 13:45]
+Armageddonn wrote:
+I don't know what that means mate, also how is the performance of the game now? does it run well at least?
+
+i posted how to make mods work when downloading from http://steamworkshopdownloader.com/ (this applys to Attila as well and google should also help!).
+as for performance. it runs fine for me.
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 27 Oct 2015, 14:01]
+machine4578 wrote:
+Armageddonn wrote:
+I don't know what that means mate, also how is the performance of the game now? does it run well at least?
+
+i posted how to make mods work when downloading from http://steamworkshopdownloader.com/ (this applys to Attila as well and google should also help!).
+as for performance. it runs fine for me.
+
+
+I cannot find your post, can you explain what do i need to edit? I know how to download them and also i know how to use the Mod Manager but what what is that hex edit you mention?
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 27 Oct 2015, 14:01]
+
+_________________
+“All we ever see of stars are their old photographs.”
+
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 27 Oct 2015, 17:28]
+Seriously?? 10 seconds and I found it, starts here: viewtopic.php?p=1081723#p1081723
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 27 Oct 2015, 17:28]
+
+_________________
+
+
+The standard password is cs.rin.ru
+Please read the Forum Rules and the F.A.Q.

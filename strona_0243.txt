@@ -1,0 +1,166 @@
+=========================================
+STRONA 243 (URL: https://cs.rin.ru/forum/viewtopic.php?f=10&t=61441&hilit=rome+2&start=3630)
+=========================================
+
+[Data: Thursday, 30 Nov 2017, 17:37]
+I have the legit game and updates - anyone have the Empire Divided DLC to just add to my files?
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 30 Nov 2017, 17:44]
+You will also need the startpos file. And that is if the files for the other dlc didn't get updated, which they might've been to include the P&P mechanics
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 30 Nov 2017, 17:47]
+DLC files are only new startpos and divided.pack file, rest of the files are in base game files + new movies for ED in rome2_movies.pack.
+
+So basically, DLC only files will be the half of game.
+
+PS: Update will be found in this folder later today.
+
+ Spoiler
+Code: Select all | Line number On/Off | Expand/Contract
+https://drive.google.com/drive/folders/ ... sp=sharing
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 30 Nov 2017, 17:47]
+
+_________________
+Haters gonna hate!
+My updates are always clean files - no cracks included.
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 30 Nov 2017, 17:55]
+Has anyone the CODEX-crack only?
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 30 Nov 2017, 18:05]
+Grosses_K wrote:
+Has anyone the CODEX-crack only?
+
+
+Crack Only CODEX
+
+
+Code: Select all | Line number On/Off | Expand/Contract
+http://www94.zippyshare.com/v/9hjLl0qz/file.html
+https://openload.co/f/yglg_OQzuJ4/codex ... k.only.rar
+http://uptobox.com/cafmbdq0rsau
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 30 Nov 2017, 18:24]
+knabberfee wrote:
+DLC files are only new startpos and divided.pack file, rest of the files are in base game files + new movies for ED in rome2_movies.pack.
+
+So basically, DLC only files will be the half of game.
+
+PS: Update will be found in this folder later today.
+
+ Spoiler
+Code: Select all | Line number On/Off | Expand/Contract
+https://drive.google.com/drive/folders/ ... sp=sharing
+
+
+I'm a little confused. Maybe it's because I haven't had my coffee yet!
+
+Like the other user, I have a legitimate copy of the game and the other DLC pack files (and startpos) that I'm using with creamapi. Will you be able to upload the Empire Divided pack file (and startpos) for us? Or will we have to download the game again + your patches to get them?
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 30 Nov 2017, 18:50]
+Now that the DLC and release patch is out I'd really appreciate a CreamAPI guide + proper DLC download list/order for a legit copy.I'm a little confused like the other users.
+
+
+Thank you for your time.
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 30 Nov 2017, 18:53]
+knabberfee wrote:
+PS: Update will be found in this folder later today.
+
+nice I see at this moment en/fr/it, hope russian lang patch will be next 
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 30 Nov 2017, 18:53]
+
+_________________
+No way, my man. You have friends.
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 30 Nov 2017, 19:24]
+MarineMarauder wrote:
+Now that the DLC and release patch is out I'd really appreciate a CreamAPI guide + proper DLC download list/order for a legit copy.I'm a little confused like the other users.
+
+
+Thank you for your time.
+
+
+You need three things:
+
+The DLC files. These are pack files that go into the data folder. Knabberfee has provided most of them a page or two behind. You will need the empire divided pack file which will probably be uploaded soon. Here is the link: https://drive.google.com/file/d/1XDiXit ... sfOTG/view
+
+The StartPos files. I don't remember the exact folder, but I think its campaigns or something. You need these files to be able to launch the campaigns. Here is the link: https://drive.google.com/file/d/1yzgFcD ... hGJ9q/view
+
+CreamAPI. This tricks Steam into thinking you have the DLC. I posted my files a while back. Rename the steam_api file in the total war folder to steam_api_o.dll and place the files I posted. You will need to add the empire divided ID to the bottom of the list on the creamapi.ini file where the other DLC's already are, those ID are the steam store ID's. Link: https://drive.google.com/file/d/1FZJFUL ... qkwKl/view
+
+You need these files + the files for Empire divided. You will need the divided.pack, the divided startpos, and to add the Empire Divided ID and description (copy from the store) to the CreamApi.ini file
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 30 Nov 2017, 19:29]
+Interestingly the CODEX version results in a black screen.
+EDIT: Disregard this post.
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 30 Nov 2017, 20:07]
+Can someone post italian language plz??ty all
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 30 Nov 2017, 20:50]
+ShallowSparks wrote:
+Total.War.Rome.II.Empire.Divided-CODEX
+
+
+knabberfee wrote:
+English only...
+
+
+ENG only just Audio or also Subtitles?
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 30 Nov 2017, 20:52]
+both of course...why should there be eng audio only and no eng subs? .oO
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 30 Nov 2017, 20:52]
+Sammael666 wrote:
+ENG only just Audio or also Subtitles?
+
+yes, subs are english only too
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 30 Nov 2017, 20:52]
+
+_________________
+No way, my man. You have friends.
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 30 Nov 2017, 20:55]
+ShadowDuke wrote:
+both of course...why should there be eng audio only and no eng subs? .oO
+
+Well, we probably did not understand.  I need ENG Audio + CZ Subtitles

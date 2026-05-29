@@ -1,0 +1,435 @@
+=========================================
+STRONA 281 (URL: https://cs.rin.ru/forum/viewtopic.php?f=10&t=61441&hilit=rome+2&start=4200)
+=========================================
+
+[Data: Thursday, 06 Sep 2018, 22:13]
+Hi Knabberfee,
+
+I Installed the Codex Release+ Venom Language package for german speech.
+Then I used Total.War.Rome.II.Rise.of.the.Republic.Update.v2.4.0.Build.19581-GERMAN which worked perfect.
+Now i try to patch Total.War.Rome.II.Rise.of.the.Republic.Update.v2.4.0.Build.19683-GERMAN-Repack but everytime after patching process during verify there are 3 errors and it starts a complete Rollback.
+
+
+After your post i tried also Reinstall + Venom Language package for german speech and then skip 19581 and directly install 19683.
+
+This gives me the error "Required data not found in current dir or wrong Version" in the Patcher window before Patching!
+
+
+Thank you very much for your efforts to solve my Problem.
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 07 Sep 2018, 08:34]
+Hm yeah...
+
+I will install CODEX release again, apply german files, apply "Total.War.Rome.II.Rise.of.the.Republic.Update.v2.4.0.Build.19581-GERMAN" and then I will re-create the patch (again).
+
+You're right, something got wrong. Expect the patch in a half hour.
+
+Sorry
+
+
+---
+
+Edit: I have updated the link again.
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 07 Sep 2018, 08:34]
+
+_________________
+Haters gonna hate!
+My updates are always clean files - no cracks included.
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 07 Sep 2018, 09:12]
+Hi Knabberfee,
+
+Tried your new repack and it gives me again These Errors followed up by message box: "Division by Zero".
+
+Sorry to bother you all the time.
+
+Here the complete error log:
+
+
+ Spoiler
+Starting verification process...
+OK! Valid hash for: "C:\Games\Total War Rome II Rise of the Republic\data\blood_rome2.pack"
+OK! Valid hash for: "C:\Games\Total War Rome II Rise of the Republic\data\boot.pack"
+OK! Valid hash for: "C:\Games\Total War Rome II Rise of the Republic\data\data_rome2.pack"
+OK! Valid hash for: "C:\Games\Total War Rome II Rise of the Republic\data\divided.pack"
+OK! Valid hash for: "C:\Games\Total War Rome II Rise of the Republic\data\gaul.pack"
+OK! Valid hash for: "C:\Games\Total War Rome II Rise of the Republic\data\greeks.pack"
+OK! Valid hash for: "C:\Games\Total War Rome II Rise of the Republic\data\invasion.pack"
+OK! Valid hash for: "C:\Games\Total War Rome II Rise of the Republic\data\local_ge.pack"
+OK! Valid hash for: "C:\Games\Total War Rome II Rise of the Republic\data\manifest.txt"
+OK! Valid hash for: "C:\Games\Total War Rome II Rise of the Republic\data\models2_rome2.pack"
+OK! Valid hash for: "C:\Games\Total War Rome II Rise of the Republic\data\models3_rome2.pack"
+OK! Valid hash for: "C:\Games\Total War Rome II Rise of the Republic\data\models_rome2.pack"
+OK! Valid hash for: "C:\Games\Total War Rome II Rise of the Republic\data\movies_rome2.pack"
+OK! Valid hash for: "C:\Games\Total War Rome II Rise of the Republic\data\music_ge.pack"
+OK! Valid hash for: "C:\Games\Total War Rome II Rise of the Republic\data\music_rome2.pack"
+OK! Valid hash for: "C:\Games\Total War Rome II Rise of the Republic\data\punic.pack"
+OK! Valid hash for: "C:\Games\Total War Rome II Rise of the Republic\data\sound_rome2.pack"
+OK! Valid hash for: "C:\Games\Total War Rome II Rise of the Republic\data\terrain2_rome2.pack"
+OK! Valid hash for: "C:\Games\Total War Rome II Rise of the Republic\data\terrain3_rome2.pack"
+OK! Valid hash for: "C:\Games\Total War Rome II Rise of the Republic\data\terrain_rome2.pack"
+OK! Valid hash for: "C:\Games\Total War Rome II Rise of the Republic\data\tiles2_rome2.pack"
+OK! Valid hash for: "C:\Games\Total War Rome II Rise of the Republic\data\tiles3_rome2.pack"
+OK! Valid hash for: "C:\Games\Total War Rome II Rise of the Republic\data\tiles4_rome2.pack"
+OK! Valid hash for: "C:\Games\Total War Rome II Rise of the Republic\data\tiles_rome2.pack"
+OK! Valid hash for: "C:\Games\Total War Rome II Rise of the Republic\data\campaigns\main_emperor\startpos.esf"
+OK! Valid hash for: "C:\Games\Total War Rome II Rise of the Republic\data\campaigns\main_invasion\startpos.esf"
+Verification process complete! No hash mismatch detected!
+
+Extracting patch-data to a temporary dir...
+
+--> Extracting file: "PatchData\CALibsWinExt.zIntelUnityRelease.dll"
+--> Extracting file: "PatchData\Rome2.dll"
+--> Extracting file: "PatchData\Rome2.exe"
+--> Extracting file: "PatchData\data\blood_rome2.pack.xdelta"
+--> Extracting file: "PatchData\data\boot.pack.xdelta"
+--> Extracting file: "PatchData\data\data_rome2.pack.xdelta"
+--> Extracting file: "PatchData\data\divided.pack.xdelta"
+--> Extracting file: "PatchData\data\gaul.pack.xdelta"
+--> Extracting file: "PatchData\data\greeks.pack.xdelta"
+--> Extracting file: "PatchData\data\invasion.pack.xdelta"
+--> Extracting file: "PatchData\data\local_ge.pack.xdelta"
+--> Extracting file: "PatchData\data\manifest.txt.xdelta"
+--> Extracting file: "PatchData\data\models2_rome2.pack.xdelta"
+--> Extracting file: "PatchData\data\models3_rome2.pack.xdelta"
+--> Extracting file: "PatchData\data\models_rome2.pack.xdelta"
+--> Extracting file: "PatchData\data\movies_rome2.pack.xdelta"
+--> Extracting file: "PatchData\data\music_ge.pack.xdelta"
+--> Extracting file: "PatchData\data\music_rome2.pack.xdelta"
+--> Extracting file: "PatchData\data\punic.pack.xdelta"
+--> Extracting file: "PatchData\data\sound_rome2.pack.xdelta"
+--> Extracting file: "PatchData\data\terrain2_rome2.pack.xdelta"
+--> Extracting file: "PatchData\data\terrain3_rome2.pack.xdelta"
+--> Extracting file: "PatchData\data\terrain_rome2.pack.xdelta"
+--> Extracting file: "PatchData\data\tiles2_rome2.pack.xdelta"
+--> Extracting file: "PatchData\data\tiles3_rome2.pack.xdelta"
+--> Extracting file: "PatchData\data\tiles4_rome2.pack.xdelta"
+--> Extracting file: "PatchData\data\tiles_rome2.pack.xdelta"
+--> Extracting file: "PatchData\data\campaigns\main_emperor\startpos.esf.xdelta"
+--> Extracting file: "PatchData\data\campaigns\main_invasion\startpos.esf.xdelta"
+--> Extracting file: "PatchData\launcher\launcher.exe"
+
+Patching in Forced Mode!
+Only existing required files will be updated, and everything else will be skipped...
+
+[Starting patching session]
+--> Target file: "C:\Games\Total War Rome II Rise of the Republic\data\blood_rome2.pack"
+=> Patch-data file: "C:\Users\F1376~1.WIL\AppData\Local\Temp\is-9AMCE.tmp\PatchData\data\blood_rome2.pack.xdelta"
+>> Output patched: "C:\Games\Total War Rome II Rise of the Republic\data\blood_rome2.pack"
+--> Target file: "C:\Games\Total War Rome II Rise of the Republic\data\boot.pack"
+=> Patch-data file: "C:\Users\F1376~1.WIL\AppData\Local\Temp\is-9AMCE.tmp\PatchData\data\boot.pack.xdelta"
+>> Output patched: "C:\Games\Total War Rome II Rise of the Republic\data\boot.pack"
+--> Target file: "C:\Games\Total War Rome II Rise of the Republic\data\data_rome2.pack"
+=> Patch-data file: "C:\Users\F1376~1.WIL\AppData\Local\Temp\is-9AMCE.tmp\PatchData\data\data_rome2.pack.xdelta"
+>> Output patched: "C:\Games\Total War Rome II Rise of the Republic\data\data_rome2.pack"
+--> Target file: "C:\Games\Total War Rome II Rise of the Republic\data\divided.pack"
+=> Patch-data file: "C:\Users\F1376~1.WIL\AppData\Local\Temp\is-9AMCE.tmp\PatchData\data\divided.pack.xdelta"
+>> Output patched: "C:\Games\Total War Rome II Rise of the Republic\data\divided.pack"
+--> Target file: "C:\Games\Total War Rome II Rise of the Republic\data\gaul.pack"
+=> Patch-data file: "C:\Users\F1376~1.WIL\AppData\Local\Temp\is-9AMCE.tmp\PatchData\data\gaul.pack.xdelta"
+>> Output patched: "C:\Games\Total War Rome II Rise of the Republic\data\gaul.pack"
+--> Target file: "C:\Games\Total War Rome II Rise of the Republic\data\greeks.pack"
+=> Patch-data file: "C:\Users\F1376~1.WIL\AppData\Local\Temp\is-9AMCE.tmp\PatchData\data\greeks.pack.xdelta"
+>> Output patched: "C:\Games\Total War Rome II Rise of the Republic\data\greeks.pack"
+--> Target file: "C:\Games\Total War Rome II Rise of the Republic\data\invasion.pack"
+=> Patch-data file: "C:\Users\F1376~1.WIL\AppData\Local\Temp\is-9AMCE.tmp\PatchData\data\invasion.pack.xdelta"
+>> Output patched: "C:\Games\Total War Rome II Rise of the Republic\data\invasion.pack"
+--> Target file: "C:\Games\Total War Rome II Rise of the Republic\data\local_ge.pack"
+=> Patch-data file: "C:\Users\F1376~1.WIL\AppData\Local\Temp\is-9AMCE.tmp\PatchData\data\local_ge.pack.xdelta"
+>> Output patched: "C:\Games\Total War Rome II Rise of the Republic\data\local_ge.pack"
+--> Target file: "C:\Games\Total War Rome II Rise of the Republic\data\manifest.txt"
+=> Patch-data file: "C:\Users\F1376~1.WIL\AppData\Local\Temp\is-9AMCE.tmp\PatchData\data\manifest.txt.xdelta"
+>> Output patched: "C:\Games\Total War Rome II Rise of the Republic\data\manifest.txt"
+--> Target file: "C:\Games\Total War Rome II Rise of the Republic\data\models2_rome2.pack"
+=> Patch-data file: "C:\Users\F1376~1.WIL\AppData\Local\Temp\is-9AMCE.tmp\PatchData\data\models2_rome2.pack.xdelta"
+>> Output patched: "C:\Games\Total War Rome II Rise of the Republic\data\models2_rome2.pack"
+--> Target file: "C:\Games\Total War Rome II Rise of the Republic\data\models3_rome2.pack"
+=> Patch-data file: "C:\Users\F1376~1.WIL\AppData\Local\Temp\is-9AMCE.tmp\PatchData\data\models3_rome2.pack.xdelta"
+>> Output patched: "C:\Games\Total War Rome II Rise of the Republic\data\models3_rome2.pack"
+--> Target file: "C:\Games\Total War Rome II Rise of the Republic\data\models_rome2.pack"
+=> Patch-data file: "C:\Users\F1376~1.WIL\AppData\Local\Temp\is-9AMCE.tmp\PatchData\data\models_rome2.pack.xdelta"
+>> Output patched: "C:\Games\Total War Rome II Rise of the Republic\data\models_rome2.pack"
+--> Target file: "C:\Games\Total War Rome II Rise of the Republic\data\movies_rome2.pack"
+=> Patch-data file: "C:\Users\F1376~1.WIL\AppData\Local\Temp\is-9AMCE.tmp\PatchData\data\movies_rome2.pack.xdelta"
+>> Output patched: "C:\Games\Total War Rome II Rise of the Republic\data\movies_rome2.pack"
+--> Target file: "C:\Games\Total War Rome II Rise of the Republic\data\music_ge.pack"
+=> Patch-data file: "C:\Users\F1376~1.WIL\AppData\Local\Temp\is-9AMCE.tmp\PatchData\data\music_ge.pack.xdelta"
+>> Output patched: "C:\Games\Total War Rome II Rise of the Republic\data\music_ge.pack"
+--> Target file: "C:\Games\Total War Rome II Rise of the Republic\data\music_rome2.pack"
+=> Patch-data file: "C:\Users\F1376~1.WIL\AppData\Local\Temp\is-9AMCE.tmp\PatchData\data\music_rome2.pack.xdelta"
+>> Output patched: "C:\Games\Total War Rome II Rise of the Republic\data\music_rome2.pack"
+--> Target file: "C:\Games\Total War Rome II Rise of the Republic\data\punic.pack"
+=> Patch-data file: "C:\Users\F1376~1.WIL\AppData\Local\Temp\is-9AMCE.tmp\PatchData\data\punic.pack.xdelta"
+>> Output patched: "C:\Games\Total War Rome II Rise of the Republic\data\punic.pack"
+--> Target file: "C:\Games\Total War Rome II Rise of the Republic\data\sound_rome2.pack"
+=> Patch-data file: "C:\Users\F1376~1.WIL\AppData\Local\Temp\is-9AMCE.tmp\PatchData\data\sound_rome2.pack.xdelta"
+>> Output patched: "C:\Games\Total War Rome II Rise of the Republic\data\sound_rome2.pack"
+--> Target file: "C:\Games\Total War Rome II Rise of the Republic\data\terrain2_rome2.pack"
+=> Patch-data file: "C:\Users\F1376~1.WIL\AppData\Local\Temp\is-9AMCE.tmp\PatchData\data\terrain2_rome2.pack.xdelta"
+>> Output patched: "C:\Games\Total War Rome II Rise of the Republic\data\terrain2_rome2.pack"
+--> Target file: "C:\Games\Total War Rome II Rise of the Republic\data\terrain3_rome2.pack"
+=> Patch-data file: "C:\Users\F1376~1.WIL\AppData\Local\Temp\is-9AMCE.tmp\PatchData\data\terrain3_rome2.pack.xdelta"
+>> Output patched: "C:\Games\Total War Rome II Rise of the Republic\data\terrain3_rome2.pack"
+--> Target file: "C:\Games\Total War Rome II Rise of the Republic\data\terrain_rome2.pack"
+=> Patch-data file: "C:\Users\F1376~1.WIL\AppData\Local\Temp\is-9AMCE.tmp\PatchData\data\terrain_rome2.pack.xdelta"
+>> Output patched: "C:\Games\Total War Rome II Rise of the Republic\data\terrain_rome2.pack"
+--> Target file: "C:\Games\Total War Rome II Rise of the Republic\data\tiles2_rome2.pack"
+=> Patch-data file: "C:\Users\F1376~1.WIL\AppData\Local\Temp\is-9AMCE.tmp\PatchData\data\tiles2_rome2.pack.xdelta"
+>> Output patched: "C:\Games\Total War Rome II Rise of the Republic\data\tiles2_rome2.pack"
+--> Target file: "C:\Games\Total War Rome II Rise of the Republic\data\tiles3_rome2.pack"
+=> Patch-data file: "C:\Users\F1376~1.WIL\AppData\Local\Temp\is-9AMCE.tmp\PatchData\data\tiles3_rome2.pack.xdelta"
+>> Output patched: "C:\Games\Total War Rome II Rise of the Republic\data\tiles3_rome2.pack"
+--> Target file: "C:\Games\Total War Rome II Rise of the Republic\data\tiles4_rome2.pack"
+=> Patch-data file: "C:\Users\F1376~1.WIL\AppData\Local\Temp\is-9AMCE.tmp\PatchData\data\tiles4_rome2.pack.xdelta"
+>> Output patched: "C:\Games\Total War Rome II Rise of the Republic\data\tiles4_rome2.pack"
+--> Target file: "C:\Games\Total War Rome II Rise of the Republic\data\tiles_rome2.pack"
+=> Patch-data file: "C:\Users\F1376~1.WIL\AppData\Local\Temp\is-9AMCE.tmp\PatchData\data\tiles_rome2.pack.xdelta"
+>> Output patched: "C:\Games\Total War Rome II Rise of the Republic\data\tiles_rome2.pack"
+--> Target file: "C:\Games\Total War Rome II Rise of the Republic\data\campaigns\main_emperor\startpos.esf"
+=> Patch-data file: "C:\Users\F1376~1.WIL\AppData\Local\Temp\is-9AMCE.tmp\PatchData\data\campaigns\main_emperor\startpos.esf.xdelta"
+>> Output patched: "C:\Games\Total War Rome II Rise of the Republic\data\campaigns\main_emperor\startpos.esf"
+--> Target file: "C:\Games\Total War Rome II Rise of the Republic\data\campaigns\main_invasion\startpos.esf"
+=> Patch-data file: "C:\Users\F1376~1.WIL\AppData\Local\Temp\is-9AMCE.tmp\PatchData\data\campaigns\main_invasion\startpos.esf.xdelta"
+>> Output patched: "C:\Games\Total War Rome II Rise of the Republic\data\campaigns\main_invasion\startpos.esf"
+[Ending patching session]
+
+[Starting copying session]
+--> Included file: "C:\Users\F1376~1.WIL\AppData\Local\Temp\is-9AMCE.tmp\PatchData\CALibsWinExt.zIntelUnityRelease.dll" is copied to: "C:\Games\Total War Rome II Rise of the Republic\CALibsWinExt.zIntelUnityRelease.dll"
+--> Included file: "C:\Users\F1376~1.WIL\AppData\Local\Temp\is-9AMCE.tmp\PatchData\Rome2.dll" is copied to: "C:\Games\Total War Rome II Rise of the Republic\Rome2.dll"
+--> Included file: "C:\Users\F1376~1.WIL\AppData\Local\Temp\is-9AMCE.tmp\PatchData\Rome2.exe" is copied to: "C:\Games\Total War Rome II Rise of the Republic\Rome2.exe"
+--> Included file: "C:\Users\F1376~1.WIL\AppData\Local\Temp\is-9AMCE.tmp\PatchData\launcher\launcher.exe" is copied to: "C:\Games\Total War Rome II Rise of the Republic\launcher\launcher.exe"
+[Copying session end]
+
+Starting verification process...
+OK! Valid hash for: "C:\Games\Total War Rome II Rise of the Republic\data\blood_rome2.pack"
+OK! Valid hash for: "C:\Games\Total War Rome II Rise of the Republic\data\boot.pack"
+OK! Valid hash for: "C:\Games\Total War Rome II Rise of the Republic\data\data_rome2.pack"
+OK! Valid hash for: "C:\Games\Total War Rome II Rise of the Republic\data\divided.pack"
+OK! Valid hash for: "C:\Games\Total War Rome II Rise of the Republic\data\gaul.pack"
+OK! Valid hash for: "C:\Games\Total War Rome II Rise of the Republic\data\greeks.pack"
+OK! Valid hash for: "C:\Games\Total War Rome II Rise of the Republic\data\invasion.pack"
+OK! Valid hash for: "C:\Games\Total War Rome II Rise of the Republic\data\local_ge.pack"
+OK! Valid hash for: "C:\Games\Total War Rome II Rise of the Republic\data\manifest.txt"
+OK! Valid hash for: "C:\Games\Total War Rome II Rise of the Republic\data\models2_rome2.pack"
+[!] Error! Invalid hash for: "C:\Games\Total War Rome II Rise of the Republic\data\models3_rome2.pack"
+[!] Error! Invalid hash for: "C:\Games\Total War Rome II Rise of the Republic\data\models_rome2.pack"
+OK! Valid hash for: "C:\Games\Total War Rome II Rise of the Republic\data\movies_rome2.pack"
+OK! Valid hash for: "C:\Games\Total War Rome II Rise of the Republic\data\music_ge.pack"
+OK! Valid hash for: "C:\Games\Total War Rome II Rise of the Republic\data\music_rome2.pack"
+OK! Valid hash for: "C:\Games\Total War Rome II Rise of the Republic\data\punic.pack"
+OK! Valid hash for: "C:\Games\Total War Rome II Rise of the Republic\data\sound_rome2.pack"
+OK! Valid hash for: "C:\Games\Total War Rome II Rise of the Republic\data\terrain2_rome2.pack"
+[!] Error! Invalid hash for: "C:\Games\Total War Rome II Rise of the Republic\data\terrain3_rome2.pack"
+OK! Valid hash for: "C:\Games\Total War Rome II Rise of the Republic\data\terrain_rome2.pack"
+OK! Valid hash for: "C:\Games\Total War Rome II Rise of the Republic\data\tiles2_rome2.pack"
+OK! Valid hash for: "C:\Games\Total War Rome II Rise of the Republic\data\tiles3_rome2.pack"
+OK! Valid hash for: "C:\Games\Total War Rome II Rise of the Republic\data\tiles4_rome2.pack"
+OK! Valid hash for: "C:\Games\Total War Rome II Rise of the Republic\data\tiles_rome2.pack"
+OK! Valid hash for: "C:\Games\Total War Rome II Rise of the Republic\data\campaigns\main_emperor\startpos.esf"
+OK! Valid hash for: "C:\Games\Total War Rome II Rise of the Republic\data\campaigns\main_invasion\startpos.esf"
+
+[!] Some files do not exist or have incorrect hash!
+
+[!] Errors occurred during patching!
+
+Rollback started!
+Rollback: "C:\Games\Total War Rome II Rise of the Republic\Backup-1\data\blood_rome2.pack" to: "C:\Games\Total War Rome II Rise of the Republic\data\blood_rome2.pack" success.
+Rollback: "C:\Games\Total War Rome II Rise of the Republic\Backup-1\data\boot.pack" to: "C:\Games\Total War Rome II Rise of the Republic\data\boot.pack" success.
+Rollback: "C:\Games\Total War Rome II Rise of the Republic\Backup-1\data\data_rome2.pack" to: "C:\Games\Total War Rome II Rise of the Republic\data\data_rome2.pack" success.
+Rollback: "C:\Games\Total War Rome II Rise of the Republic\Backup-1\data\divided.pack" to: "C:\Games\Total War Rome II Rise of the Republic\data\divided.pack" success.
+Rollback: "C:\Games\Total War Rome II Rise of the Republic\Backup-1\data\gaul.pack" to: "C:\Games\Total War Rome II Rise of the Republic\data\gaul.pack" success.
+Rollback: "C:\Games\Total War Rome II Rise of the Republic\Backup-1\data\greeks.pack" to: "C:\Games\Total War Rome II Rise of the Republic\data\greeks.pack" success.
+Rollback: "C:\Games\Total War Rome II Rise of the Republic\Backup-1\data\invasion.pack" to: "C:\Games\Total War Rome II Rise of the Republic\data\invasion.pack" success.
+Rollback: "C:\Games\Total War Rome II Rise of the Republic\Backup-1\data\local_ge.pack" to: "C:\Games\Total War Rome II Rise of the Republic\data\local_ge.pack" success.
+Rollback: "C:\Games\Total War Rome II Rise of the Republic\Backup-1\data\manifest.txt" to: "C:\Games\Total War Rome II Rise of the Republic\data\manifest.txt" success.
+Rollback: "C:\Games\Total War Rome II Rise of the Republic\Backup-1\data\models2_rome2.pack" to: "C:\Games\Total War Rome II Rise of the Republic\data\models2_rome2.pack" success.
+Rollback: "C:\Games\Total War Rome II Rise of the Republic\Backup-1\data\models3_rome2.pack" to: "C:\Games\Total War Rome II Rise of the Republic\data\models3_rome2.pack" success.
+Rollback: "C:\Games\Total War Rome II Rise of the Republic\Backup-1\data\models_rome2.pack" to: "C:\Games\Total War Rome II Rise of the Republic\data\models_rome2.pack" success.
+Rollback: "C:\Games\Total War Rome II Rise of the Republic\Backup-1\data\movies_rome2.pack" to: "C:\Games\Total War Rome II Rise of the Republic\data\movies_rome2.pack" success.
+Rollback: "C:\Games\Total War Rome II Rise of the Republic\Backup-1\data\music_ge.pack" to: "C:\Games\Total War Rome II Rise of the Republic\data\music_ge.pack" success.
+Rollback: "C:\Games\Total War Rome II Rise of the Republic\Backup-1\data\music_rome2.pack" to: "C:\Games\Total War Rome II Rise of the Republic\data\music_rome2.pack" success.
+Rollback: "C:\Games\Total War Rome II Rise of the Republic\Backup-1\data\punic.pack" to: "C:\Games\Total War Rome II Rise of the Republic\data\punic.pack" success.
+Rollback: "C:\Games\Total War Rome II Rise of the Republic\Backup-1\data\sound_rome2.pack" to: "C:\Games\Total War Rome II Rise of the Republic\data\sound_rome2.pack" success.
+Rollback: "C:\Games\Total War Rome II Rise of the Republic\Backup-1\data\terrain2_rome2.pack" to: "C:\Games\Total War Rome II Rise of the Republic\data\terrain2_rome2.pack" success.
+Rollback: "C:\Games\Total War Rome II Rise of the Republic\Backup-1\data\terrain3_rome2.pack" to: "C:\Games\Total War Rome II Rise of the Republic\data\terrain3_rome2.pack" success.
+Rollback: "C:\Games\Total War Rome II Rise of the Republic\Backup-1\data\terrain_rome2.pack" to: "C:\Games\Total War Rome II Rise of the Republic\data\terrain_rome2.pack" success.
+Rollback: "C:\Games\Total War Rome II Rise of the Republic\Backup-1\data\tiles2_rome2.pack" to: "C:\Games\Total War Rome II Rise of the Republic\data\tiles2_rome2.pack" success.
+Rollback: "C:\Games\Total War Rome II Rise of the Republic\Backup-1\data\tiles3_rome2.pack" to: "C:\Games\Total War Rome II Rise of the Republic\data\tiles3_rome2.pack" success.
+Rollback: "C:\Games\Total War Rome II Rise of the Republic\Backup-1\data\tiles4_rome2.pack" to: "C:\Games\Total War Rome II Rise of the Republic\data\tiles4_rome2.pack" success.
+Rollback: "C:\Games\Total War Rome II Rise of the Republic\Backup-1\data\tiles_rome2.pack" to: "C:\Games\Total War Rome II Rise of the Republic\data\tiles_rome2.pack" success.
+Rollback: "C:\Games\Total War Rome II Rise of the Republic\Backup-1\data\campaigns\main_emperor\startpos.esf" to: "C:\Games\Total War Rome II Rise of the Republic\data\campaigns\main_emperor\startpos.esf" success.
+Rollback: "C:\Games\Total War Rome II Rise of the Republic\Backup-1\data\campaigns\main_invasion\startpos.esf" to: "C:\Games\Total War Rome II Rise of the Republic\data\campaigns\main_invasion\startpos.esf" success.
+Included: "C:\Games\Total War Rome II Rise of the Republic\CALibsWinExt.zIntelUnityRelease.dll" successfully deleted.
+Included: "C:\Games\Total War Rome II Rise of the Republic\Rome2.dll" successfully deleted.
+Included: "C:\Games\Total War Rome II Rise of the Republic\Rome2.exe" successfully deleted.
+Included: "C:\Games\Total War Rome II Rise of the Republic\launcher\launcher.exe" successfully deleted.
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 07 Sep 2018, 09:41]
+That's impossible. Seems like ISXPM is the problem here.
+
+First pre-patch CRC is Ok, then post-patch CRC is wrong. That doesn't make sense. Will do something different.
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 07 Sep 2018, 09:41]
+
+_________________
+Haters gonna hate!
+My updates are always clean files - no cracks included.
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 07 Sep 2018, 12:18]
+knabberfee wrote:
+That's impossible. Seems like ISXPM is the problem here.
+
+First pre-patch CRC is Ok, then post-patch CRC is wrong. That doesn't make sense. Will do something different.
+
+
+Seems to be strange, but same here as Flokehl described. Knabberfee´s Total.War.Rome.II.Rise.of.the.Republic.Update.v2.4.0.Build.19581-GERMAN.exe worked like charm. But Total.War.Rome.II.Rise.of.the.Republic.Update.v2.4.0.Build.19683-GERMAN-REPACK.exe rolls back entire game due 3 mismatches mentioned before.
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 07 Sep 2018, 12:57]
+It should be fixed now. Otherwise something is wrong on your end. For me it works now without problems.
+Extract to somewhere, start bat file and follow instructions.
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 07 Sep 2018, 12:57]
+
+_________________
+Haters gonna hate!
+My updates are always clean files - no cracks included.
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 08 Sep 2018, 05:21]
+Hi, can anyone upload these three mods?
+
+https://steamcommunity.com/sharedfiles/ ... =345063994
+
+https://steamcommunity.com/sharedfiles/ ... =398634129
+
+https://steamcommunity.com/sharedfiles/ ... 1415360013
+
+I tried to download them through steamworkshopdownloader, but i get error 503 with every attempt.
+
+Thanks in advance 
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 08 Sep 2018, 08:57]
+Thank you Knabberfee:)
+
+Your new Batch Patcher worked like a charm.
+
+Thank you very much for your quick efforts.
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 08 Sep 2018, 09:14]
+Please new update Turkish Language. Thank you
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 09 Sep 2018, 03:33]
+Is there a DLC only pack? I'd prefer to just buy the base game and crack the DLC.
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 09 Sep 2018, 12:16]
+Can somebody upload the original Rome2.exe, I don't know what's wrong with my installation but the .exe file is only 684KB, which is not normal at all.
+P.s: Sorry, I have fixed my problem.
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 10 Sep 2018, 15:34]
+Please, could somebody update the language packages of Total War ROME II (Update.v2.4.0.Build.19683)?
+
+In my case, I need Spanish.
+
+Thank´s.
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 10 Sep 2018, 15:34]
+
+_________________
+
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 11 Sep 2018, 04:22]
+knabberfee wrote:
+Here is the SFV
+
+Check for missing (DLC) files. Will upload them
+
+-- Edit --
+
+TWR2 Update Rise of the Republic
+
+ Spoiler
+Code: Select all | Line number On/Off | Expand/Contract
+https://www14.zippyshare.com/v/OspTRK7o/file.html
+https://www14.zippyshare.com/v/jfNTQ6IV/file.html
+https://www14.zippyshare.com/v/A7iOYCnV/file.html
+https://www14.zippyshare.com/v/viZM509l/file.html
+https://www14.zippyshare.com/v/VN6wf5zn/file.html
+ 
+
+
+You need my previous Ancestral Beta update!
+
+
+Whats the password???
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 11 Sep 2018, 04:32]
+cs(dot)rin(dot)ru
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 11 Sep 2018, 04:32]
+
+_________________
+The FAQ are you waiting for?
+
+A wild PASSWORD appeared for protected archives & files on RIN! Member used cs.rin.ru ...it's super effective!
+
+Having problems downloading from Google Drive? Click here.
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 11 Sep 2018, 05:03]
+knabberfee wrote:
+CRC 14440961 is correct
+
+But i will let steam scan/repair files to be 100% sure.
+
+Edit: I don't know why there is a wrong CRC value in my previous SFV. Will make a MD5 instead when steam is finished scanning.
+
+Edit2: Here is the new MD5 file (data_rome2.pack should now have the correct value)
+
+
+TWR2 Ancestral BETA Update 1 google drive link is not working
+
+-- Edit --
+
+
+Venom wrote:
+cs(dot)rin(dot)ru
+
+
+TWR2 Ancestral BETA Update 1 google drive link is not working. Any alternative links?

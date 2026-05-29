@@ -1,0 +1,237 @@
+=========================================
+STRONA 272 (URL: https://cs.rin.ru/forum/viewtopic.php?f=10&t=61441&hilit=rome+2&start=4065)
+=========================================
+
+[Data: Friday, 10 Aug 2018, 14:58]
+I installed "TWR2 Ancestral BETA Update 1" + "TWR2 Update Rise of the Republic" without error.
+I checked files "knabberfee SFV" and have crc error "data\data_rome2.pack".
+
+"TWR2 Update Rise of the Republic" CRC 14440961
+"knabberfee SFV" CRC C8080393
+
+Which version is correct?
+
+Please share this file from "Total.War.Rome.II.Rise.of.the.Republic-CODEX"
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 10 Aug 2018, 14:58]
+
+_________________
+Sorry for my English, I use Google translate. 
+CSF - Clean Steam files. Crack not included. If you don't know the password, read the FAQ. If I missed a new update, send a request to the PM.
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 10 Aug 2018, 15:36]
+CRC 14440961 is correct
+
+But i will let steam scan/repair files to be 100% sure.
+
+Edit: I don't know why there is a wrong CRC value in my previous SFV. Will make a MD5 instead when steam is finished scanning.
+
+Edit2: Here is the new MD5 file (data_rome2.pack should now have the correct value)
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 10 Aug 2018, 15:36]
+
+_________________
+Haters gonna hate!
+My updates are always clean files - no cracks included.
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 10 Aug 2018, 20:05]
+zutury wrote:
+Hi guys i have legit copy of the game, someone can upload only the new dlc file for Rise of Republic ?? Thanks
+
+
+You don't need it, just grab the Cream.api. The DLC is already there.
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 11 Aug 2018, 08:05]
+How the new encyclopedia works in legal game, anyone ?
+And using Steamworks fix makes game unable to exit to windows properly.
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 11 Aug 2018, 11:30]
+So i have a legit vanilla game. If i copy all latest codex release files into steam, how can i play with creamapi?.
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 11 Aug 2018, 12:14]
+Aomari wrote:
+How the new encyclopedia works in legal game, anyone ?
+And using Steamworks fix makes game unable to exit to windows properly.
+
+
+Yeah, I've no idea why that happens. If it bothers you, use an older CreamAPI version. I uploaded it here: https://openload.co/f/NfGD2mklsTM/Total ... s.Fix.2.7z
+
+It should still work fine and exit to desktop no longer crashes 
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 11 Aug 2018, 12:14]
+
+_________________
+Always wanted to get rid of the files that were not listed in the sfv/md5 hash file? Check the QuickSFV plugin I created for this: viewtopic.php?f=10&t=108605 or this: viewtopic.php?p=1273745#p1273745
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 11 Aug 2018, 16:01]
+Total War: Rome 2 - Emperor Edition (v2.4.0.19534 + 17 DLCs + Multiplayer, MULTi9) [FitGirl Repack, Selective Download] from 9.2 GB
+
+fitgirl-repacks.site/total-war-rome-2-emperor-edition/ (more mirrors, no ads)
+1337x.to/torrent/3169002/Total-War-Rome-2-Emperor-Edition-v2-4-0-19534-17-DLCs-Multiplayer-MULTi9-FitGirl-Repack-Selective-Download-from-9-2-GB/
+magnet:?xt=urn:btih:D57314BB6ECADECB2259F2B7DD5F9F869A5879EB
+sendfile.su/1435719 (.torrent only)
+
+Repack Features
+
+
+Based on Total.War.Rome.II.Rise.of.the.Republic-CODEX ISO release: codex-total.war.rome.ii.rise.of.the.republic.iso (18,516,082,688 bytes)
+Missing language packs (18.1 GB) added, thanks to Venom
+Total.War.Rome.II.Rise.of.the.Republic-CODEX.SteamWorks.Fix.v2 (thanks to Anomaly!) is available in NoDVD folder after installation, allowing multiplayer via Steam
+100% Lossless & MD5 Perfect: all files are identical to originals after installation
+NOTHING ripped, NOTHING re-encoded
+Selective Download feature: you can download only language files you need. English support is included by default
+Significantly smaller archive size (compressed from cumulative 35.3 to 9.2~10.5 GB for any single language)
+Installation takes 15~25 minutes (depending on your system and selected language)
+After-install integrity check so you could make sure that everything installed properly
+HDD space after installation: 34 GB
+At least 2 GB of free RAM (inc. virtual) required for installing this repack
+Repack uses XTool library by Razor12911
+
+Selective Download
+
+
+ Spoiler
+You can skip downloading of language files you don't need. NOTE: English support is included by default/ Here is the list of selective files:
+
+
+fg-selective-french.bin
+fg-selective-german.bin
+fg-selective-italian.bin
+fg-selective-russian.bin
+fg-selective-spanish.bin
+fg-selective-polish.bin
+fg-selective-czech.bin
+fg-selective-turkish.bin
+
+In example, if you want to launch the game with Spanish UI/Subtitles/Voiceovers - skip all "selective" files, but download fg-selective-spanish.bin & all main files (01-04).
+
+
+Backwards Compatibility
+
+This repack IS NOT backwards compatible with my previous Rome 2 repacks.
+
+Problems during installation?
+
+Read this repacks troubleshooting guide
+http://fitgirl-repacks.site/repacks-troubleshooting/ [May link to unsafe filehosters]
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 11 Aug 2018, 16:01]
+
+_________________
+ [May link to unsafe filehosters]
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 11 Aug 2018, 16:19]
+gastovski wrote:
+So i have a legit vanilla game. If i copy all latest codex release files into steam, how can i play with creamapi?.
+
+You don't need all of the DLC files. Only for:
+
+- Total War: ROME II - Nomadic Tribes Culture Pack
+- Total War: ROME II - Caesar in Gaul
+- Total War: ROME II – Hannibal at the Gates
+
+You can unlock all the others without the DLC files with CAPI.
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 11 Aug 2018, 16:19]
+
+_________________
+The FAQ are you waiting for?
+
+A wild PASSWORD appeared for protected archives & files on RIN! Member used cs.rin.ru ...it's super effective!
+
+Having problems downloading from Google Drive? Click here.
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 11 Aug 2018, 17:04]
+[Mirror] Total War: Rome 2 - Emperor Edition (v2.4.0.19534 + 17 DLCs + Multiplayer, MULTi9) [FitGirl Repack, Selective Download] from 9.2 GB
+
+3GB Parts, Upto 12MB/s
+
+
+ Upera
+https://public.upera.co/f/aQ4h7e35
+(Use IDM with 8+ connections)
+How to bypass daily download limit:
+http://upr.bitballoon.com
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 12 Aug 2018, 00:42]
+I wonder if CODEX will upload "updates/DLC-only" installer like with the previous updates?
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 12 Aug 2018, 16:59]
+Can anyone upload https://steamcommunity.com/sharedfiles/ ... =952250553
+Sadly the file is too big for the workshop downloader to process, cheers!
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 12 Aug 2018, 18:18]
+I have the legitimate game version, but running the SFV file gives me mismatches on the .pack files, like rome2.data,divided.pack, gaul.pack etc. Is it alright if these files are mismatched?
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 12 Aug 2018, 18:19]
+Can somebody who owns the Steam's full ENGLISH game plus all DLCs share a sfv file fully updated, please ???
+
+PS. Is anybody else getting constant crashes "Rome2.exe" has stopped working" pointing the error to the file "Rome2.dll" ???
+
+-- EDITED to precise english language --
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 12 Aug 2018, 18:24]
+^It's one page back
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 12 Aug 2018, 18:24]
+
+_________________
+Haters gonna hate!
+My updates are always clean files - no cracks included.
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 12 Aug 2018, 18:44]
+guto8797 wrote:
+I have the legitimate game version, but running the SFV file gives me mismatches on the .pack files, like rome2.data,divided.pack, gaul.pack etc. Is it alright if these files are mismatched?
+
+Those are the DLC files. Empire Divided, and Caesar in Gaul. At least it would make sense with the names. Not exactly sure why you have a missmatch with the data file
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 12 Aug 2018, 18:44]
+
+_________________
+The FAQ are you waiting for?
+
+A wild PASSWORD appeared for protected archives & files on RIN! Member used cs.rin.ru ...it's super effective!
+
+Having problems downloading from Google Drive? Click here.

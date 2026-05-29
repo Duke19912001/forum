@@ -1,0 +1,255 @@
+=========================================
+STRONA 294 (URL: https://cs.rin.ru/forum/viewtopic.php?f=10&t=61441&hilit=rome+2&start=4395)
+=========================================
+
+[Data: Saturday, 30 Mar 2019, 16:22]
+Thank you Venom for quick reply but it says that there is a quota on the files?
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 30 Mar 2019, 16:23]
+Mascapaycha wrote:
+Thank you Venom for quick reply but it says that there is a quota on the files?
+
+Read the Bot's signature: viewtopic.php?p=1547135#p1547135
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 30 Mar 2019, 16:23]
+
+_________________
+The FAQ are you waiting for?
+
+A wild PASSWORD appeared for protected archives & files on RIN! Member used cs.rin.ru ...it's super effective!
+
+Having problems downloading from Google Drive? Click here.
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 30 Mar 2019, 16:37]
+Thanks Venom have a good one!
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 30 Mar 2019, 23:32]
+Anomaly wrote:
+MasterOfPuppetss wrote:
+Hello!
+Is there anyway to make the divide et empere work?It launches steam everytime i open it whith ModManager 
+
+
+viewtopic.php?f=10&t=61441&p=1253873#p1253873
+
+
+Hey the file your post points to isn't available anymore. I updated the game, but can't launch it through mod manager, as it goes to my steam.
+
+Any chance someone got a working mod manager link lying around?
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 04 Apr 2019, 16:17]
+jarilo51 wrote:
+Anomaly wrote:
+MasterOfPuppetss wrote:
+Hello!
+Is there anyway to make the divide et empere work?It launches steam everytime i open it whith ModManager 
+
+
+viewtopic.php?f=10&t=61441&p=1253873#p1253873
+
+
+Hey the file your post points to isn't available anymore. I updated the game, but can't launch it through mod manager, as it goes to my steam.
+
+Any chance someone got a working mod manager link lying around?
+
+
+
+I had the same problem. This worked for me.
+
+You need a hex editor, easiest to use is this one.
+http://www.chmaas.handshake.de/delphi/f ... m#download
+
+Then, you need to open the .pack archive with said program and press delete EIGHT times. You know it´s done when the first letter in the boxes to the right is a p.
+
+Finally, save that .pack archive and move it to your data folder.
+
+Download Mitch's mod manager but make sure it is 2.0 not 3.0 as 3.0 will send you to steam page.
+
+The mod manager 2.0 should show you the mods if you did all of the above. But it will not load them yet.
+
+For that you need to start total war rome 2 normally and tick the user.scripts option in the mods tab which is in options on the left.
+
+It will tell you to restart and that's what you do but you can start the game through the mod manager now and everything should work now.
+
+I suggest testing out with this UI mod to see if everything works.
+https://steamcommunity.com/sharedfiles/ ... earchtext=
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 05 Apr 2019, 15:21]
+For those who are still interested in other languages for this game, I will upload new language updates later today.
+
+What you need:
+1. viewtopic.php?p=1745951#p1745951
+2. viewtopic.php?p=1749050#p1749050
+
+Edit:
+
+Language updates for v2.3.0 Build 19728
+
+ Spoiler
+Code: Select all | Line number On/Off | Expand/Contract
+https://drive.google.com/open?id=1bWh9g ... xXxYn5cbnq
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 05 Apr 2019, 15:21]
+
+_________________
+Haters gonna hate!
+My updates are always clean files - no cracks included.
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 05 Apr 2019, 22:01]
+knabberfee wrote:
+For those who are still interested in other languages for this game, I will upload new language updates later today.
+
+What you need:
+1. viewtopic.php?p=1745951#p1745951
+2. viewtopic.php?p=1749050#p1749050
+
+Edit:
+
+Language updates for v2.3.0 Build 19728
+
+ Spoiler
+Code: Select all | Line number On/Off | Expand/Contract
+https://drive.google.com/open?id=1bWh9g ... xXxYn5cbnq
+
+
+i don't get it, to what do i update it? i have the fitgirl repack download, but i also have the three updates. but they (the updates) work only in english.
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 05 Apr 2019, 22:08]
+^
+There were no languages posted for the last game version. Got it?
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 05 Apr 2019, 22:08]
+
+_________________
+Haters gonna hate!
+My updates are always clean files - no cracks included.
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 05 Apr 2019, 23:14]
+knabberfee wrote:
+^
+There were no languages posted for the last game version. Got it?
+
+
+thanks for the fake hopes.
+
+-- Edit --
+
+
+knabberfee wrote:
+Language updates for v2.3.0 Build 19728
+
+ Spoiler
+Code: Select all | Line number On/Off | Expand/Contract
+https://drive.google.com/open?id=1bWh9g ... xXxYn5cbnq
+
+
+wait a second, THAT'S the last version.
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 05 Apr 2019, 23:37]
+Just install the FG repack in english, update with all 3 codex updates, then download the language files you need + updates (don't forget to delete the english language files afterwards).
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 05 Apr 2019, 23:37]
+
+_________________
+Haters gonna hate!
+My updates are always clean files - no cracks included.
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 06 Apr 2019, 21:39]
+knabberfee wrote:
+Just install the FG repack in english, update with all 3 codex updates, then download the language files you need + updates (don't forget to delete the english language files afterwards).
+
+
+doesn't work. actually i found a solution a long time before that consisted in putting the local_fr.pack file in the data folder and removing the 2 english ones, but since it wasn't updated, the bug where the kushitic queen encourages her troops in english and not in french is still present, so i'm asking, is there something else i don't know about bugs or changes of the languages files? and what's that music_fr.pack file standing for?
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 07 Apr 2019, 21:53]
+"rome2.dll is either not designed..."
+
+Basically the dll not found error.
+
+Things i've tried so far:
+
+-Update graphic drivers
+-Download apex crack
+-Update java (dont even know why i tried that)
+-Download like 3 different versions of the game
+
+Is there actually a way to fix this error?
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 08 Apr 2019, 16:37]
+lhommeeveille wrote:
+knabberfee wrote:
+Just install the FG repack in english, update with all 3 codex updates, then download the language files you need + updates (don't forget to delete the english language files afterwards).
+
+
+doesn't work. actually i found a solution a long time before that consisted in putting the local_fr.pack file in the data folder and removing the 2 english ones, but since it wasn't updated, the bug where the kushitic queen encourages her troops in english and not in french is still present, so i'm asking, is there something else i don't know about bugs or changes of the languages files? and what's that music_fr.pack file standing for?
+
+
+
+Well, have you been using Venom's local_fr pack? Because the lack of french language update file I haven't even updated my Rome II. But thanks for Knabberfee it is no longer the case right now 
+
+I checked mine and my version is still at 19581, and I have Both Zenobia's speech and the army of Kushs' lines in french. Tell me where you are having the problem and I can check it for you. I'm not a french but I enjoyed playing everything in french. And the French Doublage is so well done that I recommended everybody to try it out 
+
+My gratitude goes to Knabberfee for your efforts !!! It has been such a long wait !!!
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 09 Apr 2019, 04:28]
+Jacques Lees wrote:
+
+19581
+
+
+you're outdated.
+
+
+Jacques Lees wrote:
+
+Zenobia
+
+
+it's not the queen of kush.
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 09 Apr 2019, 16:50]
+You misunderstood. I'm helping you to isolate the problem. If even a lower version of the game won't have your problem then it's definitely your own. But if it does then it means we will both be needing a new patch. I do have all the necessary files right now to update, and I will once I finished testing for you.
+
+As for the Kush Queen, I've been trying but I have found no queen to start with, that's why I tested all the Kush Army, and their lines are all normal in french.
+
+Upon further check I found out in here https://www.totalwar.com/blog/desert-ki ... tch-notes/ that there are 2 Kush Queens in the game. Let me know the fastest way to reproduce your problem and I'll check for you.
+
+-- Edit --
+
+Well, I tried in a grand compaign with Kush, and I can confirm that even with Venom's french pack, the Kush Queen did address in English. We'll need a new patch for that. I'll report back once I tried the newest version.

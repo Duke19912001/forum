@@ -1,0 +1,173 @@
+=========================================
+STRONA 237 (URL: https://cs.rin.ru/forum/viewtopic.php?f=10&t=61441&hilit=rome+2&start=3540)
+=========================================
+
+[Data: Saturday, 16 Sep 2017, 20:45]
+machine4578 wrote:
+Halaberiel wrote:
+You can't use mods without Steam anyway so it doesn't matter as far as I can see!
+
+wrong, you can USE ANY mod you want.
+
+
+
+Marc2020 wrote:
+Gurdjieff wrote:
+
+You can't use mods without Steam anyway so it doesn't matter as far as I can see!
+
+
+You are confusing with DLC released from el Amigos .
+Most of mods can also be ripped from steam and you can use either the offical launcher or the alternative of Mich mod manager, although I suggest to go with first since the former has not been updated and does not support many new mods.
+
+
+How? Mod manager doesn't work and I haven't seen any other way to do it. Simply copying it to the data folder certainly doesn't work.
+
+Does anyone have a working version of the game with DeI mod installed, the most recent version? If so would really appreciate what exactly you downloaded to get to that point, this was my question before really but no one gave an answer.
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 16 Sep 2017, 20:48]
+mod mangers work fine last i checked. you can also search google on how to make your own user.script.txt file to load mods.
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 17 Sep 2017, 00:27]
+machine4578 wrote:
+mod mangers work fine last i checked. you can also search google on how to make your own user.script.txt file to load mods.
+
+
+I haven't tried it but I did Google re: Mod Manager and apparently it doesn't work with the latest version of the game (17). I'll look into scripting, cheers!
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 21 Sep 2017, 02:55]
+Guys I use Mitch's Mod Manager with ElAmigos Release (Patch 17) and I can play DEI mod just fine.
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 22 Oct 2017, 11:18]
+Johnba98 wrote:
+Guys I use Mitch's Mod Manager with ElAmigos Release (Patch 17) and I can play DEI mod just fine.
+
+
+Not in my case.Just crash during starting with LumaCEG error.Wirhout latest DEI works just fine.
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 23 Oct 2017, 18:12]
+Hello, is there any latest file for Assembly Kit?
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 23 Oct 2017, 18:36]
+Riki_Stealth wrote:
+Hello, is there any latest file for Assembly Kit?
+
+https://www.multiup.org/adf8944e8a7a1fb ... 4912620ed5
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 23 Oct 2017, 18:36]
+
+_________________
+Haters gonna hate!
+My updates are always clean files - no cracks included.
+
+--- [KOLEJNY POST] ---
+
+[Data: Tuesday, 24 Oct 2017, 02:13]
+machine4578 wrote:
+ok, i will re-upload the Total.War.ROME.II.Update.v2.2.0.16019 update
+
+-edit-
+
+i will actually upload a nice AIO pack with both cracks(pedia and offline) and both updates(16019 and 16155) for the PPT release.
+also note its eng only
+
+-edit-
+
+Total.War.ROME.II.Update.v2.2.0.15666-v2.2.0.16155
+https://openload.co/f/fCi9vlajSgw/Total ... .part1.rar
+https://openload.co/f/K1yJN-iLv3k/Total ... .part2.rar
+
+
+
+Sorry to bother, but the links are down. Is there any chance you could reupload them? or anyone else? 
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 26 Oct 2017, 09:00]
+Anybody knows where can I download the legit DLC(so I can unlock them with creamAPI)for this game?Or any other Total war games for that matter..
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 26 Oct 2017, 12:04]
+Iully98 wrote:
+Anybody knows where can I download the legit DLC(so I can unlock them with creamAPI)for this game?Or any other Total war games for that matter..
+
+
+You can always search for an up to date repack and download that. Copy over the DLC files and unlock them with CreamAPI. Instead of downloading a repack, you can also follow these instructions: viewtopic.php?p=1410469#p1410469
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 26 Oct 2017, 12:04]
+
+_________________
+Always wanted to get rid of the files that were not listed in the sfv/md5 hash file? Check the QuickSFV plugin I created for this: viewtopic.php?f=10&t=108605 or this: viewtopic.php?p=1273745#p1273745
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 03 Nov 2017, 17:49]
+Could someone upload the GEM mod again please? https://steamcommunity.com/sharedfiles/ ... =187199741
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 06 Nov 2017, 17:37]
+http://steamcommunity.com/games/214950/ ... 5097285258
+
+Probably new DLC from what i've read in discussions.
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 06 Nov 2017, 17:37]
+
+_________________
+Haters gonna hate!
+My updates are always clean files - no cracks included.
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 06 Nov 2017, 18:01]
+Hello there. I have returned to Rome II after a long time and I want to ask you guys if I did the installation correctly. Firstly, I installed Rome 2 Emperor Edition RELOADED (2.0.0) and then respectively:
+
+1- Total.War.ROME.II.Update.15.Hotfix
+2- Total.War.ROME.II.Update.15.Hotfix_Gaul_and_HATG_Update
+3- Total.War.ROME.II.Update.16.Black.Sea.Colonies.Culture.Pack
+4- Total.War.ROME.II.Update.16.Gaul.and.HATG.Update
+5- Total.War.ROME.II.Update.16.1.Wrath.of.Sparta
+6- Total.War.ROME.II.Update.v2.2.0.15666
+7- Total.War.ROME.II.Update.v2.2.0.16019
+8- Total.War.ROME.II.Update.v2.2.0.16155
+
+Is this order correct? Should I have installed another update other than these? There was no error during the process though.
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 06 Nov 2017, 18:08]
+Check with SFV
+
+viewtopic.php?p=1383625#p1383625
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 06 Nov 2017, 18:08]
+
+_________________
+Haters gonna hate!
+My updates are always clean files - no cracks included.
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 06 Nov 2017, 18:12]
+Thanks. Just in case, is this sfv for the latest version?

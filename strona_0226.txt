@@ -1,0 +1,247 @@
+=========================================
+STRONA 226 (URL: https://cs.rin.ru/forum/viewtopic.php?f=10&t=61441&hilit=rome+2&start=3375)
+=========================================
+
+[Data: Monday, 30 Jan 2017, 08:00]
+Here are all sfv's
+
+Check for bad files
+
+All for v2.2.0.Build.16155
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 30 Jan 2017, 08:00]
+
+_________________
+Haters gonna hate!
+My updates are always clean files - no cracks included.
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 04 Feb 2017, 20:09]
+I seem to be having an issue activating the DLC with the latest online/encylopedia version, while the same version's offline crack seems to make the DLC work but obviously no encyclopedia. Anyone else having this? I'll add I've edited the script file to activate the Dei mod.
+
+I guess what I'm more specifically asking for is; how do the DLC files get activated, where is the file that does it, and can I edit it manually?
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 04 Feb 2017, 20:14]
+AnonymousStalker wrote:
+I seem to be having an issue activating the DLC with the latest online/encylopedia version, while the same version's offline crack seems to make the DLC work but obviously no encyclopedia. Anyone else having this? I'll add I've edited the script file to activate the Dei mod.
+
+I guess what I'm more specifically asking for is; how do the DLC files get activated, where is the file that does it, and can I edit it manually?
+
+
+Use the encyclopedia crack Machine posted here: viewtopic.php?p=1119420#p1119420 (this is for the latest version)
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 04 Feb 2017, 20:14]
+
+_________________
+Always wanted to get rid of the files that were not listed in the sfv/md5 hash file? Check the QuickSFV plugin I created for this: viewtopic.php?f=10&t=108605 or this: viewtopic.php?p=1273745#p1273745
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 04 Feb 2017, 22:14]
+Anomaly wrote:
+AnonymousStalker wrote:
+I seem to be having an issue activating the DLC with the latest online/encylopedia version, while the same version's offline crack seems to make the DLC work but obviously no encyclopedia. Anyone else having this? I'll add I've edited the script file to activate the Dei mod.
+
+I guess what I'm more specifically asking for is; how do the DLC files get activated, where is the file that does it, and can I edit it manually?
+
+
+Use the encyclopedia crack Machine posted here: viewtopic.php?p=1119420#p1119420 (this is for the latest version)
+
+
+Using just those files leads to the DLC not being activated.
+
+Nevermind, I figured out how to get LumaEmu to activate the dlc by ID. Issue is, now, even using steam, I don't seem to have the encyclopedia!  Did they change the protection again?
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 04 Feb 2017, 22:18]
+AnonymousStalker wrote:
+Anomaly wrote:
+AnonymousStalker wrote:
+I seem to be having an issue activating the DLC with the latest online/encylopedia version, while the same version's offline crack seems to make the DLC work but obviously no encyclopedia. Anyone else having this? I'll add I've edited the script file to activate the Dei mod.
+
+I guess what I'm more specifically asking for is; how do the DLC files get activated, where is the file that does it, and can I edit it manually?
+
+
+Use the encyclopedia crack Machine posted here: viewtopic.php?p=1119420#p1119420 (this is for the latest version)
+
+
+Using just those files leads to the DLC not being activated.
+
+restart steam, then play with pedia crack.
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 04 Feb 2017, 22:35]
+machine4578 wrote:
+restart steam, then play with pedia crack.
+
+
+I am using the pedia crack, and have steam running, and got the dlc activated, running using the luma launcher... but alas, still a blank encyclopedia. 
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 04 Feb 2017, 22:58]
+AnonymousStalker wrote:
+machine4578 wrote:
+restart steam, then play with pedia crack.
+
+
+I am using the pedia crack, and have steam running, and got the dlc activated, running using the luma launcher... but alas, still a blank encyclopedia. 
+
+
+Why are you using the Luma launcher? It's not even included in the crack I linked you to.
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 04 Feb 2017, 22:58]
+
+_________________
+Always wanted to get rid of the files that were not listed in the sfv/md5 hash file? Check the QuickSFV plugin I created for this: viewtopic.php?f=10&t=108605 or this: viewtopic.php?p=1273745#p1273745
+
+--- [KOLEJNY POST] ---
+
+[Data: Wednesday, 08 Feb 2017, 23:57]
+Hello! Does anyone have v2.2.0.15666-v2.2.0.16019 Update? Sadly the old links does not work anymore...
+
+
+knabberfee wrote:
+^If you have PROPHET version, you can also use this patch
+
+https://openload.co/f/34YirjLECug/21495 ... .16155.rar
+
+Just make sure, after patching, to delete all language files and replace with this viewtopic.php?p=1123055#p1123055
+
+
+I downloaded it, but total commander does not open it and winrar 5 wants a password...
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 09 Feb 2017, 00:25]
+krisztiantobias wrote:
+Hello! Does anyone have v2.2.0.15666-v2.2.0.16019 Update? Sadly the old links does not work anymore...
+
+
+knabberfee wrote:
+^If you have PROPHET version, you can also use this patch
+
+https://openload.co/f/34YirjLECug/21495 ... .16155.rar
+
+Just make sure, after patching, to delete all language files and replace with this viewtopic.php?p=1123055#p1123055
+
+
+I downloaded it, but total commander does not open it and winrar 5 wants a password...
+
+
+pw is cs.rin.ru
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 09 Feb 2017, 00:25]
+
+_________________
+Haters gonna hate!
+My updates are always clean files - no cracks included.
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 09 Feb 2017, 14:32]
+Total.War.ROME.II.Update.v2.2.0.15666-v2.2.0.16019 i cant dowload this,can somebody reupload please 
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 09 Feb 2017, 16:18]
+Halloo... Can i have another link for
+Total.War.ROME.II.Update.10.Incl.DLC.REPACK
+Total.War.ROME.II.Update.11.incl.Seasons.and.Wonders.DLC
+Total.War.ROME.II.Gaul.Update.and.Hannibal.DLC
+Total.War.ROME.II.Update.11.HOTFiX.BUILD.10471_528438
+
+all old link are dead..
+
+Thanks 
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 09 Feb 2017, 17:59]
+a120d wrote:
+Halloo... Can i have another link for
+Total.War.ROME.II.Update.10.Incl.DLC.REPACK
+Total.War.ROME.II.Update.11.incl.Seasons.and.Wonders.DLC
+Total.War.ROME.II.Gaul.Update.and.Hannibal.DLC
+Total.War.ROME.II.Update.11.HOTFiX.BUILD.10471_528438
+
+all old link are dead..
+
+Thanks 
+
+i suggest you get the PROPHET release and update pack i posted.
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 09 Feb 2017, 21:01]
+Thanks for the fast answer! 
+
+
+machine4578 wrote:
+a120d wrote:
+Halloo... Can i have another link for
+Total.War.ROME.II.Update.10.Incl.DLC.REPACK
+Total.War.ROME.II.Update.11.incl.Seasons.and.Wonders.DLC
+Total.War.ROME.II.Gaul.Update.and.Hannibal.DLC
+Total.War.ROME.II.Update.11.HOTFiX.BUILD.10471_528438
+
+all old link are dead..
+
+Thanks 
+
+i suggest you get the PROPHET release and update pack i posted.
+
+
+Is it works with mods? I think I tried that one also and I got lumaceg crashed (1) rome 2 
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 09 Feb 2017, 21:30]
+krisztiantobias wrote:
+machine4578 wrote:
+a120d wrote:
+Halloo... Can i have another link for
+Total.War.ROME.II.Update.10.Incl.DLC.REPACK
+Total.War.ROME.II.Update.11.incl.Seasons.and.Wonders.DLC
+Total.War.ROME.II.Gaul.Update.and.Hannibal.DLC
+Total.War.ROME.II.Update.11.HOTFiX.BUILD.10471_528438
+
+all old link are dead..
+
+Thanks 
+
+i suggest you get the PROPHET release and update pack i posted.
+
+
+Is it works with mods? I think I tried that one also and I got lumaceg crashed (1) rome 2 
+
+
+Make sure you use the latest versions of both mods and LumaCEG plugin.
+
+--- [KOLEJNY POST] ---
+
+[Data: Thursday, 09 Feb 2017, 21:30]
+
+_________________
+Always wanted to get rid of the files that were not listed in the sfv/md5 hash file? Check the QuickSFV plugin I created for this: viewtopic.php?f=10&t=108605 or this: viewtopic.php?p=1273745#p1273745
+
+--- [KOLEJNY POST] ---
+
+[Data: Friday, 10 Feb 2017, 12:17]
+^
+^
+Thanks for the advise... pardon me, but i have a very bad internet connection.. so i can only download below 1gb.. 
+i just ask a possibility.. hehehe

@@ -1,0 +1,166 @@
+=========================================
+STRONA 248 (URL: https://cs.rin.ru/forum/viewtopic.php?f=10&t=61441&hilit=rome+2&start=3705)
+=========================================
+
+[Data: Saturday, 02 Dec 2017, 19:51]
+guto8797 wrote:
+jebjebbinks wrote:
+alright stop posting repacks and just post dlc needed files for legit owners of the game.
+
+
+Those have been posted several pages ago. There is a drive link with the DLC files pre-empire divided and one with the files post empire divided. Search for a few pages before commenting.
+
+
+Maybe you can guide us? So far I only downloaded packs with pre empire divided dlcs because some guy claimed that there were there (or more specifically he can't understand simple text). I don't understand why someone just won't upload Empire Divided only.
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 02 Dec 2017, 20:02]
+Try this
+
+https://drive.google.com/file/d/1zhrogq ... sp=sharing
+
+Also search in manifest.txt for Divided.pack. If it isn't there, DLC will not work (but i have asked several times now for a non-EmpireDivided manifest file, no one seem to understand why i am asking  )
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 02 Dec 2017, 20:02]
+
+_________________
+Haters gonna hate!
+My updates are always clean files - no cracks included.
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 02 Dec 2017, 20:23]
+knabberfee wrote:
+Try this
+
+https://drive.google.com/file/d/1zhrogq ... sp=sharing
+
+Also search in manifest.txt for Divided.pack. If it isn't there, DLC will not work (but i have asked several times now for a non-EmpireDivided manifest file, no one seem to understand why i am asking  )
+
+
+Cheers, it works. I did not have to modify manifest.txt file as divided.pack was already in there. I have a legit Steam version with autoupdate tho.
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 02 Dec 2017, 20:40]
+Great.
+
+I've never advice to modifiy manifest.txt, just open and look for the dlc file, that's all 
+
+But now we all know dlc files are already in manifest.txt without own them, it's good.
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 02 Dec 2017, 20:40]
+
+_________________
+Haters gonna hate!
+My updates are always clean files - no cracks included.
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 02 Dec 2017, 21:35]
+Still having no luck, using the startpos uploaded here etc.
+
+Any ideas ?
+
+https://imgur.com/a/0bWfU
+
+Wonder if I have an old mod file somewhere that is not playing nice.
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 02 Dec 2017, 22:27]
+Total.War.ROME.II.Emperor.Edition.v2.2.0.17561.Incl.DLC.Cracked-CODEX
+
+
+ Spoiler
+http://filecrypt.cc/Container/C84660CA63.html
+
+--- [KOLEJNY POST] ---
+
+[Data: Saturday, 02 Dec 2017, 23:38]
+guto8797 wrote:
+They did something different with this DLC. I downloaded the Codex release so I could get the dlc and startpos files, and the pack file is absolutely tiny, 200kb, compared to the others of 200 to 500mb.
+
+Don't know if anything's missing since I don't have an SFV file, but I copied the pack and the startpos files and updated CreamApi.ini.
+
+Here are the files I used, use this if you have a legitimate copy of Rome 2 and want Empire Divided. Remember to rename the Steam_api.dll that's in your game folder to Steam_api_o.dll
+
+https://drive.google.com/open?id=1r7tIi ... E2viik57hz
+
+If anything's missing let me know.
+
+
+perfect, thanks!
+
+i have the legit game + all the dlcs unlocked using creamapi (minus empire divided).
+
+i copied over divided.pack + startpos from your upload and changed my creamapi and everything worked! i thought maybe something was missing because those two files are like less than 6MB but i started an empire divided campaign and played a few turns and no crashes.
+
+thanks for saving me 15 or so bucks! 
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 03 Dec 2017, 00:04]
+The game crashes on the initial loading screen for me. Clean Codex release and copy pasted the crack. Revolt's SteamworksFix, same problem. No files are blocked by the AV. Game crashes and leaves a. mdmp files. Any ideas what's going on?
+
+
+EDIT: Found the culprit  Delete "%AppData%\The Creative Assembly" and start the game.
+EDIT2: To be more precise, user.script.txt was calling a mod file that didn't exist yet because I installed a clean Codex' release ^^
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 03 Dec 2017, 00:04]
+
+_________________
+Always wanted to get rid of the files that were not listed in the sfv/md5 hash file? Check the QuickSFV plugin I created for this: viewtopic.php?f=10&t=108605 or this: viewtopic.php?p=1273745#p1273745
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 03 Dec 2017, 15:46]
+Any way to fix Steam overlay pop-up every 5s guys ? It was an annoying problem trying to play the game.
+Anyone know how to apply Steamworks fix without crashing the game on startup (no mod involded) ?
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 03 Dec 2017, 18:38]
+Same here, i used the codex release btw. Supposedly turning off/exiting steam when playing helps.
+
+--- [KOLEJNY POST] ---
+
+[Data: Sunday, 03 Dec 2017, 19:56]
+Aomari wrote:
+Any way to fix Steam overlay pop-up every 5s guys ? It was an annoying problem trying to play the game.
+
+Prudislav told me to use steamoverlay dll from plaxa's serious sam tse crack - didnt try it yet though muself
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 04 Dec 2017, 05:26]
+why I can't play custom? can't see unit card
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 04 Dec 2017, 08:23]
+fatalerror1 wrote:
+Aomari wrote:
+Any way to fix Steam overlay pop-up every 5s guys ? It was an annoying problem trying to play the game.
+
+Prudislav told me to use steamoverlay dll from plaxa's serious sam tse crack - didnt try it yet though muself
+
+
+Yeah, close the steam.
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 04 Dec 2017, 18:11]
+I got mods from the workshop using the downloader, but when using the mod manager tool they dont show up in the list. Only some mods that i found on other mod sites (moddb) are usable. Anyone know why?
+
+--- [KOLEJNY POST] ---
+
+[Data: Monday, 04 Dec 2017, 23:17]
+So am I doing something wrong? Searched a few pages and found dlc files for dlc campaigns before empire and those show up as DY while the new dlc works fine.
